@@ -1,0 +1,232 @@
+QwenMax - Média: 2.9459, Desvio padrão: 0.1377
+Dataset Data - Média: 2.4909, Desvio padrão: 0.1522
+O Data é o dataset com os comandos temáticos originais, enquanto o QwenMax, possui os sintéticos, que são os comandos temáticos que foram gerados a partir dos originais
+Resultados Dataset QwenMax:
+1_a-aids-e-seu-contagio_saida.json → Complexidade lexical: 3.0333
+2_a-aids-estaria-sendo-esquecida_saida.json → Complexidade lexical: 2.6667
+3_a-vida-nao-pode-parar_saida.json → Complexidade lexical: 2.8962
+4_aids-doenca-fatal_saida.json → Complexidade lexical: 3.0000
+5_aids-sem-medo_saida.json → Complexidade lexical: 2.8969
+6_ate-quando-nao-levar-a-serio_saida.json → Complexidade lexical: 2.6981
+7_atualmente_saida.json → Complexidade lexical: 2.7778
+8_como-conviver-com-a-aids_saida.json → Complexidade lexical: 2.7714
+9_condicoes-para-jovens-sem-medo_saida.json → Complexidade lexical: 2.8431
+10_convivendo-com-a-aids_saida.json → Complexidade lexical: 2.7255
+11_falacia-da-juventude_saida.json → Complexidade lexical: 2.7822
+12_joias-perdidas-em-silencio_saida.json → Complexidade lexical: 2.7228
+13_o-mal-do-seculo_saida.json → Complexidade lexical: 2.7885
+14_sem-titulo-_saida.json → Complexidade lexical: 2.7921
+15_sexo-versos-versus-descuido-fatalidades_saida.json → Complexidade lexical: 2.8485
+16_uma-questao-de-consciencia_saida.json → Complexidade lexical: 2.8273
+17_ult4657u64_saida.json → Complexidade lexical: 3.1324
+18_ult4657u65_saida.json → Complexidade lexical: 3.0897
+19_ult4657u66_saida.json → Complexidade lexical: 2.7568
+20_ult4657u67_saida.json → Complexidade lexical: 3.1014
+21_ult4657u68_saida.json → Complexidade lexical: 2.7848
+22_ult4657u69_saida.json → Complexidade lexical: 2.7857
+23_ult4657u70_saida.json → Complexidade lexical: 3.2353
+24_ult4657u71_saida.json → Complexidade lexical: 2.7662
+25_ult4657u72_saida.json → Complexidade lexical: 2.8312
+26_ult4657u73_saida.json → Complexidade lexical: 2.8974
+27_ult4657u74_saida.json → Complexidade lexical: 2.7324
+28_ult4657u75_saida.json → Complexidade lexical: 2.8621
+29_ult4657u76_saida.json → Complexidade lexical: 2.7284
+30_ult4657u77_saida.json → Complexidade lexical: 2.9079
+31_ult4657u78_saida.json → Complexidade lexical: 3.0000
+32_ult4657u79_saida.json → Complexidade lexical: 2.9600
+33_ult4657u80_saida.json → Complexidade lexical: 2.8791
+34_ult4657u81_saida.json → Complexidade lexical: 3.1975
+35_ult4657u82_saida.json → Complexidade lexical: 2.7093
+36_ult4657u83_saida.json → Complexidade lexical: 3.0741
+37_ult4657u105_saida.json → Complexidade lexical: 3.0000
+38_ult4657u106_saida.json → Complexidade lexical: 3.0247
+39_ult4657u107_saida.json → Complexidade lexical: 3.0972
+40_ult4657u108_saida.json → Complexidade lexical: 3.0132
+41_ult4657u109_saida.json → Complexidade lexical: 2.8590
+42_ult4657u110_saida.json → Complexidade lexical: 2.9178
+43_ult4657u111_saida.json → Complexidade lexical: 2.9865
+44_ult4657u112_saida.json → Complexidade lexical: 2.9744
+45_ult4657u113_saida.json → Complexidade lexical: 2.9600
+46_ult4657u114_saida.json → Complexidade lexical: 3.0625
+47_ult4657u115_saida.json → Complexidade lexical: 3.0465
+48_ult4657u116_saida.json → Complexidade lexical: 3.0267
+49_ult4657u117_saida.json → Complexidade lexical: 3.0395
+50_ult4657u118_saida.json → Complexidade lexical: 3.0139
+51_ult4657u119_saida.json → Complexidade lexical: 3.1449
+52_ult4657u120_saida.json → Complexidade lexical: 3.0649
+53_ult4657u121_saida.json → Complexidade lexical: 2.9625
+54_ult4657u122_saida.json → Complexidade lexical: 2.9867
+55_ult4657u123_saida.json → Complexidade lexical: 2.9610
+56_ult4657u23_saida.json → Complexidade lexical: 2.7952
+57_ult4657u24_saida.json → Complexidade lexical: 2.9012
+58_ult4657u25_saida.json → Complexidade lexical: 2.9296
+59_ult4657u26_saida.json → Complexidade lexical: 2.9385
+60_ult4657u27_saida.json → Complexidade lexical: 3.1538
+61_ult4657u28_saida.json → Complexidade lexical: 3.0152
+62_ult4657u29_saida.json → Complexidade lexical: 2.8333
+63_ult4657u30_saida.json → Complexidade lexical: 2.7105
+64_ult4657u31_saida.json → Complexidade lexical: 2.9405
+65_ult4657u32_saida.json → Complexidade lexical: 2.8352
+66_ult4657u33_saida.json → Complexidade lexical: 2.8919
+67_ult4657u35_saida.json → Complexidade lexical: 2.8586
+68_ult4657u36_saida.json → Complexidade lexical: 3.0256
+70_ult4657u38_saida.json → Complexidade lexical: 2.8557
+71_ult4657u39_saida.json → Complexidade lexical: 2.8500
+72_ult4657u40_saida.json → Complexidade lexical: 2.7011
+74_ult4657u42_saida.json → Complexidade lexical: 2.8354
+76_a-democracia-mascarada-por-interesses_saida.json → Complexidade lexical: 2.9101
+77_a-inseguranca-publica_saida.json → Complexidade lexical: 2.9012
+78_a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel_saida.json → Complexidade lexical: 3.0000
+79_ate-onde-vai-o-limite-para-um-protesto_saida.json → Complexidade lexical: 2.7033
+80_atos-de-selvageria_saida.json → Complexidade lexical: 2.8764
+81_definicao_saida.json → Complexidade lexical: 2.9870
+82_despreparacao_saida.json → Complexidade lexical: 2.8737
+83_excesso-de-autoridade_saida.json → Complexidade lexical: 2.9565
+84_imediata_saida.json → Complexidade lexical: 2.9753
+85_ja_saida.json → Complexidade lexical: 2.8526
+86_manifestantes-x-policiais-expressao-ou-repressao_saida.json → Complexidade lexical: 2.7857
+87_nos-quarteis-lhes-ensinam-matar-sem-razao_saida.json → Complexidade lexical: 3.0778
+88_os-tenis-idealizados_saida.json → Complexidade lexical: 2.7640
+89_policia-repressora-ou-pacificadora_saida.json → Complexidade lexical: 2.7113
+90_por-bem-fazer-mal-haver_saida.json → Complexidade lexical: 2.9889
+91_sem-titulo-_saida.json → Complexidade lexical: 2.9014
+92_todos-por-um_saida.json → Complexidade lexical: 2.9178
+93_treinamento-para-a-paz_saida.json → Complexidade lexical: 2.9000
+94_a-populacao-pede-socorro_saida.json → Complexidade lexical: 3.0610
+95_a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao_saida.json → Complexidade lexical: 2.9859
+96_alianca-entre-governo-e-familia_saida.json → Complexidade lexical: 3.0986
+97_alimentacao-tem-limite_saida.json → Complexidade lexical: 3.1842
+98_alimentar_saida.json → Complexidade lexical: 3.0759
+99_e-mais-facil-comer-o-problema-do-que-acabar-com-ele_saida.json → Complexidade lexical: 3.1558
+100_e-tempo-da-reeducacao-alimentar_saida.json → Complexidade lexical: 2.9318
+101_em-busca-de-uma-vida-saudavel_saida.json → Complexidade lexical: 3.0000
+102_escolha-alimentar-uma-responsabilidade-geral_saida.json → Complexidade lexical: 3.2278
+103_fast-food-da-morte_saida.json → Complexidade lexical: 2.9412
+104_modernidade-um-prejuizo-a-saude_saida.json → Complexidade lexical: 2.8987
+105_nao-existem-culpados_saida.json → Complexidade lexical: 3.2706
+106_o-cruel-jogo-da-trash-food-no-brasil-imediatista_saida.json → Complexidade lexical: 3.2593
+107_o-futuro-de-seus-filhos_saida.json → Complexidade lexical: 2.7925
+108_o-poder-de-influencia-na-escolha-alimentar_saida.json → Complexidade lexical: 3.0366
+109_obesidade-infantil-quem-deve-combate-la_saida.json → Complexidade lexical: 2.8416
+110_responsabilidade-de-todos_saida.json → Complexidade lexical: 3.1011
+111_tudo-comeca-quando-crianca_saida.json → Complexidade lexical: 3.1300
+113_a-necessidade-de-superacao-do-problema-do-lixo_saida.json → Complexidade lexical: 3.0506
+114_a-questao-dos-lixos-na-sociedade-de-consumo_saida.json → Complexidade lexical: 3.2703
+115_a-sociedade-consumista-e-a-natureza_saida.json → Complexidade lexical: 3.0230
+116_antropicas_saida.json → Complexidade lexical: 2.9888
+117_educacao-a-solucao-para-o-problema-ambiental_saida.json → Complexidade lexical: 2.9798
+118_lixo-lixo-lixo-prejuizo-ou-beneficio_saida.json → Complexidade lexical: 2.9703
+119_o-feitico-contra-o-feiticeiro_saida.json → Complexidade lexical: 2.9247
+120_o-futuro-do-nosso-planeta_saida.json → Complexidade lexical: 3.0345
+121_o-lixo-como-produto-do-consumo-alienado_saida.json → Complexidade lexical: 3.0792
+122_o-lixo-como-solucao_saida.json → Complexidade lexical: 2.9388
+123_o-lixo-e-suas-consequencias-na-sociedade_saida.json → Complexidade lexical: 2.9720
+124_o-monopolio-da-destruicao-monopolio-da-destruicao_saida.json → Complexidade lexical: 2.9100
+125_o-verdadeiro-problema-do-lixo-seu-descarte-incorreto_saida.json → Complexidade lexical: 3.0556
+126_os-verdadeiro-viloes_saida.json → Complexidade lexical: 3.1546
+127_planeta-terra-a-lata-de-lixo-comunitaria_saida.json → Complexidade lexical: 3.0417
+128_salvando-o-planeta_saida.json → Complexidade lexical: 2.8247
+129_sem-titulo-_saida.json → Complexidade lexical: 2.9796
+130_todo-ciclo-deve-ser-respeitado-o-do-lixo-tambem_saida.json → Complexidade lexical: 2.8911
+131_a-pressa-e-inimiga-do-bom-motorista_saida.json → Complexidade lexical: 3.0323
+132_caos-nas-ruas_saida.json → Complexidade lexical: 3.0638
+133_conscientizar-e-reduzir_saida.json → Complexidade lexical: 3.1368
+134_discussoes-no-transito_saida.json → Complexidade lexical: 2.7857
+135_dualidade_saida.json → Complexidade lexical: 3.0119
+
+Arquivos do Dataset Data:
+prompt.xml (Subpasta: a-aids-nao-e-mais-a-mesma-por-que-diminuiu-o-medo-da-doenca) → Complexidade lexical: 2.3008
+prompt.xml (Subpasta: a-energia-nuclear-e-uma-boa-solucao-para-o-brasil) → Complexidade lexical: 2.5424
+prompt.xml (Subpasta: a-gramatica-facilita-ou-dificulta-a-comunicacao) → Complexidade lexical: 2.6949
+prompt.xml (Subpasta: a-necessidade-de-crer-em-herois) → Complexidade lexical: 2.3611
+prompt.xml (Subpasta: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel) → Complexidade lexical: 2.6068
+prompt.xml (Subpasta: a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao) → Complexidade lexical: 2.6389
+prompt.xml (Subpasta: a-questao-do-lixo-nas-sociedades-de-consumo) → Complexidade lexical: 2.5902
+prompt.xml (Subpasta: a-sociedade-brasileira-e-os-conflitos-no-transito) → Complexidade lexical: 2.5357
+prompt.xml (Subpasta: a-sociedade-esta-perdendo-a-batalha-contra-o-crime) → Complexidade lexical: 2.3488
+prompt.xml (Subpasta: a-virgindade-e-um-valor-moral-a-ser-preservado) → Complexidade lexical: 2.5125
+prompt.xml (Subpasta: agua-aprenderemos-com-a-atual-crise-hidrica) → Complexidade lexical: 2.4365
+prompt.xml (Subpasta: amar-pode-levar-ao-crime-ou-quem-ama-nao-mata) → Complexidade lexical: 2.1687
+prompt.xml (Subpasta: amor-com-grande-diferenca-de-idade-sera-que-isso-funciona) → Complexidade lexical: 2.3814
+prompt.xml (Subpasta: automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens) → Complexidade lexical: 2.3548
+prompt.xml (Subpasta: bicicletas-e-ciclofaixas-estao-chegando-para-ficar) → Complexidade lexical: 2.4460
+prompt.xml (Subpasta: biografias-personagens-e-autores-em-confronto) → Complexidade lexical: 2.5922
+prompt.xml (Subpasta: caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao) → Complexidade lexical: 2.6559
+prompt.xml (Subpasta: cientistas-preveem-futuro-sombrio-para-terra) → Complexidade lexical: 2.2449
+prompt.xml (Subpasta: combate-ao-fumo-autoritarismo-ou-dever-do-governo) → Complexidade lexical: 2.2529
+prompt.xml (Subpasta: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao) → Complexidade lexical: 2.6000
+prompt.xml (Subpasta: como-resolver-o-problema-da-criminalidade-infantil-em-nossa-sociedade) → Complexidade lexical: 2.6583
+prompt.xml (Subpasta: como-se-tornar-um-consumidor-consciente-isso-e-possivel) → Complexidade lexical: 2.6296
+prompt.xml (Subpasta: como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet) → Complexidade lexical: 2.0000
+prompt.xml (Subpasta: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais) → Complexidade lexical: 2.7297
+prompt.xml (Subpasta: cotas-nas-universidades-voce-e-a-favor-ou-contra) → Complexidade lexical: 2.5833
+prompt.xml (Subpasta: cotas-para-universidades-federais-solucao-ou-problema) → Complexidade lexical: 2.5932
+prompt.xml (Subpasta: cultura-do-estupro-a-culpa-e-da-vitima) → Complexidade lexical: 2.7193
+prompt.xml (Subpasta: deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool) → Complexidade lexical: 2.5789
+prompt.xml (Subpasta: deve-se-reduzir-a-maioridade-penal-no-brasil) → Complexidade lexical: 2.5000
+prompt.xml (Subpasta: e-certo-ou-errado-leiloar-a-virgindade-por-que) → Complexidade lexical: 2.2574
+prompt.xml (Subpasta: e-justo-proibir-o-uso-do-celular-na-sala-de-aula) → Complexidade lexical: 2.5000
+prompt.xml (Subpasta: e-possivel-prevenir-massacres-como-o-da-escola-de-realengo) → Complexidade lexical: 2.7576
+prompt.xml (Subpasta: e-valido-simplificar-a-linguagem-de-um-classico) → Complexidade lexical: 2.6727
+prompt.xml (Subpasta: enchentes-o-excesso-de-chuvas-e-o-unico-responsavel-pelo-desastre) → Complexidade lexical: 2.3451
+prompt.xml (Subpasta: eutanasia-quem-decide-a-hora-certa-de-morrer) → Complexidade lexical: 2.5486
+prompt.xml (Subpasta: experiencias-com-animais-e-violencia-em-manifestacoes) → Complexidade lexical: 2.5888
+prompt.xml (Subpasta: favela-e-cidade-as-distancias-sociais-desapareceram) → Complexidade lexical: 2.6267
+prompt.xml (Subpasta: fomos-dominados-pelas-maquinas-que-inventamos) → Complexidade lexical: 2.5385
+prompt.xml (Subpasta: forma-fisica-corpo-perfeito-e-consumismo) → Complexidade lexical: 2.5259
+prompt.xml (Subpasta: gravidez-fora-de-hora-adolescencia-em-crise) → Complexidade lexical: 2.3562
+prompt.xml (Subpasta: ha-limites-para-a-liberdade-de-expressao) → Complexidade lexical: 2.5278
+prompt.xml (Subpasta: hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco) → Complexidade lexical: 2.4100
+prompt.xml (Subpasta: horario-politico-obrigatorio-bom-para-quem) → Complexidade lexical: 2.6641
+prompt.xml (Subpasta: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados) → Complexidade lexical: 2.5875
+prompt.xml (Subpasta: intolerancia-religiosa-regra-ou-excecao-no-brasil) → Complexidade lexical: 2.7551
+prompt.xml (Subpasta: justica-x-vinganca-como-nao-confundir-as-duas-coisas) → Complexidade lexical: 2.6356
+prompt.xml (Subpasta: juventude-e-alcoolismo-um-problema-social) → Complexidade lexical: 2.5326
+prompt.xml (Subpasta: leis-e-penas-mais-duras-sao-a-unica-solucao-para-o-transito-brasileiro) → Complexidade lexical: 2.3115
+prompt.xml (Subpasta: lixo-questao-de-cidadania-e-responsabilidade-social) → Complexidade lexical: 2.4380
+prompt.xml (Subpasta: maconha-manter-proibicao-legalizar-descriminalizar) → Complexidade lexical: 2.4370
+prompt.xml (Subpasta: meia-entrada-voce-e-contra-ou-a-favor-por-que) → Complexidade lexical: 2.4273
+prompt.xml (Subpasta: mentira-e-doenca-problema-moral-necessidade-ou-brincadeira) → Complexidade lexical: 2.6170
+prompt.xml (Subpasta: nacional-ou-importada-qual-a-cara-do-brasil) → Complexidade lexical: 2.5000
+prompt.xml (Subpasta: norma-culta-x-variantes-linguisticas-qual-deve-ser-a-posicao-da-escola) → Complexidade lexical: 2.4419
+prompt.xml (Subpasta: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que) → Complexidade lexical: 2.3976
+prompt.xml (Subpasta: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico) → Complexidade lexical: 2.6979
+prompt.xml (Subpasta: o-conceito-de-familia-pode-ou-nao-pode-mudar) → Complexidade lexical: 2.3636
+prompt.xml (Subpasta: o-conflito-entre-geracoes-e-a-convivencia-social) → Complexidade lexical: 2.6574
+prompt.xml (Subpasta: o-famoso-conflito-de-geracoes-ainda-existe-hoje) → Complexidade lexical: 2.4247
+prompt.xml (Subpasta: o-fumo-deve-ser-proibido-em-todos-os-lugares) → Complexidade lexical: 2.4048
+prompt.xml (Subpasta: o-horario-de-propaganda-eleitoral-e-util-para-o-eleitor) → Complexidade lexical: 2.5574
+prompt.xml (Subpasta: o-jovem-perdeu-o-interesse-pela-participacao-eleitoral-por-que) → Complexidade lexical: 2.3889
+prompt.xml (Subpasta: o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia) → Complexidade lexical: 2.4225
+prompt.xml (Subpasta: o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes) → Complexidade lexical: 2.5167
+prompt.xml (Subpasta: o-preconceito-racial-esta-chegando-ao-fim) → Complexidade lexical: 2.3750
+prompt.xml (Subpasta: o-que-e-ser-homem-nos-dias-de-hoje) → Complexidade lexical: 2.6444
+prompt.xml (Subpasta: o-que-muda-no-pais-apos-as-manifestacoes-populares) → Complexidade lexical: 2.6087
+prompt.xml (Subpasta: o-que-voce-acha-do-ensino-nas-escolas-do-brasil) → Complexidade lexical: 2.5467
+prompt.xml (Subpasta: o-que-voce-acha-do-novo-acordo-ortografico) → Complexidade lexical: 2.6494
+prompt.xml (Subpasta: o-que-voce-pensa-da-proibicao-a-pratica-do-castigo-fisico) → Complexidade lexical: 2.3878
+prompt.xml (Subpasta: o-supremo-tribunal-federal-fez-bem-em-legalizar-o-aborto-de-anencefalos) → Complexidade lexical: 2.4957
+prompt.xml (Subpasta: o-uso-da-maconha-deve-ou-nao-ser-legalizado) → Complexidade lexical: 2.5538
+prompt.xml (Subpasta: o-voto-nulo-e-um-ato-politico-valido) → Complexidade lexical: 2.0000
+prompt.xml (Subpasta: organismos-transgenicos-fonte-de-problemas-ou-de-solucoes) → Complexidade lexical: 2.5614
+prompt.xml (Subpasta: os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade) → Complexidade lexical: 2.4478
+prompt.xml (Subpasta: por-que-a-ideia-de-fim-do-mundo-atrai-e-assusta) → Complexidade lexical: 2.4158
+prompt.xml (Subpasta: por-que-as-pessoas-mentem-pela-internet) → Complexidade lexical: 2.5763
+prompt.xml (Subpasta: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil) → Complexidade lexical: 2.7042
+prompt.xml (Subpasta: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo) → Complexidade lexical: 2.5543
+prompt.xml (Subpasta: quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional) → Complexidade lexical: 2.5397
+prompt.xml (Subpasta: qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro) → Complexidade lexical: 2.4470
+prompt.xml (Subpasta: qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida) → Complexidade lexical: 2.4174
+prompt.xml (Subpasta: qual-e-o-limite-entre-o-trote-e-o-crime) → Complexidade lexical: 2.5902
+prompt.xml (Subpasta: qual-o-papel-da-imprensa-numa-sociedade-democratica) → Complexidade lexical: 2.3913
+prompt.xml (Subpasta: qual-o-papel-da-mulher-na-sociedade-brasileira-atual) → Complexidade lexical: 2.6095
+prompt.xml (Subpasta: qual-sera-o-legado-da-copa-do-mundo-para-o-brasil) → Complexidade lexical: 2.3796
+prompt.xml (Subpasta: racismo-como-virar-de-vez-essa-triste-pagina-da-historia) → Complexidade lexical: 2.6018
+prompt.xml (Subpasta: reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao) → Complexidade lexical: 2.6832
+prompt.xml (Subpasta: selinho-e-inocente-ou-tem-significado-sexual) → Complexidade lexical: 2.2405
+prompt.xml (Subpasta: terrorismo-o-brasil-tem-razoes-para-teme-lo) → Complexidade lexical: 2.4215
+prompt.xml (Subpasta: toque-de-recolher-protege-juventude-e-sociedade) → Complexidade lexical: 2.2778
+prompt.xml (Subpasta: um-cachorro-vale-mais-do-que-um-ser-humano) → Complexidade lexical: 2.2174
+prompt.xml (Subpasta: viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao) → Complexidade lexical: 2.4037
+prompt.xml (Subpasta: violencia-escolar-expor-o-problema-e-sugerir-solucoes) → Complexidade lexical: 2.3879
+prompt.xml (Subpasta: votar-em-palhaco-e-uma-forma-valida-de-protestar) → Complexidade lexical: 2.4112

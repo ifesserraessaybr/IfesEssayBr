@@ -1,0 +1,779 @@
+DIVERSIDADE LÉXICA, COMPLEXIDADE LEXICAL E ANÁLISE SILÁBICA - RESULTADOS INDIVIDUAIS
+==========================================================================================
+a-aids-nao-e-mais-a-mesma-por-que-diminuiu-o-medo-da-doenca:
+  Diversidade Léxica: 0.792 (79.2%)
+  Complexidade Lexical: 0.172 (17.2%) - Baixa
+  Palavras Longas (4+ sílabas): 0.146 (14.6%)
+  Diversidade Silábica: 0.487 (48.8%)
+  Palavras Complexas (3+ sílabas): 0.415 (41.5%)
+  Sílabas por Palavra: 2.46
+
+a-energia-nuclear-e-uma-boa-solucao-para-o-brasil:
+  Diversidade Léxica: 0.949 (94.9%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.288 (28.8%)
+  Diversidade Silábica: 0.632 (63.2%)
+  Palavras Complexas (3+ sílabas): 0.441 (44.1%)
+  Sílabas por Palavra: 2.76
+
+a-gramatica-facilita-ou-dificulta-a-comunicacao:
+  Diversidade Léxica: 0.949 (94.9%)
+  Complexidade Lexical: 0.227 (22.7%) - Média
+  Palavras Longas (4+ sílabas): 0.237 (23.7%)
+  Diversidade Silábica: 0.681 (68.1%)
+  Palavras Complexas (3+ sílabas): 0.475 (47.5%)
+  Sílabas por Palavra: 2.71
+
+a-necessidade-de-crer-em-herois:
+  Diversidade Léxica: 0.917 (91.7%)
+  Complexidade Lexical: 0.186 (18.6%) - Baixa
+  Palavras Longas (4+ sílabas): 0.194 (19.4%)
+  Diversidade Silábica: 0.795 (79.5%)
+  Palavras Complexas (3+ sílabas): 0.361 (36.1%)
+  Sílabas por Palavra: 2.44
+
+a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.274 (27.4%)
+  Diversidade Silábica: 0.479 (47.9%)
+  Palavras Complexas (3+ sílabas): 0.487 (48.7%)
+  Sílabas por Palavra: 2.71
+
+a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao:
+  Diversidade Léxica: 0.860 (86.0%)
+  Complexidade Lexical: 0.222 (22.2%) - Média
+  Palavras Longas (4+ sílabas): 0.234 (23.4%)
+  Diversidade Silábica: 0.486 (48.6%)
+  Palavras Complexas (3+ sílabas): 0.551 (55.1%)
+  Sílabas por Palavra: 2.75
+
+a-questao-do-lixo-nas-sociedades-de-consumo:
+  Diversidade Léxica: 0.828 (82.8%)
+  Complexidade Lexical: 0.241 (24.1%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.467 (46.7%)
+  Palavras Complexas (3+ sílabas): 0.434 (43.4%)
+  Sílabas por Palavra: 2.72
+
+a-sociedade-brasileira-e-os-conflitos-no-transito:
+  Diversidade Léxica: 0.848 (84.8%)
+  Complexidade Lexical: 0.212 (21.2%) - Média
+  Palavras Longas (4+ sílabas): 0.214 (21.4%)
+  Diversidade Silábica: 0.493 (49.3%)
+  Palavras Complexas (3+ sílabas): 0.446 (44.6%)
+  Sílabas por Palavra: 2.64
+
+a-sociedade-esta-perdendo-a-batalha-contra-o-crime:
+  Diversidade Léxica: 0.882 (88.2%)
+  Complexidade Lexical: 0.180 (18.0%) - Baixa
+  Palavras Longas (4+ sílabas): 0.181 (18.1%)
+  Diversidade Silábica: 0.515 (51.5%)
+  Palavras Complexas (3+ sílabas): 0.370 (37.0%)
+  Sílabas por Palavra: 2.43
+
+a-virgindade-e-um-valor-moral-a-ser-preservado:
+  Diversidade Léxica: 0.861 (86.1%)
+  Complexidade Lexical: 0.224 (22.4%) - Média
+  Palavras Longas (4+ sílabas): 0.241 (24.1%)
+  Diversidade Silábica: 0.576 (57.6%)
+  Palavras Complexas (3+ sílabas): 0.380 (38.0%)
+  Sílabas por Palavra: 2.59
+
+agua-aprenderemos-com-a-atual-crise-hidrica:
+  Diversidade Léxica: 0.832 (83.2%)
+  Complexidade Lexical: 0.174 (17.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.160 (16.0%)
+  Diversidade Silábica: 0.490 (49.0%)
+  Palavras Complexas (3+ sílabas): 0.376 (37.6%)
+  Sílabas por Palavra: 2.48
+
+amar-pode-levar-ao-crime-ou-quem-ama-nao-mata:
+  Diversidade Léxica: 0.877 (87.7%)
+  Complexidade Lexical: 0.153 (15.3%) - Baixa
+  Palavras Longas (4+ sílabas): 0.148 (14.8%)
+  Diversidade Silábica: 0.618 (61.8%)
+  Palavras Complexas (3+ sílabas): 0.321 (32.1%)
+  Sílabas por Palavra: 2.30
+
+amor-com-grande-diferenca-de-idade-sera-que-isso-funciona:
+  Diversidade Léxica: 0.845 (84.5%)
+  Complexidade Lexical: 0.185 (18.5%) - Baixa
+  Palavras Longas (4+ sílabas): 0.196 (19.6%)
+  Diversidade Silábica: 0.600 (60.0%)
+  Palavras Complexas (3+ sílabas): 0.392 (39.2%)
+  Sílabas por Palavra: 2.42
+
+automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens:
+  Diversidade Léxica: 0.796 (79.6%)
+  Complexidade Lexical: 0.195 (19.5%) - Baixa
+  Palavras Longas (4+ sílabas): 0.183 (18.3%)
+  Diversidade Silábica: 0.517 (51.7%)
+  Palavras Complexas (3+ sílabas): 0.398 (39.8%)
+  Sílabas por Palavra: 2.47
+
+bicicletas-e-ciclofaixas-estao-chegando-para-ficar:
+  Diversidade Léxica: 0.770 (77.0%)
+  Complexidade Lexical: 0.184 (18.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.180 (18.0%)
+  Diversidade Silábica: 0.459 (45.9%)
+  Palavras Complexas (3+ sílabas): 0.439 (43.9%)
+  Sílabas por Palavra: 2.54
+
+biografias-personagens-e-autores-em-confronto:
+  Diversidade Léxica: 0.825 (82.5%)
+  Complexidade Lexical: 0.213 (21.3%) - Média
+  Palavras Longas (4+ sílabas): 0.223 (22.3%)
+  Diversidade Silábica: 0.542 (54.2%)
+  Palavras Complexas (3+ sílabas): 0.476 (47.6%)
+  Sílabas por Palavra: 2.69
+
+caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao:
+  Diversidade Léxica: 0.902 (90.2%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.261 (26.1%)
+  Diversidade Silábica: 0.534 (53.4%)
+  Palavras Complexas (3+ sílabas): 0.424 (42.4%)
+  Sílabas por Palavra: 2.71
+
+cientistas-preveem-futuro-sombrio-para-terra:
+  Diversidade Léxica: 0.816 (81.6%)
+  Complexidade Lexical: 0.167 (16.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.163 (16.3%)
+  Diversidade Silábica: 0.658 (65.8%)
+  Palavras Complexas (3+ sílabas): 0.347 (34.7%)
+  Sílabas por Palavra: 2.39
+
+combate-ao-fumo-autoritarismo-ou-dever-do-governo:
+  Diversidade Léxica: 0.907 (90.7%)
+  Complexidade Lexical: 0.173 (17.3%) - Baixa
+  Palavras Longas (4+ sílabas): 0.174 (17.4%)
+  Diversidade Silábica: 0.585 (58.5%)
+  Palavras Complexas (3+ sílabas): 0.337 (33.7%)
+  Sílabas por Palavra: 2.38
+
+como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao:
+  Diversidade Léxica: 0.848 (84.8%)
+  Complexidade Lexical: 0.218 (21.8%) - Média
+  Palavras Longas (4+ sílabas): 0.210 (21.0%)
+  Diversidade Silábica: 0.527 (52.7%)
+  Palavras Complexas (3+ sílabas): 0.448 (44.8%)
+  Sílabas por Palavra: 2.66
+
+como-resolver-o-problema-da-criminalidade-infantil-em-nossa-sociedade:
+  Diversidade Léxica: 0.892 (89.2%)
+  Complexidade Lexical: 0.216 (21.6%) - Média
+  Palavras Longas (4+ sílabas): 0.217 (21.7%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.467 (46.7%)
+  Sílabas por Palavra: 2.71
+
+como-se-tornar-um-consumidor-consciente-isso-e-possivel:
+  Diversidade Léxica: 0.861 (86.1%)
+  Complexidade Lexical: 0.223 (22.3%) - Média
+  Palavras Longas (4+ sílabas): 0.231 (23.1%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.472 (47.2%)
+  Sílabas por Palavra: 2.66
+
+como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet:
+  Diversidade Léxica: 0.667 (66.7%)
+  Complexidade Lexical: 0.075 (7.5%) - Baixa
+  Palavras Longas (4+ sílabas): 0.000 (0.0%)
+  Diversidade Silábica: 0.556 (55.6%)
+  Palavras Complexas (3+ sílabas): 0.111 (11.1%)
+  Sílabas por Palavra: 2.00
+
+como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais:
+  Diversidade Léxica: 0.919 (91.9%)
+  Complexidade Lexical: 0.268 (26.8%) - Média
+  Palavras Longas (4+ sílabas): 0.297 (29.7%)
+  Diversidade Silábica: 0.539 (53.9%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.78
+
+cotas-nas-universidades-voce-e-a-favor-ou-contra:
+  Diversidade Léxica: 0.819 (81.9%)
+  Complexidade Lexical: 0.244 (24.4%) - Média
+  Palavras Longas (4+ sílabas): 0.264 (26.4%)
+  Diversidade Silábica: 0.580 (58.0%)
+  Palavras Complexas (3+ sílabas): 0.417 (41.7%)
+  Sílabas por Palavra: 2.68
+
+cotas-para-universidades-federais-solucao-ou-problema:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.222 (22.2%) - Média
+  Palavras Longas (4+ sílabas): 0.237 (23.7%)
+  Diversidade Silábica: 0.487 (48.8%)
+  Palavras Complexas (3+ sílabas): 0.449 (44.9%)
+  Sílabas por Palavra: 2.71
+
+cultura-do-estupro-a-culpa-e-da-vitima:
+  Diversidade Léxica: 0.947 (94.7%)
+  Complexidade Lexical: 0.252 (25.2%) - Média
+  Palavras Longas (4+ sílabas): 0.298 (29.8%)
+  Diversidade Silábica: 0.636 (63.6%)
+  Palavras Complexas (3+ sílabas): 0.561 (56.1%)
+  Sílabas por Palavra: 2.84
+
+deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool:
+  Diversidade Léxica: 0.850 (85.0%)
+  Complexidade Lexical: 0.230 (23.0%) - Média
+  Palavras Longas (4+ sílabas): 0.230 (23.0%)
+  Diversidade Silábica: 0.489 (48.9%)
+  Palavras Complexas (3+ sílabas): 0.513 (51.3%)
+  Sílabas por Palavra: 2.77
+
+deve-se-reduzir-a-maioridade-penal-no-brasil:
+  Diversidade Léxica: 0.799 (79.9%)
+  Complexidade Lexical: 0.211 (21.1%) - Média
+  Palavras Longas (4+ sílabas): 0.209 (20.9%)
+  Diversidade Silábica: 0.453 (45.3%)
+  Palavras Complexas (3+ sílabas): 0.433 (43.3%)
+  Sílabas por Palavra: 2.62
+
+e-certo-ou-errado-leiloar-a-virgindade-por-que:
+  Diversidade Léxica: 0.772 (77.2%)
+  Complexidade Lexical: 0.165 (16.5%) - Baixa
+  Palavras Longas (4+ sílabas): 0.169 (16.9%)
+  Diversidade Silábica: 0.453 (45.3%)
+  Palavras Complexas (3+ sílabas): 0.360 (36.0%)
+  Sílabas por Palavra: 2.35
+
+e-justo-proibir-o-uso-do-celular-na-sala-de-aula:
+  Diversidade Léxica: 1.000 (100.0%)
+  Complexidade Lexical: 0.142 (14.2%) - Baixa
+  Palavras Longas (4+ sílabas): 0.111 (11.1%)
+  Diversidade Silábica: 0.872 (87.2%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.61
+
+e-possivel-prevenir-massacres-como-o-da-escola-de-realengo:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.221 (22.1%) - Média
+  Palavras Longas (4+ sílabas): 0.242 (24.2%)
+  Diversidade Silábica: 0.534 (53.4%)
+  Palavras Complexas (3+ sílabas): 0.566 (56.6%)
+  Sílabas por Palavra: 2.82
+
+e-valido-simplificar-a-linguagem-de-um-classico:
+  Diversidade Léxica: 0.835 (83.5%)
+  Complexidade Lexical: 0.251 (25.1%) - Média
+  Palavras Longas (4+ sílabas): 0.294 (29.4%)
+  Diversidade Silábica: 0.475 (47.5%)
+  Palavras Complexas (3+ sílabas): 0.505 (50.5%)
+  Sílabas por Palavra: 2.76
+
+enchentes-o-excesso-de-chuvas-e-o-unico-responsavel-pelo-desastre:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.154 (15.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.134 (13.4%)
+  Diversidade Silábica: 0.584 (58.4%)
+  Palavras Complexas (3+ sílabas): 0.384 (38.4%)
+  Sílabas por Palavra: 2.40
+
+eutanasia-quem-decide-a-hora-certa-de-morrer:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.208 (20.8%) - Média
+  Palavras Longas (4+ sílabas): 0.208 (20.8%)
+  Diversidade Silábica: 0.440 (44.0%)
+  Palavras Complexas (3+ sílabas): 0.479 (47.9%)
+  Sílabas por Palavra: 2.67
+
+experiencias-com-animais-e-violencia-em-manifestacoes:
+  Diversidade Léxica: 0.860 (86.0%)
+  Complexidade Lexical: 0.242 (24.2%) - Média
+  Palavras Longas (4+ sílabas): 0.262 (26.2%)
+  Diversidade Silábica: 0.505 (50.5%)
+  Palavras Complexas (3+ sílabas): 0.477 (47.7%)
+  Sílabas por Palavra: 2.70
+
+favela-e-cidade-as-distancias-sociais-desapareceram:
+  Diversidade Léxica: 0.813 (81.3%)
+  Complexidade Lexical: 0.197 (19.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.200 (20.0%)
+  Diversidade Silábica: 0.585 (58.5%)
+  Palavras Complexas (3+ sílabas): 0.413 (41.3%)
+  Sílabas por Palavra: 2.57
+
+fomos-dominados-pelas-maquinas-que-inventamos:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.218 (21.8%) - Média
+  Palavras Longas (4+ sílabas): 0.231 (23.1%)
+  Diversidade Silábica: 0.600 (60.0%)
+  Palavras Complexas (3+ sílabas): 0.462 (46.2%)
+  Sílabas por Palavra: 2.62
+
+forma-fisica-corpo-perfeito-e-consumismo:
+  Diversidade Léxica: 0.835 (83.5%)
+  Complexidade Lexical: 0.209 (20.9%) - Média
+  Palavras Longas (4+ sílabas): 0.200 (20.0%)
+  Diversidade Silábica: 0.505 (50.5%)
+  Palavras Complexas (3+ sílabas): 0.478 (47.8%)
+  Sílabas por Palavra: 2.69
+
+gravidez-fora-de-hora-adolescencia-em-crise:
+  Diversidade Léxica: 0.932 (93.2%)
+  Complexidade Lexical: 0.171 (17.1%) - Baixa
+  Palavras Longas (4+ sílabas): 0.164 (16.4%)
+  Diversidade Silábica: 0.680 (68.0%)
+  Palavras Complexas (3+ sílabas): 0.384 (38.4%)
+  Sílabas por Palavra: 2.48
+
+ha-limites-para-a-liberdade-de-expressao:
+  Diversidade Léxica: 0.843 (84.3%)
+  Complexidade Lexical: 0.193 (19.3%) - Baixa
+  Palavras Longas (4+ sílabas): 0.222 (22.2%)
+  Diversidade Silábica: 0.493 (49.3%)
+  Palavras Complexas (3+ sílabas): 0.463 (46.3%)
+  Sílabas por Palavra: 2.56
+
+hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco:
+  Diversidade Léxica: 0.816 (81.6%)
+  Complexidade Lexical: 0.159 (15.9%) - Baixa
+  Palavras Longas (4+ sílabas): 0.133 (13.3%)
+  Diversidade Silábica: 0.537 (53.7%)
+  Palavras Complexas (3+ sílabas): 0.357 (35.7%)
+  Sílabas por Palavra: 2.51
+
+horario-politico-obrigatorio-bom-para-quem:
+  Diversidade Léxica: 0.828 (82.8%)
+  Complexidade Lexical: 0.244 (24.4%) - Média
+  Palavras Longas (4+ sílabas): 0.289 (28.9%)
+  Diversidade Silábica: 0.424 (42.4%)
+  Palavras Complexas (3+ sílabas): 0.453 (45.3%)
+  Sílabas por Palavra: 2.73
+
+idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados:
+  Diversidade Léxica: 0.900 (90.0%)
+  Complexidade Lexical: 0.231 (23.1%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.475 (47.5%)
+  Sílabas por Palavra: 2.69
+
+intolerancia-religiosa-regra-ou-excecao-no-brasil:
+  Diversidade Léxica: 0.897 (89.7%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.247 (24.7%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.505 (50.5%)
+  Sílabas por Palavra: 2.74
+
+justica-x-vinganca-como-nao-confundir-as-duas-coisas:
+  Diversidade Léxica: 0.822 (82.2%)
+  Complexidade Lexical: 0.220 (22.0%) - Média
+  Palavras Longas (4+ sílabas): 0.237 (23.7%)
+  Diversidade Silábica: 0.463 (46.3%)
+  Palavras Complexas (3+ sílabas): 0.466 (46.6%)
+  Sílabas por Palavra: 2.67
+
+juventude-e-alcoolismo-um-problema-social:
+  Diversidade Léxica: 0.826 (82.6%)
+  Complexidade Lexical: 0.201 (20.1%) - Média
+  Palavras Longas (4+ sílabas): 0.196 (19.6%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.511 (51.1%)
+  Sílabas por Palavra: 2.66
+
+leis-e-penas-mais-duras-sao-a-unica-solucao-para-o-transito-brasileiro:
+  Diversidade Léxica: 0.932 (93.2%)
+  Complexidade Lexical: 0.162 (16.2%) - Baixa
+  Palavras Longas (4+ sílabas): 0.136 (13.6%)
+  Diversidade Silábica: 0.692 (69.2%)
+  Palavras Complexas (3+ sílabas): 0.492 (49.2%)
+  Sílabas por Palavra: 2.47
+
+lixo-questao-de-cidadania-e-responsabilidade-social:
+  Diversidade Léxica: 0.824 (82.4%)
+  Complexidade Lexical: 0.233 (23.3%) - Média
+  Palavras Longas (4+ sílabas): 0.252 (25.2%)
+  Diversidade Silábica: 0.464 (46.4%)
+  Palavras Complexas (3+ sílabas): 0.412 (41.2%)
+  Sílabas por Palavra: 2.71
+
+maconha-manter-proibicao-legalizar-descriminalizar:
+  Diversidade Léxica: 0.807 (80.7%)
+  Complexidade Lexical: 0.177 (17.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.143 (14.3%)
+  Diversidade Silábica: 0.472 (47.2%)
+  Palavras Complexas (3+ sílabas): 0.420 (42.0%)
+  Sílabas por Palavra: 2.53
+
+meia-entrada-voce-e-contra-ou-a-favor-por-que:
+  Diversidade Léxica: 0.818 (81.8%)
+  Complexidade Lexical: 0.182 (18.2%) - Baixa
+  Palavras Longas (4+ sílabas): 0.164 (16.4%)
+  Diversidade Silábica: 0.503 (50.3%)
+  Palavras Complexas (3+ sílabas): 0.464 (46.4%)
+  Sílabas por Palavra: 2.60
+
+mentira-e-doenca-problema-moral-necessidade-ou-brincadeira:
+  Diversidade Léxica: 0.892 (89.2%)
+  Complexidade Lexical: 0.233 (23.3%) - Média
+  Palavras Longas (4+ sílabas): 0.258 (25.8%)
+  Diversidade Silábica: 0.538 (53.8%)
+  Palavras Complexas (3+ sílabas): 0.484 (48.4%)
+  Sílabas por Palavra: 2.70
+
+nacional-ou-importada-qual-a-cara-do-brasil:
+  Diversidade Léxica: 0.933 (93.3%)
+  Complexidade Lexical: 0.154 (15.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.133 (13.3%)
+  Diversidade Silábica: 0.726 (72.6%)
+  Palavras Complexas (3+ sílabas): 0.422 (42.2%)
+  Sílabas por Palavra: 2.51
+
+norma-culta-x-variantes-linguisticas-qual-deve-ser-a-posicao-da-escola:
+  Diversidade Léxica: 0.791 (79.1%)
+  Complexidade Lexical: 0.194 (19.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.186 (18.6%)
+  Diversidade Silábica: 0.444 (44.4%)
+  Palavras Complexas (3+ sílabas): 0.380 (38.0%)
+  Sílabas por Palavra: 2.50
+
+o-aborto-deve-ou-nao-deve-ser-legalizado-por-que:
+  Diversidade Léxica: 0.855 (85.5%)
+  Complexidade Lexical: 0.150 (15.0%) - Baixa
+  Palavras Longas (4+ sílabas): 0.096 (9.6%)
+  Diversidade Silábica: 0.596 (59.6%)
+  Palavras Complexas (3+ sílabas): 0.386 (38.6%)
+  Sílabas por Palavra: 2.39
+
+o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico:
+  Diversidade Léxica: 0.906 (90.6%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.260 (26.0%)
+  Diversidade Silábica: 0.571 (57.1%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.77
+
+o-conceito-de-familia-pode-ou-nao-pode-mudar:
+  Diversidade Léxica: 0.692 (69.2%)
+  Complexidade Lexical: 0.205 (20.5%) - Média
+  Palavras Longas (4+ sílabas): 0.238 (23.8%)
+  Diversidade Silábica: 0.410 (41.0%)
+  Palavras Complexas (3+ sílabas): 0.406 (40.6%)
+  Sílabas por Palavra: 2.49
+
+o-conflito-entre-geracoes-e-a-convivencia-social:
+  Diversidade Léxica: 0.861 (86.1%)
+  Complexidade Lexical: 0.228 (22.8%) - Média
+  Palavras Longas (4+ sílabas): 0.231 (23.1%)
+  Diversidade Silábica: 0.510 (51.0%)
+  Palavras Complexas (3+ sílabas): 0.426 (42.6%)
+  Sílabas por Palavra: 2.72
+
+o-famoso-conflito-de-geracoes-ainda-existe-hoje:
+  Diversidade Léxica: 0.901 (90.1%)
+  Complexidade Lexical: 0.194 (19.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.211 (21.1%)
+  Diversidade Silábica: 0.623 (62.3%)
+  Palavras Complexas (3+ sílabas): 0.451 (45.1%)
+  Sílabas por Palavra: 2.58
+
+o-fumo-deve-ser-proibido-em-todos-os-lugares:
+  Diversidade Léxica: 0.905 (90.5%)
+  Complexidade Lexical: 0.167 (16.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.143 (14.3%)
+  Diversidade Silábica: 0.623 (62.3%)
+  Palavras Complexas (3+ sílabas): 0.429 (42.9%)
+  Sílabas por Palavra: 2.46
+
+o-horario-de-propaganda-eleitoral-e-util-para-o-eleitor:
+  Diversidade Léxica: 0.811 (81.1%)
+  Complexidade Lexical: 0.196 (19.6%) - Baixa
+  Palavras Longas (4+ sílabas): 0.221 (22.1%)
+  Diversidade Silábica: 0.478 (47.8%)
+  Palavras Complexas (3+ sílabas): 0.475 (47.5%)
+  Sílabas por Palavra: 2.61
+
+o-jovem-perdeu-o-interesse-pela-participacao-eleitoral-por-que:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.199 (19.9%) - Baixa
+  Palavras Longas (4+ sílabas): 0.218 (21.8%)
+  Diversidade Silábica: 0.542 (54.2%)
+  Palavras Complexas (3+ sílabas): 0.471 (47.1%)
+  Sílabas por Palavra: 2.61
+
+o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia:
+  Diversidade Léxica: 0.986 (98.6%)
+  Complexidade Lexical: 0.196 (19.6%) - Baixa
+  Palavras Longas (4+ sílabas): 0.225 (22.5%)
+  Diversidade Silábica: 0.689 (68.9%)
+  Palavras Complexas (3+ sílabas): 0.394 (39.4%)
+  Sílabas por Palavra: 2.49
+
+o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes:
+  Diversidade Léxica: 0.817 (81.7%)
+  Complexidade Lexical: 0.194 (19.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.200 (20.0%)
+  Diversidade Silábica: 0.492 (49.2%)
+  Palavras Complexas (3+ sílabas): 0.492 (49.2%)
+  Sílabas por Palavra: 2.64
+
+o-preconceito-racial-esta-chegando-ao-fim:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.180 (18.0%) - Baixa
+  Palavras Longas (4+ sílabas): 0.184 (18.4%)
+  Diversidade Silábica: 0.602 (60.2%)
+  Palavras Complexas (3+ sílabas): 0.391 (39.1%)
+  Sílabas por Palavra: 2.48
+
+o-que-e-ser-homem-nos-dias-de-hoje:
+  Diversidade Léxica: 0.922 (92.2%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.256 (25.6%)
+  Diversidade Silábica: 0.560 (56.0%)
+  Palavras Complexas (3+ sílabas): 0.422 (42.2%)
+  Sílabas por Palavra: 2.76
+
+o-que-muda-no-pais-apos-as-manifestacoes-populares:
+  Diversidade Léxica: 0.887 (88.7%)
+  Complexidade Lexical: 0.204 (20.4%) - Média
+  Palavras Longas (4+ sílabas): 0.209 (20.9%)
+  Diversidade Silábica: 0.526 (52.6%)
+  Palavras Complexas (3+ sílabas): 0.496 (49.6%)
+  Sílabas por Palavra: 2.66
+
+o-que-voce-acha-do-ensino-nas-escolas-do-brasil:
+  Diversidade Léxica: 0.827 (82.7%)
+  Complexidade Lexical: 0.225 (22.5%) - Média
+  Palavras Longas (4+ sílabas): 0.267 (26.7%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.467 (46.7%)
+  Sílabas por Palavra: 2.63
+
+o-que-voce-acha-do-novo-acordo-ortografico:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.223 (22.3%) - Média
+  Palavras Longas (4+ sílabas): 0.224 (22.4%)
+  Diversidade Silábica: 0.537 (53.7%)
+  Palavras Complexas (3+ sílabas): 0.513 (51.3%)
+  Sílabas por Palavra: 2.82
+
+o-que-voce-pensa-da-proibicao-a-pratica-do-castigo-fisico:
+  Diversidade Léxica: 0.816 (81.6%)
+  Complexidade Lexical: 0.167 (16.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.163 (16.3%)
+  Diversidade Silábica: 0.514 (51.4%)
+  Palavras Complexas (3+ sílabas): 0.459 (45.9%)
+  Sílabas por Palavra: 2.48
+
+o-supremo-tribunal-federal-fez-bem-em-legalizar-o-aborto-de-anencefalos:
+  Diversidade Léxica: 0.826 (82.6%)
+  Complexidade Lexical: 0.201 (20.1%) - Média
+  Palavras Longas (4+ sílabas): 0.200 (20.0%)
+  Diversidade Silábica: 0.483 (48.3%)
+  Palavras Complexas (3+ sílabas): 0.417 (41.7%)
+  Sílabas por Palavra: 2.54
+
+o-uso-da-maconha-deve-ou-nao-ser-legalizado:
+  Diversidade Léxica: 0.892 (89.2%)
+  Complexidade Lexical: 0.184 (18.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.154 (15.4%)
+  Diversidade Silábica: 0.610 (61.0%)
+  Palavras Complexas (3+ sílabas): 0.431 (43.1%)
+  Sílabas por Palavra: 2.52
+
+o-voto-nulo-e-um-ato-politico-valido:
+  Diversidade Léxica: 1.000 (100.0%)
+  Complexidade Lexical: 0.082 (8.2%) - Baixa
+  Palavras Longas (4+ sílabas): 0.000 (0.0%)
+  Diversidade Silábica: 0.917 (91.7%)
+  Palavras Complexas (3+ sílabas): 0.182 (18.2%)
+  Sílabas por Palavra: 2.18
+
+organismos-transgenicos-fonte-de-problemas-ou-de-solucoes:
+  Diversidade Léxica: 0.842 (84.2%)
+  Complexidade Lexical: 0.227 (22.7%) - Média
+  Palavras Longas (4+ sílabas): 0.246 (24.6%)
+  Diversidade Silábica: 0.584 (58.4%)
+  Palavras Complexas (3+ sílabas): 0.456 (45.6%)
+  Sílabas por Palavra: 2.60
+
+os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade:
+  Diversidade Léxica: 0.782 (78.2%)
+  Complexidade Lexical: 0.201 (20.1%) - Média
+  Palavras Longas (4+ sílabas): 0.211 (21.1%)
+  Diversidade Silábica: 0.450 (45.0%)
+  Palavras Complexas (3+ sílabas): 0.451 (45.1%)
+  Sílabas por Palavra: 2.62
+
+por-que-a-ideia-de-fim-do-mundo-atrai-e-assusta:
+  Diversidade Léxica: 0.830 (83.0%)
+  Complexidade Lexical: 0.204 (20.4%) - Média
+  Palavras Longas (4+ sílabas): 0.190 (19.0%)
+  Diversidade Silábica: 0.477 (47.7%)
+  Palavras Complexas (3+ sílabas): 0.410 (41.0%)
+  Sílabas por Palavra: 2.60
+
+por-que-as-pessoas-mentem-pela-internet:
+  Diversidade Léxica: 0.932 (93.2%)
+  Complexidade Lexical: 0.232 (23.2%) - Média
+  Palavras Longas (4+ sílabas): 0.237 (23.7%)
+  Diversidade Silábica: 0.572 (57.2%)
+  Palavras Complexas (3+ sílabas): 0.525 (52.5%)
+  Sílabas por Palavra: 2.69
+
+por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil:
+  Diversidade Léxica: 0.831 (83.1%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.275 (27.5%)
+  Diversidade Silábica: 0.411 (41.1%)
+  Palavras Complexas (3+ sílabas): 0.528 (52.8%)
+  Sílabas por Palavra: 2.82
+
+por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo:
+  Diversidade Léxica: 0.804 (80.4%)
+  Complexidade Lexical: 0.256 (25.6%) - Média
+  Palavras Longas (4+ sílabas): 0.293 (29.3%)
+  Diversidade Silábica: 0.462 (46.2%)
+  Palavras Complexas (3+ sílabas): 0.402 (40.2%)
+  Sílabas por Palavra: 2.73
+
+quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional:
+  Diversidade Léxica: 0.968 (96.8%)
+  Complexidade Lexical: 0.197 (19.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.159 (15.9%)
+  Diversidade Silábica: 0.655 (65.5%)
+  Palavras Complexas (3+ sílabas): 0.524 (52.4%)
+  Sílabas por Palavra: 2.67
+
+qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro:
+  Diversidade Léxica: 0.803 (80.3%)
+  Complexidade Lexical: 0.207 (20.7%) - Média
+  Palavras Longas (4+ sílabas): 0.212 (21.2%)
+  Diversidade Silábica: 0.504 (50.4%)
+  Palavras Complexas (3+ sílabas): 0.447 (44.7%)
+  Sílabas por Palavra: 2.60
+
+qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida:
+  Diversidade Léxica: 0.835 (83.5%)
+  Complexidade Lexical: 0.179 (17.9%) - Baixa
+  Palavras Longas (4+ sílabas): 0.157 (15.7%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.452 (45.2%)
+  Sílabas por Palavra: 2.55
+
+qual-e-o-limite-entre-o-trote-e-o-crime:
+  Diversidade Léxica: 0.869 (86.9%)
+  Complexidade Lexical: 0.207 (20.7%) - Média
+  Palavras Longas (4+ sílabas): 0.213 (21.3%)
+  Diversidade Silábica: 0.474 (47.4%)
+  Palavras Complexas (3+ sílabas): 0.459 (45.9%)
+  Sílabas por Palavra: 2.65
+
+qual-o-papel-da-imprensa-numa-sociedade-democratica:
+  Diversidade Léxica: 0.837 (83.7%)
+  Complexidade Lexical: 0.186 (18.6%) - Baixa
+  Palavras Longas (4+ sílabas): 0.185 (18.5%)
+  Diversidade Silábica: 0.553 (55.3%)
+  Palavras Complexas (3+ sílabas): 0.435 (43.5%)
+  Sílabas por Palavra: 2.55
+
+qual-o-papel-da-mulher-na-sociedade-brasileira-atual:
+  Diversidade Léxica: 0.846 (84.6%)
+  Complexidade Lexical: 0.194 (19.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.202 (20.2%)
+  Diversidade Silábica: 0.536 (53.6%)
+  Palavras Complexas (3+ sílabas): 0.433 (43.3%)
+  Sílabas por Palavra: 2.57
+
+qual-sera-o-legado-da-copa-do-mundo-para-o-brasil:
+  Diversidade Léxica: 0.794 (79.4%)
+  Complexidade Lexical: 0.204 (20.4%) - Média
+  Palavras Longas (4+ sílabas): 0.196 (19.6%)
+  Diversidade Silábica: 0.480 (48.0%)
+  Palavras Complexas (3+ sílabas): 0.327 (32.7%)
+  Sílabas por Palavra: 2.51
+
+racismo-como-virar-de-vez-essa-triste-pagina-da-historia:
+  Diversidade Léxica: 0.894 (89.4%)
+  Complexidade Lexical: 0.214 (21.4%) - Média
+  Palavras Longas (4+ sílabas): 0.212 (21.2%)
+  Diversidade Silábica: 0.492 (49.2%)
+  Palavras Complexas (3+ sílabas): 0.487 (48.7%)
+  Sílabas por Palavra: 2.66
+
+reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao:
+  Diversidade Léxica: 0.901 (90.1%)
+  Complexidade Lexical: 0.246 (24.6%) - Média
+  Palavras Longas (4+ sílabas): 0.277 (27.7%)
+  Diversidade Silábica: 0.449 (44.9%)
+  Palavras Complexas (3+ sílabas): 0.515 (51.5%)
+  Sílabas por Palavra: 2.80
+
+selinho-e-inocente-ou-tem-significado-sexual:
+  Diversidade Léxica: 0.872 (87.2%)
+  Complexidade Lexical: 0.163 (16.3%) - Baixa
+  Palavras Longas (4+ sílabas): 0.167 (16.7%)
+  Diversidade Silábica: 0.568 (56.8%)
+  Palavras Complexas (3+ sílabas): 0.385 (38.5%)
+  Sílabas por Palavra: 2.37
+
+terrorismo-o-brasil-tem-razoes-para-teme-lo:
+  Diversidade Léxica: 0.840 (84.0%)
+  Complexidade Lexical: 0.213 (21.3%) - Média
+  Palavras Longas (4+ sílabas): 0.218 (21.8%)
+  Diversidade Silábica: 0.485 (48.5%)
+  Palavras Complexas (3+ sílabas): 0.387 (38.7%)
+  Sílabas por Palavra: 2.60
+
+toque-de-recolher-protege-juventude-e-sociedade:
+  Diversidade Léxica: 1.000 (100.0%)
+  Complexidade Lexical: 0.111 (11.1%) - Baixa
+  Palavras Longas (4+ sílabas): 0.056 (5.6%)
+  Diversidade Silábica: 0.870 (87.0%)
+  Palavras Complexas (3+ sílabas): 0.306 (30.6%)
+  Sílabas por Palavra: 2.14
+
+um-cachorro-vale-mais-do-que-um-ser-humano:
+  Diversidade Léxica: 0.882 (88.2%)
+  Complexidade Lexical: 0.140 (14.0%) - Baixa
+  Palavras Longas (4+ sílabas): 0.103 (10.3%)
+  Diversidade Silábica: 0.628 (62.8%)
+  Palavras Complexas (3+ sílabas): 0.324 (32.4%)
+  Sílabas por Palavra: 2.29
+
+viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.183 (18.3%) - Baixa
+  Palavras Longas (4+ sílabas): 0.167 (16.7%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.444 (44.4%)
+  Sílabas por Palavra: 2.58
+
+violencia-escolar-expor-o-problema-e-sugerir-solucoes:
+  Diversidade Léxica: 0.793 (79.3%)
+  Complexidade Lexical: 0.187 (18.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.164 (16.4%)
+  Diversidade Silábica: 0.525 (52.5%)
+  Palavras Complexas (3+ sílabas): 0.440 (44.0%)
+  Sílabas por Palavra: 2.54
+
+votar-em-palhaco-e-uma-forma-valida-de-protestar:
+  Diversidade Léxica: 0.832 (83.2%)
+  Complexidade Lexical: 0.175 (17.5%) - Baixa
+  Palavras Longas (4+ sílabas): 0.178 (17.8%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.402 (40.2%)
+  Sílabas por Palavra: 2.47
+
+==========================================================================================
+ESTATÍSTICAS GERAIS:
+Diversidade Léxica Média: 85.9%
+Desvio Padrão: 5.8%
+Complexidade Léxica Média: 20.1%
+Proporção de palavras longas (4+ sílabas): 20.7%
+Diversidade silábica média: 54.8%
+Proporção de palavras complexas (3+ sílabas): 43.5%
+Média de sílabas por palavra: 2.59
+Diversidade de todo dataset: 35.6%
+Arquivos válidos: 95
+
+--- ANÁLISE AVANÇADA ---
+Complexidade geral do dataset: 31.4%
+Classificação geral: Média
+Distribuição de complexidade: {'Baixa': 44, 'Média': 51, 'Alta': 0}
+Correlação Diversidade-Complexidade: 0.026

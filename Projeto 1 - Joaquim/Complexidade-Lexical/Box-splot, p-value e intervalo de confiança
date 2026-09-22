@@ -1,0 +1,9 @@
+Para validar e melhor explicar as médias obtidas para a complexidade lexica no Qwen3-Max, geramos um box-splot, um p-value e calculamos um intervalo de confiança (de 95%).
+Abaixo os resutados:
+Análise estatística:
+p-valor (Data > QwenMax): 0.0000000000000000000000000000000000002
+Intervalo de Confiança QwenMax (95%): (np.float64(2.922552245756044), np.float64(2.9696014530097963))
+Intervalo de Confiança Data (95%): (np.float64(2.4596002250860165), np.float64(2.520372828669235))
+Tendo como base essas médias:
+QwenMax - Média: 2.9459
+Dataset Data - Média: 2.4909
