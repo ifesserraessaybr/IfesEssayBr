@@ -1,0 +1,243 @@
+TTR (Type-Token Ratio) é uma medida de diversidade lexical que mostra o quanto um texto usa palavras diferentes e o quanto ele as varia.
+Ele é a razão entre tipos (palavras diferentes no texto) e tokens (total de palavras do texto). Ou seja, significa que:
+TTR alto → vocabulário variado, pouca repetição.
+TTR baixo → vocabulário repetitivo ou texto longo.
+O TTR varia de 0 a 1, sendo 0 total repetição e 1 diversidade lexical total, ou seja, nenhum token no texto se repete.
+Se multiplicarmos por 100, obtemos a porcentagem da métrica de diversidade lexical da redação.
+
+A baixo temos os resultados do TTR de cada comando temático do dataset Qwen3-Max e Data:
+ 
+
+Dataset QwenMax - TTR e palavras não identificadas
+1_a-aids-e-seu-contagio_saida.json       → TTR: 0.8778
+2_a-aids-estaria-sendo-esquecida_saida.json → TTR: 1.0000
+3_a-vida-nao-pode-parar_saida.json       → TTR: 0.8585
+4_aids-doenca-fatal_saida.json           → TTR: 0.8932
+5_aids-sem-medo_saida.json               → TTR: 0.8763
+6_ate-quando-nao-levar-a-serio_saida.json → TTR: 0.8302
+7_atualmente_saida.json                  → TTR: 0.8687
+8_como-conviver-com-a-aids_saida.json    → TTR: 0.8667
+9_condicoes-para-jovens-sem-medo_saida.json → TTR: 0.9109
+10_convivendo-com-a-aids_saida.json      → TTR: 0.9000
+11_falacia-da-juventude_saida.json       → TTR: 0.8911
+12_joias-perdidas-em-silencio_saida.json → TTR: 0.9010
+13_o-mal-do-seculo_saida.json            → TTR: 0.9038
+14_sem-titulo-_saida.json                → TTR: 0.8416
+15_sexo-versos-versus-descuido-fatalidades_saida.json → TTR: 0.9192
+16_uma-questao-de-consciencia_saida.json → TTR: 0.8636
+17_ult4657u64_saida.json                 → TTR: 0.9412
+18_ult4657u65_saida.json                 → TTR: 0.9615
+19_ult4657u66_saida.json                 → TTR: 0.9324
+20_ult4657u67_saida.json                 → TTR: 0.9275
+21_ult4657u68_saida.json                 → TTR: 0.9873
+22_ult4657u69_saida.json                 → TTR: 0.9286
+23_ult4657u70_saida.json                 → TTR: 0.9853
+24_ult4657u71_saida.json                 → TTR: 0.9481
+25_ult4657u72_saida.json                 → TTR: 0.9610
+26_ult4657u73_saida.json                 → TTR: 0.9359
+27_ult4657u74_saida.json                 → TTR: 0.9577
+28_ult4657u75_saida.json                 → TTR: 0.9655
+29_ult4657u76_saida.json                 → TTR: 0.9506
+30_ult4657u77_saida.json                 → TTR: 0.9079
+31_ult4657u78_saida.json                 → TTR: 0.9571
+32_ult4657u79_saida.json                 → TTR: 0.9200
+33_ult4657u80_saida.json                 → TTR: 0.8791
+34_ult4657u81_saida.json                 → TTR: 0.9383
+35_ult4657u82_saida.json                 → TTR: 0.9186
+36_ult4657u83_saida.json                 → TTR: 0.9506
+37_ult4657u105_saida.json                → TTR: 0.9545
+38_ult4657u106_saida.json                → TTR: 0.8889
+39_ult4657u107_saida.json                → TTR: 0.9444
+40_ult4657u108_saida.json                → TTR: 0.9211
+41_ult4657u109_saida.json                → TTR: 0.9103
+42_ult4657u110_saida.json                → TTR: 0.9452
+43_ult4657u111_saida.json                → TTR: 0.9324
+44_ult4657u112_saida.json                → TTR: 0.9359
+45_ult4657u113_saida.json                → TTR: 0.9733
+46_ult4657u114_saida.json                → TTR: 0.9375
+47_ult4657u115_saida.json                → TTR: 0.9419
+48_ult4657u116_saida.json                → TTR: 0.9600
+49_ult4657u117_saida.json                → TTR: 0.9079
+50_ult4657u118_saida.json                → TTR: 0.9861
+51_ult4657u119_saida.json                → TTR: 0.9565
+52_ult4657u120_saida.json                → TTR: 0.9221
+53_ult4657u121_saida.json                → TTR: 0.9250
+54_ult4657u122_saida.json                → TTR: 0.9467
+55_ult4657u123_saida.json                → TTR: 0.8961
+56_ult4657u23_saida.json                 → TTR: 0.9398
+57_ult4657u24_saida.json                 → TTR: 0.9506
+58_ult4657u25_saida.json                 → TTR: 0.9577
+59_ult4657u26_saida.json                 → TTR: 0.9385
+60_ult4657u27_saida.json                 → TTR: 0.9231
+61_ult4657u28_saida.json                 → TTR: 0.9242
+62_ult4657u29_saida.json                 → TTR: 0.8974
+63_ult4657u30_saida.json                 → TTR: 0.8684
+64_ult4657u31_saida.json                 → TTR: 0.9643
+65_ult4657u32_saida.json                 → TTR: 0.9121
+66_ult4657u33_saida.json                 → TTR: 0.9189
+67_ult4657u35_saida.json                 → TTR: 0.9091
+68_ult4657u36_saida.json                 → TTR: 0.9615
+70_ult4657u38_saida.json                 → TTR: 0.8660
+71_ult4657u39_saida.json                 → TTR: 0.9000
+72_ult4657u40_saida.json                 → TTR: 0.9310
+74_ult4657u42_saida.json                 → TTR: 0.9494
+76_a-democracia-mascarada-por-interesses_saida.json → TTR: 0.8989
+77_a-inseguranca-publica_saida.json      → TTR: 0.9125
+78_a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel_saida.json → TTR: 0.8830
+79_ate-onde-vai-o-limite-para-um-protesto_saida.json → TTR: 0.8778
+80_atos-de-selvageria_saida.json         → TTR: 0.9091
+81_definicao_saida.json                  → TTR: 0.8961
+82_despreparacao_saida.json              → TTR: 0.9158
+83_excesso-de-autoridade_saida.json      → TTR: 0.9022
+84_imediata_saida.json                   → TTR: 0.9259
+85_ja_saida.json                         → TTR: 0.8830
+86_manifestantes-x-policiais-expressao-ou-repressao_saida.json → TTR: 0.9167
+87_nos-quarteis-lhes-ensinam-matar-sem-razao_saida.json → TTR: 0.9556
+88_os-tenis-idealizados_saida.json       → TTR: 0.8876
+89_policia-repressora-ou-pacificadora_saida.json → TTR: 0.8763
+90_por-bem-fazer-mal-haver_saida.json    → TTR: 0.8539
+91_sem-titulo-_saida.json                → TTR: 0.8873
+92_todos-por-um_saida.json               → TTR: 0.8750
+93_treinamento-para-a-paz_saida.json     → TTR: 0.9250
+94_a-populacao-pede-socorro_saida.json   → TTR: 0.9512
+95_a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao_saida.json → TTR: 0.9437
+96_alianca-entre-governo-e-familia_saida.json → TTR: 0.9437
+97_alimentacao-tem-limite_saida.json     → TTR: 0.9211
+98_alimentar_saida.json                  → TTR: 0.9494
+99_e-mais-facil-comer-o-problema-do-que-acabar-com-ele_saida.json → TTR: 0.9481
+100_e-tempo-da-reeducacao-alimentar_saida.json → TTR: 0.9205
+101_em-busca-de-uma-vida-saudavel_saida.json → TTR: 0.8977
+102_escolha-alimentar-uma-responsabilidade-geral_saida.json → TTR: 0.9367
+103_fast-food-da-morte_saida.json        → TTR: 0.9176
+104_modernidade-um-prejuizo-a-saude_saida.json → TTR: 0.9241
+105_nao-existem-culpados_saida.json      → TTR: 0.9059
+106_o-cruel-jogo-da-trash-food-no-brasil-imediatista_saida.json → TTR: 0.9630
+107_o-futuro-de-seus-filhos_saida.json   → TTR: 0.8679
+108_o-poder-de-influencia-na-escolha-alimentar_saida.json → TTR: 0.8902
+109_obesidade-infantil-quem-deve-combate-la_saida.json → TTR: 0.8614
+110_responsabilidade-de-todos_saida.json → TTR: 0.9101
+111_tudo-comeca-quando-crianca_saida.json → TTR: 0.8900
+113_a-necessidade-de-superacao-do-problema-do-lixo_saida.json → TTR: 0.9367
+114_a-questao-dos-lixos-na-sociedade-de-consumo_saida.json → TTR: 0.9595
+115_a-sociedade-consumista-e-a-natureza_saida.json → TTR: 0.8391
+116_antropicas_saida.json                → TTR: 0.8989
+117_educacao-a-solucao-para-o-problema-ambiental_saida.json → TTR: 0.8889
+118_lixo-lixo-lixo-prejuizo-ou-beneficio_saida.json → TTR: 0.8614
+119_o-feitico-contra-o-feiticeiro_saida.json → TTR: 0.8817
+120_o-futuro-do-nosso-planeta_saida.json → TTR: 0.9310
+121_o-lixo-como-produto-do-consumo-alienado_saida.json → TTR: 0.8911
+122_o-lixo-como-solucao_saida.json       → TTR: 0.8980
+123_o-lixo-e-suas-consequencias-na-sociedade_saida.json → TTR: 0.9238
+124_o-monopolio-da-destruicao-monopolio-da-destruicao_saida.json → TTR: 0.9100
+125_o-verdadeiro-problema-do-lixo-seu-descarte-incorreto_saida.json → TTR: 0.8611
+126_os-verdadeiro-viloes_saida.json      → TTR: 0.8866
+127_planeta-terra-a-lata-de-lixo-comunitaria_saida.json → TTR: 0.9479
+128_salvando-o-planeta_saida.json        → TTR: 0.8737
+129_sem-titulo-_saida.json               → TTR: 0.8469
+130_todo-ciclo-deve-ser-respeitado-o-do-lixo-tambem_saida.json → TTR: 0.8889
+131_a-pressa-e-inimiga-do-bom-motorista_saida.json → TTR: 0.9032
+132_caos-nas-ruas_saida.json             → TTR: 0.9255
+133_conscientizar-e-reduzir_saida.json   → TTR: 0.9053
+134_discussoes-no-transito_saida.json    → TTR: 0.8909
+135_dualidade_saida.json                 → TTR: 0.9167
+
+% Palavras identificadas Dataset QwenMax: 73.00%
+
+Dataset Data - TTR e palavras não identificadas
+Subpasta: a-aids-nao-e-mais-a-mesma-por-que-diminuiu-o-medo-da-doenca Arquivo: prompt.xml                     → TTR: 0.7923
+Subpasta: a-energia-nuclear-e-uma-boa-solucao-para-o-brasil Arquivo: prompt.xml                     → TTR: 0.9492
+Subpasta: a-gramatica-facilita-ou-dificulta-a-comunicacao Arquivo: prompt.xml                     → TTR: 0.9492
+Subpasta: a-necessidade-de-crer-em-herois Arquivo: prompt.xml                     → TTR: 0.9167
+Subpasta: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel Arquivo: prompt.xml                     → TTR: 0.8889
+Subpasta: a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao Arquivo: prompt.xml                     → TTR: 0.8598
+Subpasta: a-questao-do-lixo-nas-sociedades-de-consumo Arquivo: prompt.xml                     → TTR: 0.8279
+Subpasta: a-sociedade-brasileira-e-os-conflitos-no-transito Arquivo: prompt.xml                     → TTR: 0.8482
+Subpasta: a-sociedade-esta-perdendo-a-batalha-contra-o-crime Arquivo: prompt.xml                     → TTR: 0.8819
+Subpasta: a-virgindade-e-um-valor-moral-a-ser-preservado Arquivo: prompt.xml                     → TTR: 0.8608
+Subpasta: agua-aprenderemos-com-a-atual-crise-hidrica Arquivo: prompt.xml                     → TTR: 0.8320
+Subpasta: amar-pode-levar-ao-crime-ou-quem-ama-nao-mata Arquivo: prompt.xml                     → TTR: 0.8765
+Subpasta: amor-com-grande-diferenca-de-idade-sera-que-isso-funciona Arquivo: prompt.xml                     → TTR: 0.8454
+Subpasta: automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens Arquivo: prompt.xml                     → TTR: 0.7957
+Subpasta: bicicletas-e-ciclofaixas-estao-chegando-para-ficar Arquivo: prompt.xml                     → TTR: 0.7698
+Subpasta: biografias-personagens-e-autores-em-confronto Arquivo: prompt.xml                     → TTR: 0.8252
+Subpasta: caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao Arquivo: prompt.xml                     → TTR: 0.9022
+Subpasta: cientistas-preveem-futuro-sombrio-para-terra Arquivo: prompt.xml                     → TTR: 0.8163
+Subpasta: combate-ao-fumo-autoritarismo-ou-dever-do-governo Arquivo: prompt.xml                     → TTR: 0.9070
+Subpasta: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao Arquivo: prompt.xml                     → TTR: 0.8476
+Subpasta: como-resolver-o-problema-da-criminalidade-infantil-em-nossa-sociedade Arquivo: prompt.xml                     → TTR: 0.8917
+Subpasta: como-se-tornar-um-consumidor-consciente-isso-e-possivel Arquivo: prompt.xml                     → TTR: 0.8611
+Subpasta: como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet Arquivo: prompt.xml                     → TTR: 0.6667
+Subpasta: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais Arquivo: prompt.xml                     → TTR: 0.9189
+Subpasta: cotas-nas-universidades-voce-e-a-favor-ou-contra Arquivo: prompt.xml                     → TTR: 0.8194
+Subpasta: cotas-para-universidades-federais-solucao-ou-problema Arquivo: prompt.xml                     → TTR: 0.8729
+Subpasta: cultura-do-estupro-a-culpa-e-da-vitima Arquivo: prompt.xml                     → TTR: 0.9474
+Subpasta: deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool Arquivo: prompt.xml                     → TTR: 0.8496
+Subpasta: deve-se-reduzir-a-maioridade-penal-no-brasil Arquivo: prompt.xml                     → TTR: 0.7985
+Subpasta: e-certo-ou-errado-leiloar-a-virgindade-por-que Arquivo: prompt.xml                     → TTR: 0.7721
+Subpasta: e-justo-proibir-o-uso-do-celular-na-sala-de-aula Arquivo: prompt.xml                     → TTR: 1.0000
+Subpasta: e-possivel-prevenir-massacres-como-o-da-escola-de-realengo Arquivo: prompt.xml                     → TTR: 0.8889
+Subpasta: e-valido-simplificar-a-linguagem-de-um-classico Arquivo: prompt.xml                     → TTR: 0.8349
+Subpasta: enchentes-o-excesso-de-chuvas-e-o-unico-responsavel-pelo-desastre Arquivo: prompt.xml                     → TTR: 0.8571
+Subpasta: eutanasia-quem-decide-a-hora-certa-de-morrer Arquivo: prompt.xml                     → TTR: 0.8681
+Subpasta: experiencias-com-animais-e-violencia-em-manifestacoes Arquivo: prompt.xml                     → TTR: 0.8598
+Subpasta: favela-e-cidade-as-distancias-sociais-desapareceram Arquivo: prompt.xml                     → TTR: 0.8133
+Subpasta: fomos-dominados-pelas-maquinas-que-inventamos Arquivo: prompt.xml                     → TTR: 0.8615
+Subpasta: forma-fisica-corpo-perfeito-e-consumismo Arquivo: prompt.xml                     → TTR: 0.8348
+Subpasta: gravidez-fora-de-hora-adolescencia-em-crise Arquivo: prompt.xml                     → TTR: 0.9315
+Subpasta: ha-limites-para-a-liberdade-de-expressao Arquivo: prompt.xml                     → TTR: 0.8426
+Subpasta: hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco Arquivo: prompt.xml                     → TTR: 0.8163
+Subpasta: horario-politico-obrigatorio-bom-para-quem Arquivo: prompt.xml                     → TTR: 0.8281
+Subpasta: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados Arquivo: prompt.xml                     → TTR: 0.9000
+Subpasta: intolerancia-religiosa-regra-ou-excecao-no-brasil Arquivo: prompt.xml                     → TTR: 0.8969
+Subpasta: justica-x-vinganca-como-nao-confundir-as-duas-coisas Arquivo: prompt.xml                     → TTR: 0.8220
+Subpasta: juventude-e-alcoolismo-um-problema-social Arquivo: prompt.xml                     → TTR: 0.8261
+Subpasta: leis-e-penas-mais-duras-sao-a-unica-solucao-para-o-transito-brasileiro Arquivo: prompt.xml                     → TTR: 0.9322
+Subpasta: lixo-questao-de-cidadania-e-responsabilidade-social Arquivo: prompt.xml                     → TTR: 0.8235
+Subpasta: maconha-manter-proibicao-legalizar-descriminalizar Arquivo: prompt.xml                     → TTR: 0.8067
+Subpasta: meia-entrada-voce-e-contra-ou-a-favor-por-que Arquivo: prompt.xml                     → TTR: 0.8182
+Subpasta: mentira-e-doenca-problema-moral-necessidade-ou-brincadeira Arquivo: prompt.xml                     → TTR: 0.8925
+Subpasta: nacional-ou-importada-qual-a-cara-do-brasil Arquivo: prompt.xml                     → TTR: 0.9333
+Subpasta: norma-culta-x-variantes-linguisticas-qual-deve-ser-a-posicao-da-escola Arquivo: prompt.xml                     → TTR: 0.7907
+Subpasta: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que Arquivo: prompt.xml                     → TTR: 0.8554
+Subpasta: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico Arquivo: prompt.xml                     → TTR: 0.9062
+Subpasta: o-conceito-de-familia-pode-ou-nao-pode-mudar Arquivo: prompt.xml                     → TTR: 0.6923
+Subpasta: o-conflito-entre-geracoes-e-a-convivencia-social Arquivo: prompt.xml                     → TTR: 0.8611
+Subpasta: o-famoso-conflito-de-geracoes-ainda-existe-hoje Arquivo: prompt.xml                     → TTR: 0.9014
+Subpasta: o-fumo-deve-ser-proibido-em-todos-os-lugares Arquivo: prompt.xml                     → TTR: 0.9048
+Subpasta: o-horario-de-propaganda-eleitoral-e-util-para-o-eleitor Arquivo: prompt.xml                     → TTR: 0.8115
+Subpasta: o-jovem-perdeu-o-interesse-pela-participacao-eleitoral-por-que Arquivo: prompt.xml                     → TTR: 0.8621
+Subpasta: o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia Arquivo: prompt.xml                     → TTR: 0.9859
+Subpasta: o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes Arquivo: prompt.xml                     → TTR: 0.8167
+Subpasta: o-preconceito-racial-esta-chegando-ao-fim Arquivo: prompt.xml                     → TTR: 0.8621
+Subpasta: o-que-e-ser-homem-nos-dias-de-hoje Arquivo: prompt.xml                     → TTR: 0.9222
+Subpasta: o-que-muda-no-pais-apos-as-manifestacoes-populares Arquivo: prompt.xml                     → TTR: 0.8870
+Subpasta: o-que-voce-acha-do-ensino-nas-escolas-do-brasil Arquivo: prompt.xml                     → TTR: 0.8267
+Subpasta: o-que-voce-acha-do-novo-acordo-ortografico Arquivo: prompt.xml                     → TTR: 0.8684
+Subpasta: o-que-voce-pensa-da-proibicao-a-pratica-do-castigo-fisico Arquivo: prompt.xml                     → TTR: 0.8163
+Subpasta: o-supremo-tribunal-federal-fez-bem-em-legalizar-o-aborto-de-anencefalos Arquivo: prompt.xml                     → TTR: 0.8261
+Subpasta: o-uso-da-maconha-deve-ou-nao-ser-legalizado Arquivo: prompt.xml                     → TTR: 0.8923
+Subpasta: o-voto-nulo-e-um-ato-politico-valido Arquivo: prompt.xml                     → TTR: 1.0000
+Subpasta: organismos-transgenicos-fonte-de-problemas-ou-de-solucoes Arquivo: prompt.xml                     → TTR: 0.8421
+Subpasta: os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade Arquivo: prompt.xml                     → TTR: 0.7820
+Subpasta: por-que-a-ideia-de-fim-do-mundo-atrai-e-assusta Arquivo: prompt.xml                     → TTR: 0.8300
+Subpasta: por-que-as-pessoas-mentem-pela-internet Arquivo: prompt.xml                     → TTR: 0.9322
+Subpasta: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil Arquivo: prompt.xml                     → TTR: 0.8310
+Subpasta: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo Arquivo: prompt.xml                     → TTR: 0.8043
+Subpasta: quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional Arquivo: prompt.xml                     → TTR: 0.9683
+Subpasta: qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro Arquivo: prompt.xml                     → TTR: 0.8030
+Subpasta: qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida Arquivo: prompt.xml                     → TTR: 0.8348
+Subpasta: qual-e-o-limite-entre-o-trote-e-o-crime Arquivo: prompt.xml                     → TTR: 0.8689
+Subpasta: qual-o-papel-da-imprensa-numa-sociedade-democratica Arquivo: prompt.xml                     → TTR: 0.8370
+Subpasta: qual-o-papel-da-mulher-na-sociedade-brasileira-atual Arquivo: prompt.xml                     → TTR: 0.8462
+Subpasta: qual-sera-o-legado-da-copa-do-mundo-para-o-brasil Arquivo: prompt.xml                     → TTR: 0.7944
+Subpasta: racismo-como-virar-de-vez-essa-triste-pagina-da-historia Arquivo: prompt.xml                     → TTR: 0.8938
+Subpasta: reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao Arquivo: prompt.xml                     → TTR: 0.9010
+Subpasta: selinho-e-inocente-ou-tem-significado-sexual Arquivo: prompt.xml                     → TTR: 0.8718
+Subpasta: terrorismo-o-brasil-tem-razoes-para-teme-lo Arquivo: prompt.xml                     → TTR: 0.8403
+Subpasta: toque-de-recolher-protege-juventude-e-sociedade Arquivo: prompt.xml                     → TTR: 1.0000
+Subpasta: um-cachorro-vale-mais-do-que-um-ser-humano Arquivo: prompt.xml                     → TTR: 0.8824
+Subpasta: viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao Arquivo: prompt.xml                     → TTR: 0.8889
+Subpasta: violencia-escolar-expor-o-problema-e-sugerir-solucoes Arquivo: prompt.xml                     → TTR: 0.7931
+Subpasta: votar-em-palhaco-e-uma-forma-valida-de-protestar Arquivo: prompt.xml                     → TTR: 0.8318
+
+% Palavras identificadas Dataset Data: 71.80%

@@ -1,0 +1,7 @@
+# ignorar os datasets de redações
+data/raw/*
+data/synthetic/*
+
+# manter as pastas no github, ainda que vazias
+!dataset/TopicAlignment/raw/.gitkeep
+!dataset/TopicAlignment/synthetic/.gitkeep

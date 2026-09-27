@@ -1,5 +1,0 @@
-O TTR (diversidade lexical) varia de 0 a 1.
-QwenMax - Média TTR: 0.9156, Desvio padrão: 0.0345, Palavras identificadas: 73%
-Data - Média TTR: 0.8594, Desvio padrão: 0.0584, Palavras identificadas: 71,80%
-#As palavras que foram identificadas/consideradas são somente as que possuem 3 ou mais caracteres (letras)
-#Desvio padrão é o quanto cada comando temático se distancia da média. Ex: Se um comando temático tiver ttr de 1 e o outro de 0, a média será 0.5, porém os dois valores estão muito longe um do outro, fazendo com que fiquem longe da média também

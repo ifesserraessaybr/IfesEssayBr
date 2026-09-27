@@ -1,2 +1,0 @@
-Olá! Sou o Joaquim e esse repositório contém alguns dos estudos que foram feitos na minha Iniciação Científica no IFES Campus Serra, coordenado pelas professoras Marta e Evelin.
-Nele, estão disponibilizados o código usado para gerar a métrica de diversidade lexical no dataset Qwen3-Max. Além disso, também estão públicos os resultados de TTR de cada uma dos comandos temáticos presentes no dataset. Esses resultados foram gerados por essa métrica que também calculou a média de TTR  dos comandos temáticos do dataset.

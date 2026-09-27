@@ -1,0 +1,17 @@
+DIVERSIDADE LÉXICA, COMPLEXIDADE LEXICAL E COMPLEXIDADE SILÁBICA - DATASET DATA
+================================================================================
+Diversidade Léxica Média: 85.9%
+Desvio Padrão: 5.8%
+Complexidade Léxica Média: 20.1%
+Proporção de palavras longas (4+ sílabas): 20.7%
+Diversidade silábica média: 54.8%
+Proporção de palavras complexas (3+ sílabas): 43.5%
+Média de sílabas por palavra: 2.59
+Diversidade de todo dataset: 35.6%
+Total de Pastas: 95
+Pastas Válidas: 95
+
+--- COMPLEXIDADE GERAL ---
+Score de Complexidade: 0.314
+Classificação: Média
+Correlação Diver-Complex: 0.026

@@ -1,0 +1,5499 @@
+DIVERSIDADE LÉXICA, COMPLEXIDADE LEXICAL E ANÁLISE SILÁBICA - RESULTADOS INDIVIDUAIS
+==========================================================================================
+100_ult4657u123_saida.json:
+  Diversidade Léxica: 0.828 (82.8%)
+  Complexidade Lexical: 0.235 (23.5%) - Média
+  Palavras Longas (4+ sílabas): 0.266 (26.6%)
+  Diversidade Silábica: 0.587 (58.7%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.80
+
+10_aids-sem-medo_saida.json:
+  Diversidade Léxica: 0.876 (87.6%)
+  Complexidade Lexical: 0.237 (23.8%) - Média
+  Palavras Longas (4+ sílabas): 0.247 (24.7%)
+  Diversidade Silábica: 0.526 (52.6%)
+  Palavras Complexas (3+ sílabas): 0.539 (53.9%)
+  Sílabas por Palavra: 2.80
+
+118_a-politica-de-cotas_saida.json:
+  Diversidade Léxica: 0.761 (76.1%)
+  Complexidade Lexical: 0.295 (29.5%) - Média
+  Palavras Longas (4+ sílabas): 0.326 (32.6%)
+  Diversidade Silábica: 0.454 (45.4%)
+  Palavras Complexas (3+ sílabas): 0.609 (60.9%)
+  Sílabas por Palavra: 3.09
+
+119_as-cotas-e-a-desigualdade_saida.json:
+  Diversidade Léxica: 0.781 (78.1%)
+  Complexidade Lexical: 0.273 (27.3%) - Média
+  Palavras Longas (4+ sílabas): 0.329 (32.9%)
+  Diversidade Silábica: 0.486 (48.6%)
+  Palavras Complexas (3+ sílabas): 0.644 (64.4%)
+  Sílabas por Palavra: 3.01
+
+11_ate-quando-nao-levar-a-serio_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.256 (25.6%) - Média
+  Palavras Longas (4+ sílabas): 0.237 (23.7%)
+  Diversidade Silábica: 0.670 (67.0%)
+  Palavras Complexas (3+ sílabas): 0.658 (65.8%)
+  Sílabas por Palavra: 3.03
+
+122_cotas-uma-solucao-paliativa_saida.json:
+  Diversidade Léxica: 0.755 (75.5%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.296 (29.6%)
+  Diversidade Silábica: 0.415 (41.5%)
+  Palavras Complexas (3+ sílabas): 0.602 (60.2%)
+  Sílabas por Palavra: 3.07
+
+122_ult4657u23_saida.json:
+  Diversidade Léxica: 0.772 (77.2%)
+  Complexidade Lexical: 0.162 (16.2%) - Baixa
+  Palavras Longas (4+ sílabas): 0.150 (15.0%)
+  Diversidade Silábica: 0.443 (44.3%)
+  Palavras Complexas (3+ sílabas): 0.378 (37.8%)
+  Sílabas por Palavra: 2.38
+
+123_cotas_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.389 (38.9%) - Alta
+  Palavras Longas (4+ sílabas): 0.523 (52.3%)
+  Diversidade Silábica: 0.599 (59.9%)
+  Palavras Complexas (3+ sílabas): 0.659 (65.9%)
+  Sílabas por Palavra: 3.34
+
+124_ult4657u25_saida.json:
+  Diversidade Léxica: 0.861 (86.1%)
+  Complexidade Lexical: 0.270 (27.0%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.560 (56.0%)
+  Palavras Complexas (3+ sílabas): 0.542 (54.2%)
+  Sílabas por Palavra: 2.90
+
+125_ult4657u26_saida.json:
+  Diversidade Léxica: 0.882 (88.2%)
+  Complexidade Lexical: 0.271 (27.1%) - Média
+  Palavras Longas (4+ sílabas): 0.279 (27.9%)
+  Diversidade Silábica: 0.547 (54.7%)
+  Palavras Complexas (3+ sílabas): 0.529 (52.9%)
+  Sílabas por Palavra: 2.96
+
+126_heranca-da-escravidao_saida.json:
+  Diversidade Léxica: 0.836 (83.6%)
+  Complexidade Lexical: 0.310 (31.0%) - Média
+  Palavras Longas (4+ sílabas): 0.377 (37.7%)
+  Diversidade Silábica: 0.551 (55.1%)
+  Palavras Complexas (3+ sílabas): 0.590 (59.0%)
+  Sílabas por Palavra: 3.07
+
+127_igualdade-a-todos_saida.json:
+  Diversidade Léxica: 0.740 (74.0%)
+  Complexidade Lexical: 0.271 (27.1%) - Média
+  Palavras Longas (4+ sílabas): 0.329 (32.9%)
+  Diversidade Silábica: 0.488 (48.8%)
+  Palavras Complexas (3+ sílabas): 0.562 (56.2%)
+  Sílabas por Palavra: 2.95
+
+127_ult4657u28_saida.json:
+  Diversidade Léxica: 0.884 (88.4%)
+  Complexidade Lexical: 0.302 (30.2%) - Média
+  Palavras Longas (4+ sílabas): 0.319 (31.9%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.565 (56.5%)
+  Sílabas por Palavra: 3.03
+
+128_julgar-a-idoneidade-dos-alunos-publicos-e-preconceito_saida.json:
+  Diversidade Léxica: 0.800 (80.0%)
+  Complexidade Lexical: 0.326 (32.6%) - Média
+  Palavras Longas (4+ sílabas): 0.400 (40.0%)
+  Diversidade Silábica: 0.513 (51.3%)
+  Palavras Complexas (3+ sílabas): 0.650 (65.0%)
+  Sílabas por Palavra: 3.22
+
+128_ult4657u29_saida.json:
+  Diversidade Léxica: 0.888 (88.8%)
+  Complexidade Lexical: 0.306 (30.6%) - Média
+  Palavras Longas (4+ sílabas): 0.346 (34.6%)
+  Diversidade Silábica: 0.466 (46.6%)
+  Palavras Complexas (3+ sílabas): 0.598 (59.8%)
+  Sílabas por Palavra: 3.05
+
+129_lei-para-todos_saida.json:
+  Diversidade Léxica: 0.763 (76.3%)
+  Complexidade Lexical: 0.213 (21.3%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.500 (50.0%)
+  Palavras Complexas (3+ sílabas): 0.526 (52.6%)
+  Sílabas por Palavra: 2.76
+
+12_atualmente_saida.json:
+  Diversidade Léxica: 0.827 (82.7%)
+  Complexidade Lexical: 0.233 (23.3%) - Média
+  Palavras Longas (4+ sílabas): 0.253 (25.3%)
+  Diversidade Silábica: 0.560 (56.0%)
+  Palavras Complexas (3+ sílabas): 0.547 (54.7%)
+  Sílabas por Palavra: 2.76
+
+130_necessaria_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.307 (30.7%) - Média
+  Palavras Longas (4+ sílabas): 0.368 (36.8%)
+  Diversidade Silábica: 0.506 (50.6%)
+  Palavras Complexas (3+ sílabas): 0.598 (59.8%)
+  Sílabas por Palavra: 3.07
+
+130_ult4657u31_saida.json:
+  Diversidade Léxica: 0.854 (85.4%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.326 (32.6%)
+  Diversidade Silábica: 0.479 (47.9%)
+  Palavras Complexas (3+ sílabas): 0.539 (53.9%)
+  Sílabas por Palavra: 2.98
+
+131_ult4657u32_saida.json:
+  Diversidade Léxica: 0.804 (80.4%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.237 (23.7%)
+  Diversidade Silábica: 0.461 (46.1%)
+  Palavras Complexas (3+ sílabas): 0.588 (58.8%)
+  Sílabas por Palavra: 2.93
+
+132_retrocesso-da-nacao_saida.json:
+  Diversidade Léxica: 0.924 (92.4%)
+  Complexidade Lexical: 0.324 (32.4%) - Média
+  Palavras Longas (4+ sílabas): 0.379 (37.9%)
+  Diversidade Silábica: 0.553 (55.3%)
+  Palavras Complexas (3+ sílabas): 0.606 (60.6%)
+  Sílabas por Palavra: 3.15
+
+133_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.821 (82.1%)
+  Complexidade Lexical: 0.248 (24.8%) - Média
+  Palavras Longas (4+ sílabas): 0.269 (26.9%)
+  Diversidade Silábica: 0.526 (52.6%)
+  Palavras Complexas (3+ sílabas): 0.564 (56.4%)
+  Sílabas por Palavra: 2.92
+
+133_ult4657u35_saida.json:
+  Diversidade Léxica: 0.887 (88.7%)
+  Complexidade Lexical: 0.272 (27.2%) - Média
+  Palavras Longas (4+ sílabas): 0.309 (30.9%)
+  Diversidade Silábica: 0.503 (50.3%)
+  Palavras Complexas (3+ sílabas): 0.598 (59.8%)
+  Sílabas por Palavra: 2.97
+
+134_ult4657u36_saida.json:
+  Diversidade Léxica: 0.863 (86.2%)
+  Complexidade Lexical: 0.244 (24.4%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.498 (49.8%)
+  Palavras Complexas (3+ sílabas): 0.525 (52.5%)
+  Sílabas por Palavra: 2.84
+
+135_um-desfecho-incompleto_saida.json:
+  Diversidade Léxica: 0.779 (77.9%)
+  Complexidade Lexical: 0.219 (21.9%) - Média
+  Palavras Longas (4+ sílabas): 0.244 (24.4%)
+  Diversidade Silábica: 0.399 (39.9%)
+  Palavras Complexas (3+ sílabas): 0.483 (48.3%)
+  Sílabas por Palavra: 2.67
+
+136_ult4657u38_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.290 (29.0%) - Média
+  Palavras Longas (4+ sílabas): 0.309 (30.9%)
+  Diversidade Silábica: 0.545 (54.5%)
+  Palavras Complexas (3+ sílabas): 0.529 (52.9%)
+  Sílabas por Palavra: 2.91
+
+137_ult4657u39_saida.json:
+  Diversidade Léxica: 0.864 (86.4%)
+  Complexidade Lexical: 0.322 (32.2%) - Média
+  Palavras Longas (4+ sílabas): 0.356 (35.6%)
+  Diversidade Silábica: 0.527 (52.7%)
+  Palavras Complexas (3+ sílabas): 0.644 (64.4%)
+  Sílabas por Palavra: 3.15
+
+138_ult4657u40_saida.json:
+  Diversidade Léxica: 0.887 (88.7%)
+  Complexidade Lexical: 0.226 (22.6%) - Média
+  Palavras Longas (4+ sílabas): 0.242 (24.2%)
+  Diversidade Silábica: 0.627 (62.7%)
+  Palavras Complexas (3+ sílabas): 0.468 (46.8%)
+  Sílabas por Palavra: 2.68
+
+140_ult4657u42_saida.json:
+  Diversidade Léxica: 0.960 (96.0%)
+  Complexidade Lexical: 0.260 (26.0%) - Média
+  Palavras Longas (4+ sílabas): 0.340 (34.0%)
+  Diversidade Silábica: 0.645 (64.5%)
+  Palavras Complexas (3+ sílabas): 0.560 (56.0%)
+  Sílabas por Palavra: 2.82
+
+14_condicoes-para-jovens-sem-medo_saida.json:
+  Diversidade Léxica: 0.903 (90.3%)
+  Complexidade Lexical: 0.238 (23.8%) - Média
+  Palavras Longas (4+ sílabas): 0.215 (21.5%)
+  Diversidade Silábica: 0.530 (53.0%)
+  Palavras Complexas (3+ sílabas): 0.559 (55.9%)
+  Sílabas por Palavra: 2.84
+
+156_a-internet-e-a-cultura-do-estupro_saida.json:
+  Diversidade Léxica: 0.966 (96.6%)
+  Complexidade Lexical: 0.377 (37.7%) - Alta
+  Palavras Longas (4+ sílabas): 0.448 (44.8%)
+  Diversidade Silábica: 0.680 (68.0%)
+  Palavras Complexas (3+ sílabas): 0.690 (69.0%)
+  Sílabas por Palavra: 3.34
+
+157_a-procura-da-humanizacao_saida.json:
+  Diversidade Léxica: 0.800 (80.0%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.263 (26.3%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.547 (54.7%)
+  Sílabas por Palavra: 2.89
+
+158_com-roupas-ou-sem-roupas-ninguem-merece-ser-estuprado_saida.json:
+  Diversidade Léxica: 0.844 (84.4%)
+  Complexidade Lexical: 0.206 (20.6%) - Média
+  Palavras Longas (4+ sílabas): 0.156 (15.6%)
+  Diversidade Silábica: 0.632 (63.2%)
+  Palavras Complexas (3+ sílabas): 0.533 (53.3%)
+  Sílabas por Palavra: 2.78
+
+159_cultura-do-estupro-a-culpa-e-da-vitima_saida.json:
+  Diversidade Léxica: 0.802 (80.2%)
+  Complexidade Lexical: 0.278 (27.8%) - Média
+  Palavras Longas (4+ sílabas): 0.284 (28.4%)
+  Diversidade Silábica: 0.480 (48.0%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 3.01
+
+161_a-democracia-mascarada-por-interesses_saida.json:
+  Diversidade Léxica: 0.825 (82.5%)
+  Complexidade Lexical: 0.248 (24.8%) - Média
+  Palavras Longas (4+ sílabas): 0.238 (23.8%)
+  Diversidade Silábica: 0.453 (45.3%)
+  Palavras Complexas (3+ sílabas): 0.587 (58.7%)
+  Sílabas por Palavra: 2.93
+
+161_estupro-mais-que-fisica-e-uma-dor-psicologica_saida.json:
+  Diversidade Léxica: 0.907 (90.7%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.267 (26.7%)
+  Diversidade Silábica: 0.570 (57.0%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.97
+
+162_a-inseguranca-publica_saida.json:
+  Diversidade Léxica: 0.809 (80.9%)
+  Complexidade Lexical: 0.240 (24.0%) - Média
+  Palavras Longas (4+ sílabas): 0.270 (27.0%)
+  Diversidade Silábica: 0.500 (50.0%)
+  Palavras Complexas (3+ sílabas): 0.483 (48.3%)
+  Sílabas por Palavra: 2.72
+
+162_mente-fechada-e-achar-que-a-culpa-e-sempre-delas_saida.json:
+  Diversidade Léxica: 0.860 (86.0%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.280 (28.0%)
+  Diversidade Silábica: 0.587 (58.7%)
+  Palavras Complexas (3+ sílabas): 0.540 (54.0%)
+  Sílabas por Palavra: 2.86
+
+163_a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel_saida.json:
+  Diversidade Léxica: 0.879 (87.9%)
+  Complexidade Lexical: 0.323 (32.3%) - Média
+  Palavras Longas (4+ sílabas): 0.364 (36.4%)
+  Diversidade Silábica: 0.524 (52.4%)
+  Palavras Complexas (3+ sílabas): 0.652 (65.2%)
+  Sílabas por Palavra: 3.15
+
+164_nao-mereco-ser-atacada_saida.json:
+  Diversidade Léxica: 0.839 (83.9%)
+  Complexidade Lexical: 0.303 (30.3%) - Média
+  Palavras Longas (4+ sílabas): 0.306 (30.6%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.581 (58.1%)
+  Sílabas por Palavra: 3.13
+
+165_o-crime-da-vitima-ser-mulher_saida.json:
+  Diversidade Léxica: 0.795 (79.5%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.253 (25.3%)
+  Diversidade Silábica: 0.453 (45.3%)
+  Palavras Complexas (3+ sílabas): 0.530 (53.0%)
+  Sílabas por Palavra: 2.93
+
+166_definicao_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.294 (29.4%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.529 (52.9%)
+  Sílabas por Palavra: 2.88
+
+167_despreparacao_saida.json:
+  Diversidade Léxica: 0.865 (86.5%)
+  Complexidade Lexical: 0.222 (22.2%) - Média
+  Palavras Longas (4+ sílabas): 0.207 (20.7%)
+  Diversidade Silábica: 0.485 (48.5%)
+  Palavras Complexas (3+ sílabas): 0.559 (55.9%)
+  Sílabas por Palavra: 2.77
+
+167_o-motivo-para-ser-estuprado_saida.json:
+  Diversidade Léxica: 0.849 (84.9%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.283 (28.3%)
+  Diversidade Silábica: 0.476 (47.6%)
+  Palavras Complexas (3+ sílabas): 0.575 (57.5%)
+  Sílabas por Palavra: 2.95
+
+168_excesso-de-autoridade_saida.json:
+  Diversidade Léxica: 0.865 (86.5%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.311 (31.1%)
+  Diversidade Silábica: 0.507 (50.7%)
+  Palavras Complexas (3+ sílabas): 0.622 (62.2%)
+  Sílabas por Palavra: 2.99
+
+169_imediata_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.300 (30.0%) - Média
+  Palavras Longas (4+ sílabas): 0.349 (34.9%)
+  Diversidade Silábica: 0.556 (55.6%)
+  Palavras Complexas (3+ sílabas): 0.683 (68.3%)
+  Sílabas por Palavra: 3.14
+
+169_quem-sera-a-verdadeira-vitima-vitima-do-estupro-_saida.json:
+  Diversidade Léxica: 0.844 (84.4%)
+  Complexidade Lexical: 0.254 (25.4%) - Média
+  Palavras Longas (4+ sílabas): 0.247 (24.7%)
+  Diversidade Silábica: 0.511 (51.1%)
+  Palavras Complexas (3+ sílabas): 0.584 (58.4%)
+  Sílabas por Palavra: 3.00
+
+16_falacia-da-juventude_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.310 (31.0%) - Média
+  Palavras Longas (4+ sílabas): 0.339 (33.9%)
+  Diversidade Silábica: 0.430 (43.0%)
+  Palavras Complexas (3+ sílabas): 0.579 (57.9%)
+  Sílabas por Palavra: 3.07
+
+170_ja_saida.json:
+  Diversidade Léxica: 0.871 (87.1%)
+  Complexidade Lexical: 0.202 (20.2%) - Média
+  Palavras Longas (4+ sílabas): 0.210 (21.0%)
+  Diversidade Silábica: 0.620 (62.0%)
+  Palavras Complexas (3+ sílabas): 0.581 (58.1%)
+  Sílabas por Palavra: 2.76
+
+170_resquicios-do-patriarcalismo_saida.json:
+  Diversidade Léxica: 0.909 (90.9%)
+  Complexidade Lexical: 0.353 (35.3%) - Alta
+  Palavras Longas (4+ sílabas): 0.409 (40.9%)
+  Diversidade Silábica: 0.662 (66.2%)
+  Palavras Complexas (3+ sílabas): 0.682 (68.2%)
+  Sílabas por Palavra: 3.23
+
+171_manifestantes-x-policiais-expressao-ou-repressao_saida.json:
+  Diversidade Léxica: 0.819 (81.9%)
+  Complexidade Lexical: 0.228 (22.8%) - Média
+  Palavras Longas (4+ sílabas): 0.235 (23.5%)
+  Diversidade Silábica: 0.405 (40.5%)
+  Palavras Complexas (3+ sílabas): 0.584 (58.4%)
+  Sílabas por Palavra: 2.83
+
+172_nos-quarteis-lhes-ensinam-matar-sem-razao_saida.json:
+  Diversidade Léxica: 0.816 (81.6%)
+  Complexidade Lexical: 0.288 (28.8%) - Média
+  Palavras Longas (4+ sílabas): 0.330 (33.0%)
+  Diversidade Silábica: 0.433 (43.3%)
+  Palavras Complexas (3+ sílabas): 0.583 (58.3%)
+  Sílabas por Palavra: 2.98
+
+173_os-tenis-idealizados_saida.json:
+  Diversidade Léxica: 0.805 (80.5%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.253 (25.3%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.552 (55.2%)
+  Sílabas por Palavra: 2.87
+
+173_vitima-vitima-e-nao-criminosa_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.276 (27.6%) - Média
+  Palavras Longas (4+ sílabas): 0.279 (27.9%)
+  Diversidade Silábica: 0.540 (54.0%)
+  Palavras Complexas (3+ sílabas): 0.544 (54.4%)
+  Sílabas por Palavra: 2.97
+
+174_policia-repressora-ou-pacificadora_saida.json:
+  Diversidade Léxica: 0.766 (76.6%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.361 (36.1%)
+  Palavras Complexas (3+ sílabas): 0.463 (46.3%)
+  Sílabas por Palavra: 2.74
+
+174_vou-ser-estuprada-estou-usando-uma-blusa-decotada_saida.json:
+  Diversidade Léxica: 0.874 (87.4%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.299 (29.9%)
+  Diversidade Silábica: 0.531 (53.1%)
+  Palavras Complexas (3+ sílabas): 0.563 (56.3%)
+  Sílabas por Palavra: 3.01
+
+176_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.915 (91.5%)
+  Complexidade Lexical: 0.294 (29.4%) - Média
+  Palavras Longas (4+ sílabas): 0.341 (34.1%)
+  Diversidade Silábica: 0.500 (50.0%)
+  Palavras Complexas (3+ sílabas): 0.646 (64.6%)
+  Sílabas por Palavra: 3.02
+
+177_todos-por-um_saida.json:
+  Diversidade Léxica: 0.820 (82.0%)
+  Complexidade Lexical: 0.272 (27.2%) - Média
+  Palavras Longas (4+ sílabas): 0.310 (31.0%)
+  Diversidade Silábica: 0.463 (46.3%)
+  Palavras Complexas (3+ sílabas): 0.620 (62.0%)
+  Sílabas por Palavra: 3.00
+
+178_treinamento-para-a-paz_saida.json:
+  Diversidade Léxica: 0.825 (82.5%)
+  Complexidade Lexical: 0.228 (22.8%) - Média
+  Palavras Longas (4+ sílabas): 0.243 (24.3%)
+  Diversidade Silábica: 0.472 (47.2%)
+  Palavras Complexas (3+ sílabas): 0.592 (59.2%)
+  Sílabas por Palavra: 2.80
+
+17_joias-perdidas-em-silencio_saida.json:
+  Diversidade Léxica: 0.830 (83.0%)
+  Complexidade Lexical: 0.234 (23.4%) - Média
+  Palavras Longas (4+ sílabas): 0.240 (24.0%)
+  Diversidade Silábica: 0.489 (48.9%)
+  Palavras Complexas (3+ sílabas): 0.540 (54.0%)
+  Sílabas por Palavra: 2.80
+
+18_o-mal-do-seculo_saida.json:
+  Diversidade Léxica: 0.904 (90.4%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.247 (24.7%)
+  Diversidade Silábica: 0.579 (57.9%)
+  Palavras Complexas (3+ sílabas): 0.589 (58.9%)
+  Sílabas por Palavra: 2.86
+
+194_a-bebida-alcoolica-e-a-legislacao-que-a-rege-no-brasil_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.226 (22.6%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.484 (48.4%)
+  Palavras Complexas (3+ sílabas): 0.614 (61.4%)
+  Sílabas por Palavra: 2.86
+
+195_a-droga-do-alcool_saida.json:
+  Diversidade Léxica: 0.792 (79.2%)
+  Complexidade Lexical: 0.232 (23.2%) - Média
+  Palavras Longas (4+ sílabas): 0.218 (21.8%)
+  Diversidade Silábica: 0.467 (46.7%)
+  Palavras Complexas (3+ sílabas): 0.604 (60.4%)
+  Sílabas por Palavra: 2.82
+
+196_a-droga-licita_saida.json:
+  Diversidade Léxica: 0.776 (77.6%)
+  Complexidade Lexical: 0.257 (25.7%) - Média
+  Palavras Longas (4+ sílabas): 0.276 (27.6%)
+  Diversidade Silábica: 0.495 (49.5%)
+  Palavras Complexas (3+ sílabas): 0.571 (57.1%)
+  Sílabas por Palavra: 2.93
+
+197_alcool-proibir-e-prevenir_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.518 (51.8%)
+  Palavras Complexas (3+ sílabas): 0.698 (69.8%)
+  Sílabas por Palavra: 3.16
+
+198_alcool-x-diversao_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.542 (54.2%)
+  Palavras Complexas (3+ sílabas): 0.704 (70.4%)
+  Sílabas por Palavra: 3.11
+
+199_a-populacao-pede-socorro_saida.json:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.284 (28.4%) - Média
+  Palavras Longas (4+ sílabas): 0.312 (31.2%)
+  Diversidade Silábica: 0.471 (47.1%)
+  Palavras Complexas (3+ sílabas): 0.615 (61.5%)
+  Sílabas por Palavra: 3.00
+
+199_bebidas-alcoolicas-um-dos-maiores-problemas-sociais_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.296 (29.6%)
+  Diversidade Silábica: 0.596 (59.6%)
+  Palavras Complexas (3+ sílabas): 0.611 (61.1%)
+  Sílabas por Palavra: 2.98
+
+19_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.929 (92.9%)
+  Complexidade Lexical: 0.311 (31.1%) - Média
+  Palavras Longas (4+ sílabas): 0.357 (35.7%)
+  Diversidade Silábica: 0.667 (66.7%)
+  Palavras Complexas (3+ sílabas): 0.667 (66.7%)
+  Sílabas por Palavra: 3.14
+
+200_a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao_saida.json:
+  Diversidade Léxica: 0.849 (84.9%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.291 (29.1%)
+  Diversidade Silábica: 0.494 (49.4%)
+  Palavras Complexas (3+ sílabas): 0.558 (55.8%)
+  Sílabas por Palavra: 2.85
+
+200_consumo-de-bebidas-o-incentivo-que-comeca-no-lar_saida.json:
+  Diversidade Léxica: 0.781 (78.1%)
+  Complexidade Lexical: 0.232 (23.2%) - Média
+  Palavras Longas (4+ sílabas): 0.238 (23.8%)
+  Diversidade Silábica: 0.472 (47.2%)
+  Palavras Complexas (3+ sílabas): 0.571 (57.1%)
+  Sílabas por Palavra: 2.89
+
+201_controle-e-a-chave_saida.json:
+  Diversidade Léxica: 0.800 (80.0%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.300 (30.0%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.643 (64.3%)
+  Sílabas por Palavra: 3.06
+
+202_alimentacao-tem-limite_saida.json:
+  Diversidade Léxica: 0.843 (84.3%)
+  Complexidade Lexical: 0.212 (21.2%) - Média
+  Palavras Longas (4+ sílabas): 0.213 (21.3%)
+  Diversidade Silábica: 0.498 (49.8%)
+  Palavras Complexas (3+ sílabas): 0.584 (58.4%)
+  Sílabas por Palavra: 2.75
+
+202_copa-do-mundo-versus-venda-de-bebidas-alcoolicas-no-brasil_saida.json:
+  Diversidade Léxica: 0.830 (83.0%)
+  Complexidade Lexical: 0.270 (27.0%) - Média
+  Palavras Longas (4+ sílabas): 0.277 (27.7%)
+  Diversidade Silábica: 0.597 (59.7%)
+  Palavras Complexas (3+ sílabas): 0.660 (66.0%)
+  Sílabas por Palavra: 3.06
+
+203_alimentar_saida.json:
+  Diversidade Léxica: 0.902 (90.2%)
+  Complexidade Lexical: 0.281 (28.1%) - Média
+  Palavras Longas (4+ sílabas): 0.295 (29.5%)
+  Diversidade Silábica: 0.568 (56.8%)
+  Palavras Complexas (3+ sílabas): 0.607 (60.7%)
+  Sílabas por Palavra: 3.03
+
+204_deve-ou-nao-haver-maior-controle-sobre-o-consumo-do-alcool_saida.json:
+  Diversidade Léxica: 0.907 (90.7%)
+  Complexidade Lexical: 0.290 (29.0%) - Média
+  Palavras Longas (4+ sílabas): 0.352 (35.2%)
+  Diversidade Silábica: 0.629 (62.9%)
+  Palavras Complexas (3+ sílabas): 0.704 (70.4%)
+  Sílabas por Palavra: 3.09
+
+204_e-mais-facil-comer-o-problema-do-que-acabar-com-ele_saida.json:
+  Diversidade Léxica: 0.878 (87.8%)
+  Complexidade Lexical: 0.310 (31.0%) - Média
+  Palavras Longas (4+ sílabas): 0.341 (34.1%)
+  Diversidade Silábica: 0.479 (47.9%)
+  Palavras Complexas (3+ sílabas): 0.646 (64.6%)
+  Sílabas por Palavra: 3.16
+
+205_fiscalizacao-e-conscientizacao-para-consumo-do-alcool_saida.json:
+  Diversidade Léxica: 0.824 (82.4%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.265 (26.5%)
+  Diversidade Silábica: 0.567 (56.7%)
+  Palavras Complexas (3+ sílabas): 0.632 (63.2%)
+  Sílabas por Palavra: 2.96
+
+206_em-busca-de-uma-vida-saudavel_saida.json:
+  Diversidade Léxica: 0.786 (78.6%)
+  Complexidade Lexical: 0.273 (27.3%) - Média
+  Palavras Longas (4+ sílabas): 0.272 (27.2%)
+  Diversidade Silábica: 0.439 (43.9%)
+  Palavras Complexas (3+ sílabas): 0.631 (63.1%)
+  Sílabas por Palavra: 3.05
+
+206_imaginario-futebolistico-corrompido_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.590 (59.0%)
+  Palavras Complexas (3+ sílabas): 0.577 (57.7%)
+  Sílabas por Palavra: 2.89
+
+207_escolha-alimentar-uma-responsabilidade-geral_saida.json:
+  Diversidade Léxica: 0.852 (85.2%)
+  Complexidade Lexical: 0.303 (30.3%) - Média
+  Palavras Longas (4+ sílabas): 0.364 (36.4%)
+  Diversidade Silábica: 0.456 (45.6%)
+  Palavras Complexas (3+ sílabas): 0.636 (63.6%)
+  Sílabas por Palavra: 3.19
+
+207_o-estigma-do-alcool-na-sociedade-brasileira_saida.json:
+  Diversidade Léxica: 0.837 (83.7%)
+  Complexidade Lexical: 0.237 (23.7%) - Média
+  Palavras Longas (4+ sílabas): 0.245 (24.5%)
+  Diversidade Silábica: 0.613 (61.3%)
+  Palavras Complexas (3+ sílabas): 0.612 (61.2%)
+  Sílabas por Palavra: 2.90
+
+208_fast-food-da-morte_saida.json:
+  Diversidade Léxica: 0.920 (92.0%)
+  Complexidade Lexical: 0.341 (34.1%) - Média
+  Palavras Longas (4+ sílabas): 0.400 (40.0%)
+  Diversidade Silábica: 0.490 (49.0%)
+  Palavras Complexas (3+ sílabas): 0.667 (66.7%)
+  Sílabas por Palavra: 3.21
+
+208_o-problema-do-consumo-do-alcool_saida.json:
+  Diversidade Léxica: 0.778 (77.8%)
+  Complexidade Lexical: 0.229 (22.9%) - Média
+  Palavras Longas (4+ sílabas): 0.222 (22.2%)
+  Diversidade Silábica: 0.443 (44.3%)
+  Palavras Complexas (3+ sílabas): 0.606 (60.6%)
+  Sílabas por Palavra: 2.85
+
+209_modernidade-um-prejuizo-a-saude_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.236 (23.6%) - Média
+  Palavras Longas (4+ sílabas): 0.221 (22.1%)
+  Diversidade Silábica: 0.519 (51.9%)
+  Palavras Complexas (3+ sílabas): 0.468 (46.8%)
+  Sílabas por Palavra: 2.70
+
+20_sexo-versos-versus-descuido-fatalidades_saida.json:
+  Diversidade Léxica: 0.866 (86.6%)
+  Complexidade Lexical: 0.216 (21.6%) - Média
+  Palavras Longas (4+ sílabas): 0.207 (20.7%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.573 (57.3%)
+  Sílabas por Palavra: 2.77
+
+210_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.821 (82.1%)
+  Complexidade Lexical: 0.235 (23.5%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.534 (53.4%)
+  Palavras Complexas (3+ sílabas): 0.597 (59.7%)
+  Sílabas por Palavra: 2.85
+
+211_o-cruel-jogo-da-trash-food-no-brasil-imediatista_saida.json:
+  Diversidade Léxica: 0.887 (88.7%)
+  Complexidade Lexical: 0.272 (27.2%) - Média
+  Palavras Longas (4+ sílabas): 0.324 (32.4%)
+  Diversidade Silábica: 0.529 (52.9%)
+  Palavras Complexas (3+ sílabas): 0.592 (59.2%)
+  Sílabas por Palavra: 2.90
+
+213_o-poder-de-influencia-na-escolha-alimentar_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.237 (23.7%) - Média
+  Palavras Longas (4+ sílabas): 0.226 (22.6%)
+  Diversidade Silábica: 0.616 (61.6%)
+  Palavras Complexas (3+ sílabas): 0.642 (64.2%)
+  Sílabas por Palavra: 2.85
+
+214_obesidade-infantil-quem-deve-combate-la_saida.json:
+  Diversidade Léxica: 0.924 (92.4%)
+  Complexidade Lexical: 0.244 (24.4%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.611 (61.1%)
+  Palavras Complexas (3+ sílabas): 0.606 (60.6%)
+  Sílabas por Palavra: 2.88
+
+215_responsabilidade-de-todos_saida.json:
+  Diversidade Léxica: 0.938 (93.8%)
+  Complexidade Lexical: 0.299 (29.9%) - Média
+  Palavras Longas (4+ sílabas): 0.354 (35.4%)
+  Diversidade Silábica: 0.676 (67.6%)
+  Palavras Complexas (3+ sílabas): 0.562 (56.2%)
+  Sílabas por Palavra: 3.02
+
+216_tudo-comeca-quando-crianca_saida.json:
+  Diversidade Léxica: 0.900 (90.0%)
+  Complexidade Lexical: 0.273 (27.3%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.526 (52.6%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.99
+
+21_ult4657u647_saida.json:
+  Diversidade Léxica: 0.875 (87.5%)
+  Complexidade Lexical: 0.293 (29.3%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.543 (54.3%)
+  Palavras Complexas (3+ sílabas): 0.597 (59.7%)
+  Sílabas por Palavra: 3.04
+
+21_uma-questao-de-consciencia_saida.json:
+  Diversidade Léxica: 0.810 (81.0%)
+  Complexidade Lexical: 0.251 (25.1%) - Média
+  Palavras Longas (4+ sílabas): 0.270 (27.0%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.560 (56.0%)
+  Sílabas por Palavra: 2.85
+
+231_a-emergencia-da-reducao_saida.json:
+  Diversidade Léxica: 0.875 (87.5%)
+  Complexidade Lexical: 0.254 (25.4%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.613 (61.3%)
+  Palavras Complexas (3+ sílabas): 0.675 (67.5%)
+  Sílabas por Palavra: 3.10
+
+232_arcar-com-as-consequencias-e-necessario_saida.json:
+  Diversidade Léxica: 0.914 (91.4%)
+  Complexidade Lexical: 0.281 (28.1%) - Média
+  Palavras Longas (4+ sílabas): 0.300 (30.0%)
+  Diversidade Silábica: 0.549 (54.9%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.04
+
+233_brasil-um-pais-de-todos-_saida.json:
+  Diversidade Léxica: 0.881 (88.1%)
+  Complexidade Lexical: 0.263 (26.3%) - Média
+  Palavras Longas (4+ sílabas): 0.298 (29.8%)
+  Diversidade Silábica: 0.519 (51.9%)
+  Palavras Complexas (3+ sílabas): 0.571 (57.1%)
+  Sílabas por Palavra: 2.89
+
+234_continuando-sem-solucao_saida.json:
+  Diversidade Léxica: 0.910 (91.0%)
+  Complexidade Lexical: 0.309 (30.9%) - Média
+  Palavras Longas (4+ sílabas): 0.328 (32.8%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.597 (59.7%)
+  Sílabas por Palavra: 3.07
+
+235_criancas-e-jovens-responsabilidade-do-estado_saida.json:
+  Diversidade Léxica: 0.798 (79.8%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.257 (25.7%)
+  Diversidade Silábica: 0.469 (46.9%)
+  Palavras Complexas (3+ sílabas): 0.495 (49.5%)
+  Sílabas por Palavra: 2.80
+
+236_deve-se-reduzir-a-maioridade-penal-no-brasil_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.302 (30.2%) - Média
+  Palavras Longas (4+ sílabas): 0.317 (31.7%)
+  Diversidade Silábica: 0.551 (55.1%)
+  Palavras Complexas (3+ sílabas): 0.619 (61.9%)
+  Sílabas por Palavra: 3.14
+
+237_diminuicao-da-maioridade-penal-e-mesmo-a-solucao_saida.json:
+  Diversidade Léxica: 0.825 (82.5%)
+  Complexidade Lexical: 0.292 (29.2%) - Média
+  Palavras Longas (4+ sílabas): 0.301 (30.1%)
+  Diversidade Silábica: 0.464 (46.4%)
+  Palavras Complexas (3+ sílabas): 0.573 (57.3%)
+  Sílabas por Palavra: 3.10
+
+238_a-questao-dos-lixos-na-sociedade-de-consumo_saida.json:
+  Diversidade Léxica: 0.907 (90.7%)
+  Complexidade Lexical: 0.264 (26.4%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.603 (60.3%)
+  Palavras Complexas (3+ sílabas): 0.481 (48.1%)
+  Sílabas por Palavra: 2.89
+
+238_maioridade-penal-dezesseis-anos-e-o-ideal_saida.json:
+  Diversidade Léxica: 0.773 (77.3%)
+  Complexidade Lexical: 0.298 (29.8%) - Média
+  Palavras Longas (4+ sílabas): 0.340 (34.0%)
+  Diversidade Silábica: 0.481 (48.1%)
+  Palavras Complexas (3+ sílabas): 0.577 (57.7%)
+  Sílabas por Palavra: 3.00
+
+239_a-sociedade-consumista-e-a-natureza_saida.json:
+  Diversidade Léxica: 0.941 (94.1%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.309 (30.9%)
+  Diversidade Silábica: 0.574 (57.4%)
+  Palavras Complexas (3+ sílabas): 0.574 (57.4%)
+  Sílabas por Palavra: 2.97
+
+239_maioridade-penal-no-brasil-problema-ou-solucao_saida.json:
+  Diversidade Léxica: 0.796 (79.6%)
+  Complexidade Lexical: 0.356 (35.6%) - Alta
+  Palavras Longas (4+ sílabas): 0.426 (42.6%)
+  Diversidade Silábica: 0.464 (46.4%)
+  Palavras Complexas (3+ sílabas): 0.704 (70.4%)
+  Sílabas por Palavra: 3.31
+
+23_ult4657u649_saida.json:
+  Diversidade Léxica: 0.910 (91.0%)
+  Complexidade Lexical: 0.238 (23.8%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.596 (59.6%)
+  Palavras Complexas (3+ sílabas): 0.522 (52.2%)
+  Sílabas por Palavra: 2.81
+
+240_antropicas_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.237 (23.7%) - Média
+  Palavras Longas (4+ sílabas): 0.224 (22.4%)
+  Diversidade Silábica: 0.592 (59.2%)
+  Palavras Complexas (3+ sílabas): 0.566 (56.6%)
+  Sílabas por Palavra: 2.87
+
+240_maioridade-penal-uma-decisao-de-todos_saida.json:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.320 (32.0%) - Média
+  Palavras Longas (4+ sílabas): 0.345 (34.5%)
+  Diversidade Silábica: 0.557 (55.7%)
+  Palavras Complexas (3+ sílabas): 0.672 (67.2%)
+  Sílabas por Palavra: 3.19
+
+241_educacao-a-solucao-para-o-problema-ambiental_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.307 (30.7%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.570 (57.0%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.13
+
+241_mascaras-da-ideologia_saida.json:
+  Diversidade Léxica: 0.824 (82.4%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.318 (31.8%)
+  Diversidade Silábica: 0.479 (47.9%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.02
+
+242_passa-o-pirulito-isso-e-um-assalto_saida.json:
+  Diversidade Léxica: 0.855 (85.5%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.290 (29.0%)
+  Diversidade Silábica: 0.514 (51.4%)
+  Palavras Complexas (3+ sílabas): 0.594 (59.4%)
+  Sílabas por Palavra: 3.01
+
+243_o-feitico-contra-o-feiticeiro_saida.json:
+  Diversidade Léxica: 0.908 (90.8%)
+  Complexidade Lexical: 0.279 (27.9%) - Média
+  Palavras Longas (4+ sílabas): 0.308 (30.8%)
+  Diversidade Silábica: 0.586 (58.6%)
+  Palavras Complexas (3+ sílabas): 0.585 (58.5%)
+  Sílabas por Palavra: 3.05
+
+244_o-futuro-do-nosso-planeta_saida.json:
+  Diversidade Léxica: 0.958 (95.8%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.711 (71.1%)
+  Palavras Complexas (3+ sílabas): 0.604 (60.4%)
+  Sílabas por Palavra: 2.96
+
+244_reducao-da-maioridade-penal-no-brasil_saida.json:
+  Diversidade Léxica: 0.854 (85.4%)
+  Complexidade Lexical: 0.246 (24.6%) - Média
+  Palavras Longas (4+ sílabas): 0.272 (27.2%)
+  Diversidade Silábica: 0.490 (49.0%)
+  Palavras Complexas (3+ sílabas): 0.544 (54.4%)
+  Sílabas por Palavra: 2.80
+
+245_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.824 (82.4%)
+  Complexidade Lexical: 0.274 (27.4%) - Média
+  Palavras Longas (4+ sílabas): 0.284 (28.4%)
+  Diversidade Silábica: 0.511 (51.1%)
+  Palavras Complexas (3+ sílabas): 0.568 (56.8%)
+  Sílabas por Palavra: 2.99
+
+246_o-lixo-como-solucao_saida.json:
+  Diversidade Léxica: 0.886 (88.6%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.257 (25.7%)
+  Diversidade Silábica: 0.523 (52.3%)
+  Palavras Complexas (3+ sílabas): 0.586 (58.6%)
+  Sílabas por Palavra: 3.06
+
+246_social_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.349 (34.9%) - Média
+  Palavras Longas (4+ sílabas): 0.388 (38.8%)
+  Diversidade Silábica: 0.518 (51.8%)
+  Palavras Complexas (3+ sílabas): 0.612 (61.2%)
+  Sílabas por Palavra: 3.25
+
+248_o-monopolio-da-destruicao-monopolio-da-destruicao_saida.json:
+  Diversidade Léxica: 0.930 (93.0%)
+  Complexidade Lexical: 0.226 (22.6%) - Média
+  Palavras Longas (4+ sílabas): 0.211 (21.1%)
+  Diversidade Silábica: 0.549 (54.9%)
+  Palavras Complexas (3+ sílabas): 0.521 (52.1%)
+  Sílabas por Palavra: 2.87
+
+248_violencia-termometro-da-organizacao-social_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.276 (27.6%) - Média
+  Palavras Longas (4+ sílabas): 0.338 (33.8%)
+  Diversidade Silábica: 0.571 (57.1%)
+  Palavras Complexas (3+ sílabas): 0.577 (57.7%)
+  Sílabas por Palavra: 2.96
+
+24_ult4657u650_saida.json:
+  Diversidade Léxica: 0.835 (83.5%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.309 (30.9%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.557 (55.7%)
+  Sílabas por Palavra: 3.02
+
+250_os-verdadeiro-viloes_saida.json:
+  Diversidade Léxica: 0.920 (92.0%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.240 (24.0%)
+  Diversidade Silábica: 0.664 (66.4%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 2.86
+
+251_planeta-terra-a-lata-de-lixo-comunitaria_saida.json:
+  Diversidade Léxica: 0.818 (81.8%)
+  Complexidade Lexical: 0.339 (33.9%) - Média
+  Palavras Longas (4+ sílabas): 0.379 (37.9%)
+  Diversidade Silábica: 0.468 (46.8%)
+  Palavras Complexas (3+ sílabas): 0.621 (62.1%)
+  Sílabas por Palavra: 3.30
+
+252_salvando-o-planeta_saida.json:
+  Diversidade Léxica: 0.979 (97.9%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.255 (25.5%)
+  Diversidade Silábica: 0.695 (69.5%)
+  Palavras Complexas (3+ sílabas): 0.660 (66.0%)
+  Sílabas por Palavra: 3.00
+
+253_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.805 (80.5%)
+  Complexidade Lexical: 0.259 (25.9%) - Média
+  Palavras Longas (4+ sílabas): 0.296 (29.6%)
+  Diversidade Silábica: 0.407 (40.7%)
+  Palavras Complexas (3+ sílabas): 0.547 (54.7%)
+  Sílabas por Palavra: 2.91
+
+254_todo-ciclo-deve-ser-respeitado-o-do-lixo-tambem_saida.json:
+  Diversidade Léxica: 0.964 (96.4%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.291 (29.1%)
+  Diversidade Silábica: 0.665 (66.5%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.98
+
+25_ult4657u651_saida.json:
+  Diversidade Léxica: 0.898 (89.8%)
+  Complexidade Lexical: 0.231 (23.1%) - Média
+  Palavras Longas (4+ sílabas): 0.255 (25.5%)
+  Diversidade Silábica: 0.533 (53.3%)
+  Palavras Complexas (3+ sílabas): 0.510 (51.0%)
+  Sílabas por Palavra: 2.80
+
+270_a-moral-em-torno-da-prostituicao_saida.json:
+  Diversidade Léxica: 0.811 (81.1%)
+  Complexidade Lexical: 0.223 (22.3%) - Média
+  Palavras Longas (4+ sílabas): 0.208 (20.8%)
+  Diversidade Silábica: 0.627 (62.7%)
+  Palavras Complexas (3+ sílabas): 0.566 (56.6%)
+  Sílabas por Palavra: 2.83
+
+271_a-venda-da-moralidade_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.268 (26.8%) - Média
+  Palavras Longas (4+ sílabas): 0.291 (29.1%)
+  Diversidade Silábica: 0.487 (48.8%)
+  Palavras Complexas (3+ sílabas): 0.595 (59.5%)
+  Sílabas por Palavra: 3.04
+
+272_a-venda-da-pureza_saida.json:
+  Diversidade Léxica: 0.929 (92.9%)
+  Complexidade Lexical: 0.279 (27.9%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.580 (58.0%)
+  Palavras Complexas (3+ sílabas): 0.589 (58.9%)
+  Sílabas por Palavra: 3.11
+
+273_a-virgindade-explorada_saida.json:
+  Diversidade Léxica: 0.909 (90.9%)
+  Complexidade Lexical: 0.234 (23.4%) - Média
+  Palavras Longas (4+ sílabas): 0.212 (21.2%)
+  Diversidade Silábica: 0.584 (58.4%)
+  Palavras Complexas (3+ sílabas): 0.530 (53.0%)
+  Sílabas por Palavra: 2.88
+
+275_a-pressa-e-inimiga-do-bom-motorista_saida.json:
+  Diversidade Léxica: 0.937 (93.7%)
+  Complexidade Lexical: 0.333 (33.3%) - Média
+  Palavras Longas (4+ sílabas): 0.380 (38.0%)
+  Diversidade Silábica: 0.524 (52.4%)
+  Palavras Complexas (3+ sílabas): 0.658 (65.8%)
+  Sílabas por Palavra: 3.22
+
+275_carater-que-determina-nossas-escolhas_saida.json:
+  Diversidade Léxica: 0.837 (83.7%)
+  Complexidade Lexical: 0.320 (32.0%) - Média
+  Palavras Longas (4+ sílabas): 0.395 (39.5%)
+  Diversidade Silábica: 0.580 (58.0%)
+  Palavras Complexas (3+ sílabas): 0.628 (62.8%)
+  Sílabas por Palavra: 3.21
+
+276_caos-nas-ruas_saida.json:
+  Diversidade Léxica: 0.944 (94.4%)
+  Complexidade Lexical: 0.246 (24.6%) - Média
+  Palavras Longas (4+ sílabas): 0.259 (25.9%)
+  Diversidade Silábica: 0.631 (63.1%)
+  Palavras Complexas (3+ sílabas): 0.630 (63.0%)
+  Sílabas por Palavra: 2.91
+
+276_do-tabu-a-moeda-de-troca_saida.json:
+  Diversidade Léxica: 0.968 (96.8%)
+  Complexidade Lexical: 0.267 (26.7%) - Média
+  Palavras Longas (4+ sílabas): 0.290 (29.0%)
+  Diversidade Silábica: 0.645 (64.5%)
+  Palavras Complexas (3+ sílabas): 0.613 (61.3%)
+  Sílabas por Palavra: 3.00
+
+277_conscientizar-e-reduzir_saida.json:
+  Diversidade Léxica: 0.902 (90.2%)
+  Complexidade Lexical: 0.219 (21.9%) - Média
+  Palavras Longas (4+ sílabas): 0.197 (19.7%)
+  Diversidade Silábica: 0.610 (61.0%)
+  Palavras Complexas (3+ sílabas): 0.607 (60.7%)
+  Sílabas por Palavra: 2.82
+
+277_exemplos-do-brasil_saida.json:
+  Diversidade Léxica: 0.819 (81.9%)
+  Complexidade Lexical: 0.275 (27.5%) - Média
+  Palavras Longas (4+ sílabas): 0.295 (29.5%)
+  Diversidade Silábica: 0.455 (45.5%)
+  Palavras Complexas (3+ sílabas): 0.571 (57.1%)
+  Sílabas por Palavra: 3.04
+
+278_discussoes-no-transito_saida.json:
+  Diversidade Léxica: 0.930 (93.0%)
+  Complexidade Lexical: 0.236 (23.6%) - Média
+  Palavras Longas (4+ sílabas): 0.256 (25.6%)
+  Diversidade Silábica: 0.645 (64.5%)
+  Palavras Complexas (3+ sílabas): 0.581 (58.1%)
+  Sílabas por Palavra: 2.81
+
+278_ganhar-para-perder_saida.json:
+  Diversidade Léxica: 0.771 (77.1%)
+  Complexidade Lexical: 0.214 (21.4%) - Média
+  Palavras Longas (4+ sílabas): 0.229 (22.9%)
+  Diversidade Silábica: 0.448 (44.8%)
+  Palavras Complexas (3+ sílabas): 0.576 (57.6%)
+  Sílabas por Palavra: 2.80
+
+279_dualidade_saida.json:
+  Diversidade Léxica: 0.872 (87.2%)
+  Complexidade Lexical: 0.228 (22.8%) - Média
+  Palavras Longas (4+ sílabas): 0.231 (23.1%)
+  Diversidade Silábica: 0.573 (57.3%)
+  Palavras Complexas (3+ sílabas): 0.487 (48.7%)
+  Sílabas por Palavra: 2.71
+
+280_e-um-direito-justo_saida.json:
+  Diversidade Léxica: 0.886 (88.6%)
+  Complexidade Lexical: 0.216 (21.6%) - Média
+  Palavras Longas (4+ sílabas): 0.257 (25.7%)
+  Diversidade Silábica: 0.684 (68.4%)
+  Palavras Complexas (3+ sílabas): 0.629 (62.9%)
+  Sílabas por Palavra: 2.80
+
+280_ilusao_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.260 (26.0%) - Média
+  Palavras Longas (4+ sílabas): 0.289 (28.9%)
+  Diversidade Silábica: 0.573 (57.3%)
+  Palavras Complexas (3+ sílabas): 0.513 (51.3%)
+  Sílabas por Palavra: 2.80
+
+281_mascarada_saida.json:
+  Diversidade Léxica: 0.845 (84.5%)
+  Complexidade Lexical: 0.234 (23.4%) - Média
+  Palavras Longas (4+ sílabas): 0.243 (24.3%)
+  Diversidade Silábica: 0.481 (48.1%)
+  Palavras Complexas (3+ sílabas): 0.553 (55.3%)
+  Sílabas por Palavra: 2.86
+
+281_melhoria-no-transito-uma-responsabilidade-de-todos-nos_saida.json:
+  Diversidade Léxica: 0.824 (82.4%)
+  Complexidade Lexical: 0.268 (26.8%) - Média
+  Palavras Longas (4+ sílabas): 0.304 (30.4%)
+  Diversidade Silábica: 0.479 (47.9%)
+  Palavras Complexas (3+ sílabas): 0.637 (63.7%)
+  Sílabas por Palavra: 2.97
+
+282_o-pais-das-filas_saida.json:
+  Diversidade Léxica: 0.878 (87.8%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.244 (24.4%)
+  Diversidade Silábica: 0.504 (50.4%)
+  Palavras Complexas (3+ sílabas): 0.567 (56.7%)
+  Sílabas por Palavra: 2.87
+
+283_mulheres-da-caverna-no-seculo-xxi_saida.json:
+  Diversidade Léxica: 0.880 (88.0%)
+  Complexidade Lexical: 0.226 (22.6%) - Média
+  Palavras Longas (4+ sílabas): 0.222 (22.2%)
+  Diversidade Silábica: 0.490 (49.0%)
+  Palavras Complexas (3+ sílabas): 0.491 (49.1%)
+  Sílabas por Palavra: 2.78
+
+284_o-fascinio-da-tv-e-a-ganancia-do-povo_saida.json:
+  Diversidade Léxica: 0.909 (90.9%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.273 (27.3%)
+  Diversidade Silábica: 0.619 (61.9%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.74
+
+285_o-transito-e-o-comportamento-violento-nas-grandes-cidades_saida.json:
+  Diversidade Léxica: 0.917 (91.7%)
+  Complexidade Lexical: 0.310 (31.0%) - Média
+  Palavras Longas (4+ sílabas): 0.361 (36.1%)
+  Diversidade Silábica: 0.559 (55.9%)
+  Palavras Complexas (3+ sílabas): 0.597 (59.7%)
+  Sílabas por Palavra: 3.08
+
+286_o-transito-e-seus-conflitos_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.284 (28.4%) - Média
+  Palavras Longas (4+ sílabas): 0.338 (33.8%)
+  Diversidade Silábica: 0.571 (57.1%)
+  Palavras Complexas (3+ sílabas): 0.606 (60.6%)
+  Sílabas por Palavra: 2.96
+
+286_qual-e-o-valor-da-virgindade_saida.json:
+  Diversidade Léxica: 0.871 (87.1%)
+  Complexidade Lexical: 0.287 (28.7%) - Média
+  Palavras Longas (4+ sílabas): 0.329 (32.9%)
+  Diversidade Silábica: 0.537 (53.7%)
+  Palavras Complexas (3+ sílabas): 0.629 (62.9%)
+  Sílabas por Palavra: 3.11
+
+287_os-perigos-do-transito-transito_saida.json:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.330 (33.0%)
+  Diversidade Silábica: 0.474 (47.4%)
+  Palavras Complexas (3+ sílabas): 0.660 (66.0%)
+  Sílabas por Palavra: 3.12
+
+287_reality-show-sobre-leilao-da-virgindade-o-fundo-do-poco_saida.json:
+  Diversidade Léxica: 0.980 (98.0%)
+  Complexidade Lexical: 0.259 (25.9%) - Média
+  Palavras Longas (4+ sílabas): 0.280 (28.0%)
+  Diversidade Silábica: 0.655 (65.5%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 2.96
+
+288_pressa-o-egoimo-egoismo-ganha-vez_saida.json:
+  Diversidade Léxica: 0.884 (88.4%)
+  Complexidade Lexical: 0.266 (26.6%) - Média
+  Palavras Longas (4+ sílabas): 0.295 (29.5%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.558 (55.8%)
+  Sílabas por Palavra: 2.94
+
+288_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.887 (88.7%)
+  Complexidade Lexical: 0.300 (30.0%) - Média
+  Palavras Longas (4+ sílabas): 0.338 (33.8%)
+  Diversidade Silábica: 0.546 (54.6%)
+  Palavras Complexas (3+ sílabas): 0.592 (59.2%)
+  Sílabas por Palavra: 3.04
+
+289_prever-e-se-preparar-eis-o-segredo_saida.json:
+  Diversidade Léxica: 0.798 (79.8%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.275 (27.5%)
+  Diversidade Silábica: 0.442 (44.2%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.86
+
+289_virgindade-qual-seu-valor_saida.json:
+  Diversidade Léxica: 0.886 (88.6%)
+  Complexidade Lexical: 0.237 (23.7%) - Média
+  Palavras Longas (4+ sílabas): 0.241 (24.1%)
+  Diversidade Silábica: 0.591 (59.1%)
+  Palavras Complexas (3+ sílabas): 0.608 (60.8%)
+  Sílabas por Palavra: 2.94
+
+28_ult4657u654_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.247 (24.7%) - Média
+  Palavras Longas (4+ sílabas): 0.269 (26.9%)
+  Diversidade Silábica: 0.549 (54.9%)
+  Palavras Complexas (3+ sílabas): 0.603 (60.3%)
+  Sílabas por Palavra: 2.90
+
+290_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.850 (85.0%)
+  Complexidade Lexical: 0.287 (28.7%) - Média
+  Palavras Longas (4+ sílabas): 0.320 (32.0%)
+  Diversidade Silábica: 0.434 (43.4%)
+  Palavras Complexas (3+ sílabas): 0.570 (57.0%)
+  Sílabas por Palavra: 2.97
+
+291_transito-sem-violencia_saida.json:
+  Diversidade Léxica: 0.915 (91.5%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.296 (29.6%)
+  Diversidade Silábica: 0.564 (56.4%)
+  Palavras Complexas (3+ sílabas): 0.718 (71.8%)
+  Sílabas por Palavra: 3.07
+
+292_transito-uma-questao-de-seguranca-e-educacao_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.284 (28.4%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.545 (54.5%)
+  Palavras Complexas (3+ sílabas): 0.635 (63.5%)
+  Sílabas por Palavra: 3.00
+
+293_violencia-no-transito-transito-nacional_saida.json:
+  Diversidade Léxica: 0.886 (88.6%)
+  Complexidade Lexical: 0.329 (32.9%) - Média
+  Palavras Longas (4+ sílabas): 0.386 (38.6%)
+  Diversidade Silábica: 0.589 (58.9%)
+  Palavras Complexas (3+ sílabas): 0.659 (65.9%)
+  Sílabas por Palavra: 3.20
+
+29_ult4657u655_saida.json:
+  Diversidade Léxica: 0.861 (86.1%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.507 (50.7%)
+  Palavras Complexas (3+ sílabas): 0.491 (49.1%)
+  Sílabas por Palavra: 2.81
+
+30_ult4657u656_saida.json:
+  Diversidade Léxica: 0.899 (89.9%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.576 (57.6%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.90
+
+310_ult4657u626_saida.json:
+  Diversidade Léxica: 0.880 (88.0%)
+  Complexidade Lexical: 0.304 (30.4%) - Média
+  Palavras Longas (4+ sílabas): 0.349 (34.9%)
+  Diversidade Silábica: 0.526 (52.6%)
+  Palavras Complexas (3+ sílabas): 0.542 (54.2%)
+  Sílabas por Palavra: 3.02
+
+311_ult4657u627_saida.json:
+  Diversidade Léxica: 0.782 (78.2%)
+  Complexidade Lexical: 0.288 (28.8%) - Média
+  Palavras Longas (4+ sílabas): 0.307 (30.7%)
+  Diversidade Silábica: 0.469 (46.9%)
+  Palavras Complexas (3+ sílabas): 0.584 (58.4%)
+  Sílabas por Palavra: 3.06
+
+312_ult4657u629_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.306 (30.6%) - Média
+  Palavras Longas (4+ sílabas): 0.367 (36.7%)
+  Diversidade Silábica: 0.478 (47.8%)
+  Palavras Complexas (3+ sílabas): 0.582 (58.2%)
+  Sílabas por Palavra: 3.01
+
+313_ult4657u630_saida.json:
+  Diversidade Léxica: 0.804 (80.4%)
+  Complexidade Lexical: 0.262 (26.2%) - Média
+  Palavras Longas (4+ sílabas): 0.294 (29.4%)
+  Diversidade Silábica: 0.457 (45.7%)
+  Palavras Complexas (3+ sílabas): 0.520 (52.0%)
+  Sílabas por Palavra: 2.83
+
+314_a-policia-que-nos-acuda_saida.json:
+  Diversidade Léxica: 0.817 (81.7%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.556 (55.6%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.97
+
+315_a-questao-da-violencia_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.296 (29.6%) - Média
+  Palavras Longas (4+ sílabas): 0.308 (30.8%)
+  Diversidade Silábica: 0.480 (48.0%)
+  Palavras Complexas (3+ sílabas): 0.593 (59.3%)
+  Sílabas por Palavra: 3.02
+
+315_ult4657u632_saida.json:
+  Diversidade Léxica: 0.957 (95.7%)
+  Complexidade Lexical: 0.316 (31.6%) - Média
+  Palavras Longas (4+ sílabas): 0.340 (34.0%)
+  Diversidade Silábica: 0.593 (59.3%)
+  Palavras Complexas (3+ sílabas): 0.596 (59.6%)
+  Sílabas por Palavra: 3.09
+
+316_assustadora_saida.json:
+  Diversidade Léxica: 0.864 (86.4%)
+  Complexidade Lexical: 0.331 (33.1%) - Média
+  Palavras Longas (4+ sílabas): 0.395 (39.5%)
+  Diversidade Silábica: 0.510 (51.0%)
+  Palavras Complexas (3+ sílabas): 0.667 (66.7%)
+  Sílabas por Palavra: 3.22
+
+316_ult4657u633_saida.json:
+  Diversidade Léxica: 0.946 (94.6%)
+  Complexidade Lexical: 0.333 (33.3%) - Média
+  Palavras Longas (4+ sílabas): 0.393 (39.3%)
+  Diversidade Silábica: 0.607 (60.7%)
+  Palavras Complexas (3+ sílabas): 0.679 (67.9%)
+  Sílabas por Palavra: 3.27
+
+317_ult4657u634_saida.json:
+  Diversidade Léxica: 0.904 (90.4%)
+  Complexidade Lexical: 0.272 (27.2%) - Média
+  Palavras Longas (4+ sílabas): 0.308 (30.8%)
+  Diversidade Silábica: 0.642 (64.2%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.90
+
+318_brasil-um-guerrilheiro-recuado_saida.json:
+  Diversidade Léxica: 0.883 (88.3%)
+  Complexidade Lexical: 0.324 (32.4%) - Média
+  Palavras Longas (4+ sílabas): 0.367 (36.7%)
+  Diversidade Silábica: 0.578 (57.8%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.12
+
+319_brasil-x-violencias_saida.json:
+  Diversidade Léxica: 0.883 (88.3%)
+  Complexidade Lexical: 0.267 (26.7%) - Média
+  Palavras Longas (4+ sílabas): 0.287 (28.7%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.86
+
+319_ult4657u637_saida.json:
+  Diversidade Léxica: 0.916 (91.6%)
+  Complexidade Lexical: 0.272 (27.2%) - Média
+  Palavras Longas (4+ sílabas): 0.289 (28.9%)
+  Diversidade Silábica: 0.536 (53.6%)
+  Palavras Complexas (3+ sílabas): 0.614 (61.4%)
+  Sílabas por Palavra: 3.01
+
+31_ult4657u658_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.307 (30.7%) - Média
+  Palavras Longas (4+ sílabas): 0.342 (34.2%)
+  Diversidade Silábica: 0.431 (43.1%)
+  Palavras Complexas (3+ sílabas): 0.604 (60.4%)
+  Sílabas por Palavra: 3.09
+
+320_feito-e-a-fazer_saida.json:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.270 (27.0%) - Média
+  Palavras Longas (4+ sílabas): 0.298 (29.8%)
+  Diversidade Silábica: 0.500 (50.0%)
+  Palavras Complexas (3+ sílabas): 0.617 (61.7%)
+  Sílabas por Palavra: 2.91
+
+320_ult4657u638_saida.json:
+  Diversidade Léxica: 0.892 (89.2%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.325 (32.5%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.554 (55.4%)
+  Sílabas por Palavra: 2.92
+
+321_ja_saida.json:
+  Diversidade Léxica: 0.764 (76.4%)
+  Complexidade Lexical: 0.300 (30.0%) - Média
+  Palavras Longas (4+ sílabas): 0.291 (29.1%)
+  Diversidade Silábica: 0.497 (49.7%)
+  Palavras Complexas (3+ sílabas): 0.655 (65.5%)
+  Sílabas por Palavra: 3.15
+
+321_ult4657u639_saida.json:
+  Diversidade Léxica: 0.863 (86.3%)
+  Complexidade Lexical: 0.219 (21.9%) - Média
+  Palavras Longas (4+ sílabas): 0.216 (21.6%)
+  Diversidade Silábica: 0.629 (62.9%)
+  Palavras Complexas (3+ sílabas): 0.431 (43.1%)
+  Sílabas por Palavra: 2.59
+
+322_maior-indice-de-educacao-menor-indice-de-violencia_saida.json:
+  Diversidade Léxica: 0.884 (88.4%)
+  Complexidade Lexical: 0.296 (29.6%) - Média
+  Palavras Longas (4+ sílabas): 0.372 (37.2%)
+  Diversidade Silábica: 0.597 (59.7%)
+  Palavras Complexas (3+ sílabas): 0.558 (55.8%)
+  Sílabas por Palavra: 3.00
+
+322_ult4657u640_saida.json:
+  Diversidade Léxica: 0.778 (77.8%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.544 (54.4%)
+  Palavras Complexas (3+ sílabas): 0.569 (56.9%)
+  Sílabas por Palavra: 2.86
+
+323_o-caos-do-crime-organizado_saida.json:
+  Diversidade Léxica: 0.824 (82.4%)
+  Complexidade Lexical: 0.224 (22.4%) - Média
+  Palavras Longas (4+ sílabas): 0.235 (23.5%)
+  Diversidade Silábica: 0.575 (57.5%)
+  Palavras Complexas (3+ sílabas): 0.471 (47.1%)
+  Sílabas por Palavra: 2.63
+
+323_ult4657u641_saida.json:
+  Diversidade Léxica: 0.939 (93.9%)
+  Complexidade Lexical: 0.307 (30.7%) - Média
+  Palavras Longas (4+ sílabas): 0.348 (34.8%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.636 (63.6%)
+  Sílabas por Palavra: 3.14
+
+324_oprimida_saida.json:
+  Diversidade Léxica: 0.818 (81.8%)
+  Complexidade Lexical: 0.275 (27.5%) - Média
+  Palavras Longas (4+ sílabas): 0.313 (31.3%)
+  Diversidade Silábica: 0.464 (46.4%)
+  Palavras Complexas (3+ sílabas): 0.576 (57.6%)
+  Sílabas por Palavra: 2.94
+
+324_ult4657u642_saida.json:
+  Diversidade Léxica: 0.854 (85.4%)
+  Complexidade Lexical: 0.332 (33.2%) - Média
+  Palavras Longas (4+ sílabas): 0.390 (39.0%)
+  Diversidade Silábica: 0.514 (51.4%)
+  Palavras Complexas (3+ sílabas): 0.573 (57.3%)
+  Sílabas por Palavra: 3.13
+
+325_organizada_saida.json:
+  Diversidade Léxica: 0.771 (77.1%)
+  Complexidade Lexical: 0.231 (23.1%) - Média
+  Palavras Longas (4+ sílabas): 0.266 (26.6%)
+  Diversidade Silábica: 0.338 (33.8%)
+  Palavras Complexas (3+ sílabas): 0.477 (47.7%)
+  Sílabas por Palavra: 2.70
+
+326_politicas_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.295 (29.5%)
+  Diversidade Silábica: 0.566 (56.6%)
+  Palavras Complexas (3+ sílabas): 0.607 (60.7%)
+  Sílabas por Palavra: 3.10
+
+326_ult4657u644_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.247 (24.7%) - Média
+  Palavras Longas (4+ sílabas): 0.263 (26.3%)
+  Diversidade Silábica: 0.526 (52.6%)
+  Palavras Complexas (3+ sílabas): 0.513 (51.3%)
+  Sílabas por Palavra: 2.83
+
+327_populacao-brasileira-refens-do-trafico-e-do-crime_saida.json:
+  Diversidade Léxica: 0.778 (77.8%)
+  Complexidade Lexical: 0.219 (21.9%) - Média
+  Palavras Longas (4+ sílabas): 0.222 (22.2%)
+  Diversidade Silábica: 0.409 (40.9%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.69
+
+327_ult4657u645_saida.json:
+  Diversidade Léxica: 0.894 (89.4%)
+  Complexidade Lexical: 0.268 (26.8%) - Média
+  Palavras Longas (4+ sílabas): 0.306 (30.6%)
+  Diversidade Silábica: 0.534 (53.4%)
+  Palavras Complexas (3+ sílabas): 0.553 (55.3%)
+  Sílabas por Palavra: 2.93
+
+328_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.820 (82.0%)
+  Complexidade Lexical: 0.271 (27.1%) - Média
+  Palavras Longas (4+ sílabas): 0.303 (30.3%)
+  Diversidade Silábica: 0.477 (47.7%)
+  Palavras Complexas (3+ sílabas): 0.573 (57.3%)
+  Sílabas por Palavra: 2.92
+
+328_ult4657u646_saida.json:
+  Diversidade Léxica: 0.770 (77.0%)
+  Complexidade Lexical: 0.340 (34.0%) - Média
+  Palavras Longas (4+ sílabas): 0.390 (39.0%)
+  Diversidade Silábica: 0.407 (40.7%)
+  Palavras Complexas (3+ sílabas): 0.610 (61.0%)
+  Sílabas por Palavra: 3.22
+
+329_urbana_saida.json:
+  Diversidade Léxica: 0.860 (86.0%)
+  Complexidade Lexical: 0.360 (36.0%) - Alta
+  Palavras Longas (4+ sílabas): 0.404 (40.4%)
+  Diversidade Silábica: 0.579 (57.9%)
+  Palavras Complexas (3+ sílabas): 0.684 (68.4%)
+  Sílabas por Palavra: 3.33
+
+32_ult4657u659_saida.json:
+  Diversidade Léxica: 0.823 (82.3%)
+  Complexidade Lexical: 0.270 (27.0%) - Média
+  Palavras Longas (4+ sílabas): 0.304 (30.4%)
+  Diversidade Silábica: 0.534 (53.4%)
+  Palavras Complexas (3+ sílabas): 0.570 (57.0%)
+  Sílabas por Palavra: 2.94
+
+330_violencia-e-causas_saida.json:
+  Diversidade Léxica: 0.924 (92.4%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.318 (31.8%)
+  Diversidade Silábica: 0.633 (63.3%)
+  Palavras Complexas (3+ sílabas): 0.636 (63.6%)
+  Sílabas por Palavra: 2.97
+
+331_violencia-no-brasil_saida.json:
+  Diversidade Léxica: 0.860 (86.0%)
+  Complexidade Lexical: 0.236 (23.6%) - Média
+  Palavras Longas (4+ sílabas): 0.247 (24.7%)
+  Diversidade Silábica: 0.560 (56.0%)
+  Palavras Complexas (3+ sílabas): 0.516 (51.6%)
+  Sílabas por Palavra: 2.78
+
+332_violencia_saida.json:
+  Diversidade Léxica: 0.891 (89.1%)
+  Complexidade Lexical: 0.299 (29.9%) - Média
+  Palavras Longas (4+ sílabas): 0.328 (32.8%)
+  Diversidade Silábica: 0.578 (57.8%)
+  Palavras Complexas (3+ sílabas): 0.641 (64.1%)
+  Sílabas por Palavra: 3.11
+
+33_ult4657u660_saida.json:
+  Diversidade Léxica: 0.878 (87.8%)
+  Complexidade Lexical: 0.274 (27.4%) - Média
+  Palavras Longas (4+ sílabas): 0.284 (28.4%)
+  Diversidade Silábica: 0.550 (55.0%)
+  Palavras Complexas (3+ sílabas): 0.581 (58.1%)
+  Sílabas por Palavra: 2.97
+
+34_ult4657u661_saida.json:
+  Diversidade Léxica: 0.897 (89.7%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.265 (26.5%)
+  Diversidade Silábica: 0.609 (60.9%)
+  Palavras Complexas (3+ sílabas): 0.559 (55.9%)
+  Sílabas por Palavra: 2.90
+
+350_a-violencia-nas-escolas_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.275 (27.5%) - Média
+  Palavras Longas (4+ sílabas): 0.298 (29.8%)
+  Diversidade Silábica: 0.531 (53.1%)
+  Palavras Complexas (3+ sílabas): 0.643 (64.3%)
+  Sílabas por Palavra: 3.02
+
+351_acerto-de-contas_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.268 (26.8%) - Média
+  Palavras Longas (4+ sílabas): 0.291 (29.1%)
+  Diversidade Silábica: 0.611 (61.1%)
+  Palavras Complexas (3+ sílabas): 0.655 (65.5%)
+  Sílabas por Palavra: 3.04
+
+353_e-melhor-prevenir-do-que-remediar_saida.json:
+  Diversidade Léxica: 0.858 (85.8%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.283 (28.3%)
+  Diversidade Silábica: 0.481 (48.1%)
+  Palavras Complexas (3+ sílabas): 0.513 (51.3%)
+  Sílabas por Palavra: 2.87
+
+354_e-necessario-remir-a-etica-da-coexistencia-social_saida.json:
+  Diversidade Léxica: 0.844 (84.4%)
+  Complexidade Lexical: 0.276 (27.6%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.493 (49.3%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.98
+
+354_ult4657u486_saida.json:
+  Diversidade Léxica: 0.837 (83.7%)
+  Complexidade Lexical: 0.215 (21.5%) - Média
+  Palavras Longas (4+ sílabas): 0.217 (21.7%)
+  Diversidade Silábica: 0.492 (49.2%)
+  Palavras Complexas (3+ sílabas): 0.533 (53.3%)
+  Sílabas por Palavra: 2.72
+
+355_escola-e-lugar-de-paz-e-aprendizado_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.352 (35.2%)
+  Diversidade Silábica: 0.564 (56.4%)
+  Palavras Complexas (3+ sílabas): 0.620 (62.0%)
+  Sílabas por Palavra: 3.07
+
+355_ult4657u487_saida.json:
+  Diversidade Léxica: 0.773 (77.3%)
+  Complexidade Lexical: 0.230 (23.0%) - Média
+  Palavras Longas (4+ sílabas): 0.218 (21.8%)
+  Diversidade Silábica: 0.451 (45.1%)
+  Palavras Complexas (3+ sílabas): 0.536 (53.6%)
+  Sílabas por Palavra: 2.80
+
+356_falta-de-amor_saida.json:
+  Diversidade Léxica: 0.892 (89.2%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.301 (30.1%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.614 (61.4%)
+  Sílabas por Palavra: 2.99
+
+356_ult4657u488_saida.json:
+  Diversidade Léxica: 0.844 (84.4%)
+  Complexidade Lexical: 0.257 (25.7%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.492 (49.2%)
+  Palavras Complexas (3+ sílabas): 0.544 (54.4%)
+  Sílabas por Palavra: 2.91
+
+357_genese-dos-monstros_saida.json:
+  Diversidade Léxica: 0.852 (85.2%)
+  Complexidade Lexical: 0.317 (31.7%) - Média
+  Palavras Longas (4+ sílabas): 0.328 (32.8%)
+  Diversidade Silábica: 0.518 (51.8%)
+  Palavras Complexas (3+ sílabas): 0.639 (63.9%)
+  Sílabas por Palavra: 3.26
+
+357_ult4657u489_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.324 (32.4%)
+  Diversidade Silábica: 0.433 (43.3%)
+  Palavras Complexas (3+ sílabas): 0.611 (61.1%)
+  Sílabas por Palavra: 3.06
+
+358_interrompidas_saida.json:
+  Diversidade Léxica: 0.946 (94.6%)
+  Complexidade Lexical: 0.274 (27.4%) - Média
+  Palavras Longas (4+ sílabas): 0.315 (31.5%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.86
+
+358_ult4657u490_saida.json:
+  Diversidade Léxica: 0.730 (73.0%)
+  Complexidade Lexical: 0.147 (14.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.123 (12.3%)
+  Diversidade Silábica: 0.448 (44.8%)
+  Palavras Complexas (3+ sílabas): 0.328 (32.8%)
+  Sílabas por Palavra: 2.34
+
+359_massacre-no-rio_saida.json:
+  Diversidade Léxica: 0.872 (87.2%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.282 (28.2%)
+  Diversidade Silábica: 0.520 (52.0%)
+  Palavras Complexas (3+ sílabas): 0.590 (59.0%)
+  Sílabas por Palavra: 2.91
+
+359_ult4657u491_saida.json:
+  Diversidade Léxica: 0.805 (80.5%)
+  Complexidade Lexical: 0.325 (32.5%) - Média
+  Palavras Longas (4+ sílabas): 0.354 (35.4%)
+  Diversidade Silábica: 0.472 (47.2%)
+  Palavras Complexas (3+ sílabas): 0.573 (57.3%)
+  Sílabas por Palavra: 3.05
+
+35_ult4657u662_saida.json:
+  Diversidade Léxica: 0.905 (90.5%)
+  Complexidade Lexical: 0.304 (30.4%) - Média
+  Palavras Longas (4+ sílabas): 0.351 (35.1%)
+  Diversidade Silábica: 0.604 (60.4%)
+  Palavras Complexas (3+ sílabas): 0.568 (56.8%)
+  Sílabas por Palavra: 3.07
+
+360_o-catastrofico-resultado-da-previsao-sobre-a-prevencao_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.275 (27.5%) - Média
+  Palavras Longas (4+ sílabas): 0.312 (31.2%)
+  Diversidade Silábica: 0.500 (50.0%)
+  Palavras Complexas (3+ sílabas): 0.597 (59.7%)
+  Sílabas por Palavra: 2.96
+
+360_ult4657u492_saida.json:
+  Diversidade Léxica: 0.898 (89.8%)
+  Complexidade Lexical: 0.324 (32.4%) - Média
+  Palavras Longas (4+ sílabas): 0.373 (37.3%)
+  Diversidade Silábica: 0.529 (52.9%)
+  Palavras Complexas (3+ sílabas): 0.627 (62.7%)
+  Sílabas por Palavra: 3.17
+
+361_ult4657u493_saida.json:
+  Diversidade Léxica: 0.863 (86.3%)
+  Complexidade Lexical: 0.257 (25.7%) - Média
+  Palavras Longas (4+ sílabas): 0.274 (27.4%)
+  Diversidade Silábica: 0.547 (54.7%)
+  Palavras Complexas (3+ sílabas): 0.603 (60.3%)
+  Sílabas por Palavra: 2.93
+
+362_sociais_saida.json:
+  Diversidade Léxica: 0.945 (94.5%)
+  Complexidade Lexical: 0.246 (24.6%) - Média
+  Palavras Longas (4+ sílabas): 0.255 (25.5%)
+  Diversidade Silábica: 0.626 (62.6%)
+  Palavras Complexas (3+ sílabas): 0.636 (63.6%)
+  Sílabas por Palavra: 2.96
+
+362_ult4657u494_saida.json:
+  Diversidade Léxica: 0.905 (90.5%)
+  Complexidade Lexical: 0.274 (27.4%) - Média
+  Palavras Longas (4+ sílabas): 0.310 (31.0%)
+  Diversidade Silábica: 0.617 (61.7%)
+  Palavras Complexas (3+ sílabas): 0.667 (66.7%)
+  Sílabas por Palavra: 3.05
+
+363_social_saida.json:
+  Diversidade Léxica: 0.840 (84.0%)
+  Complexidade Lexical: 0.312 (31.2%) - Média
+  Palavras Longas (4+ sílabas): 0.370 (37.0%)
+  Diversidade Silábica: 0.482 (48.2%)
+  Palavras Complexas (3+ sílabas): 0.590 (59.0%)
+  Sílabas por Palavra: 3.09
+
+364_titulo_saida.json:
+  Diversidade Léxica: 0.810 (81.0%)
+  Complexidade Lexical: 0.254 (25.4%) - Média
+  Palavras Longas (4+ sílabas): 0.262 (26.2%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.595 (59.5%)
+  Sílabas por Palavra: 2.93
+
+364_ult4657u496_saida.json:
+  Diversidade Léxica: 0.890 (89.0%)
+  Complexidade Lexical: 0.330 (33.0%) - Média
+  Palavras Longas (4+ sílabas): 0.397 (39.7%)
+  Diversidade Silábica: 0.530 (53.0%)
+  Palavras Complexas (3+ sílabas): 0.616 (61.6%)
+  Sílabas por Palavra: 3.15
+
+365_um-problema-sem-explicacao_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.291 (29.1%) - Média
+  Palavras Longas (4+ sílabas): 0.326 (32.6%)
+  Diversidade Silábica: 0.488 (48.8%)
+  Palavras Complexas (3+ sílabas): 0.641 (64.1%)
+  Sílabas por Palavra: 3.08
+
+366_ult4657u498_saida.json:
+  Diversidade Léxica: 0.814 (81.4%)
+  Complexidade Lexical: 0.306 (30.6%) - Média
+  Palavras Longas (4+ sílabas): 0.322 (32.2%)
+  Diversidade Silábica: 0.511 (51.1%)
+  Palavras Complexas (3+ sílabas): 0.678 (67.8%)
+  Sílabas por Palavra: 3.22
+
+366_violencia-gera-violencia_saida.json:
+  Diversidade Léxica: 0.753 (75.3%)
+  Complexidade Lexical: 0.299 (29.9%) - Média
+  Palavras Longas (4+ sílabas): 0.315 (31.5%)
+  Diversidade Silábica: 0.489 (48.9%)
+  Palavras Complexas (3+ sílabas): 0.551 (55.1%)
+  Sílabas por Palavra: 3.01
+
+367_ult4657u499_saida.json:
+  Diversidade Léxica: 1.000 (100.0%)
+  Complexidade Lexical: 0.289 (28.9%) - Média
+  Palavras Longas (4+ sílabas): 0.289 (28.9%)
+  Diversidade Silábica: 0.725 (72.5%)
+  Palavras Complexas (3+ sílabas): 0.684 (68.4%)
+  Sílabas por Palavra: 3.16
+
+367_violencia-nas-escolas_saida.json:
+  Diversidade Léxica: 0.811 (81.1%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.284 (28.4%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.537 (53.7%)
+  Sílabas por Palavra: 2.94
+
+368_ult4657u500_saida.json:
+  Diversidade Léxica: 0.787 (78.7%)
+  Complexidade Lexical: 0.267 (26.7%) - Média
+  Palavras Longas (4+ sílabas): 0.293 (29.3%)
+  Diversidade Silábica: 0.449 (44.9%)
+  Palavras Complexas (3+ sílabas): 0.627 (62.7%)
+  Sílabas por Palavra: 3.03
+
+369_ult4657u501_saida.json:
+  Diversidade Léxica: 0.756 (75.6%)
+  Complexidade Lexical: 0.289 (28.9%) - Média
+  Palavras Longas (4+ sílabas): 0.341 (34.1%)
+  Diversidade Silábica: 0.535 (53.5%)
+  Palavras Complexas (3+ sílabas): 0.634 (63.4%)
+  Sílabas por Palavra: 3.10
+
+36_ult4657u663_saida.json:
+  Diversidade Léxica: 0.920 (92.0%)
+  Complexidade Lexical: 0.310 (31.0%) - Média
+  Palavras Longas (4+ sílabas): 0.380 (38.0%)
+  Diversidade Silábica: 0.639 (63.9%)
+  Palavras Complexas (3+ sílabas): 0.640 (64.0%)
+  Sílabas por Palavra: 3.10
+
+370_ult4657u502_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.256 (25.6%) - Média
+  Palavras Longas (4+ sílabas): 0.289 (28.9%)
+  Diversidade Silábica: 0.682 (68.2%)
+  Palavras Complexas (3+ sílabas): 0.556 (55.6%)
+  Sílabas por Palavra: 2.87
+
+371_ult4657u503_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.251 (25.1%) - Média
+  Palavras Longas (4+ sílabas): 0.265 (26.5%)
+  Diversidade Silábica: 0.595 (59.5%)
+  Palavras Complexas (3+ sílabas): 0.603 (60.3%)
+  Sílabas por Palavra: 2.94
+
+372_ult4657u504_saida.json:
+  Diversidade Léxica: 0.879 (87.9%)
+  Complexidade Lexical: 0.294 (29.4%) - Média
+  Palavras Longas (4+ sílabas): 0.330 (33.0%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.593 (59.3%)
+  Sílabas por Palavra: 3.00
+
+37_ult4657u664_saida.json:
+  Diversidade Léxica: 0.845 (84.5%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.300 (30.0%)
+  Diversidade Silábica: 0.449 (44.9%)
+  Palavras Complexas (3+ sílabas): 0.491 (49.1%)
+  Sílabas por Palavra: 2.87
+
+389_a-evolucao-dos-livros-classicos_saida.json:
+  Diversidade Léxica: 0.898 (89.8%)
+  Complexidade Lexical: 0.305 (30.5%) - Média
+  Palavras Longas (4+ sílabas): 0.339 (33.9%)
+  Diversidade Silábica: 0.519 (51.9%)
+  Palavras Complexas (3+ sílabas): 0.661 (66.1%)
+  Sílabas por Palavra: 3.17
+
+38_ult4657u665_saida.json:
+  Diversidade Léxica: 0.812 (81.2%)
+  Complexidade Lexical: 0.242 (24.2%) - Média
+  Palavras Longas (4+ sílabas): 0.268 (26.8%)
+  Diversidade Silábica: 0.442 (44.2%)
+  Palavras Complexas (3+ sílabas): 0.522 (52.2%)
+  Sílabas por Palavra: 2.79
+
+391_a-literatura-no-mundo-atual_saida.json:
+  Diversidade Léxica: 0.803 (80.3%)
+  Complexidade Lexical: 0.223 (22.3%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.605 (60.5%)
+  Palavras Complexas (3+ sílabas): 0.561 (56.1%)
+  Sílabas por Palavra: 2.80
+
+392_a-simplificacao-da-linguagem-de-classicos-e-o-habito-brasileiro-de-le-ler_saida.json:
+  Diversidade Léxica: 0.880 (88.0%)
+  Complexidade Lexical: 0.300 (30.0%) - Média
+  Palavras Longas (4+ sílabas): 0.337 (33.7%)
+  Diversidade Silábica: 0.511 (51.1%)
+  Palavras Complexas (3+ sílabas): 0.598 (59.8%)
+  Sílabas por Palavra: 3.02
+
+393_a-simplificacao-dos-classicos-da-literatura-brasileira_saida.json:
+  Diversidade Léxica: 0.832 (83.2%)
+  Complexidade Lexical: 0.289 (28.9%) - Média
+  Palavras Longas (4+ sílabas): 0.337 (33.7%)
+  Diversidade Silábica: 0.507 (50.7%)
+  Palavras Complexas (3+ sílabas): 0.579 (57.9%)
+  Sílabas por Palavra: 2.95
+
+394_a-importancia-da-agua-para-os-seres-vivos_saida.json:
+  Diversidade Léxica: 0.806 (80.6%)
+  Complexidade Lexical: 0.205 (20.5%) - Média
+  Palavras Longas (4+ sílabas): 0.208 (20.8%)
+  Diversidade Silábica: 0.554 (55.4%)
+  Palavras Complexas (3+ sílabas): 0.542 (54.2%)
+  Sílabas por Palavra: 2.81
+
+394_adaptacoes-nao-sao-validas-validas_saida.json:
+  Diversidade Léxica: 0.823 (82.3%)
+  Complexidade Lexical: 0.252 (25.2%) - Média
+  Palavras Longas (4+ sílabas): 0.291 (29.1%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.81
+
+395_agua-aprendemos-com-a-atual-crise-hidrica_saida.json:
+  Diversidade Léxica: 0.804 (80.4%)
+  Complexidade Lexical: 0.236 (23.6%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.493 (49.3%)
+  Palavras Complexas (3+ sílabas): 0.515 (51.5%)
+  Sílabas por Palavra: 2.80
+
+395_de-adaptacoes-a-classicos_saida.json:
+  Diversidade Léxica: 0.817 (81.7%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.267 (26.7%)
+  Diversidade Silábica: 0.598 (59.8%)
+  Palavras Complexas (3+ sílabas): 0.550 (55.0%)
+  Sílabas por Palavra: 2.90
+
+396_deixe-o-classico-ser-classico_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.295 (29.5%) - Média
+  Palavras Longas (4+ sílabas): 0.356 (35.6%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.578 (57.8%)
+  Sílabas por Palavra: 3.01
+
+397_empobrecimento-dos-classicos_saida.json:
+  Diversidade Léxica: 0.863 (86.2%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.300 (30.0%)
+  Diversidade Silábica: 0.519 (51.9%)
+  Palavras Complexas (3+ sílabas): 0.588 (58.8%)
+  Sílabas por Palavra: 2.96
+
+398_agua-economizamos-ou-perdemos_saida.json:
+  Diversidade Léxica: 0.926 (92.6%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.637 (63.7%)
+  Palavras Complexas (3+ sílabas): 0.537 (53.7%)
+  Sílabas por Palavra: 2.96
+
+398_estimular-o-conhecimento-e-essencial_saida.json:
+  Diversidade Léxica: 0.808 (80.8%)
+  Complexidade Lexical: 0.274 (27.4%) - Média
+  Palavras Longas (4+ sílabas): 0.293 (29.3%)
+  Diversidade Silábica: 0.457 (45.7%)
+  Palavras Complexas (3+ sílabas): 0.566 (56.6%)
+  Sílabas por Palavra: 2.96
+
+399_agua-um-tesouro-desvalorizado_saida.json:
+  Diversidade Léxica: 0.911 (91.1%)
+  Complexidade Lexical: 0.212 (21.2%) - Média
+  Palavras Longas (4+ sílabas): 0.215 (21.5%)
+  Diversidade Silábica: 0.628 (62.8%)
+  Palavras Complexas (3+ sílabas): 0.506 (50.6%)
+  Sílabas por Palavra: 2.76
+
+39_ult4657u666_saida.json:
+  Diversidade Léxica: 0.914 (91.4%)
+  Complexidade Lexical: 0.295 (29.5%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.534 (53.4%)
+  Palavras Complexas (3+ sílabas): 0.630 (63.0%)
+  Sílabas por Palavra: 3.12
+
+400_as-acoes-so-virao-quando-a-crise-se-tornar-um-problema-financeiro_saida.json:
+  Diversidade Léxica: 0.848 (84.8%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.258 (25.8%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.576 (57.6%)
+  Sílabas por Palavra: 2.97
+
+400_ler-e-poder_saida.json:
+  Diversidade Léxica: 0.821 (82.1%)
+  Complexidade Lexical: 0.271 (27.1%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.607 (60.7%)
+  Sílabas por Palavra: 3.04
+
+401_como-no-final-de-uma-fabula_saida.json:
+  Diversidade Léxica: 0.743 (74.3%)
+  Complexidade Lexical: 0.238 (23.8%) - Média
+  Palavras Longas (4+ sílabas): 0.238 (23.8%)
+  Diversidade Silábica: 0.479 (47.9%)
+  Palavras Complexas (3+ sílabas): 0.515 (51.5%)
+  Sílabas por Palavra: 2.85
+
+402_nao-e-troca-e-aproximacao_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.321 (32.1%) - Média
+  Palavras Longas (4+ sílabas): 0.365 (36.5%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.649 (64.9%)
+  Sílabas por Palavra: 3.16
+
+403_limitada_saida.json:
+  Diversidade Léxica: 0.955 (95.5%)
+  Complexidade Lexical: 0.222 (22.2%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.730 (73.0%)
+  Palavras Complexas (3+ sílabas): 0.545 (54.5%)
+  Sílabas por Palavra: 2.77
+
+403_o-mau-mal-das-adaptacoes-literarias_saida.json:
+  Diversidade Léxica: 0.790 (79.0%)
+  Complexidade Lexical: 0.292 (29.2%) - Média
+  Palavras Longas (4+ sílabas): 0.330 (33.0%)
+  Diversidade Silábica: 0.420 (42.0%)
+  Palavras Complexas (3+ sílabas): 0.570 (57.0%)
+  Sílabas por Palavra: 3.00
+
+404_mais-uma-gota-para-transbordar_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.319 (31.9%)
+  Diversidade Silábica: 0.586 (58.6%)
+  Palavras Complexas (3+ sílabas): 0.551 (55.1%)
+  Sílabas por Palavra: 2.87
+
+405_o-espirito-da-abundancia_saida.json:
+  Diversidade Léxica: 0.877 (87.7%)
+  Complexidade Lexical: 0.237 (23.7%) - Média
+  Palavras Longas (4+ sílabas): 0.228 (22.8%)
+  Diversidade Silábica: 0.606 (60.6%)
+  Palavras Complexas (3+ sílabas): 0.544 (54.4%)
+  Sílabas por Palavra: 2.89
+
+405_retrocesso-linguistico-brasileiro_saida.json:
+  Diversidade Léxica: 0.821 (82.1%)
+  Complexidade Lexical: 0.264 (26.4%) - Média
+  Palavras Longas (4+ sílabas): 0.299 (29.9%)
+  Diversidade Silábica: 0.593 (59.3%)
+  Palavras Complexas (3+ sílabas): 0.567 (56.7%)
+  Sílabas por Palavra: 2.90
+
+406_olhando-o-presente-e-planejando-o-futuro_saida.json:
+  Diversidade Léxica: 0.789 (78.9%)
+  Complexidade Lexical: 0.324 (32.4%) - Média
+  Palavras Longas (4+ sílabas): 0.380 (38.0%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.620 (62.0%)
+  Sílabas por Palavra: 3.24
+
+406_simplificar-tambem-e-aprender_saida.json:
+  Diversidade Léxica: 0.863 (86.3%)
+  Complexidade Lexical: 0.282 (28.2%) - Média
+  Palavras Longas (4+ sílabas): 0.301 (30.1%)
+  Diversidade Silábica: 0.537 (53.7%)
+  Palavras Complexas (3+ sílabas): 0.616 (61.6%)
+  Sílabas por Palavra: 2.99
+
+407_pseudo-cidadao-pseudocidadao_saida.json:
+  Diversidade Léxica: 0.800 (80.0%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.244 (24.4%)
+  Diversidade Silábica: 0.532 (53.2%)
+  Palavras Complexas (3+ sílabas): 0.633 (63.3%)
+  Sílabas por Palavra: 2.99
+
+407_simplificar-um-classico-e-por-em-risco-sua-essencia_saida.json:
+  Diversidade Léxica: 0.904 (90.4%)
+  Complexidade Lexical: 0.357 (35.7%) - Alta
+  Palavras Longas (4+ sílabas): 0.425 (42.5%)
+  Diversidade Silábica: 0.530 (53.0%)
+  Palavras Complexas (3+ sílabas): 0.644 (64.4%)
+  Sílabas por Palavra: 3.23
+
+408_secas_saida.json:
+  Diversidade Léxica: 0.800 (80.0%)
+  Complexidade Lexical: 0.232 (23.2%) - Média
+  Palavras Longas (4+ sílabas): 0.218 (21.8%)
+  Diversidade Silábica: 0.577 (57.7%)
+  Palavras Complexas (3+ sílabas): 0.564 (56.4%)
+  Sílabas por Palavra: 2.84
+
+410_um-fluido-vital_saida.json:
+  Diversidade Léxica: 0.818 (81.8%)
+  Complexidade Lexical: 0.190 (19.0%) - Baixa
+  Palavras Longas (4+ sílabas): 0.182 (18.2%)
+  Diversidade Silábica: 0.626 (62.6%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.64
+
+411_uma-mudanca-profunda_saida.json:
+  Diversidade Léxica: 0.917 (91.7%)
+  Complexidade Lexical: 0.266 (26.6%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.587 (58.7%)
+  Palavras Complexas (3+ sílabas): 0.639 (63.9%)
+  Sílabas por Palavra: 3.03
+
+430_a-conscientizacao-e-fundamental_saida.json:
+  Diversidade Léxica: 0.903 (90.3%)
+  Complexidade Lexical: 0.236 (23.6%) - Média
+  Palavras Longas (4+ sílabas): 0.236 (23.6%)
+  Diversidade Silábica: 0.575 (57.5%)
+  Palavras Complexas (3+ sílabas): 0.597 (59.7%)
+  Sílabas por Palavra: 2.88
+
+431_a-espera-de-decisoes-sensatas_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.209 (20.9%) - Média
+  Palavras Longas (4+ sílabas): 0.208 (20.8%)
+  Diversidade Silábica: 0.603 (60.3%)
+  Palavras Complexas (3+ sílabas): 0.542 (54.2%)
+  Sílabas por Palavra: 2.69
+
+433_a-necessidade-de-politicas-publicas-como-forma-de-combate-uasu-enchentes_saida.json:
+  Diversidade Léxica: 0.849 (84.9%)
+  Complexidade Lexical: 0.216 (21.6%) - Média
+  Palavras Longas (4+ sílabas): 0.233 (23.3%)
+  Diversidade Silábica: 0.592 (59.2%)
+  Palavras Complexas (3+ sílabas): 0.512 (51.2%)
+  Sílabas por Palavra: 2.71
+
+433_ult4657u345_saida.json:
+  Diversidade Léxica: 0.794 (79.4%)
+  Complexidade Lexical: 0.303 (30.3%) - Média
+  Palavras Longas (4+ sílabas): 0.381 (38.1%)
+  Diversidade Silábica: 0.435 (43.5%)
+  Palavras Complexas (3+ sílabas): 0.577 (57.7%)
+  Sílabas por Palavra: 3.01
+
+434_a-prevencao-ainda-e-a-melhor-solucao_saida.json:
+  Diversidade Léxica: 0.892 (89.2%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.311 (31.1%)
+  Diversidade Silábica: 0.564 (56.4%)
+  Palavras Complexas (3+ sílabas): 0.622 (62.2%)
+  Sílabas por Palavra: 2.97
+
+434_ult4657u346_saida.json:
+  Diversidade Léxica: 0.816 (81.6%)
+  Complexidade Lexical: 0.276 (27.6%) - Média
+  Palavras Longas (4+ sílabas): 0.316 (31.6%)
+  Diversidade Silábica: 0.520 (52.0%)
+  Palavras Complexas (3+ sílabas): 0.553 (55.3%)
+  Sílabas por Palavra: 2.93
+
+435_ult4657u347_saida.json:
+  Diversidade Léxica: 0.913 (91.3%)
+  Complexidade Lexical: 0.332 (33.2%) - Média
+  Palavras Longas (4+ sílabas): 0.348 (34.8%)
+  Diversidade Silábica: 0.608 (60.8%)
+  Palavras Complexas (3+ sílabas): 0.587 (58.7%)
+  Sílabas por Palavra: 3.22
+
+436_conjunta_saida.json:
+  Diversidade Léxica: 0.891 (89.1%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.261 (26.1%)
+  Diversidade Silábica: 0.624 (62.4%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.89
+
+437_de-bracos-cruzados_saida.json:
+  Diversidade Léxica: 0.872 (87.2%)
+  Complexidade Lexical: 0.285 (28.5%) - Média
+  Palavras Longas (4+ sílabas): 0.308 (30.8%)
+  Diversidade Silábica: 0.545 (54.5%)
+  Palavras Complexas (3+ sílabas): 0.615 (61.5%)
+  Sílabas por Palavra: 2.99
+
+437_ult4657u349_saida.json:
+  Diversidade Léxica: 0.822 (82.2%)
+  Complexidade Lexical: 0.224 (22.4%) - Média
+  Palavras Longas (4+ sílabas): 0.219 (21.9%)
+  Diversidade Silábica: 0.532 (53.2%)
+  Palavras Complexas (3+ sílabas): 0.507 (50.7%)
+  Sílabas por Palavra: 2.75
+
+439_ult4657u351_saida.json:
+  Diversidade Léxica: 0.866 (86.6%)
+  Complexidade Lexical: 0.268 (26.8%) - Média
+  Palavras Longas (4+ sílabas): 0.269 (26.9%)
+  Diversidade Silábica: 0.556 (55.6%)
+  Palavras Complexas (3+ sílabas): 0.582 (58.2%)
+  Sílabas por Palavra: 2.96
+
+43_ult4657u64_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.262 (26.2%) - Média
+  Palavras Longas (4+ sílabas): 0.279 (27.9%)
+  Diversidade Silábica: 0.566 (56.6%)
+  Palavras Complexas (3+ sílabas): 0.492 (49.2%)
+  Sílabas por Palavra: 2.84
+
+440_evidencias_saida.json:
+  Diversidade Léxica: 0.881 (88.1%)
+  Complexidade Lexical: 0.272 (27.2%) - Média
+  Palavras Longas (4+ sílabas): 0.288 (28.8%)
+  Diversidade Silábica: 0.471 (47.1%)
+  Palavras Complexas (3+ sílabas): 0.593 (59.3%)
+  Sílabas por Palavra: 2.95
+
+440_ult4657u352_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.303 (30.3%)
+  Diversidade Silábica: 0.525 (52.5%)
+  Palavras Complexas (3+ sílabas): 0.553 (55.3%)
+  Sílabas por Palavra: 2.88
+
+441_exemplo-a-ser-seguido-pelo-brasil_saida.json:
+  Diversidade Léxica: 0.925 (92.5%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.669 (66.9%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.02
+
+441_ult4657u353_saida.json:
+  Diversidade Léxica: 0.896 (89.6%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.273 (27.3%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.558 (55.8%)
+  Sílabas por Palavra: 2.83
+
+442_inundacao-de-erros_saida.json:
+  Diversidade Léxica: 0.880 (88.0%)
+  Complexidade Lexical: 0.241 (24.1%) - Média
+  Palavras Longas (4+ sílabas): 0.241 (24.1%)
+  Diversidade Silábica: 0.588 (58.8%)
+  Palavras Complexas (3+ sílabas): 0.578 (57.8%)
+  Sílabas por Palavra: 2.89
+
+442_ult4657u354_saida.json:
+  Diversidade Léxica: 0.779 (77.9%)
+  Complexidade Lexical: 0.228 (22.8%) - Média
+  Palavras Longas (4+ sílabas): 0.208 (20.8%)
+  Diversidade Silábica: 0.532 (53.2%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.83
+
+443_mais-acoes-e-menos-discursos_saida.json:
+  Diversidade Léxica: 0.866 (86.6%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.269 (26.9%)
+  Diversidade Silábica: 0.578 (57.8%)
+  Palavras Complexas (3+ sílabas): 0.537 (53.7%)
+  Sílabas por Palavra: 2.79
+
+443_ult4657u355_saida.json:
+  Diversidade Léxica: 0.853 (85.3%)
+  Complexidade Lexical: 0.289 (28.9%) - Média
+  Palavras Longas (4+ sílabas): 0.293 (29.3%)
+  Diversidade Silábica: 0.472 (47.2%)
+  Palavras Complexas (3+ sílabas): 0.573 (57.3%)
+  Sílabas por Palavra: 3.08
+
+444_ult4657u356_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.220 (22.0%) - Média
+  Palavras Longas (4+ sílabas): 0.238 (23.8%)
+  Diversidade Silábica: 0.592 (59.2%)
+  Palavras Complexas (3+ sílabas): 0.476 (47.6%)
+  Sílabas por Palavra: 2.68
+
+445_o-mundo-em-declinio_saida.json:
+  Diversidade Léxica: 0.907 (90.7%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.293 (29.3%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.533 (53.3%)
+  Sílabas por Palavra: 2.87
+
+445_ult4657u357_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.278 (27.8%) - Média
+  Palavras Longas (4+ sílabas): 0.316 (31.6%)
+  Diversidade Silábica: 0.471 (47.1%)
+  Palavras Complexas (3+ sílabas): 0.541 (54.1%)
+  Sílabas por Palavra: 2.97
+
+446_os-desastres-de-janeiro_saida.json:
+  Diversidade Léxica: 0.866 (86.6%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.575 (57.5%)
+  Palavras Complexas (3+ sílabas): 0.612 (61.2%)
+  Sílabas por Palavra: 2.88
+
+446_ult4657u358_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.268 (26.8%)
+  Diversidade Silábica: 0.583 (58.3%)
+  Palavras Complexas (3+ sílabas): 0.592 (59.2%)
+  Sílabas por Palavra: 2.90
+
+447_os-verdadeiros-culpados_saida.json:
+  Diversidade Léxica: 0.816 (81.6%)
+  Complexidade Lexical: 0.245 (24.6%) - Média
+  Palavras Longas (4+ sílabas): 0.256 (25.6%)
+  Diversidade Silábica: 0.457 (45.7%)
+  Palavras Complexas (3+ sílabas): 0.544 (54.4%)
+  Sílabas por Palavra: 2.86
+
+447_ult4657u359_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.291 (29.1%) - Média
+  Palavras Longas (4+ sílabas): 0.311 (31.1%)
+  Diversidade Silábica: 0.553 (55.3%)
+  Palavras Complexas (3+ sílabas): 0.607 (60.7%)
+  Sílabas por Palavra: 3.11
+
+448_poluicao-caso-ou-descaso_saida.json:
+  Diversidade Léxica: 0.882 (88.2%)
+  Complexidade Lexical: 0.219 (21.9%) - Média
+  Palavras Longas (4+ sílabas): 0.226 (22.6%)
+  Diversidade Silábica: 0.531 (53.1%)
+  Palavras Complexas (3+ sílabas): 0.538 (53.8%)
+  Sílabas por Palavra: 2.75
+
+448_ult4657u360_saida.json:
+  Diversidade Léxica: 0.869 (86.9%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.318 (31.8%)
+  Diversidade Silábica: 0.484 (48.4%)
+  Palavras Complexas (3+ sílabas): 0.523 (52.3%)
+  Sílabas por Palavra: 2.97
+
+449_tristeza-e-dissimulacao-a-cara-do-brasil-de-hoje_saida.json:
+  Diversidade Léxica: 0.837 (83.7%)
+  Complexidade Lexical: 0.209 (20.9%) - Média
+  Palavras Longas (4+ sílabas): 0.207 (20.7%)
+  Diversidade Silábica: 0.543 (54.3%)
+  Palavras Complexas (3+ sílabas): 0.478 (47.8%)
+  Sílabas por Palavra: 2.68
+
+44_ult4657u65_saida.json:
+  Diversidade Léxica: 0.770 (77.0%)
+  Complexidade Lexical: 0.288 (28.8%) - Média
+  Palavras Longas (4+ sílabas): 0.340 (34.0%)
+  Diversidade Silábica: 0.462 (46.2%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.92
+
+450_ult4657u362_saida.json:
+  Diversidade Léxica: 0.814 (81.4%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.280 (28.0%)
+  Diversidade Silábica: 0.459 (45.9%)
+  Palavras Complexas (3+ sílabas): 0.483 (48.3%)
+  Sílabas por Palavra: 2.82
+
+452_ult4657u364_saida.json:
+  Diversidade Léxica: 0.964 (96.4%)
+  Complexidade Lexical: 0.312 (31.2%) - Média
+  Palavras Longas (4+ sílabas): 0.321 (32.1%)
+  Diversidade Silábica: 0.697 (69.7%)
+  Palavras Complexas (3+ sílabas): 0.679 (67.9%)
+  Sílabas por Palavra: 3.18
+
+45_ult4657u66_saida.json:
+  Diversidade Léxica: 0.890 (89.0%)
+  Complexidade Lexical: 0.317 (31.7%) - Média
+  Palavras Longas (4+ sílabas): 0.315 (31.5%)
+  Diversidade Silábica: 0.529 (52.9%)
+  Palavras Complexas (3+ sílabas): 0.548 (54.8%)
+  Sílabas por Palavra: 3.11
+
+46_ult4657u67_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.322 (32.2%) - Média
+  Palavras Longas (4+ sílabas): 0.402 (40.2%)
+  Diversidade Silábica: 0.527 (52.7%)
+  Palavras Complexas (3+ sílabas): 0.585 (58.5%)
+  Sílabas por Palavra: 3.12
+
+470_a-tortura-em-um-leito-de-hospital_saida.json:
+  Diversidade Léxica: 0.896 (89.6%)
+  Complexidade Lexical: 0.247 (24.7%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.532 (53.2%)
+  Palavras Complexas (3+ sílabas): 0.537 (53.7%)
+  Sílabas por Palavra: 2.81
+
+471_disfarcados_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.296 (29.6%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.463 (46.3%)
+  Palavras Complexas (3+ sílabas): 0.663 (66.3%)
+  Sílabas por Palavra: 3.10
+
+471_ult4657u445_saida.json:
+  Diversidade Léxica: 0.878 (87.8%)
+  Complexidade Lexical: 0.300 (30.0%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.498 (49.8%)
+  Palavras Complexas (3+ sílabas): 0.611 (61.1%)
+  Sílabas por Palavra: 3.12
+
+472_escolha-do-destino_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.260 (26.0%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.467 (46.7%)
+  Palavras Complexas (3+ sílabas): 0.679 (67.9%)
+  Sílabas por Palavra: 3.04
+
+473_eutanasia-a-um-passo-da-morte_saida.json:
+  Diversidade Léxica: 0.800 (80.0%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.260 (26.0%)
+  Diversidade Silábica: 0.564 (56.4%)
+  Palavras Complexas (3+ sílabas): 0.620 (62.0%)
+  Sílabas por Palavra: 2.98
+
+473_ult4657u447_saida.json:
+  Diversidade Léxica: 0.830 (83.0%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.311 (31.1%)
+  Diversidade Silábica: 0.455 (45.5%)
+  Palavras Complexas (3+ sílabas): 0.557 (55.7%)
+  Sílabas por Palavra: 2.94
+
+474_ult4657u448_saida.json:
+  Diversidade Léxica: 0.826 (82.6%)
+  Complexidade Lexical: 0.217 (21.7%) - Média
+  Palavras Longas (4+ sílabas): 0.228 (22.8%)
+  Diversidade Silábica: 0.512 (51.2%)
+  Palavras Complexas (3+ sílabas): 0.533 (53.3%)
+  Sílabas por Palavra: 2.74
+
+475_ult4657u449_saida.json:
+  Diversidade Léxica: 0.842 (84.2%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.242 (24.2%)
+  Diversidade Silábica: 0.504 (50.4%)
+  Palavras Complexas (3+ sílabas): 0.568 (56.8%)
+  Sílabas por Palavra: 2.86
+
+476_eutanasia-uma-cultura-de-morte_saida.json:
+  Diversidade Léxica: 0.856 (85.6%)
+  Complexidade Lexical: 0.226 (22.6%) - Média
+  Palavras Longas (4+ sílabas): 0.224 (22.4%)
+  Diversidade Silábica: 0.444 (44.4%)
+  Palavras Complexas (3+ sílabas): 0.552 (55.2%)
+  Sílabas por Palavra: 2.86
+
+476_ult4657u450_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.317 (31.7%) - Média
+  Palavras Longas (4+ sílabas): 0.410 (41.0%)
+  Diversidade Silábica: 0.469 (46.9%)
+  Palavras Complexas (3+ sílabas): 0.628 (62.8%)
+  Sílabas por Palavra: 3.14
+
+477_homicidio-ou-fim-de-um-sofrimento_saida.json:
+  Diversidade Léxica: 0.858 (85.8%)
+  Complexidade Lexical: 0.217 (21.7%) - Média
+  Palavras Longas (4+ sílabas): 0.212 (21.2%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.496 (49.6%)
+  Sílabas por Palavra: 2.68
+
+477_ult4657u451_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.205 (20.5%) - Média
+  Palavras Longas (4+ sílabas): 0.222 (22.2%)
+  Diversidade Silábica: 0.596 (59.6%)
+  Palavras Complexas (3+ sílabas): 0.540 (54.0%)
+  Sílabas por Palavra: 2.71
+
+478_liberdade-da-escolha_saida.json:
+  Diversidade Léxica: 0.827 (82.7%)
+  Complexidade Lexical: 0.223 (22.3%) - Média
+  Palavras Longas (4+ sílabas): 0.210 (21.0%)
+  Diversidade Silábica: 0.504 (50.4%)
+  Palavras Complexas (3+ sílabas): 0.642 (64.2%)
+  Sílabas por Palavra: 2.91
+
+478_ult4657u452_saida.json:
+  Diversidade Léxica: 0.959 (95.9%)
+  Complexidade Lexical: 0.290 (29.0%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.645 (64.5%)
+  Palavras Complexas (3+ sílabas): 0.612 (61.2%)
+  Sílabas por Palavra: 3.10
+
+480_matar-para-economizar-nao_saida.json:
+  Diversidade Léxica: 0.865 (86.5%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.269 (26.9%)
+  Diversidade Silábica: 0.624 (62.4%)
+  Palavras Complexas (3+ sílabas): 0.558 (55.8%)
+  Sílabas por Palavra: 2.87
+
+482_nao-e-decisao-humana_saida.json:
+  Diversidade Léxica: 0.821 (82.1%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.310 (31.0%)
+  Diversidade Silábica: 0.528 (52.8%)
+  Palavras Complexas (3+ sílabas): 0.548 (54.8%)
+  Sílabas por Palavra: 2.95
+
+482_ult4657u456_saida.json:
+  Diversidade Léxica: 0.847 (84.7%)
+  Complexidade Lexical: 0.230 (23.0%) - Média
+  Palavras Longas (4+ sílabas): 0.242 (24.2%)
+  Diversidade Silábica: 0.482 (48.2%)
+  Palavras Complexas (3+ sílabas): 0.548 (54.8%)
+  Sílabas por Palavra: 2.85
+
+483_nao_saida.json:
+  Diversidade Léxica: 0.951 (95.1%)
+  Complexidade Lexical: 0.357 (35.7%) - Alta
+  Palavras Longas (4+ sílabas): 0.439 (43.9%)
+  Diversidade Silábica: 0.687 (68.7%)
+  Palavras Complexas (3+ sílabas): 0.683 (68.3%)
+  Sílabas por Palavra: 3.27
+
+483_ult4657u457_saida.json:
+  Diversidade Léxica: 0.927 (92.7%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.593 (59.3%)
+  Palavras Complexas (3+ sílabas): 0.655 (65.5%)
+  Sílabas por Palavra: 3.13
+
+484_ult4657u458_saida.json:
+  Diversidade Léxica: 0.891 (89.1%)
+  Complexidade Lexical: 0.298 (29.8%) - Média
+  Palavras Longas (4+ sílabas): 0.345 (34.5%)
+  Diversidade Silábica: 0.532 (53.2%)
+  Palavras Complexas (3+ sílabas): 0.636 (63.6%)
+  Sílabas por Palavra: 3.11
+
+485_o-individuo-e-responsavel-por-suas-escolhas_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.212 (21.2%) - Média
+  Palavras Longas (4+ sílabas): 0.188 (18.8%)
+  Diversidade Silábica: 0.557 (55.7%)
+  Palavras Complexas (3+ sílabas): 0.641 (64.1%)
+  Sílabas por Palavra: 2.89
+
+485_ult4657u459_saida.json:
+  Diversidade Léxica: 0.906 (90.6%)
+  Complexidade Lexical: 0.274 (27.4%) - Média
+  Palavras Longas (4+ sílabas): 0.312 (31.2%)
+  Diversidade Silábica: 0.574 (57.4%)
+  Palavras Complexas (3+ sílabas): 0.562 (56.2%)
+  Sílabas por Palavra: 2.97
+
+486_opcao-pela-vida_saida.json:
+  Diversidade Léxica: 0.792 (79.2%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.255 (25.5%)
+  Diversidade Silábica: 0.451 (45.1%)
+  Palavras Complexas (3+ sílabas): 0.566 (56.6%)
+  Sílabas por Palavra: 2.87
+
+486_ult4657u460_saida.json:
+  Diversidade Léxica: 0.807 (80.7%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.458 (45.8%)
+  Palavras Complexas (3+ sílabas): 0.518 (51.8%)
+  Sílabas por Palavra: 2.85
+
+487_pronto-para-morrer_saida.json:
+  Diversidade Léxica: 0.828 (82.8%)
+  Complexidade Lexical: 0.241 (24.1%) - Média
+  Palavras Longas (4+ sílabas): 0.253 (25.3%)
+  Diversidade Silábica: 0.543 (54.3%)
+  Palavras Complexas (3+ sílabas): 0.517 (51.7%)
+  Sílabas por Palavra: 2.82
+
+487_ult4657u461_saida.json:
+  Diversidade Léxica: 0.767 (76.7%)
+  Complexidade Lexical: 0.282 (28.2%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.435 (43.5%)
+  Palavras Complexas (3+ sílabas): 0.633 (63.3%)
+  Sílabas por Palavra: 3.09
+
+488_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.888 (88.8%)
+  Complexidade Lexical: 0.262 (26.2%) - Média
+  Palavras Longas (4+ sílabas): 0.281 (28.1%)
+  Diversidade Silábica: 0.504 (50.4%)
+  Palavras Complexas (3+ sílabas): 0.640 (64.0%)
+  Sílabas por Palavra: 2.99
+
+488_ult4657u462_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.379 (37.9%) - Alta
+  Palavras Longas (4+ sílabas): 0.414 (41.4%)
+  Diversidade Silábica: 0.385 (38.5%)
+  Palavras Complexas (3+ sílabas): 0.636 (63.6%)
+  Sílabas por Palavra: 3.41
+
+489_ult4657u463_saida.json:
+  Diversidade Léxica: 0.861 (86.1%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.361 (36.1%)
+  Diversidade Silábica: 0.493 (49.3%)
+  Palavras Complexas (3+ sílabas): 0.556 (55.6%)
+  Sílabas por Palavra: 2.96
+
+490_ult4657u464_saida.json:
+  Diversidade Léxica: 0.835 (83.5%)
+  Complexidade Lexical: 0.320 (32.0%) - Média
+  Palavras Longas (4+ sílabas): 0.353 (35.3%)
+  Diversidade Silábica: 0.472 (47.2%)
+  Palavras Complexas (3+ sílabas): 0.576 (57.6%)
+  Sílabas por Palavra: 3.16
+
+49_ult4657u70_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.256 (25.6%) - Média
+  Palavras Longas (4+ sílabas): 0.299 (29.9%)
+  Diversidade Silábica: 0.551 (55.1%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.81
+
+50_ult4657u71_saida.json:
+  Diversidade Léxica: 0.828 (82.8%)
+  Complexidade Lexical: 0.358 (35.8%) - Alta
+  Palavras Longas (4+ sílabas): 0.431 (43.1%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.655 (65.5%)
+  Sílabas por Palavra: 3.29
+
+510_a-racionalidade-humana-em-defesa-dos-animais_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.232 (23.2%) - Média
+  Palavras Longas (4+ sílabas): 0.224 (22.4%)
+  Diversidade Silábica: 0.568 (56.8%)
+  Palavras Complexas (3+ sílabas): 0.537 (53.7%)
+  Sílabas por Palavra: 2.73
+
+512_abusados-pela-razao_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.264 (26.4%)
+  Diversidade Silábica: 0.466 (46.6%)
+  Palavras Complexas (3+ sílabas): 0.594 (59.4%)
+  Sílabas por Palavra: 2.93
+
+512_auto-medicacao-automedicacao_saida.json:
+  Diversidade Léxica: 0.816 (81.6%)
+  Complexidade Lexical: 0.225 (22.5%) - Média
+  Palavras Longas (4+ sílabas): 0.235 (23.5%)
+  Diversidade Silábica: 0.498 (49.8%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.77
+
+513_afinal-de-quem-e-a-culpa_saida.json:
+  Diversidade Léxica: 0.798 (79.8%)
+  Complexidade Lexical: 0.222 (22.2%) - Média
+  Palavras Longas (4+ sílabas): 0.202 (20.2%)
+  Diversidade Silábica: 0.479 (47.9%)
+  Palavras Complexas (3+ sílabas): 0.638 (63.8%)
+  Sílabas por Palavra: 2.84
+
+514_animais-que-salvam-vidas_saida.json:
+  Diversidade Léxica: 0.837 (83.7%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.527 (52.7%)
+  Palavras Complexas (3+ sílabas): 0.587 (58.7%)
+  Sílabas por Palavra: 2.85
+
+514_automedicacao-o-risco-a-saude-x-saude-precaria_saida.json:
+  Diversidade Léxica: 0.810 (81.0%)
+  Complexidade Lexical: 0.216 (21.6%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.424 (42.4%)
+  Palavras Complexas (3+ sílabas): 0.509 (50.9%)
+  Sílabas por Palavra: 2.66
+
+515_animais-tambem-possuem-sentimentos_saida.json:
+  Diversidade Léxica: 0.836 (83.6%)
+  Complexidade Lexical: 0.226 (22.6%) - Média
+  Palavras Longas (4+ sílabas): 0.236 (23.6%)
+  Diversidade Silábica: 0.490 (49.0%)
+  Palavras Complexas (3+ sílabas): 0.545 (54.5%)
+  Sílabas por Palavra: 2.71
+
+515_automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens_saida.json:
+  Diversidade Léxica: 0.828 (82.8%)
+  Complexidade Lexical: 0.254 (25.4%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.553 (55.3%)
+  Palavras Complexas (3+ sílabas): 0.562 (56.2%)
+  Sílabas por Palavra: 2.97
+
+516_automedicacao-solucao-mascarada_saida.json:
+  Diversidade Léxica: 0.831 (83.1%)
+  Complexidade Lexical: 0.229 (22.9%) - Média
+  Palavras Longas (4+ sílabas): 0.182 (18.2%)
+  Diversidade Silábica: 0.464 (46.4%)
+  Palavras Complexas (3+ sílabas): 0.649 (64.9%)
+  Sílabas por Palavra: 3.03
+
+516_beagles-as-unicas-vitimas_saida.json:
+  Diversidade Léxica: 0.760 (76.0%)
+  Complexidade Lexical: 0.246 (24.6%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.432 (43.2%)
+  Palavras Complexas (3+ sílabas): 0.567 (56.7%)
+  Sílabas por Palavra: 2.83
+
+517_automedicacao-uma-pratica-perigosa_saida.json:
+  Diversidade Léxica: 0.797 (79.7%)
+  Complexidade Lexical: 0.266 (26.6%) - Média
+  Palavras Longas (4+ sílabas): 0.297 (29.7%)
+  Diversidade Silábica: 0.396 (39.6%)
+  Palavras Complexas (3+ sílabas): 0.609 (60.9%)
+  Sílabas por Palavra: 2.99
+
+517_black-blocs-e-os-beagles_saida.json:
+  Diversidade Léxica: 0.831 (83.1%)
+  Complexidade Lexical: 0.267 (26.7%) - Média
+  Palavras Longas (4+ sílabas): 0.247 (24.7%)
+  Diversidade Silábica: 0.476 (47.6%)
+  Palavras Complexas (3+ sílabas): 0.597 (59.7%)
+  Sílabas por Palavra: 2.92
+
+518_experiencias-com-animais-justificam-a-violencia-nas-manifestacoes_saida.json:
+  Diversidade Léxica: 0.929 (92.9%)
+  Complexidade Lexical: 0.217 (21.7%) - Média
+  Palavras Longas (4+ sílabas): 0.196 (19.6%)
+  Diversidade Silábica: 0.633 (63.3%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.68
+
+519_automedicacao_saida.json:
+  Diversidade Léxica: 0.853 (85.3%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.538 (53.8%)
+  Palavras Complexas (3+ sílabas): 0.559 (55.9%)
+  Sílabas por Palavra: 2.90
+
+519_intolerancia_saida.json:
+  Diversidade Léxica: 0.823 (82.3%)
+  Complexidade Lexical: 0.331 (33.1%) - Média
+  Palavras Longas (4+ sílabas): 0.398 (39.8%)
+  Diversidade Silábica: 0.433 (43.3%)
+  Palavras Complexas (3+ sílabas): 0.611 (61.1%)
+  Sílabas por Palavra: 3.17
+
+51_ult4657u72_saida.json:
+  Diversidade Léxica: 0.828 (82.8%)
+  Complexidade Lexical: 0.276 (27.6%) - Média
+  Palavras Longas (4+ sílabas): 0.303 (30.3%)
+  Diversidade Silábica: 0.486 (48.6%)
+  Palavras Complexas (3+ sílabas): 0.556 (55.6%)
+  Sílabas por Palavra: 2.99
+
+520_manifestacoes-e-a-participacao-de-animais-na-pesquisa-cientifica_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.220 (22.0%) - Média
+  Palavras Longas (4+ sílabas): 0.218 (21.8%)
+  Diversidade Silábica: 0.610 (61.0%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.80
+
+520_o-costume-brasileiro_saida.json:
+  Diversidade Léxica: 0.912 (91.2%)
+  Complexidade Lexical: 0.329 (32.9%) - Média
+  Palavras Longas (4+ sílabas): 0.351 (35.1%)
+  Diversidade Silábica: 0.568 (56.8%)
+  Palavras Complexas (3+ sílabas): 0.667 (66.7%)
+  Sílabas por Palavra: 3.21
+
+521_maus-tratos-de-animais-e-a-pesquisa-cientifica_saida.json:
+  Diversidade Léxica: 0.761 (76.1%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.283 (28.3%)
+  Diversidade Silábica: 0.434 (43.4%)
+  Palavras Complexas (3+ sílabas): 0.593 (59.3%)
+  Sílabas por Palavra: 2.88
+
+521_o-melhor-remedio---consultar-o-medico_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.276 (27.6%) - Média
+  Palavras Longas (4+ sílabas): 0.268 (26.8%)
+  Diversidade Silábica: 0.565 (56.5%)
+  Palavras Complexas (3+ sílabas): 0.549 (54.9%)
+  Sílabas por Palavra: 3.04
+
+522_necessidade-x-abusos_saida.json:
+  Diversidade Léxica: 0.913 (91.3%)
+  Complexidade Lexical: 0.314 (31.4%) - Média
+  Palavras Longas (4+ sílabas): 0.319 (31.9%)
+  Diversidade Silábica: 0.521 (52.1%)
+  Palavras Complexas (3+ sílabas): 0.623 (62.3%)
+  Sílabas por Palavra: 3.12
+
+523_os-riscos-da-automedicacao_saida.json:
+  Diversidade Léxica: 0.945 (94.5%)
+  Complexidade Lexical: 0.335 (33.5%) - Média
+  Palavras Longas (4+ sílabas): 0.382 (38.2%)
+  Diversidade Silábica: 0.615 (61.5%)
+  Palavras Complexas (3+ sílabas): 0.655 (65.5%)
+  Sílabas por Palavra: 3.25
+
+524_os-beagles-sem-saida_saida.json:
+  Diversidade Léxica: 0.826 (82.6%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.244 (24.4%)
+  Diversidade Silábica: 0.524 (52.4%)
+  Palavras Complexas (3+ sílabas): 0.663 (66.3%)
+  Sílabas por Palavra: 2.95
+
+524_os-sintomas-de-um-grande-problema_saida.json:
+  Diversidade Léxica: 0.844 (84.4%)
+  Complexidade Lexical: 0.291 (29.1%) - Média
+  Palavras Longas (4+ sílabas): 0.312 (31.2%)
+  Diversidade Silábica: 0.492 (49.2%)
+  Palavras Complexas (3+ sílabas): 0.623 (62.3%)
+  Sílabas por Palavra: 3.09
+
+525_os-dois-lado-de-uma-causa-polemica_saida.json:
+  Diversidade Léxica: 0.871 (87.1%)
+  Complexidade Lexical: 0.234 (23.4%) - Média
+  Palavras Longas (4+ sílabas): 0.210 (21.0%)
+  Diversidade Silábica: 0.621 (62.1%)
+  Palavras Complexas (3+ sílabas): 0.613 (61.3%)
+  Sílabas por Palavra: 2.85
+
+525_os-sintomas-de-um-pais-despreocupado_saida.json:
+  Diversidade Léxica: 0.827 (82.7%)
+  Complexidade Lexical: 0.290 (29.0%) - Média
+  Palavras Longas (4+ sílabas): 0.293 (29.3%)
+  Diversidade Silábica: 0.489 (48.9%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.11
+
+526_presente_saida.json:
+  Diversidade Léxica: 0.784 (78.4%)
+  Complexidade Lexical: 0.316 (31.6%) - Média
+  Palavras Longas (4+ sílabas): 0.378 (37.8%)
+  Diversidade Silábica: 0.470 (47.0%)
+  Palavras Complexas (3+ sílabas): 0.689 (68.9%)
+  Sílabas por Palavra: 3.19
+
+526_prevenir-e-conscientizar_saida.json:
+  Diversidade Léxica: 0.877 (87.7%)
+  Complexidade Lexical: 0.195 (19.5%) - Baixa
+  Palavras Longas (4+ sílabas): 0.178 (17.8%)
+  Diversidade Silábica: 0.590 (59.0%)
+  Palavras Complexas (3+ sílabas): 0.507 (50.7%)
+  Sílabas por Palavra: 2.74
+
+527_protestos-justos-acompanhados-de-vandalismo_saida.json:
+  Diversidade Léxica: 0.784 (78.4%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.261 (26.1%)
+  Diversidade Silábica: 0.496 (49.6%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.77
+
+528_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.852 (85.2%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.259 (25.9%)
+  Diversidade Silábica: 0.621 (62.1%)
+  Palavras Complexas (3+ sílabas): 0.556 (55.6%)
+  Sílabas por Palavra: 2.98
+
+529_vida-animal-ou-a-humana_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.244 (24.4%) - Média
+  Palavras Longas (4+ sílabas): 0.244 (24.4%)
+  Diversidade Silábica: 0.496 (49.6%)
+  Palavras Complexas (3+ sílabas): 0.589 (58.9%)
+  Sílabas por Palavra: 2.84
+
+52_ult4657u73_saida.json:
+  Diversidade Léxica: 0.870 (87.0%)
+  Complexidade Lexical: 0.354 (35.4%) - Alta
+  Palavras Longas (4+ sílabas): 0.402 (40.2%)
+  Diversidade Silábica: 0.469 (46.9%)
+  Palavras Complexas (3+ sílabas): 0.663 (66.3%)
+  Sílabas por Palavra: 3.34
+
+53_ult4657u74_saida.json:
+  Diversidade Léxica: 0.854 (85.4%)
+  Complexidade Lexical: 0.308 (30.8%) - Média
+  Palavras Longas (4+ sílabas): 0.365 (36.5%)
+  Diversidade Silábica: 0.507 (50.7%)
+  Palavras Complexas (3+ sílabas): 0.552 (55.2%)
+  Sílabas por Palavra: 3.06
+
+551_ult4657u224_saida.json:
+  Diversidade Léxica: 0.837 (83.7%)
+  Complexidade Lexical: 0.270 (27.0%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.615 (61.5%)
+  Palavras Complexas (3+ sílabas): 0.653 (65.3%)
+  Sílabas por Palavra: 3.02
+
+553_bicicletas-a-melhor-estrategia-para-acabar-com-o-transito-e-a-poluicao_saida.json:
+  Diversidade Léxica: 0.876 (87.6%)
+  Complexidade Lexical: 0.225 (22.5%) - Média
+  Palavras Longas (4+ sílabas): 0.216 (21.6%)
+  Diversidade Silábica: 0.532 (53.2%)
+  Palavras Complexas (3+ sílabas): 0.588 (58.8%)
+  Sílabas por Palavra: 2.87
+
+553_ult4657u226_saida.json:
+  Diversidade Léxica: 0.852 (85.2%)
+  Complexidade Lexical: 0.349 (34.9%) - Média
+  Palavras Longas (4+ sílabas): 0.400 (40.0%)
+  Diversidade Silábica: 0.445 (44.5%)
+  Palavras Complexas (3+ sílabas): 0.522 (52.2%)
+  Sílabas por Palavra: 3.10
+
+554_bicicletas-a-solucao-para-acabar-com-o-stress-do-transito_saida.json:
+  Diversidade Léxica: 0.787 (78.8%)
+  Complexidade Lexical: 0.271 (27.1%) - Média
+  Palavras Longas (4+ sílabas): 0.319 (31.9%)
+  Diversidade Silábica: 0.389 (38.9%)
+  Palavras Complexas (3+ sílabas): 0.556 (55.6%)
+  Sílabas por Palavra: 2.92
+
+554_ult4657u227_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.266 (26.6%) - Média
+  Palavras Longas (4+ sílabas): 0.300 (30.0%)
+  Diversidade Silábica: 0.584 (58.4%)
+  Palavras Complexas (3+ sílabas): 0.617 (61.7%)
+  Sílabas por Palavra: 2.97
+
+555_bicicletas-economicas-e-suntentaveis_saida.json:
+  Diversidade Léxica: 0.887 (88.7%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.338 (33.8%)
+  Diversidade Silábica: 0.540 (54.0%)
+  Palavras Complexas (3+ sílabas): 0.676 (67.6%)
+  Sílabas por Palavra: 3.18
+
+555_ult4657u228_saida.json:
+  Diversidade Léxica: 0.936 (93.6%)
+  Complexidade Lexical: 0.295 (29.5%) - Média
+  Palavras Longas (4+ sílabas): 0.340 (34.0%)
+  Diversidade Silábica: 0.636 (63.6%)
+  Palavras Complexas (3+ sílabas): 0.638 (63.8%)
+  Sílabas por Palavra: 3.04
+
+556_ult4657u229_saida.json:
+  Diversidade Léxica: 0.764 (76.4%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.292 (29.2%)
+  Diversidade Silábica: 0.514 (51.4%)
+  Palavras Complexas (3+ sílabas): 0.528 (52.8%)
+  Sílabas por Palavra: 2.92
+
+557_bicicletas-uma-iniciativa-que-pode-mudar-o-dia-a-dia_saida.json:
+  Diversidade Léxica: 0.917 (91.7%)
+  Complexidade Lexical: 0.318 (31.8%) - Média
+  Palavras Longas (4+ sílabas): 0.354 (35.4%)
+  Diversidade Silábica: 0.571 (57.1%)
+  Palavras Complexas (3+ sílabas): 0.688 (68.8%)
+  Sílabas por Palavra: 3.21
+
+557_ult4657u230_saida.json:
+  Diversidade Léxica: 0.913 (91.3%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.319 (31.9%)
+  Diversidade Silábica: 0.610 (61.0%)
+  Palavras Complexas (3+ sílabas): 0.536 (53.6%)
+  Sílabas por Palavra: 2.90
+
+558_ciclofaixa-no-improviso_saida.json:
+  Diversidade Léxica: 0.843 (84.3%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.339 (33.9%)
+  Diversidade Silábica: 0.459 (45.9%)
+  Palavras Complexas (3+ sílabas): 0.574 (57.4%)
+  Sílabas por Palavra: 2.97
+
+558_ult4657u231_saida.json:
+  Diversidade Léxica: 0.948 (94.8%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.234 (23.4%)
+  Diversidade Silábica: 0.604 (60.4%)
+  Palavras Complexas (3+ sílabas): 0.519 (51.9%)
+  Sílabas por Palavra: 2.92
+
+559_cultura-do-desrespeito_saida.json:
+  Diversidade Léxica: 0.837 (83.7%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.279 (27.9%)
+  Diversidade Silábica: 0.480 (48.0%)
+  Palavras Complexas (3+ sílabas): 0.567 (56.7%)
+  Sílabas por Palavra: 2.90
+
+560_esta-na-hora-de-evoluir_saida.json:
+  Diversidade Léxica: 0.803 (80.3%)
+  Complexidade Lexical: 0.221 (22.1%) - Média
+  Palavras Longas (4+ sílabas): 0.211 (21.1%)
+  Diversidade Silábica: 0.567 (56.7%)
+  Palavras Complexas (3+ sílabas): 0.507 (50.7%)
+  Sílabas por Palavra: 2.73
+
+560_ult4657u234_saida.json:
+  Diversidade Léxica: 0.777 (77.7%)
+  Complexidade Lexical: 0.235 (23.5%) - Média
+  Palavras Longas (4+ sílabas): 0.223 (22.3%)
+  Diversidade Silábica: 0.454 (45.4%)
+  Palavras Complexas (3+ sílabas): 0.544 (54.4%)
+  Sílabas por Palavra: 2.86
+
+561_o-futuro-vem-a-pedal_saida.json:
+  Diversidade Léxica: 0.869 (86.9%)
+  Complexidade Lexical: 0.247 (24.7%) - Média
+  Palavras Longas (4+ sílabas): 0.274 (27.4%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.571 (57.1%)
+  Sílabas por Palavra: 2.90
+
+561_ult4657u235_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.328 (32.8%) - Média
+  Palavras Longas (4+ sílabas): 0.368 (36.8%)
+  Diversidade Silábica: 0.498 (49.8%)
+  Palavras Complexas (3+ sílabas): 0.618 (61.8%)
+  Sílabas por Palavra: 3.07
+
+562_por-um-bem-viver_saida.json:
+  Diversidade Léxica: 0.861 (86.1%)
+  Complexidade Lexical: 0.246 (24.6%) - Média
+  Palavras Longas (4+ sílabas): 0.236 (23.6%)
+  Diversidade Silábica: 0.526 (52.6%)
+  Palavras Complexas (3+ sílabas): 0.583 (58.3%)
+  Sílabas por Palavra: 2.93
+
+562_ult4657u236_saida.json:
+  Diversidade Léxica: 0.810 (81.0%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.504 (50.4%)
+  Palavras Complexas (3+ sílabas): 0.560 (56.0%)
+  Sílabas por Palavra: 2.93
+
+564_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.829 (82.9%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.329 (32.9%)
+  Diversidade Silábica: 0.530 (53.0%)
+  Palavras Complexas (3+ sílabas): 0.585 (58.5%)
+  Sílabas por Palavra: 3.04
+
+564_ult4657u238_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.284 (28.4%) - Média
+  Palavras Longas (4+ sílabas): 0.317 (31.7%)
+  Diversidade Silábica: 0.553 (55.3%)
+  Palavras Complexas (3+ sílabas): 0.583 (58.3%)
+  Sílabas por Palavra: 2.98
+
+565_sustentavel_saida.json:
+  Diversidade Léxica: 0.904 (90.4%)
+  Complexidade Lexical: 0.273 (27.3%) - Média
+  Palavras Longas (4+ sílabas): 0.288 (28.8%)
+  Diversidade Silábica: 0.619 (61.9%)
+  Palavras Complexas (3+ sílabas): 0.577 (57.7%)
+  Sílabas por Palavra: 2.98
+
+565_ult4657u239_saida.json:
+  Diversidade Léxica: 0.942 (94.2%)
+  Complexidade Lexical: 0.279 (27.9%) - Média
+  Palavras Longas (4+ sílabas): 0.290 (29.0%)
+  Diversidade Silábica: 0.566 (56.6%)
+  Palavras Complexas (3+ sílabas): 0.594 (59.4%)
+  Sílabas por Palavra: 3.07
+
+566_ult4657u240_saida.json:
+  Diversidade Léxica: 0.905 (90.5%)
+  Complexidade Lexical: 0.244 (24.4%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.629 (62.9%)
+  Palavras Complexas (3+ sílabas): 0.571 (57.1%)
+  Sílabas por Palavra: 2.83
+
+567_transito_saida.json:
+  Diversidade Léxica: 0.863 (86.3%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.342 (34.2%)
+  Diversidade Silábica: 0.549 (54.9%)
+  Palavras Complexas (3+ sílabas): 0.575 (57.5%)
+  Sílabas por Palavra: 3.07
+
+567_ult4657u241_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.263 (26.3%) - Média
+  Palavras Longas (4+ sílabas): 0.297 (29.7%)
+  Diversidade Silábica: 0.560 (56.0%)
+  Palavras Complexas (3+ sílabas): 0.562 (56.2%)
+  Sílabas por Palavra: 2.84
+
+568_ult4657u242_saida.json:
+  Diversidade Léxica: 0.826 (82.6%)
+  Complexidade Lexical: 0.285 (28.5%) - Média
+  Palavras Longas (4+ sílabas): 0.313 (31.3%)
+  Diversidade Silábica: 0.439 (43.9%)
+  Palavras Complexas (3+ sílabas): 0.557 (55.7%)
+  Sílabas por Palavra: 2.93
+
+570_ult4657u244_saida.json:
+  Diversidade Léxica: 0.879 (87.9%)
+  Complexidade Lexical: 0.314 (31.4%) - Média
+  Palavras Longas (4+ sílabas): 0.355 (35.5%)
+  Diversidade Silábica: 0.447 (44.7%)
+  Palavras Complexas (3+ sílabas): 0.589 (58.9%)
+  Sílabas por Palavra: 3.09
+
+57_ult4657u78_saida.json:
+  Diversidade Léxica: 0.803 (80.3%)
+  Complexidade Lexical: 0.299 (29.9%) - Média
+  Palavras Longas (4+ sílabas): 0.359 (35.9%)
+  Diversidade Silábica: 0.469 (46.9%)
+  Palavras Complexas (3+ sílabas): 0.547 (54.7%)
+  Sílabas por Palavra: 2.99
+
+58_ult4657u79_saida.json:
+  Diversidade Léxica: 0.869 (86.9%)
+  Complexidade Lexical: 0.318 (31.8%) - Média
+  Palavras Longas (4+ sílabas): 0.361 (36.1%)
+  Diversidade Silábica: 0.533 (53.3%)
+  Palavras Complexas (3+ sílabas): 0.672 (67.2%)
+  Sílabas por Palavra: 3.20
+
+590_a-importancia-de-biografias-autorizadas_saida.json:
+  Diversidade Léxica: 0.852 (85.2%)
+  Complexidade Lexical: 0.301 (30.1%) - Média
+  Palavras Longas (4+ sílabas): 0.361 (36.1%)
+  Diversidade Silábica: 0.534 (53.4%)
+  Palavras Complexas (3+ sílabas): 0.705 (70.5%)
+  Sílabas por Palavra: 3.13
+
+591_a-vida-estampada-em-livros_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.315 (31.5%) - Média
+  Palavras Longas (4+ sílabas): 0.368 (36.8%)
+  Diversidade Silábica: 0.538 (53.8%)
+  Palavras Complexas (3+ sílabas): 0.618 (61.8%)
+  Sílabas por Palavra: 3.06
+
+592_amordacar-biografia-nao-autorizada_saida.json:
+  Diversidade Léxica: 0.814 (81.4%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.267 (26.7%)
+  Diversidade Silábica: 0.482 (48.2%)
+  Palavras Complexas (3+ sílabas): 0.616 (61.6%)
+  Sílabas por Palavra: 2.87
+
+592_ult4657u184_saida.json:
+  Diversidade Léxica: 0.922 (92.2%)
+  Complexidade Lexical: 0.309 (30.9%) - Média
+  Palavras Longas (4+ sílabas): 0.344 (34.4%)
+  Diversidade Silábica: 0.546 (54.6%)
+  Palavras Complexas (3+ sílabas): 0.578 (57.8%)
+  Sílabas por Palavra: 3.06
+
+593_ult4657u185_saida.json:
+  Diversidade Léxica: 0.845 (84.5%)
+  Complexidade Lexical: 0.350 (35.0%) - Alta
+  Palavras Longas (4+ sílabas): 0.392 (39.2%)
+  Diversidade Silábica: 0.458 (45.8%)
+  Palavras Complexas (3+ sílabas): 0.557 (55.7%)
+  Sílabas por Palavra: 3.18
+
+594_ult4657u186_saida.json:
+  Diversidade Léxica: 0.929 (92.9%)
+  Complexidade Lexical: 0.351 (35.1%) - Alta
+  Palavras Longas (4+ sílabas): 0.417 (41.7%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.583 (58.3%)
+  Sílabas por Palavra: 3.12
+
+595_biografia-verdade-ou-farsa_saida.json:
+  Diversidade Léxica: 0.807 (80.7%)
+  Complexidade Lexical: 0.242 (24.2%) - Média
+  Palavras Longas (4+ sílabas): 0.265 (26.5%)
+  Diversidade Silábica: 0.485 (48.5%)
+  Palavras Complexas (3+ sílabas): 0.602 (60.2%)
+  Sílabas por Palavra: 2.86
+
+596_biografias-devem-ser-autorizadas-pelos-biografados-_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.260 (26.0%) - Média
+  Palavras Longas (4+ sílabas): 0.283 (28.3%)
+  Diversidade Silábica: 0.581 (58.1%)
+  Palavras Complexas (3+ sílabas): 0.698 (69.8%)
+  Sílabas por Palavra: 3.02
+
+596_ult4657u188_saida.json:
+  Diversidade Léxica: 0.878 (87.8%)
+  Complexidade Lexical: 0.279 (27.9%) - Média
+  Palavras Longas (4+ sílabas): 0.311 (31.1%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.473 (47.3%)
+  Sílabas por Palavra: 2.82
+
+597_biografias-e-suas-responsabilidades_saida.json:
+  Diversidade Léxica: 0.909 (90.9%)
+  Complexidade Lexical: 0.328 (32.8%) - Média
+  Palavras Longas (4+ sílabas): 0.364 (36.4%)
+  Diversidade Silábica: 0.581 (58.1%)
+  Palavras Complexas (3+ sílabas): 0.745 (74.5%)
+  Sílabas por Palavra: 3.25
+
+597_ult4657u189_saida.json:
+  Diversidade Léxica: 0.895 (89.5%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.316 (31.6%)
+  Diversidade Silábica: 0.636 (63.6%)
+  Palavras Complexas (3+ sílabas): 0.526 (52.6%)
+  Sílabas por Palavra: 2.84
+
+598_biografias-nao-autorizadas-na-atualidade_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.344 (34.4%) - Média
+  Palavras Longas (4+ sílabas): 0.408 (40.8%)
+  Diversidade Silábica: 0.551 (55.1%)
+  Palavras Complexas (3+ sílabas): 0.673 (67.3%)
+  Sílabas por Palavra: 3.18
+
+598_ult4657u190_saida.json:
+  Diversidade Léxica: 0.913 (91.3%)
+  Complexidade Lexical: 0.314 (31.4%) - Média
+  Palavras Longas (4+ sílabas): 0.319 (31.9%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.551 (55.1%)
+  Sílabas por Palavra: 3.12
+
+599_biografias-personagens-e-autores-em-confronto_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.284 (28.4%) - Média
+  Palavras Longas (4+ sílabas): 0.328 (32.8%)
+  Diversidade Silábica: 0.592 (59.2%)
+  Palavras Complexas (3+ sílabas): 0.639 (63.9%)
+  Sílabas por Palavra: 3.02
+
+599_ult4657u191_saida.json:
+  Diversidade Léxica: 0.843 (84.3%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.265 (26.5%)
+  Diversidade Silábica: 0.533 (53.3%)
+  Palavras Complexas (3+ sílabas): 0.602 (60.2%)
+  Sílabas por Palavra: 2.96
+
+59_ult4657u80_saida.json:
+  Diversidade Léxica: 0.836 (83.6%)
+  Complexidade Lexical: 0.298 (29.8%) - Média
+  Palavras Longas (4+ sílabas): 0.343 (34.3%)
+  Diversidade Silábica: 0.548 (54.8%)
+  Palavras Complexas (3+ sílabas): 0.552 (55.2%)
+  Sílabas por Palavra: 2.97
+
+600_ult4657u192_saida.json:
+  Diversidade Léxica: 0.890 (89.0%)
+  Complexidade Lexical: 0.332 (33.2%) - Média
+  Palavras Longas (4+ sílabas): 0.397 (39.7%)
+  Diversidade Silábica: 0.547 (54.7%)
+  Palavras Complexas (3+ sílabas): 0.603 (60.3%)
+  Sílabas por Palavra: 3.08
+
+601_ult4657u193_saida.json:
+  Diversidade Léxica: 0.900 (90.0%)
+  Complexidade Lexical: 0.321 (32.1%) - Média
+  Palavras Longas (4+ sílabas): 0.329 (32.9%)
+  Diversidade Silábica: 0.540 (54.0%)
+  Palavras Complexas (3+ sílabas): 0.629 (62.9%)
+  Sílabas por Palavra: 3.23
+
+602_liberdade-de-expressao-sim-hipocrisia-nao_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.287 (28.7%) - Média
+  Palavras Longas (4+ sílabas): 0.322 (32.2%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.644 (64.4%)
+  Sílabas por Palavra: 3.03
+
+602_ult4657u194_saida.json:
+  Diversidade Léxica: 0.875 (87.5%)
+  Complexidade Lexical: 0.325 (32.5%) - Média
+  Palavras Longas (4+ sílabas): 0.375 (37.5%)
+  Diversidade Silábica: 0.545 (54.5%)
+  Palavras Complexas (3+ sílabas): 0.641 (64.1%)
+  Sílabas por Palavra: 3.16
+
+603_livro-para-status_saida.json:
+  Diversidade Léxica: 0.804 (80.4%)
+  Complexidade Lexical: 0.286 (28.6%) - Média
+  Palavras Longas (4+ sílabas): 0.294 (29.4%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.647 (64.7%)
+  Sílabas por Palavra: 3.08
+
+603_ult4657u195_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.336 (33.6%) - Média
+  Palavras Longas (4+ sílabas): 0.398 (39.8%)
+  Diversidade Silábica: 0.462 (46.2%)
+  Palavras Complexas (3+ sílabas): 0.619 (61.9%)
+  Sílabas por Palavra: 3.16
+
+604_o-abstrato-da-historia_saida.json:
+  Diversidade Léxica: 0.848 (84.8%)
+  Complexidade Lexical: 0.281 (28.1%) - Média
+  Palavras Longas (4+ sílabas): 0.329 (32.9%)
+  Diversidade Silábica: 0.532 (53.2%)
+  Palavras Complexas (3+ sílabas): 0.570 (57.0%)
+  Sílabas por Palavra: 2.97
+
+604_ult4657u196_saida.json:
+  Diversidade Léxica: 0.962 (96.2%)
+  Complexidade Lexical: 0.300 (30.0%) - Média
+  Palavras Longas (4+ sílabas): 0.321 (32.1%)
+  Diversidade Silábica: 0.650 (65.0%)
+  Palavras Complexas (3+ sílabas): 0.566 (56.6%)
+  Sílabas por Palavra: 3.08
+
+605_o-que-faz-um-famoso-entre-quatro-paredes_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.304 (30.4%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.510 (51.0%)
+  Palavras Complexas (3+ sílabas): 0.667 (66.7%)
+  Sílabas por Palavra: 3.14
+
+605_ult4657u197_saida.json:
+  Diversidade Léxica: 0.870 (87.0%)
+  Complexidade Lexical: 0.344 (34.4%) - Média
+  Palavras Longas (4+ sílabas): 0.380 (38.0%)
+  Diversidade Silábica: 0.472 (47.2%)
+  Palavras Complexas (3+ sílabas): 0.583 (58.3%)
+  Sílabas por Palavra: 3.19
+
+606_os-personagens-da-obra_saida.json:
+  Diversidade Léxica: 0.840 (84.0%)
+  Complexidade Lexical: 0.267 (26.7%) - Média
+  Palavras Longas (4+ sílabas): 0.307 (30.7%)
+  Diversidade Silábica: 0.545 (54.5%)
+  Palavras Complexas (3+ sílabas): 0.653 (65.3%)
+  Sílabas por Palavra: 2.99
+
+607_quem-nao-deve-nao-teme_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.311 (31.1%)
+  Diversidade Silábica: 0.498 (49.8%)
+  Palavras Complexas (3+ sílabas): 0.611 (61.1%)
+  Sílabas por Palavra: 3.08
+
+607_ult4657u199_saida.json:
+  Diversidade Léxica: 0.920 (92.0%)
+  Complexidade Lexical: 0.360 (36.0%) - Alta
+  Palavras Longas (4+ sílabas): 0.400 (40.0%)
+  Diversidade Silábica: 0.528 (52.8%)
+  Palavras Complexas (3+ sílabas): 0.620 (62.0%)
+  Sílabas por Palavra: 3.26
+
+608_ult4657u200_saida.json:
+  Diversidade Léxica: 0.929 (92.9%)
+  Complexidade Lexical: 0.304 (30.4%) - Média
+  Palavras Longas (4+ sílabas): 0.314 (31.4%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.614 (61.4%)
+  Sílabas por Palavra: 3.14
+
+609_ult4657u201_saida.json:
+  Diversidade Léxica: 0.981 (98.1%)
+  Complexidade Lexical: 0.321 (32.1%) - Média
+  Palavras Longas (4+ sílabas): 0.340 (34.0%)
+  Diversidade Silábica: 0.657 (65.7%)
+  Palavras Complexas (3+ sílabas): 0.585 (58.5%)
+  Sílabas por Palavra: 3.13
+
+609_valor-da-biografia_saida.json:
+  Diversidade Léxica: 0.909 (90.9%)
+  Complexidade Lexical: 0.295 (29.5%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.604 (60.4%)
+  Palavras Complexas (3+ sílabas): 0.673 (67.3%)
+  Sílabas por Palavra: 3.07
+
+60_ult4657u81_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.371 (37.1%) - Alta
+  Palavras Longas (4+ sílabas): 0.433 (43.3%)
+  Diversidade Silábica: 0.459 (45.9%)
+  Palavras Complexas (3+ sílabas): 0.617 (61.7%)
+  Sílabas por Palavra: 3.42
+
+610_ult4657u202_saida.json:
+  Diversidade Léxica: 0.918 (91.8%)
+  Complexidade Lexical: 0.251 (25.1%) - Média
+  Palavras Longas (4+ sílabas): 0.246 (24.6%)
+  Diversidade Silábica: 0.588 (58.8%)
+  Palavras Complexas (3+ sílabas): 0.557 (55.7%)
+  Sílabas por Palavra: 2.90
+
+611_ult4657u203_saida.json:
+  Diversidade Léxica: 0.964 (96.4%)
+  Complexidade Lexical: 0.326 (32.6%) - Média
+  Palavras Longas (4+ sílabas): 0.357 (35.7%)
+  Diversidade Silábica: 0.607 (60.7%)
+  Palavras Complexas (3+ sílabas): 0.607 (60.7%)
+  Sílabas por Palavra: 3.18
+
+62_ult4657u527_saida.json:
+  Diversidade Léxica: 0.750 (75.0%)
+  Complexidade Lexical: 0.304 (30.4%) - Média
+  Palavras Longas (4+ sílabas): 0.360 (36.0%)
+  Diversidade Silábica: 0.347 (34.7%)
+  Palavras Complexas (3+ sílabas): 0.552 (55.2%)
+  Sílabas por Palavra: 3.01
+
+62_ult4657u83_saida.json:
+  Diversidade Léxica: 0.835 (83.5%)
+  Complexidade Lexical: 0.294 (29.4%) - Média
+  Palavras Longas (4+ sílabas): 0.342 (34.2%)
+  Diversidade Silábica: 0.515 (51.5%)
+  Palavras Complexas (3+ sílabas): 0.519 (51.9%)
+  Sílabas por Palavra: 2.97
+
+631_ult4657u586_saida.json:
+  Diversidade Léxica: 0.835 (83.5%)
+  Complexidade Lexical: 0.228 (22.8%) - Média
+  Palavras Longas (4+ sílabas): 0.253 (25.3%)
+  Diversidade Silábica: 0.494 (49.4%)
+  Palavras Complexas (3+ sílabas): 0.582 (58.2%)
+  Sílabas por Palavra: 2.87
+
+632_ult4657u587_saida.json:
+  Diversidade Léxica: 0.855 (85.5%)
+  Complexidade Lexical: 0.314 (31.4%) - Média
+  Palavras Longas (4+ sílabas): 0.345 (34.5%)
+  Diversidade Silábica: 0.571 (57.1%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.09
+
+633_a-beleza-e-o-capital_saida.json:
+  Diversidade Léxica: 0.955 (95.5%)
+  Complexidade Lexical: 0.188 (18.8%) - Baixa
+  Palavras Longas (4+ sílabas): 0.159 (15.9%)
+  Diversidade Silábica: 0.672 (67.2%)
+  Palavras Complexas (3+ sílabas): 0.568 (56.8%)
+  Sílabas por Palavra: 2.77
+
+633_ult4657u588_saida.json:
+  Diversidade Léxica: 0.871 (87.1%)
+  Complexidade Lexical: 0.274 (27.4%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.564 (56.4%)
+  Sílabas por Palavra: 2.94
+
+634_a-beleza-vale-tudo-isso_saida.json:
+  Diversidade Léxica: 0.808 (80.8%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.262 (26.2%)
+  Diversidade Silábica: 0.467 (46.7%)
+  Palavras Complexas (3+ sílabas): 0.531 (53.1%)
+  Sílabas por Palavra: 2.82
+
+635_a-busca-pela-boa-forma-tem-seu-preco_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.235 (23.5%) - Média
+  Palavras Longas (4+ sílabas): 0.232 (23.2%)
+  Diversidade Silábica: 0.507 (50.7%)
+  Palavras Complexas (3+ sílabas): 0.535 (53.5%)
+  Sílabas por Palavra: 2.83
+
+635_ult4657u590_saida.json:
+  Diversidade Léxica: 0.865 (86.5%)
+  Complexidade Lexical: 0.262 (26.2%) - Média
+  Palavras Longas (4+ sílabas): 0.270 (27.0%)
+  Diversidade Silábica: 0.528 (52.8%)
+  Palavras Complexas (3+ sílabas): 0.554 (55.4%)
+  Sílabas por Palavra: 2.92
+
+636_a-ditadura-da-beleza_saida.json:
+  Diversidade Léxica: 0.920 (92.0%)
+  Complexidade Lexical: 0.273 (27.3%) - Média
+  Palavras Longas (4+ sílabas): 0.280 (28.0%)
+  Diversidade Silábica: 0.544 (54.4%)
+  Palavras Complexas (3+ sílabas): 0.533 (53.3%)
+  Sílabas por Palavra: 2.89
+
+636_ult4657u591_saida.json:
+  Diversidade Léxica: 0.863 (86.3%)
+  Complexidade Lexical: 0.225 (22.5%) - Média
+  Palavras Longas (4+ sílabas): 0.221 (22.1%)
+  Diversidade Silábica: 0.538 (53.8%)
+  Palavras Complexas (3+ sílabas): 0.389 (38.9%)
+  Sílabas por Palavra: 2.64
+
+637_a-verdade-por-tras-das-cirurgias-plasticas_saida.json:
+  Diversidade Léxica: 0.897 (89.7%)
+  Complexidade Lexical: 0.240 (24.0%) - Média
+  Palavras Longas (4+ sílabas): 0.256 (25.6%)
+  Diversidade Silábica: 0.595 (59.5%)
+  Palavras Complexas (3+ sílabas): 0.564 (56.4%)
+  Sílabas por Palavra: 2.85
+
+637_ult4657u592_saida.json:
+  Diversidade Léxica: 0.893 (89.3%)
+  Complexidade Lexical: 0.288 (28.8%) - Média
+  Palavras Longas (4+ sílabas): 0.307 (30.7%)
+  Diversidade Silábica: 0.546 (54.6%)
+  Palavras Complexas (3+ sílabas): 0.613 (61.3%)
+  Sílabas por Palavra: 3.03
+
+638_aceitacao-ou-nao-eis-a-questao_saida.json:
+  Diversidade Léxica: 0.848 (84.8%)
+  Complexidade Lexical: 0.233 (23.3%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.565 (56.5%)
+  Sílabas por Palavra: 2.85
+
+638_ult4657u593_saida.json:
+  Diversidade Léxica: 0.891 (89.1%)
+  Complexidade Lexical: 0.187 (18.7%) - Baixa
+  Palavras Longas (4+ sílabas): 0.152 (15.2%)
+  Diversidade Silábica: 0.683 (68.3%)
+  Palavras Complexas (3+ sílabas): 0.478 (47.8%)
+  Sílabas por Palavra: 2.67
+
+639_busca-constante-por-beleza_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.264 (26.4%)
+  Diversidade Silábica: 0.538 (53.8%)
+  Palavras Complexas (3+ sílabas): 0.542 (54.2%)
+  Sílabas por Palavra: 2.92
+
+640_ult4657u595_saida.json:
+  Diversidade Léxica: 0.806 (80.6%)
+  Complexidade Lexical: 0.281 (28.1%) - Média
+  Palavras Longas (4+ sílabas): 0.290 (29.0%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.548 (54.8%)
+  Sílabas por Palavra: 2.98
+
+641_corpolatria_saida.json:
+  Diversidade Léxica: 0.957 (95.7%)
+  Complexidade Lexical: 0.292 (29.2%) - Média
+  Palavras Longas (4+ sílabas): 0.319 (31.9%)
+  Diversidade Silábica: 0.565 (56.5%)
+  Palavras Complexas (3+ sílabas): 0.594 (59.4%)
+  Sílabas por Palavra: 3.00
+
+641_ult4657u596_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.335 (33.5%) - Média
+  Palavras Longas (4+ sílabas): 0.403 (40.3%)
+  Diversidade Silábica: 0.471 (47.1%)
+  Palavras Complexas (3+ sílabas): 0.750 (75.0%)
+  Sílabas por Palavra: 3.31
+
+642_em-busca-do-corpo-ideal_saida.json:
+  Diversidade Léxica: 0.863 (86.3%)
+  Complexidade Lexical: 0.278 (27.8%) - Média
+  Palavras Longas (4+ sílabas): 0.301 (30.1%)
+  Diversidade Silábica: 0.539 (53.9%)
+  Palavras Complexas (3+ sílabas): 0.589 (58.9%)
+  Sílabas por Palavra: 3.00
+
+642_ult4657u597_saida.json:
+  Diversidade Léxica: 0.890 (89.0%)
+  Complexidade Lexical: 0.289 (28.9%) - Média
+  Palavras Longas (4+ sílabas): 0.315 (31.5%)
+  Diversidade Silábica: 0.559 (55.9%)
+  Palavras Complexas (3+ sílabas): 0.575 (57.5%)
+  Sílabas por Palavra: 3.04
+
+643_estetica-e-seu-verdadeiro-significado_saida.json:
+  Diversidade Léxica: 0.836 (83.6%)
+  Complexidade Lexical: 0.223 (22.3%) - Média
+  Palavras Longas (4+ sílabas): 0.230 (23.0%)
+  Diversidade Silábica: 0.540 (54.0%)
+  Palavras Complexas (3+ sílabas): 0.590 (59.0%)
+  Sílabas por Palavra: 2.85
+
+644_o-desinteresse-da-beleza-moderna_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.264 (26.4%) - Média
+  Palavras Longas (4+ sílabas): 0.299 (29.9%)
+  Diversidade Silábica: 0.533 (53.3%)
+  Palavras Complexas (3+ sílabas): 0.552 (55.2%)
+  Sílabas por Palavra: 2.91
+
+644_ult4657u599_saida.json:
+  Diversidade Léxica: 0.926 (92.6%)
+  Complexidade Lexical: 0.400 (40.0%) - Alta
+  Palavras Longas (4+ sílabas): 0.481 (48.1%)
+  Diversidade Silábica: 0.505 (50.5%)
+  Palavras Complexas (3+ sílabas): 0.685 (68.5%)
+  Sílabas por Palavra: 3.44
+
+645_o-padronizado-sacrificio_saida.json:
+  Diversidade Léxica: 0.863 (86.2%)
+  Complexidade Lexical: 0.224 (22.4%) - Média
+  Palavras Longas (4+ sílabas): 0.225 (22.5%)
+  Diversidade Silábica: 0.554 (55.4%)
+  Palavras Complexas (3+ sílabas): 0.525 (52.5%)
+  Sílabas por Palavra: 2.77
+
+645_ult4657u600_saida.json:
+  Diversidade Léxica: 0.800 (80.0%)
+  Complexidade Lexical: 0.231 (23.1%) - Média
+  Palavras Longas (4+ sílabas): 0.212 (21.2%)
+  Diversidade Silábica: 0.498 (49.8%)
+  Palavras Complexas (3+ sílabas): 0.613 (61.3%)
+  Sílabas por Palavra: 2.89
+
+646_o-zelo-sem-exagero_saida.json:
+  Diversidade Léxica: 0.897 (89.7%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.293 (29.3%)
+  Diversidade Silábica: 0.609 (60.9%)
+  Palavras Complexas (3+ sílabas): 0.638 (63.8%)
+  Sílabas por Palavra: 3.00
+
+646_ult4657u601_saida.json:
+  Diversidade Léxica: 0.805 (80.5%)
+  Complexidade Lexical: 0.294 (29.4%) - Média
+  Palavras Longas (4+ sílabas): 0.310 (31.0%)
+  Diversidade Silábica: 0.449 (44.9%)
+  Palavras Complexas (3+ sílabas): 0.598 (59.8%)
+  Sílabas por Palavra: 3.07
+
+647_relacao-beleza-e-saude_saida.json:
+  Diversidade Léxica: 0.813 (81.3%)
+  Complexidade Lexical: 0.224 (22.4%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.540 (54.0%)
+  Palavras Complexas (3+ sílabas): 0.560 (56.0%)
+  Sílabas por Palavra: 2.81
+
+647_ult4657u602_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.265 (26.5%) - Média
+  Palavras Longas (4+ sílabas): 0.313 (31.3%)
+  Diversidade Silábica: 0.554 (55.4%)
+  Palavras Complexas (3+ sílabas): 0.567 (56.7%)
+  Sílabas por Palavra: 2.88
+
+648_ult4657u603_saida.json:
+  Diversidade Léxica: 0.949 (94.9%)
+  Complexidade Lexical: 0.389 (38.9%) - Alta
+  Palavras Longas (4+ sílabas): 0.441 (44.1%)
+  Diversidade Silábica: 0.583 (58.3%)
+  Palavras Complexas (3+ sílabas): 0.661 (66.1%)
+  Sílabas por Palavra: 3.37
+
+649_ult4657u604_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.263 (26.3%)
+  Diversidade Silábica: 0.490 (49.0%)
+  Palavras Complexas (3+ sílabas): 0.545 (54.5%)
+  Sílabas por Palavra: 2.89
+
+64_ult4657u529_saida.json:
+  Diversidade Léxica: 0.713 (71.3%)
+  Complexidade Lexical: 0.285 (28.5%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.417 (41.7%)
+  Palavras Complexas (3+ sílabas): 0.634 (63.4%)
+  Sílabas por Palavra: 3.09
+
+650_sorumbatico_saida.json:
+  Diversidade Léxica: 0.914 (91.4%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.271 (27.1%)
+  Diversidade Silábica: 0.562 (56.2%)
+  Palavras Complexas (3+ sílabas): 0.557 (55.7%)
+  Sílabas por Palavra: 2.97
+
+650_ult4657u605_saida.json:
+  Diversidade Léxica: 0.866 (86.6%)
+  Complexidade Lexical: 0.266 (26.6%) - Média
+  Palavras Longas (4+ sílabas): 0.293 (29.3%)
+  Diversidade Silábica: 0.513 (51.3%)
+  Palavras Complexas (3+ sílabas): 0.537 (53.7%)
+  Sílabas por Palavra: 2.90
+
+651_travestida_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.265 (26.5%) - Média
+  Palavras Longas (4+ sílabas): 0.311 (31.1%)
+  Diversidade Silábica: 0.562 (56.2%)
+  Palavras Complexas (3+ sílabas): 0.578 (57.8%)
+  Sílabas por Palavra: 2.94
+
+652_um-samba-enredo-que-estar-por-vir_saida.json:
+  Diversidade Léxica: 0.813 (81.3%)
+  Complexidade Lexical: 0.260 (25.9%) - Média
+  Palavras Longas (4+ sílabas): 0.280 (28.0%)
+  Diversidade Silábica: 0.521 (52.1%)
+  Palavras Complexas (3+ sílabas): 0.587 (58.7%)
+  Sílabas por Palavra: 2.87
+
+66_ult4657u531_saida.json:
+  Diversidade Léxica: 0.796 (79.6%)
+  Complexidade Lexical: 0.302 (30.2%) - Média
+  Palavras Longas (4+ sílabas): 0.357 (35.7%)
+  Diversidade Silábica: 0.442 (44.2%)
+  Palavras Complexas (3+ sílabas): 0.622 (62.2%)
+  Sílabas por Palavra: 3.09
+
+674_ult4657u204_saida.json:
+  Diversidade Léxica: 0.921 (92.1%)
+  Complexidade Lexical: 0.351 (35.1%) - Alta
+  Palavras Longas (4+ sílabas): 0.381 (38.1%)
+  Diversidade Silábica: 0.578 (57.8%)
+  Palavras Complexas (3+ sílabas): 0.667 (66.7%)
+  Sílabas por Palavra: 3.27
+
+675_ult4657u205_saida.json:
+  Diversidade Léxica: 0.820 (82.0%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.315 (31.5%)
+  Diversidade Silábica: 0.448 (44.8%)
+  Palavras Complexas (3+ sílabas): 0.568 (56.8%)
+  Sílabas por Palavra: 3.02
+
+676_ult4657u206_saida.json:
+  Diversidade Léxica: 0.781 (78.1%)
+  Complexidade Lexical: 0.317 (31.7%) - Média
+  Palavras Longas (4+ sílabas): 0.342 (34.2%)
+  Diversidade Silábica: 0.478 (47.8%)
+  Palavras Complexas (3+ sílabas): 0.616 (61.6%)
+  Sílabas por Palavra: 3.15
+
+677_ult4657u207_saida.json:
+  Diversidade Léxica: 0.912 (91.2%)
+  Complexidade Lexical: 0.257 (25.7%) - Média
+  Palavras Longas (4+ sílabas): 0.263 (26.3%)
+  Diversidade Silábica: 0.639 (63.9%)
+  Palavras Complexas (3+ sílabas): 0.596 (59.6%)
+  Sílabas por Palavra: 2.91
+
+679_ult4657u209_saida.json:
+  Diversidade Léxica: 0.892 (89.2%)
+  Complexidade Lexical: 0.312 (31.2%) - Média
+  Palavras Longas (4+ sílabas): 0.338 (33.8%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.615 (61.5%)
+  Sílabas por Palavra: 3.25
+
+680_ult4657u210_saida.json:
+  Diversidade Léxica: 0.830 (83.0%)
+  Complexidade Lexical: 0.268 (26.8%) - Média
+  Palavras Longas (4+ sílabas): 0.298 (29.8%)
+  Diversidade Silábica: 0.471 (47.1%)
+  Palavras Complexas (3+ sílabas): 0.564 (56.4%)
+  Sílabas por Palavra: 2.96
+
+681_ult4657u211_saida.json:
+  Diversidade Léxica: 0.848 (84.8%)
+  Complexidade Lexical: 0.315 (31.5%) - Média
+  Palavras Longas (4+ sílabas): 0.359 (35.9%)
+  Diversidade Silábica: 0.483 (48.3%)
+  Palavras Complexas (3+ sílabas): 0.620 (62.0%)
+  Sílabas por Palavra: 3.11
+
+682_ult4657u212_saida.json:
+  Diversidade Léxica: 0.909 (90.9%)
+  Complexidade Lexical: 0.295 (29.5%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.576 (57.6%)
+  Palavras Complexas (3+ sílabas): 0.691 (69.1%)
+  Sílabas por Palavra: 3.22
+
+683_ult4657u213_saida.json:
+  Diversidade Léxica: 0.891 (89.1%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.297 (29.7%)
+  Diversidade Silábica: 0.582 (58.2%)
+  Palavras Complexas (3+ sílabas): 0.656 (65.6%)
+  Sílabas por Palavra: 3.14
+
+684_ult4657u214_saida.json:
+  Diversidade Léxica: 0.807 (80.7%)
+  Complexidade Lexical: 0.273 (27.3%) - Média
+  Palavras Longas (4+ sílabas): 0.265 (26.5%)
+  Diversidade Silábica: 0.510 (51.0%)
+  Palavras Complexas (3+ sílabas): 0.554 (55.4%)
+  Sílabas por Palavra: 3.00
+
+686_ult4657u216_saida.json:
+  Diversidade Léxica: 0.780 (78.0%)
+  Complexidade Lexical: 0.258 (25.8%) - Média
+  Palavras Longas (4+ sílabas): 0.268 (26.8%)
+  Diversidade Silábica: 0.488 (48.8%)
+  Palavras Complexas (3+ sílabas): 0.561 (56.1%)
+  Sílabas por Palavra: 2.95
+
+687_ult4657u217_saida.json:
+  Diversidade Léxica: 0.820 (82.0%)
+  Complexidade Lexical: 0.292 (29.2%) - Média
+  Palavras Longas (4+ sílabas): 0.326 (32.6%)
+  Diversidade Silábica: 0.480 (48.0%)
+  Palavras Complexas (3+ sílabas): 0.596 (59.6%)
+  Sílabas por Palavra: 3.04
+
+689_ult4657u219_saida.json:
+  Diversidade Léxica: 0.817 (81.7%)
+  Complexidade Lexical: 0.257 (25.7%) - Média
+  Palavras Longas (4+ sílabas): 0.279 (27.9%)
+  Diversidade Silábica: 0.459 (45.9%)
+  Palavras Complexas (3+ sílabas): 0.673 (67.3%)
+  Sílabas por Palavra: 3.04
+
+68_ult4657u533_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.282 (28.2%) - Média
+  Palavras Longas (4+ sílabas): 0.311 (31.1%)
+  Diversidade Silábica: 0.529 (52.9%)
+  Palavras Complexas (3+ sílabas): 0.633 (63.3%)
+  Sílabas por Palavra: 3.04
+
+691_ult4657u221_saida.json:
+  Diversidade Léxica: 0.883 (88.3%)
+  Complexidade Lexical: 0.320 (32.0%) - Média
+  Palavras Longas (4+ sílabas): 0.350 (35.0%)
+  Diversidade Silábica: 0.462 (46.2%)
+  Palavras Complexas (3+ sílabas): 0.602 (60.2%)
+  Sílabas por Palavra: 3.17
+
+692_ult4657u222_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.238 (23.8%) - Média
+  Palavras Longas (4+ sílabas): 0.248 (24.8%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.495 (49.5%)
+  Sílabas por Palavra: 2.71
+
+693_ult4657u223_saida.json:
+  Diversidade Léxica: 0.802 (80.2%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.267 (26.7%)
+  Diversidade Silábica: 0.472 (47.2%)
+  Palavras Complexas (3+ sílabas): 0.552 (55.2%)
+  Sílabas por Palavra: 2.94
+
+6_a-aids-e-seu-contagio_saida.json:
+  Diversidade Léxica: 0.835 (83.5%)
+  Complexidade Lexical: 0.279 (27.9%) - Média
+  Palavras Longas (4+ sílabas): 0.291 (29.1%)
+  Diversidade Silábica: 0.511 (51.1%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.92
+
+706_ult4657u465_saida.json:
+  Diversidade Léxica: 0.869 (86.9%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.263 (26.3%)
+  Diversidade Silábica: 0.512 (51.2%)
+  Palavras Complexas (3+ sílabas): 0.586 (58.6%)
+  Sílabas por Palavra: 2.84
+
+707_ult4657u466_saida.json:
+  Diversidade Léxica: 0.728 (72.8%)
+  Complexidade Lexical: 0.186 (18.6%) - Baixa
+  Palavras Longas (4+ sílabas): 0.194 (19.4%)
+  Diversidade Silábica: 0.409 (40.9%)
+  Palavras Complexas (3+ sílabas): 0.456 (45.6%)
+  Sílabas por Palavra: 2.57
+
+708_ult4657u467_saida.json:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.241 (24.1%) - Média
+  Palavras Longas (4+ sílabas): 0.231 (23.1%)
+  Diversidade Silábica: 0.573 (57.3%)
+  Palavras Complexas (3+ sílabas): 0.569 (56.9%)
+  Sílabas por Palavra: 2.85
+
+709_ult4657u468_saida.json:
+  Diversidade Léxica: 0.846 (84.6%)
+  Complexidade Lexical: 0.259 (25.9%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.590 (59.0%)
+  Palavras Complexas (3+ sílabas): 0.654 (65.4%)
+  Sílabas por Palavra: 3.00
+
+70_ult4657u535_saida.json:
+  Diversidade Léxica: 0.903 (90.3%)
+  Complexidade Lexical: 0.310 (31.0%) - Média
+  Palavras Longas (4+ sílabas): 0.355 (35.5%)
+  Diversidade Silábica: 0.566 (56.6%)
+  Palavras Complexas (3+ sílabas): 0.629 (62.9%)
+  Sílabas por Palavra: 3.19
+
+710_ult4657u469_saida.json:
+  Diversidade Léxica: 0.815 (81.5%)
+  Complexidade Lexical: 0.240 (24.0%) - Média
+  Palavras Longas (4+ sílabas): 0.247 (24.7%)
+  Diversidade Silábica: 0.538 (53.8%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 2.78
+
+711_ult4657u470_saida.json:
+  Diversidade Léxica: 0.852 (85.2%)
+  Complexidade Lexical: 0.207 (20.7%) - Média
+  Palavras Longas (4+ sílabas): 0.210 (21.0%)
+  Diversidade Silábica: 0.548 (54.8%)
+  Palavras Complexas (3+ sílabas): 0.543 (54.3%)
+  Sílabas por Palavra: 2.68
+
+712_ult4657u471_saida.json:
+  Diversidade Léxica: 0.672 (67.2%)
+  Complexidade Lexical: 0.143 (14.3%) - Baixa
+  Palavras Longas (4+ sílabas): 0.122 (12.2%)
+  Diversidade Silábica: 0.379 (37.9%)
+  Palavras Complexas (3+ sílabas): 0.306 (30.6%)
+  Sílabas por Palavra: 2.26
+
+713_ult4657u472_saida.json:
+  Diversidade Léxica: 0.779 (77.9%)
+  Complexidade Lexical: 0.218 (21.8%) - Média
+  Palavras Longas (4+ sílabas): 0.221 (22.1%)
+  Diversidade Silábica: 0.471 (47.1%)
+  Palavras Complexas (3+ sílabas): 0.616 (61.6%)
+  Sílabas por Palavra: 2.81
+
+715_a-liberdade-acaba-quando-a-falta-de-respeito-comeca_saida.json:
+  Diversidade Léxica: 0.836 (83.6%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.282 (28.2%)
+  Diversidade Silábica: 0.495 (49.5%)
+  Palavras Complexas (3+ sílabas): 0.545 (54.5%)
+  Sílabas por Palavra: 2.86
+
+715_ult4657u474_saida.json:
+  Diversidade Léxica: 0.848 (84.8%)
+  Complexidade Lexical: 0.218 (21.8%) - Média
+  Palavras Longas (4+ sílabas): 0.223 (22.3%)
+  Diversidade Silábica: 0.511 (51.1%)
+  Palavras Complexas (3+ sílabas): 0.607 (60.7%)
+  Sílabas por Palavra: 2.87
+
+716_a-liberdade-sem-limite-e-erronea_saida.json:
+  Diversidade Léxica: 0.798 (79.8%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.290 (29.0%)
+  Diversidade Silábica: 0.441 (44.1%)
+  Palavras Complexas (3+ sílabas): 0.548 (54.8%)
+  Sílabas por Palavra: 2.87
+
+716_ult4657u475_saida.json:
+  Diversidade Léxica: 0.821 (82.1%)
+  Complexidade Lexical: 0.252 (25.2%) - Média
+  Palavras Longas (4+ sílabas): 0.263 (26.3%)
+  Diversidade Silábica: 0.477 (47.7%)
+  Palavras Complexas (3+ sílabas): 0.653 (65.3%)
+  Sílabas por Palavra: 2.98
+
+717_com-responsabilidade-defenda-seus-direitos_saida.json:
+  Diversidade Léxica: 0.865 (86.5%)
+  Complexidade Lexical: 0.262 (26.2%) - Média
+  Palavras Longas (4+ sílabas): 0.297 (29.7%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.595 (59.5%)
+  Sílabas por Palavra: 2.95
+
+717_ult4657u476_saida.json:
+  Diversidade Léxica: 0.936 (93.6%)
+  Complexidade Lexical: 0.234 (23.4%) - Média
+  Palavras Longas (4+ sílabas): 0.277 (27.7%)
+  Diversidade Silábica: 0.634 (63.4%)
+  Palavras Complexas (3+ sílabas): 0.574 (57.4%)
+  Sílabas por Palavra: 2.79
+
+718_eu-sou-a-favor-da-liberdade-de-expressao_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.263 (26.3%) - Média
+  Palavras Longas (4+ sílabas): 0.269 (26.9%)
+  Diversidade Silábica: 0.560 (56.0%)
+  Palavras Complexas (3+ sílabas): 0.615 (61.5%)
+  Sílabas por Palavra: 3.06
+
+718_ult4657u477_saida.json:
+  Diversidade Léxica: 0.911 (91.1%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.267 (26.7%)
+  Diversidade Silábica: 0.667 (66.7%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.87
+
+719_exercendo-a-liberdade-com-responsabilidade_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.266 (26.6%) - Média
+  Palavras Longas (4+ sílabas): 0.287 (28.7%)
+  Diversidade Silábica: 0.473 (47.3%)
+  Palavras Complexas (3+ sílabas): 0.637 (63.7%)
+  Sílabas por Palavra: 3.04
+
+719_ult4657u478_saida.json:
+  Diversidade Léxica: 0.881 (88.1%)
+  Complexidade Lexical: 0.225 (22.5%) - Média
+  Palavras Longas (4+ sílabas): 0.238 (23.8%)
+  Diversidade Silábica: 0.653 (65.3%)
+  Palavras Complexas (3+ sílabas): 0.643 (64.3%)
+  Sílabas por Palavra: 2.88
+
+720_ult4657u479_saida.json:
+  Diversidade Léxica: 0.810 (81.0%)
+  Complexidade Lexical: 0.242 (24.2%) - Média
+  Palavras Longas (4+ sílabas): 0.262 (26.2%)
+  Diversidade Silábica: 0.533 (53.3%)
+  Palavras Complexas (3+ sílabas): 0.619 (61.9%)
+  Sílabas por Palavra: 2.90
+
+721_ult4657u480_saida.json:
+  Diversidade Léxica: 0.900 (90.0%)
+  Complexidade Lexical: 0.206 (20.6%) - Média
+  Palavras Longas (4+ sílabas): 0.200 (20.0%)
+  Diversidade Silábica: 0.585 (58.5%)
+  Palavras Complexas (3+ sílabas): 0.643 (64.3%)
+  Sílabas por Palavra: 2.79
+
+722_ult4657u481_saida.json:
+  Diversidade Léxica: 0.820 (82.0%)
+  Complexidade Lexical: 0.251 (25.1%) - Média
+  Palavras Longas (4+ sílabas): 0.279 (27.9%)
+  Diversidade Silábica: 0.542 (54.2%)
+  Palavras Complexas (3+ sílabas): 0.639 (63.9%)
+  Sílabas por Palavra: 2.93
+
+723_liberdade-nao-e-libertinagem_saida.json:
+  Diversidade Léxica: 0.870 (87.0%)
+  Complexidade Lexical: 0.327 (32.7%) - Média
+  Palavras Longas (4+ sílabas): 0.377 (37.7%)
+  Diversidade Silábica: 0.481 (48.1%)
+  Palavras Complexas (3+ sílabas): 0.610 (61.0%)
+  Sílabas por Palavra: 3.16
+
+723_ult4657u482_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.225 (22.5%) - Média
+  Palavras Longas (4+ sílabas): 0.211 (21.1%)
+  Diversidade Silábica: 0.588 (58.8%)
+  Palavras Complexas (3+ sílabas): 0.507 (50.7%)
+  Sílabas por Palavra: 2.73
+
+724_liberdade-para-se-expressar-ou-insultar_saida.json:
+  Diversidade Léxica: 0.804 (80.4%)
+  Complexidade Lexical: 0.240 (24.0%) - Média
+  Palavras Longas (4+ sílabas): 0.272 (27.2%)
+  Diversidade Silábica: 0.531 (53.1%)
+  Palavras Complexas (3+ sílabas): 0.554 (55.4%)
+  Sílabas por Palavra: 2.80
+
+724_ult4657u483_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.168 (16.8%) - Baixa
+  Palavras Longas (4+ sílabas): 0.146 (14.6%)
+  Diversidade Silábica: 0.629 (62.9%)
+  Palavras Complexas (3+ sílabas): 0.583 (58.3%)
+  Sílabas por Palavra: 2.58
+
+725_limites-que-impoem-etica_saida.json:
+  Diversidade Léxica: 0.815 (81.5%)
+  Complexidade Lexical: 0.228 (22.8%) - Média
+  Palavras Longas (4+ sílabas): 0.246 (24.6%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.554 (55.4%)
+  Sílabas por Palavra: 2.83
+
+725_ult4657u484_saida.json:
+  Diversidade Léxica: 0.792 (79.2%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.240 (24.0%)
+  Diversidade Silábica: 0.442 (44.2%)
+  Palavras Complexas (3+ sílabas): 0.616 (61.6%)
+  Sílabas por Palavra: 2.91
+
+726_o-extremo-da-intolerancia_saida.json:
+  Diversidade Léxica: 0.921 (92.1%)
+  Complexidade Lexical: 0.240 (24.0%) - Média
+  Palavras Longas (4+ sílabas): 0.270 (27.0%)
+  Diversidade Silábica: 0.610 (61.0%)
+  Palavras Complexas (3+ sílabas): 0.619 (61.9%)
+  Sílabas por Palavra: 2.89
+
+727_o-limite-da-liberdade_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.263 (26.3%) - Média
+  Palavras Longas (4+ sílabas): 0.304 (30.4%)
+  Diversidade Silábica: 0.604 (60.4%)
+  Palavras Complexas (3+ sílabas): 0.589 (58.9%)
+  Sílabas por Palavra: 2.93
+
+728_res-ponsabilidade-charlie_saida.json:
+  Diversidade Léxica: 0.920 (92.0%)
+  Complexidade Lexical: 0.304 (30.4%) - Média
+  Palavras Longas (4+ sílabas): 0.352 (35.2%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.682 (68.2%)
+  Sílabas por Palavra: 3.17
+
+729_responsavel_saida.json:
+  Diversidade Léxica: 0.840 (84.0%)
+  Complexidade Lexical: 0.290 (29.0%) - Média
+  Palavras Longas (4+ sílabas): 0.320 (32.0%)
+  Diversidade Silábica: 0.507 (50.7%)
+  Palavras Complexas (3+ sílabas): 0.640 (64.0%)
+  Sílabas por Palavra: 3.05
+
+730_sem-papas-na-lingua_saida.json:
+  Diversidade Léxica: 0.820 (82.0%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.315 (31.5%)
+  Diversidade Silábica: 0.442 (44.2%)
+  Palavras Complexas (3+ sílabas): 0.586 (58.6%)
+  Sílabas por Palavra: 2.95
+
+732_sobre-a-liberdade-de-expressao_saida.json:
+  Diversidade Léxica: 0.807 (80.7%)
+  Complexidade Lexical: 0.273 (27.3%) - Média
+  Palavras Longas (4+ sílabas): 0.301 (30.1%)
+  Diversidade Silábica: 0.470 (47.0%)
+  Palavras Complexas (3+ sílabas): 0.614 (61.4%)
+  Sílabas por Palavra: 3.00
+
+747_a-falta-de-equilibrio-nas-relacoes-entre-as-pessoas-o-os-animais-de-estimacao_saida.json:
+  Diversidade Léxica: 0.881 (88.1%)
+  Complexidade Lexical: 0.257 (25.7%) - Média
+  Palavras Longas (4+ sílabas): 0.284 (28.4%)
+  Diversidade Silábica: 0.575 (57.5%)
+  Palavras Complexas (3+ sílabas): 0.582 (58.2%)
+  Sílabas por Palavra: 2.88
+
+748_a-ligacao-entre-as-pessoas-e-seus-animais-de-estimacao_saida.json:
+  Diversidade Léxica: 0.874 (87.4%)
+  Complexidade Lexical: 0.207 (20.7%) - Média
+  Palavras Longas (4+ sílabas): 0.207 (20.7%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.460 (46.0%)
+  Sílabas por Palavra: 2.57
+
+749_a-palavra-chave-palavra-chave-e-respeito_saida.json:
+  Diversidade Léxica: 0.779 (77.9%)
+  Complexidade Lexical: 0.228 (22.8%) - Média
+  Palavras Longas (4+ sílabas): 0.237 (23.7%)
+  Diversidade Silábica: 0.439 (43.9%)
+  Palavras Complexas (3+ sílabas): 0.527 (52.7%)
+  Sílabas por Palavra: 2.76
+
+74_ult4657u539_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.306 (30.6%)
+  Diversidade Silábica: 0.493 (49.3%)
+  Palavras Complexas (3+ sílabas): 0.551 (55.1%)
+  Sílabas por Palavra: 2.94
+
+751_animal_saida.json:
+  Diversidade Léxica: 0.895 (89.5%)
+  Complexidade Lexical: 0.262 (26.2%) - Média
+  Palavras Longas (4+ sílabas): 0.279 (27.9%)
+  Diversidade Silábica: 0.496 (49.6%)
+  Palavras Complexas (3+ sílabas): 0.628 (62.8%)
+  Sílabas por Palavra: 2.98
+
+752_bicho-nao-e-gente-e-nunca-vai-ser-mais-respeito-a-ele-e-a-voce_saida.json:
+  Diversidade Léxica: 0.778 (77.8%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.548 (54.8%)
+  Palavras Complexas (3+ sílabas): 0.635 (63.5%)
+  Sílabas por Palavra: 2.95
+
+754_humanos-e-animais-seres-de-um-mesmo-reino_saida.json:
+  Diversidade Léxica: 0.901 (90.1%)
+  Complexidade Lexical: 0.221 (22.1%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.590 (59.0%)
+  Palavras Complexas (3+ sílabas): 0.549 (54.9%)
+  Sílabas por Palavra: 2.75
+
+755_infancia-hoje-infancia-ontem_saida.json:
+  Diversidade Léxica: 0.951 (95.1%)
+  Complexidade Lexical: 0.335 (33.5%) - Média
+  Palavras Longas (4+ sílabas): 0.390 (39.0%)
+  Diversidade Silábica: 0.652 (65.2%)
+  Palavras Complexas (3+ sílabas): 0.659 (65.9%)
+  Sílabas por Palavra: 3.22
+
+756_insana_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.201 (20.1%) - Média
+  Palavras Longas (4+ sílabas): 0.208 (20.8%)
+  Diversidade Silábica: 0.545 (54.5%)
+  Palavras Complexas (3+ sílabas): 0.427 (42.7%)
+  Sílabas por Palavra: 2.56
+
+756_ult4657u807_saida.json:
+  Diversidade Léxica: 0.881 (88.1%)
+  Complexidade Lexical: 0.242 (24.2%) - Média
+  Palavras Longas (4+ sílabas): 0.220 (22.0%)
+  Diversidade Silábica: 0.511 (51.1%)
+  Palavras Complexas (3+ sílabas): 0.610 (61.0%)
+  Sílabas por Palavra: 3.02
+
+757_irracionais_saida.json:
+  Diversidade Léxica: 0.763 (76.3%)
+  Complexidade Lexical: 0.240 (24.0%) - Média
+  Palavras Longas (4+ sílabas): 0.246 (24.6%)
+  Diversidade Silábica: 0.413 (41.3%)
+  Palavras Complexas (3+ sílabas): 0.559 (55.9%)
+  Sílabas por Palavra: 2.83
+
+757_ult4657u808_saida.json:
+  Diversidade Léxica: 0.905 (90.5%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.270 (27.0%)
+  Diversidade Silábica: 0.537 (53.7%)
+  Palavras Complexas (3+ sílabas): 0.568 (56.8%)
+  Sílabas por Palavra: 2.89
+
+758_irracional_saida.json:
+  Diversidade Léxica: 0.924 (92.4%)
+  Complexidade Lexical: 0.251 (25.1%) - Média
+  Palavras Longas (4+ sílabas): 0.273 (27.3%)
+  Diversidade Silábica: 0.586 (58.6%)
+  Palavras Complexas (3+ sílabas): 0.515 (51.5%)
+  Sílabas por Palavra: 2.82
+
+758_ult4657u809_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.275 (27.5%) - Média
+  Palavras Longas (4+ sílabas): 0.297 (29.7%)
+  Diversidade Silábica: 0.522 (52.2%)
+  Palavras Complexas (3+ sílabas): 0.541 (54.1%)
+  Sílabas por Palavra: 3.08
+
+759_ult4657u810_saida.json:
+  Diversidade Léxica: 0.836 (83.6%)
+  Complexidade Lexical: 0.220 (22.0%) - Média
+  Palavras Longas (4+ sílabas): 0.219 (21.9%)
+  Diversidade Silábica: 0.557 (55.7%)
+  Palavras Complexas (3+ sílabas): 0.466 (46.6%)
+  Sílabas por Palavra: 2.66
+
+75_ult4657u540_saida.json:
+  Diversidade Léxica: 0.830 (83.0%)
+  Complexidade Lexical: 0.340 (34.0%) - Média
+  Palavras Longas (4+ sílabas): 0.396 (39.6%)
+  Diversidade Silábica: 0.433 (43.3%)
+  Palavras Complexas (3+ sílabas): 0.585 (58.5%)
+  Sílabas por Palavra: 3.18
+
+760_luxo-x-miseria_saida.json:
+  Diversidade Léxica: 0.840 (84.0%)
+  Complexidade Lexical: 0.236 (23.6%) - Média
+  Palavras Longas (4+ sílabas): 0.266 (26.6%)
+  Diversidade Silábica: 0.510 (51.0%)
+  Palavras Complexas (3+ sílabas): 0.479 (47.9%)
+  Sílabas por Palavra: 2.69
+
+760_ult4657u811_saida.json:
+  Diversidade Léxica: 0.864 (86.4%)
+  Complexidade Lexical: 0.222 (22.2%) - Média
+  Palavras Longas (4+ sílabas): 0.227 (22.7%)
+  Diversidade Silábica: 0.474 (47.4%)
+  Palavras Complexas (3+ sílabas): 0.564 (56.4%)
+  Sílabas por Palavra: 2.78
+
+761_o-descaso-do-excesso_saida.json:
+  Diversidade Léxica: 0.845 (84.5%)
+  Complexidade Lexical: 0.212 (21.2%) - Média
+  Palavras Longas (4+ sílabas): 0.183 (18.3%)
+  Diversidade Silábica: 0.535 (53.5%)
+  Palavras Complexas (3+ sílabas): 0.549 (54.9%)
+  Sílabas por Palavra: 2.79
+
+762_o-homem-e-e-o-cao_saida.json:
+  Diversidade Léxica: 0.779 (77.9%)
+  Complexidade Lexical: 0.204 (20.4%) - Média
+  Palavras Longas (4+ sílabas): 0.221 (22.1%)
+  Diversidade Silábica: 0.492 (49.2%)
+  Palavras Complexas (3+ sílabas): 0.537 (53.7%)
+  Sílabas por Palavra: 2.65
+
+763_os-limites-na-relacao-entre-homem-e-animal_saida.json:
+  Diversidade Léxica: 0.812 (81.2%)
+  Complexidade Lexical: 0.230 (23.0%) - Média
+  Palavras Longas (4+ sílabas): 0.234 (23.4%)
+  Diversidade Silábica: 0.492 (49.2%)
+  Palavras Complexas (3+ sílabas): 0.625 (62.5%)
+  Sílabas por Palavra: 2.89
+
+763_ult4657u814_saida.json:
+  Diversidade Léxica: 0.878 (87.8%)
+  Complexidade Lexical: 0.241 (24.1%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.551 (55.1%)
+  Palavras Complexas (3+ sílabas): 0.449 (44.9%)
+  Sílabas por Palavra: 2.72
+
+764_ult4657u815_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.384 (38.4%) - Alta
+  Palavras Longas (4+ sílabas): 0.423 (42.3%)
+  Diversidade Silábica: 0.694 (69.4%)
+  Palavras Complexas (3+ sílabas): 0.654 (65.4%)
+  Sílabas por Palavra: 3.27
+
+766_ult4657u817_saida.json:
+  Diversidade Léxica: 0.940 (94.0%)
+  Complexidade Lexical: 0.230 (23.0%) - Média
+  Palavras Longas (4+ sílabas): 0.260 (26.0%)
+  Diversidade Silábica: 0.662 (66.2%)
+  Palavras Complexas (3+ sílabas): 0.520 (52.0%)
+  Sílabas por Palavra: 2.72
+
+767_ult4657u818_saida.json:
+  Diversidade Léxica: 0.758 (75.8%)
+  Complexidade Lexical: 0.287 (28.7%) - Média
+  Palavras Longas (4+ sílabas): 0.325 (32.5%)
+  Diversidade Silábica: 0.449 (44.9%)
+  Palavras Complexas (3+ sílabas): 0.508 (50.8%)
+  Sílabas por Palavra: 2.93
+
+768_ult4657u819_saida.json:
+  Diversidade Léxica: 0.899 (89.9%)
+  Complexidade Lexical: 0.278 (27.8%) - Média
+  Palavras Longas (4+ sílabas): 0.304 (30.4%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.594 (59.4%)
+  Sílabas por Palavra: 3.01
+
+770_ult4657u821_saida.json:
+  Diversidade Léxica: 0.870 (87.0%)
+  Complexidade Lexical: 0.343 (34.3%) - Média
+  Palavras Longas (4+ sílabas): 0.426 (42.6%)
+  Diversidade Silábica: 0.534 (53.4%)
+  Palavras Complexas (3+ sílabas): 0.648 (64.8%)
+  Sílabas por Palavra: 3.26
+
+771_ult4657u822_saida.json:
+  Diversidade Léxica: 0.816 (81.6%)
+  Complexidade Lexical: 0.270 (27.0%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.592 (59.2%)
+  Palavras Complexas (3+ sílabas): 0.612 (61.2%)
+  Sílabas por Palavra: 3.00
+
+773_ult4657u824_saida.json:
+  Diversidade Léxica: 0.823 (82.3%)
+  Complexidade Lexical: 0.293 (29.3%) - Média
+  Palavras Longas (4+ sílabas): 0.339 (33.9%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.645 (64.5%)
+  Sílabas por Palavra: 3.16
+
+774_ult4657u825_saida.json:
+  Diversidade Léxica: 0.873 (87.3%)
+  Complexidade Lexical: 0.223 (22.3%) - Média
+  Palavras Longas (4+ sílabas): 0.236 (23.6%)
+  Diversidade Silábica: 0.631 (63.1%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.85
+
+775_ult4657u826_saida.json:
+  Diversidade Léxica: 0.933 (93.3%)
+  Complexidade Lexical: 0.295 (29.5%) - Média
+  Palavras Longas (4+ sílabas): 0.350 (35.0%)
+  Diversidade Silábica: 0.625 (62.5%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.07
+
+77_ult4657u542_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.321 (32.1%) - Média
+  Palavras Longas (4+ sílabas): 0.366 (36.6%)
+  Diversidade Silábica: 0.463 (46.3%)
+  Palavras Complexas (3+ sílabas): 0.573 (57.3%)
+  Sílabas por Palavra: 3.11
+
+786_as-criancas-sao-futuro-criminalidade-e-retrocesso_saida.json:
+  Diversidade Léxica: 0.869 (86.9%)
+  Complexidade Lexical: 0.316 (31.6%) - Média
+  Palavras Longas (4+ sílabas): 0.295 (29.5%)
+  Diversidade Silábica: 0.577 (57.7%)
+  Palavras Complexas (3+ sílabas): 0.590 (59.0%)
+  Sílabas por Palavra: 3.18
+
+787_brechas-da-impunidade_saida.json:
+  Diversidade Léxica: 0.859 (85.9%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.272 (27.2%)
+  Diversidade Silábica: 0.530 (53.0%)
+  Palavras Complexas (3+ sílabas): 0.576 (57.6%)
+  Sílabas por Palavra: 2.93
+
+788_combate-a-criminalidade-infantil_saida.json:
+  Diversidade Léxica: 0.905 (90.5%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.284 (28.4%)
+  Diversidade Silábica: 0.514 (51.4%)
+  Palavras Complexas (3+ sílabas): 0.568 (56.8%)
+  Sílabas por Palavra: 3.01
+
+791_educacao-fonte-do-nosso-futuro_saida.json:
+  Diversidade Léxica: 0.825 (82.5%)
+  Complexidade Lexical: 0.238 (23.8%) - Média
+  Palavras Longas (4+ sílabas): 0.222 (22.2%)
+  Diversidade Silábica: 0.579 (57.9%)
+  Palavras Complexas (3+ sílabas): 0.429 (42.9%)
+  Sílabas por Palavra: 2.83
+
+792_evoluimos-ou-involuimos_saida.json:
+  Diversidade Léxica: 0.915 (91.5%)
+  Complexidade Lexical: 0.332 (33.2%) - Média
+  Palavras Longas (4+ sílabas): 0.404 (40.4%)
+  Diversidade Silábica: 0.631 (63.1%)
+  Palavras Complexas (3+ sílabas): 0.660 (66.0%)
+  Sílabas por Palavra: 3.17
+
+793_fruto-gerado-pela-desigualdade-social_saida.json:
+  Diversidade Léxica: 0.910 (91.0%)
+  Complexidade Lexical: 0.303 (30.3%) - Média
+  Palavras Longas (4+ sílabas): 0.308 (30.8%)
+  Diversidade Silábica: 0.508 (50.8%)
+  Palavras Complexas (3+ sílabas): 0.526 (52.6%)
+  Sílabas por Palavra: 3.05
+
+794_impunidade-esse-e-o-problema_saida.json:
+  Diversidade Léxica: 0.860 (86.0%)
+  Complexidade Lexical: 0.313 (31.3%) - Média
+  Palavras Longas (4+ sílabas): 0.349 (34.9%)
+  Diversidade Silábica: 0.483 (48.3%)
+  Palavras Complexas (3+ sílabas): 0.581 (58.1%)
+  Sílabas por Palavra: 3.13
+
+795_infantil_saida.json:
+  Diversidade Léxica: 0.900 (90.0%)
+  Complexidade Lexical: 0.279 (27.9%) - Média
+  Palavras Longas (4+ sílabas): 0.314 (31.4%)
+  Diversidade Silábica: 0.585 (58.5%)
+  Palavras Complexas (3+ sílabas): 0.514 (51.4%)
+  Sílabas por Palavra: 2.96
+
+796_a-construcao-do-brasil-bom-para-todos_saida.json:
+  Diversidade Léxica: 0.885 (88.5%)
+  Complexidade Lexical: 0.320 (32.0%) - Média
+  Palavras Longas (4+ sílabas): 0.410 (41.0%)
+  Diversidade Silábica: 0.589 (58.9%)
+  Palavras Complexas (3+ sílabas): 0.672 (67.2%)
+  Sílabas por Palavra: 3.11
+
+796_maior-cuidando-de-menores_saida.json:
+  Diversidade Léxica: 0.795 (79.5%)
+  Complexidade Lexical: 0.315 (31.5%) - Média
+  Palavras Longas (4+ sílabas): 0.359 (35.9%)
+  Diversidade Silábica: 0.411 (41.1%)
+  Palavras Complexas (3+ sílabas): 0.590 (59.0%)
+  Sílabas por Palavra: 3.08
+
+797_a-obrigatoriedade-em-um-pais-democratico_saida.json:
+  Diversidade Léxica: 0.919 (91.9%)
+  Complexidade Lexical: 0.310 (31.0%) - Média
+  Palavras Longas (4+ sílabas): 0.371 (37.1%)
+  Diversidade Silábica: 0.553 (55.3%)
+  Palavras Complexas (3+ sílabas): 0.613 (61.3%)
+  Sílabas por Palavra: 3.03
+
+797_o-mais-importante-aliado-da-triplice-alianca_saida.json:
+  Diversidade Léxica: 0.887 (88.7%)
+  Complexidade Lexical: 0.333 (33.3%) - Média
+  Palavras Longas (4+ sílabas): 0.434 (43.4%)
+  Diversidade Silábica: 0.571 (57.1%)
+  Palavras Complexas (3+ sílabas): 0.660 (66.0%)
+  Sílabas por Palavra: 3.21
+
+798_cidadania_saida.json:
+  Diversidade Léxica: 0.865 (86.5%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.385 (38.5%)
+  Diversidade Silábica: 0.570 (57.0%)
+  Palavras Complexas (3+ sílabas): 0.673 (67.3%)
+  Sílabas por Palavra: 3.04
+
+798_o-menor-uma-questao-maior_saida.json:
+  Diversidade Léxica: 0.911 (91.1%)
+  Complexidade Lexical: 0.291 (29.1%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.669 (66.9%)
+  Palavras Complexas (3+ sílabas): 0.556 (55.6%)
+  Sílabas por Palavra: 2.96
+
+799_eleicoes-na-imprensa_saida.json:
+  Diversidade Léxica: 0.832 (83.2%)
+  Complexidade Lexical: 0.283 (28.3%) - Média
+  Palavras Longas (4+ sílabas): 0.336 (33.6%)
+  Diversidade Silábica: 0.437 (43.7%)
+  Palavras Complexas (3+ sílabas): 0.646 (64.6%)
+  Sílabas por Palavra: 3.04
+
+799_olha-ai-e-o-meu-guri_saida.json:
+  Diversidade Léxica: 0.855 (85.5%)
+  Complexidade Lexical: 0.355 (35.5%) - Alta
+  Palavras Longas (4+ sílabas): 0.419 (41.9%)
+  Diversidade Silábica: 0.512 (51.2%)
+  Palavras Complexas (3+ sílabas): 0.677 (67.7%)
+  Sílabas por Palavra: 3.31
+
+7_a-aids-estaria-sendo-esquecida_saida.json:
+  Diversidade Léxica: 0.838 (83.8%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.353 (35.3%)
+  Diversidade Silábica: 0.519 (51.9%)
+  Palavras Complexas (3+ sílabas): 0.632 (63.2%)
+  Sílabas por Palavra: 3.09
+
+800_problema-nacional---infancia-e-criminalidade_saida.json:
+  Diversidade Léxica: 0.890 (89.0%)
+  Complexidade Lexical: 0.301 (30.1%) - Média
+  Palavras Longas (4+ sílabas): 0.330 (33.0%)
+  Diversidade Silábica: 0.464 (46.4%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 3.08
+
+801_enganosa_saida.json:
+  Diversidade Léxica: 0.821 (82.1%)
+  Complexidade Lexical: 0.302 (30.2%) - Média
+  Palavras Longas (4+ sílabas): 0.369 (36.9%)
+  Diversidade Silábica: 0.473 (47.3%)
+  Palavras Complexas (3+ sílabas): 0.631 (63.1%)
+  Sílabas por Palavra: 3.07
+
+801_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.814 (81.4%)
+  Complexidade Lexical: 0.288 (28.8%) - Média
+  Palavras Longas (4+ sílabas): 0.302 (30.2%)
+  Diversidade Silábica: 0.473 (47.3%)
+  Palavras Complexas (3+ sílabas): 0.547 (54.7%)
+  Sílabas por Palavra: 3.07
+
+802_feira-de-candidatos_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.291 (29.1%) - Média
+  Palavras Longas (4+ sílabas): 0.345 (34.5%)
+  Diversidade Silábica: 0.420 (42.0%)
+  Palavras Complexas (3+ sílabas): 0.630 (63.0%)
+  Sílabas por Palavra: 3.08
+
+802_social_saida.json:
+  Diversidade Léxica: 0.807 (80.7%)
+  Complexidade Lexical: 0.306 (30.6%) - Média
+  Palavras Longas (4+ sílabas): 0.325 (32.5%)
+  Diversidade Silábica: 0.448 (44.8%)
+  Palavras Complexas (3+ sílabas): 0.554 (55.4%)
+  Sílabas por Palavra: 3.14
+
+803_vamos-cuidar-do-futuro-de-amanha_saida.json:
+  Diversidade Léxica: 0.923 (92.3%)
+  Complexidade Lexical: 0.207 (20.7%) - Média
+  Palavras Longas (4+ sílabas): 0.205 (20.5%)
+  Diversidade Silábica: 0.726 (72.6%)
+  Palavras Complexas (3+ sílabas): 0.462 (46.2%)
+  Sílabas por Palavra: 2.72
+
+805_horario-humoristico-gratuito-obrigatorio_saida.json:
+  Diversidade Léxica: 0.827 (82.7%)
+  Complexidade Lexical: 0.337 (33.7%) - Média
+  Palavras Longas (4+ sílabas): 0.427 (42.7%)
+  Diversidade Silábica: 0.451 (45.1%)
+  Palavras Complexas (3+ sílabas): 0.640 (64.0%)
+  Sílabas por Palavra: 3.25
+
+806_indesejadas_saida.json:
+  Diversidade Léxica: 0.936 (93.6%)
+  Complexidade Lexical: 0.403 (40.3%) - Alta
+  Palavras Longas (4+ sílabas): 0.532 (53.2%)
+  Diversidade Silábica: 0.524 (52.4%)
+  Palavras Complexas (3+ sílabas): 0.787 (78.7%)
+  Sílabas por Palavra: 3.53
+
+807_o-horario-politico-brasileiro_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.321 (32.1%) - Média
+  Palavras Longas (4+ sílabas): 0.397 (39.7%)
+  Diversidade Silábica: 0.399 (39.9%)
+  Palavras Complexas (3+ sílabas): 0.611 (61.1%)
+  Sílabas por Palavra: 3.12
+
+808_pequenas-mudancas-grandes-resultados_saida.json:
+  Diversidade Léxica: 0.901 (90.1%)
+  Complexidade Lexical: 0.330 (33.0%) - Média
+  Palavras Longas (4+ sílabas): 0.407 (40.7%)
+  Diversidade Silábica: 0.482 (48.2%)
+  Palavras Complexas (3+ sílabas): 0.642 (64.2%)
+  Sílabas por Palavra: 3.17
+
+809_politicas_saida.json:
+  Diversidade Léxica: 0.826 (82.6%)
+  Complexidade Lexical: 0.288 (28.8%) - Média
+  Palavras Longas (4+ sílabas): 0.339 (33.9%)
+  Diversidade Silábica: 0.409 (40.9%)
+  Palavras Complexas (3+ sílabas): 0.587 (58.7%)
+  Sílabas por Palavra: 3.01
+
+80_ult4657u545_saida.json:
+  Diversidade Léxica: 0.794 (79.4%)
+  Complexidade Lexical: 0.327 (32.7%) - Média
+  Palavras Longas (4+ sílabas): 0.397 (39.7%)
+  Diversidade Silábica: 0.522 (52.2%)
+  Palavras Complexas (3+ sílabas): 0.651 (65.1%)
+  Sílabas por Palavra: 3.22
+
+811_propaganda-eleitoral-politica_saida.json:
+  Diversidade Léxica: 0.857 (85.7%)
+  Complexidade Lexical: 0.336 (33.6%) - Média
+  Palavras Longas (4+ sílabas): 0.429 (42.9%)
+  Diversidade Silábica: 0.503 (50.3%)
+  Palavras Complexas (3+ sílabas): 0.735 (73.5%)
+  Sílabas por Palavra: 3.24
+
+813_ta-na-hora-de-mudar_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.314 (31.4%) - Média
+  Palavras Longas (4+ sílabas): 0.389 (38.9%)
+  Diversidade Silábica: 0.414 (41.4%)
+  Palavras Complexas (3+ sílabas): 0.628 (62.8%)
+  Sílabas por Palavra: 3.08
+
+826_a-cultura-do-consumismo-na-sociedade-brasileira_saida.json:
+  Diversidade Léxica: 0.879 (87.9%)
+  Complexidade Lexical: 0.275 (27.5%) - Média
+  Palavras Longas (4+ sílabas): 0.319 (31.9%)
+  Diversidade Silábica: 0.513 (51.3%)
+  Palavras Complexas (3+ sílabas): 0.582 (58.2%)
+  Sílabas por Palavra: 2.98
+
+827_a-engrenagem-do-capitalismo_saida.json:
+  Diversidade Léxica: 0.890 (89.0%)
+  Complexidade Lexical: 0.225 (22.5%) - Média
+  Palavras Longas (4+ sílabas): 0.242 (24.2%)
+  Diversidade Silábica: 0.560 (56.0%)
+  Palavras Complexas (3+ sílabas): 0.549 (54.9%)
+  Sílabas por Palavra: 2.73
+
+828_a-importancia-da-educacao-financeira_saida.json:
+  Diversidade Léxica: 0.887 (88.7%)
+  Complexidade Lexical: 0.239 (23.9%) - Média
+  Palavras Longas (4+ sílabas): 0.282 (28.2%)
+  Diversidade Silábica: 0.580 (58.0%)
+  Palavras Complexas (3+ sílabas): 0.577 (57.7%)
+  Sílabas por Palavra: 2.82
+
+829_como-se-tornar-um-consumidor-consciente-isso-e-possivel_saida.json:
+  Diversidade Léxica: 0.812 (81.2%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.294 (29.4%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.565 (56.5%)
+  Sílabas por Palavra: 2.86
+
+82_ult4657u105_saida.json:
+  Diversidade Léxica: 0.818 (81.8%)
+  Complexidade Lexical: 0.279 (27.9%) - Média
+  Palavras Longas (4+ sílabas): 0.313 (31.3%)
+  Diversidade Silábica: 0.462 (46.2%)
+  Palavras Complexas (3+ sílabas): 0.606 (60.6%)
+  Sílabas por Palavra: 3.06
+
+82_ult4657u290_saida.json:
+  Diversidade Léxica: 0.883 (88.3%)
+  Complexidade Lexical: 0.301 (30.1%) - Média
+  Palavras Longas (4+ sílabas): 0.351 (35.1%)
+  Diversidade Silábica: 0.523 (52.3%)
+  Palavras Complexas (3+ sílabas): 0.610 (61.0%)
+  Sílabas por Palavra: 3.05
+
+830_consciente_saida.json:
+  Diversidade Léxica: 0.926 (92.6%)
+  Complexidade Lexical: 0.316 (31.6%) - Média
+  Palavras Longas (4+ sílabas): 0.370 (37.0%)
+  Diversidade Silábica: 0.615 (61.5%)
+  Palavras Complexas (3+ sílabas): 0.648 (64.8%)
+  Sílabas por Palavra: 3.13
+
+831_consumismo-consumindo-te-consumindo-o-cidadao-desde-sempre-por-sempre-em-suaves-parcelas_saida.json:
+  Diversidade Léxica: 0.870 (87.0%)
+  Complexidade Lexical: 0.289 (28.9%) - Média
+  Palavras Longas (4+ sílabas): 0.304 (30.4%)
+  Diversidade Silábica: 0.452 (45.2%)
+  Palavras Complexas (3+ sílabas): 0.609 (60.9%)
+  Sílabas por Palavra: 3.08
+
+832_consumismo-da-nova-geracao_saida.json:
+  Diversidade Léxica: 0.894 (89.4%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.298 (29.8%)
+  Diversidade Silábica: 0.491 (49.1%)
+  Palavras Complexas (3+ sílabas): 0.553 (55.3%)
+  Sílabas por Palavra: 2.93
+
+835_consumo-com-consciencia_saida.json:
+  Diversidade Léxica: 0.868 (86.8%)
+  Complexidade Lexical: 0.293 (29.3%) - Média
+  Palavras Longas (4+ sílabas): 0.302 (30.2%)
+  Diversidade Silábica: 0.571 (57.1%)
+  Palavras Complexas (3+ sílabas): 0.566 (56.6%)
+  Sílabas por Palavra: 3.08
+
+836_ult4657u566_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.243 (24.3%) - Média
+  Palavras Longas (4+ sílabas): 0.248 (24.8%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.554 (55.4%)
+  Sílabas por Palavra: 2.80
+
+837_geracao-coca-cola_saida.json:
+  Diversidade Léxica: 0.900 (90.0%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.320 (32.0%)
+  Diversidade Silábica: 0.637 (63.7%)
+  Palavras Complexas (3+ sílabas): 0.540 (54.0%)
+  Sílabas por Palavra: 2.92
+
+837_ult4657u567_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.272 (27.2%) - Média
+  Palavras Longas (4+ sílabas): 0.296 (29.6%)
+  Diversidade Silábica: 0.504 (50.4%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 2.91
+
+838_o-consumismo-no-brasil-e-um-vicio_saida.json:
+  Diversidade Léxica: 0.851 (85.1%)
+  Complexidade Lexical: 0.276 (27.6%) - Média
+  Palavras Longas (4+ sílabas): 0.307 (30.7%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.545 (54.5%)
+  Sílabas por Palavra: 2.98
+
+838_ult4657u568_saida.json:
+  Diversidade Léxica: 0.844 (84.4%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.271 (27.1%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.552 (55.2%)
+  Sílabas por Palavra: 2.86
+
+839_o-universo-consumista_saida.json:
+  Diversidade Léxica: 0.875 (87.5%)
+  Complexidade Lexical: 0.320 (32.0%) - Média
+  Palavras Longas (4+ sílabas): 0.375 (37.5%)
+  Diversidade Silábica: 0.582 (58.2%)
+  Palavras Complexas (3+ sílabas): 0.625 (62.5%)
+  Sílabas por Palavra: 3.19
+
+83_ult4657u291_saida.json:
+  Diversidade Léxica: 0.856 (85.6%)
+  Complexidade Lexical: 0.280 (28.0%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.468 (46.8%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.89
+
+840_os-adolescentes-consumistas-sao-os-nao-educados-pelos-pais_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.227 (22.7%) - Média
+  Palavras Longas (4+ sílabas): 0.260 (26.0%)
+  Diversidade Silábica: 0.506 (50.6%)
+  Palavras Complexas (3+ sílabas): 0.521 (52.1%)
+  Sílabas por Palavra: 2.70
+
+840_ult4657u570_saida.json:
+  Diversidade Léxica: 0.884 (88.4%)
+  Complexidade Lexical: 0.277 (27.7%) - Média
+  Palavras Longas (4+ sílabas): 0.304 (30.4%)
+  Diversidade Silábica: 0.563 (56.3%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 2.99
+
+841_quando-o-consumo-se-torna-um-problema_saida.json:
+  Diversidade Léxica: 0.930 (93.0%)
+  Complexidade Lexical: 0.236 (23.6%) - Média
+  Palavras Longas (4+ sílabas): 0.256 (25.6%)
+  Diversidade Silábica: 0.711 (71.1%)
+  Palavras Complexas (3+ sílabas): 0.581 (58.1%)
+  Sílabas por Palavra: 2.81
+
+841_ult4657u571_saida.json:
+  Diversidade Léxica: 0.818 (81.8%)
+  Complexidade Lexical: 0.260 (26.0%) - Média
+  Palavras Longas (4+ sílabas): 0.273 (27.3%)
+  Diversidade Silábica: 0.477 (47.7%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 2.93
+
+842_sem-titulo-_saida.json:
+  Diversidade Léxica: 0.886 (88.6%)
+  Complexidade Lexical: 0.310 (31.0%) - Média
+  Palavras Longas (4+ sílabas): 0.362 (36.2%)
+  Diversidade Silábica: 0.469 (46.9%)
+  Palavras Complexas (3+ sílabas): 0.619 (61.9%)
+  Sílabas por Palavra: 3.10
+
+842_ult4657u572_saida.json:
+  Diversidade Léxica: 0.805 (80.5%)
+  Complexidade Lexical: 0.248 (24.8%) - Média
+  Palavras Longas (4+ sílabas): 0.268 (26.8%)
+  Diversidade Silábica: 0.498 (49.8%)
+  Palavras Complexas (3+ sílabas): 0.585 (58.5%)
+  Sílabas por Palavra: 2.96
+
+843_sim-ao-consumo-consciente_saida.json:
+  Diversidade Léxica: 0.854 (85.4%)
+  Complexidade Lexical: 0.237 (23.7%) - Média
+  Palavras Longas (4+ sílabas): 0.243 (24.3%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.515 (51.5%)
+  Sílabas por Palavra: 2.79
+
+843_ult4657u573_saida.json:
+  Diversidade Léxica: 0.829 (82.9%)
+  Complexidade Lexical: 0.288 (28.8%) - Média
+  Palavras Longas (4+ sílabas): 0.305 (30.5%)
+  Diversidade Silábica: 0.476 (47.6%)
+  Palavras Complexas (3+ sílabas): 0.598 (59.8%)
+  Sílabas por Palavra: 3.07
+
+846_ult4657u576_saida.json:
+  Diversidade Léxica: 0.773 (77.3%)
+  Complexidade Lexical: 0.304 (30.4%) - Média
+  Palavras Longas (4+ sílabas): 0.361 (36.1%)
+  Diversidade Silábica: 0.425 (42.5%)
+  Palavras Complexas (3+ sílabas): 0.629 (62.9%)
+  Sílabas por Palavra: 3.10
+
+850_ult4657u580_saida.json:
+  Diversidade Léxica: 0.794 (79.4%)
+  Complexidade Lexical: 0.299 (29.9%) - Média
+  Palavras Longas (4+ sílabas): 0.327 (32.7%)
+  Diversidade Silábica: 0.448 (44.8%)
+  Palavras Complexas (3+ sílabas): 0.617 (61.7%)
+  Sílabas por Palavra: 3.07
+
+851_ult4657u581_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.344 (34.4%)
+  Diversidade Silábica: 0.466 (46.6%)
+  Palavras Complexas (3+ sílabas): 0.622 (62.2%)
+  Sílabas por Palavra: 3.08
+
+852_ult4657u582_saida.json:
+  Diversidade Léxica: 0.875 (87.5%)
+  Complexidade Lexical: 0.329 (32.9%) - Média
+  Palavras Longas (4+ sílabas): 0.357 (35.7%)
+  Diversidade Silábica: 0.538 (53.8%)
+  Palavras Complexas (3+ sílabas): 0.679 (67.9%)
+  Sílabas por Palavra: 3.25
+
+853_ult4657u583_saida.json:
+  Diversidade Léxica: 0.870 (87.0%)
+  Complexidade Lexical: 0.245 (24.5%) - Média
+  Palavras Longas (4+ sílabas): 0.283 (28.3%)
+  Diversidade Silábica: 0.519 (51.9%)
+  Palavras Complexas (3+ sílabas): 0.543 (54.3%)
+  Sílabas por Palavra: 2.83
+
+854_ult4657u584_saida.json:
+  Diversidade Léxica: 0.955 (95.5%)
+  Complexidade Lexical: 0.341 (34.1%) - Média
+  Palavras Longas (4+ sílabas): 0.424 (42.4%)
+  Diversidade Silábica: 0.559 (55.9%)
+  Palavras Complexas (3+ sílabas): 0.667 (66.7%)
+  Sílabas por Palavra: 3.23
+
+855_ult4657u585_saida.json:
+  Diversidade Léxica: 0.807 (80.7%)
+  Complexidade Lexical: 0.266 (26.6%) - Média
+  Palavras Longas (4+ sílabas): 0.294 (29.4%)
+  Diversidade Silábica: 0.441 (44.1%)
+  Palavras Complexas (3+ sílabas): 0.569 (56.9%)
+  Sílabas por Palavra: 2.94
+
+85_ult4657u108_saida.json:
+  Diversidade Léxica: 0.903 (90.3%)
+  Complexidade Lexical: 0.339 (33.9%) - Média
+  Palavras Longas (4+ sílabas): 0.387 (38.7%)
+  Diversidade Silábica: 0.469 (46.9%)
+  Palavras Complexas (3+ sílabas): 0.677 (67.7%)
+  Sílabas por Palavra: 3.28
+
+85_ult4657u293_saida.json:
+  Diversidade Léxica: 0.846 (84.6%)
+  Complexidade Lexical: 0.297 (29.7%) - Média
+  Palavras Longas (4+ sílabas): 0.363 (36.3%)
+  Diversidade Silábica: 0.487 (48.7%)
+  Palavras Complexas (3+ sílabas): 0.582 (58.2%)
+  Sílabas por Palavra: 3.00
+
+865_ult4657u647_saida.json:
+  Diversidade Léxica: 0.878 (87.8%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.257 (25.7%)
+  Diversidade Silábica: 0.551 (55.1%)
+  Palavras Complexas (3+ sílabas): 0.527 (52.7%)
+  Sílabas por Palavra: 2.92
+
+866_ult4657u648_saida.json:
+  Diversidade Léxica: 0.940 (94.0%)
+  Complexidade Lexical: 0.282 (28.2%) - Média
+  Palavras Longas (4+ sílabas): 0.320 (32.0%)
+  Diversidade Silábica: 0.671 (67.1%)
+  Palavras Complexas (3+ sílabas): 0.580 (58.0%)
+  Sílabas por Palavra: 2.98
+
+867_ult4657u649_saida.json:
+  Diversidade Léxica: 0.886 (88.6%)
+  Complexidade Lexical: 0.321 (32.1%) - Média
+  Palavras Longas (4+ sílabas): 0.400 (40.0%)
+  Diversidade Silábica: 0.727 (72.7%)
+  Palavras Complexas (3+ sílabas): 0.686 (68.6%)
+  Sílabas por Palavra: 3.14
+
+868_ult4657u650_saida.json:
+  Diversidade Léxica: 0.872 (87.2%)
+  Complexidade Lexical: 0.275 (27.5%) - Média
+  Palavras Longas (4+ sílabas): 0.282 (28.2%)
+  Diversidade Silábica: 0.717 (71.7%)
+  Palavras Complexas (3+ sílabas): 0.487 (48.7%)
+  Sílabas por Palavra: 2.90
+
+869_ult4657u651_saida.json:
+  Diversidade Léxica: 0.905 (90.5%)
+  Complexidade Lexical: 0.268 (26.8%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.645 (64.5%)
+  Palavras Complexas (3+ sílabas): 0.524 (52.4%)
+  Sílabas por Palavra: 2.95
+
+86_ult4657u109_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.278 (27.8%)
+  Diversidade Silábica: 0.495 (49.5%)
+  Palavras Complexas (3+ sílabas): 0.481 (48.1%)
+  Sílabas por Palavra: 2.82
+
+86_ult4657u294_saida.json:
+  Diversidade Léxica: 0.902 (90.2%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.304 (30.4%)
+  Diversidade Silábica: 0.528 (52.8%)
+  Palavras Complexas (3+ sílabas): 0.511 (51.1%)
+  Sílabas por Palavra: 2.88
+
+871_ult4657u653_saida.json:
+  Diversidade Léxica: 0.761 (76.1%)
+  Complexidade Lexical: 0.259 (25.9%) - Média
+  Palavras Longas (4+ sílabas): 0.269 (26.9%)
+  Diversidade Silábica: 0.550 (55.0%)
+  Palavras Complexas (3+ sílabas): 0.478 (47.8%)
+  Sílabas por Palavra: 2.85
+
+873_ult4657u655_saida.json:
+  Diversidade Léxica: 0.856 (85.6%)
+  Complexidade Lexical: 0.287 (28.7%) - Média
+  Palavras Longas (4+ sílabas): 0.320 (32.0%)
+  Diversidade Silábica: 0.468 (46.8%)
+  Palavras Complexas (3+ sílabas): 0.528 (52.8%)
+  Sílabas por Palavra: 2.96
+
+874_ult4657u656_saida.json:
+  Diversidade Léxica: 0.889 (88.9%)
+  Complexidade Lexical: 0.218 (21.8%) - Média
+  Palavras Longas (4+ sílabas): 0.222 (22.2%)
+  Diversidade Silábica: 0.593 (59.3%)
+  Palavras Complexas (3+ sílabas): 0.528 (52.8%)
+  Sílabas por Palavra: 2.76
+
+875_a-fe-nao-mora-na-igreja_saida.json:
+  Diversidade Léxica: 0.886 (88.6%)
+  Complexidade Lexical: 0.298 (29.8%) - Média
+  Palavras Longas (4+ sílabas): 0.330 (33.0%)
+  Diversidade Silábica: 0.515 (51.5%)
+  Palavras Complexas (3+ sílabas): 0.568 (56.8%)
+  Sílabas por Palavra: 3.07
+
+875_ult4657u658_saida.json:
+  Diversidade Léxica: 0.879 (87.9%)
+  Complexidade Lexical: 0.300 (30.0%) - Média
+  Palavras Longas (4+ sílabas): 0.364 (36.4%)
+  Diversidade Silábica: 0.740 (74.0%)
+  Palavras Complexas (3+ sílabas): 0.576 (57.6%)
+  Sílabas por Palavra: 2.91
+
+876_amar-ao-proximo-a-regra-e-a-excecao_saida.json:
+  Diversidade Léxica: 0.899 (89.9%)
+  Complexidade Lexical: 0.294 (29.4%) - Média
+  Palavras Longas (4+ sílabas): 0.329 (32.9%)
+  Diversidade Silábica: 0.556 (55.6%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 3.03
+
+876_ult4657u659_saida.json:
+  Diversidade Léxica: 0.900 (90.0%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.250 (25.0%)
+  Diversidade Silábica: 0.625 (62.5%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.93
+
+877_conscientizar-para-erradicar_saida.json:
+  Diversidade Léxica: 0.683 (68.3%)
+  Complexidade Lexical: 0.164 (16.4%) - Baixa
+  Palavras Longas (4+ sílabas): 0.151 (15.1%)
+  Diversidade Silábica: 0.411 (41.1%)
+  Palavras Complexas (3+ sílabas): 0.339 (33.9%)
+  Sílabas por Palavra: 2.38
+
+877_ult4657u660_saida.json:
+  Diversidade Léxica: 0.872 (87.2%)
+  Complexidade Lexical: 0.312 (31.2%) - Média
+  Palavras Longas (4+ sílabas): 0.340 (34.0%)
+  Diversidade Silábica: 0.662 (66.2%)
+  Palavras Complexas (3+ sílabas): 0.617 (61.7%)
+  Sílabas por Palavra: 3.15
+
+878_ult4657u661_saida.json:
+  Diversidade Léxica: 0.908 (90.8%)
+  Complexidade Lexical: 0.252 (25.2%) - Média
+  Palavras Longas (4+ sílabas): 0.277 (27.7%)
+  Diversidade Silábica: 0.657 (65.7%)
+  Palavras Complexas (3+ sílabas): 0.477 (47.7%)
+  Sílabas por Palavra: 2.78
+
+879_ult4657u662_saida.json:
+  Diversidade Léxica: 0.867 (86.7%)
+  Complexidade Lexical: 0.262 (26.2%) - Média
+  Palavras Longas (4+ sílabas): 0.267 (26.7%)
+  Diversidade Silábica: 0.523 (52.3%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 2.96
+
+87_ult4657u295_saida.json:
+  Diversidade Léxica: 0.805 (80.5%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.299 (29.9%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.532 (53.2%)
+  Sílabas por Palavra: 2.88
+
+880_imagine-um-pais-sem-intolerancia-religiosa_saida.json:
+  Diversidade Léxica: 0.869 (86.9%)
+  Complexidade Lexical: 0.259 (25.9%) - Média
+  Palavras Longas (4+ sílabas): 0.279 (27.9%)
+  Diversidade Silábica: 0.583 (58.3%)
+  Palavras Complexas (3+ sílabas): 0.459 (45.9%)
+  Sílabas por Palavra: 2.75
+
+881_ult4657u664_saida.json:
+  Diversidade Léxica: 0.875 (87.5%)
+  Complexidade Lexical: 0.316 (31.6%) - Média
+  Palavras Longas (4+ sílabas): 0.375 (37.5%)
+  Diversidade Silábica: 0.571 (57.1%)
+  Palavras Complexas (3+ sílabas): 0.578 (57.8%)
+  Sílabas por Palavra: 3.06
+
+882_intolerancia-religiosa-brasileira_saida.json:
+  Diversidade Léxica: 0.909 (90.9%)
+  Complexidade Lexical: 0.306 (30.6%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.663 (66.3%)
+  Palavras Complexas (3+ sílabas): 0.606 (60.6%)
+  Sílabas por Palavra: 3.15
+
+882_ult4657u665_saida.json:
+  Diversidade Léxica: 0.812 (81.2%)
+  Complexidade Lexical: 0.224 (22.4%) - Média
+  Palavras Longas (4+ sílabas): 0.212 (21.2%)
+  Diversidade Silábica: 0.504 (50.4%)
+  Palavras Complexas (3+ sílabas): 0.550 (55.0%)
+  Sílabas por Palavra: 2.80
+
+883_invisivel_saida.json:
+  Diversidade Léxica: 0.898 (89.8%)
+  Complexidade Lexical: 0.373 (37.3%) - Alta
+  Palavras Longas (4+ sílabas): 0.441 (44.1%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.627 (62.7%)
+  Sílabas por Palavra: 3.34
+
+885_no-brasil-a-intolerancia-religiosa-assume-uma-larga-escala-de-forma-camuflada_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.273 (27.3%) - Média
+  Palavras Longas (4+ sílabas): 0.321 (32.1%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.538 (53.8%)
+  Sílabas por Palavra: 2.94
+
+886_o-brasil-e-laico-o-brasileiro-nao_saida.json:
+  Diversidade Léxica: 0.944 (94.4%)
+  Complexidade Lexical: 0.302 (30.2%) - Média
+  Palavras Longas (4+ sílabas): 0.352 (35.2%)
+  Diversidade Silábica: 0.594 (59.4%)
+  Palavras Complexas (3+ sílabas): 0.519 (51.9%)
+  Sílabas por Palavra: 2.96
+
+887_o-que-o-colonizador-deixou_saida.json:
+  Diversidade Léxica: 0.807 (80.7%)
+  Complexidade Lexical: 0.276 (27.6%) - Média
+  Palavras Longas (4+ sílabas): 0.307 (30.7%)
+  Diversidade Silábica: 0.434 (43.4%)
+  Palavras Complexas (3+ sílabas): 0.535 (53.5%)
+  Sílabas por Palavra: 2.97
+
+888_primeiramente-somos-humanos_saida.json:
+  Diversidade Léxica: 0.864 (86.4%)
+  Complexidade Lexical: 0.288 (28.8%) - Média
+  Palavras Longas (4+ sílabas): 0.330 (33.0%)
+  Diversidade Silábica: 0.519 (51.9%)
+  Palavras Complexas (3+ sílabas): 0.489 (48.9%)
+  Sílabas por Palavra: 2.98
+
+889_religiosa_saida.json:
+  Diversidade Léxica: 0.815 (81.5%)
+  Complexidade Lexical: 0.300 (30.0%) - Média
+  Palavras Longas (4+ sílabas): 0.359 (35.9%)
+  Diversidade Silábica: 0.448 (44.8%)
+  Palavras Complexas (3+ sílabas): 0.533 (53.3%)
+  Sílabas por Palavra: 3.05
+
+88_ult4657u111_saida.json:
+  Diversidade Léxica: 0.919 (91.9%)
+  Complexidade Lexical: 0.316 (31.6%) - Média
+  Palavras Longas (4+ sílabas): 0.394 (39.4%)
+  Diversidade Silábica: 0.497 (49.7%)
+  Palavras Complexas (3+ sílabas): 0.606 (60.6%)
+  Sílabas por Palavra: 3.09
+
+891_uma-fantasia-laica-para-um-pais-intolerante_saida.json:
+  Diversidade Léxica: 0.905 (90.5%)
+  Complexidade Lexical: 0.359 (35.9%) - Alta
+  Palavras Longas (4+ sílabas): 0.444 (44.4%)
+  Diversidade Silábica: 0.555 (55.5%)
+  Palavras Complexas (3+ sílabas): 0.635 (63.5%)
+  Sílabas por Palavra: 3.32
+
+892_zero_saida.json:
+  Diversidade Léxica: 0.846 (84.6%)
+  Complexidade Lexical: 0.267 (26.7%) - Média
+  Palavras Longas (4+ sílabas): 0.282 (28.2%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.513 (51.3%)
+  Sílabas por Palavra: 2.88
+
+89_ult4657u297_saida.json:
+  Diversidade Léxica: 0.812 (81.2%)
+  Complexidade Lexical: 0.240 (24.0%) - Média
+  Palavras Longas (4+ sílabas): 0.259 (25.9%)
+  Diversidade Silábica: 0.487 (48.7%)
+  Palavras Complexas (3+ sílabas): 0.491 (49.1%)
+  Sílabas por Palavra: 2.77
+
+8_a-vida-nao-pode-parar_saida.json:
+  Diversidade Léxica: 0.817 (81.7%)
+  Complexidade Lexical: 0.253 (25.3%) - Média
+  Palavras Longas (4+ sílabas): 0.298 (29.8%)
+  Diversidade Silábica: 0.495 (49.5%)
+  Palavras Complexas (3+ sílabas): 0.519 (51.9%)
+  Sílabas por Palavra: 2.80
+
+905_ult4657u526_saida.json:
+  Diversidade Léxica: 0.862 (86.2%)
+  Complexidade Lexical: 0.318 (31.8%) - Média
+  Palavras Longas (4+ sílabas): 0.362 (36.2%)
+  Diversidade Silábica: 0.467 (46.7%)
+  Palavras Complexas (3+ sílabas): 0.574 (57.4%)
+  Sílabas por Palavra: 3.10
+
+906_ult4657u527_saida.json:
+  Diversidade Léxica: 0.802 (80.2%)
+  Complexidade Lexical: 0.368 (36.8%) - Alta
+  Palavras Longas (4+ sílabas): 0.457 (45.7%)
+  Diversidade Silábica: 0.462 (46.2%)
+  Palavras Complexas (3+ sílabas): 0.593 (59.3%)
+  Sílabas por Palavra: 3.26
+
+907_ult4657u528_saida.json:
+  Diversidade Léxica: 0.747 (74.7%)
+  Complexidade Lexical: 0.319 (31.9%) - Média
+  Palavras Longas (4+ sílabas): 0.356 (35.6%)
+  Diversidade Silábica: 0.436 (43.6%)
+  Palavras Complexas (3+ sílabas): 0.586 (58.6%)
+  Sílabas por Palavra: 3.14
+
+908_ult4657u529_saida.json:
+  Diversidade Léxica: 0.844 (84.4%)
+  Complexidade Lexical: 0.361 (36.1%) - Alta
+  Palavras Longas (4+ sílabas): 0.416 (41.6%)
+  Diversidade Silábica: 0.496 (49.6%)
+  Palavras Complexas (3+ sílabas): 0.597 (59.7%)
+  Sílabas por Palavra: 3.32
+
+909_ult4657u530_saida.json:
+  Diversidade Léxica: 0.893 (89.3%)
+  Complexidade Lexical: 0.351 (35.1%) - Alta
+  Palavras Longas (4+ sílabas): 0.446 (44.6%)
+  Diversidade Silábica: 0.514 (51.4%)
+  Palavras Complexas (3+ sílabas): 0.643 (64.3%)
+  Sílabas por Palavra: 3.30
+
+90_ult4657u113_saida.json:
+  Diversidade Léxica: 0.796 (79.6%)
+  Complexidade Lexical: 0.291 (29.1%) - Média
+  Palavras Longas (4+ sílabas): 0.363 (36.3%)
+  Diversidade Silábica: 0.432 (43.2%)
+  Palavras Complexas (3+ sílabas): 0.558 (55.8%)
+  Sílabas por Palavra: 2.97
+
+911_ult4657u532_saida.json:
+  Diversidade Léxica: 0.891 (89.1%)
+  Complexidade Lexical: 0.302 (30.2%) - Média
+  Palavras Longas (4+ sílabas): 0.328 (32.8%)
+  Diversidade Silábica: 0.544 (54.4%)
+  Palavras Complexas (3+ sílabas): 0.641 (64.1%)
+  Sílabas por Palavra: 3.19
+
+912_ult4657u533_saida.json:
+  Diversidade Léxica: 0.845 (84.5%)
+  Complexidade Lexical: 0.352 (35.2%) - Alta
+  Palavras Longas (4+ sílabas): 0.429 (42.9%)
+  Diversidade Silábica: 0.438 (43.8%)
+  Palavras Complexas (3+ sílabas): 0.679 (67.9%)
+  Sílabas por Palavra: 3.29
+
+913_ult4657u534_saida.json:
+  Diversidade Léxica: 0.727 (72.7%)
+  Complexidade Lexical: 0.168 (16.8%) - Baixa
+  Palavras Longas (4+ sílabas): 0.145 (14.5%)
+  Diversidade Silábica: 0.414 (41.4%)
+  Palavras Complexas (3+ sílabas): 0.372 (37.2%)
+  Sílabas por Palavra: 2.41
+
+914_a-indigestao-da-vinganca_saida.json:
+  Diversidade Léxica: 0.856 (85.6%)
+  Complexidade Lexical: 0.250 (25.0%) - Média
+  Palavras Longas (4+ sílabas): 0.267 (26.7%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.633 (63.3%)
+  Sílabas por Palavra: 2.92
+
+914_ult4657u535_saida.json:
+  Diversidade Léxica: 0.881 (88.1%)
+  Complexidade Lexical: 0.354 (35.4%) - Alta
+  Palavras Longas (4+ sílabas): 0.418 (41.8%)
+  Diversidade Silábica: 0.473 (47.3%)
+  Palavras Complexas (3+ sílabas): 0.687 (68.7%)
+  Sílabas por Palavra: 3.31
+
+915_a-justica-e-a-lei_saida.json:
+  Diversidade Léxica: 0.847 (84.7%)
+  Complexidade Lexical: 0.198 (19.8%) - Baixa
+  Palavras Longas (4+ sílabas): 0.194 (19.4%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.528 (52.8%)
+  Sílabas por Palavra: 2.64
+
+916_a-justica-e-a-vinganca_saida.json:
+  Diversidade Léxica: 0.841 (84.1%)
+  Complexidade Lexical: 0.249 (24.9%) - Média
+  Palavras Longas (4+ sílabas): 0.246 (24.6%)
+  Diversidade Silábica: 0.548 (54.8%)
+  Palavras Complexas (3+ sílabas): 0.522 (52.2%)
+  Sílabas por Palavra: 2.86
+
+917_ult4657u538_saida.json:
+  Diversidade Léxica: 0.847 (84.7%)
+  Complexidade Lexical: 0.269 (26.9%) - Média
+  Palavras Longas (4+ sílabas): 0.294 (29.4%)
+  Diversidade Silábica: 0.516 (51.6%)
+  Palavras Complexas (3+ sílabas): 0.541 (54.1%)
+  Sílabas por Palavra: 2.92
+
+918_ult4657u539_saida.json:
+  Diversidade Léxica: 0.792 (79.2%)
+  Complexidade Lexical: 0.369 (36.9%) - Alta
+  Palavras Longas (4+ sílabas): 0.429 (42.9%)
+  Diversidade Silábica: 0.424 (42.4%)
+  Palavras Complexas (3+ sílabas): 0.688 (68.8%)
+  Sílabas por Palavra: 3.40
+
+919_ult4657u540_saida.json:
+  Diversidade Léxica: 0.907 (90.7%)
+  Complexidade Lexical: 0.374 (37.4%) - Alta
+  Palavras Longas (4+ sílabas): 0.442 (44.2%)
+  Diversidade Silábica: 0.568 (56.8%)
+  Palavras Complexas (3+ sílabas): 0.651 (65.1%)
+  Sílabas por Palavra: 3.40
+
+91_ult4657u299_saida.json:
+  Diversidade Léxica: 0.933 (93.3%)
+  Complexidade Lexical: 0.330 (33.0%) - Média
+  Palavras Longas (4+ sílabas): 0.367 (36.7%)
+  Diversidade Silábica: 0.558 (55.8%)
+  Palavras Complexas (3+ sílabas): 0.600 (60.0%)
+  Sílabas por Palavra: 3.17
+
+921_ult4657u542_saida.json:
+  Diversidade Léxica: 0.823 (82.3%)
+  Complexidade Lexical: 0.324 (32.4%) - Média
+  Palavras Longas (4+ sílabas): 0.380 (38.0%)
+  Diversidade Silábica: 0.430 (43.0%)
+  Palavras Complexas (3+ sílabas): 0.633 (63.3%)
+  Sílabas por Palavra: 3.18
+
+922_ult4657u543_saida.json:
+  Diversidade Léxica: 0.853 (85.3%)
+  Complexidade Lexical: 0.342 (34.2%) - Média
+  Palavras Longas (4+ sílabas): 0.441 (44.1%)
+  Diversidade Silábica: 0.509 (50.9%)
+  Palavras Complexas (3+ sílabas): 0.691 (69.1%)
+  Sílabas por Palavra: 3.24
+
+923_ult4657u544_saida.json:
+  Diversidade Léxica: 0.770 (77.0%)
+  Complexidade Lexical: 0.278 (27.8%) - Média
+  Palavras Longas (4+ sílabas): 0.344 (34.4%)
+  Diversidade Silábica: 0.513 (51.3%)
+  Palavras Complexas (3+ sílabas): 0.689 (68.9%)
+  Sílabas por Palavra: 3.10
+
+92_ult4657u115_saida.json:
+  Diversidade Léxica: 0.809 (80.9%)
+  Complexidade Lexical: 0.195 (19.5%) - Baixa
+  Palavras Longas (4+ sílabas): 0.191 (19.1%)
+  Diversidade Silábica: 0.645 (64.5%)
+  Palavras Complexas (3+ sílabas): 0.447 (44.7%)
+  Sílabas por Palavra: 2.64
+
+92_ult4657u300_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.236 (23.6%) - Média
+  Palavras Longas (4+ sílabas): 0.254 (25.4%)
+  Diversidade Silábica: 0.527 (52.7%)
+  Palavras Complexas (3+ sílabas): 0.500 (50.0%)
+  Sílabas por Palavra: 2.80
+
+93_ult4657u116_saida.json:
+  Diversidade Léxica: 0.824 (82.4%)
+  Complexidade Lexical: 0.281 (28.1%) - Média
+  Palavras Longas (4+ sílabas): 0.353 (35.3%)
+  Diversidade Silábica: 0.633 (63.3%)
+  Palavras Complexas (3+ sílabas): 0.529 (52.9%)
+  Sílabas por Palavra: 2.94
+
+93_ult4657u301_saida.json:
+  Diversidade Léxica: 0.852 (85.2%)
+  Complexidade Lexical: 0.255 (25.5%) - Média
+  Palavras Longas (4+ sílabas): 0.296 (29.6%)
+  Diversidade Silábica: 0.618 (61.8%)
+  Palavras Complexas (3+ sílabas): 0.556 (55.6%)
+  Sílabas por Palavra: 2.91
+
+94_ult4657u302_saida.json:
+  Diversidade Léxica: 0.870 (87.0%)
+  Complexidade Lexical: 0.257 (25.7%) - Média
+  Palavras Longas (4+ sílabas): 0.286 (28.6%)
+  Diversidade Silábica: 0.541 (54.1%)
+  Palavras Complexas (3+ sílabas): 0.519 (51.9%)
+  Sílabas por Palavra: 2.88
+
+95_ult4657u118_saida.json:
+  Diversidade Léxica: 0.918 (91.8%)
+  Complexidade Lexical: 0.287 (28.7%) - Média
+  Palavras Longas (4+ sílabas): 0.328 (32.8%)
+  Diversidade Silábica: 0.646 (64.6%)
+  Palavras Complexas (3+ sílabas): 0.574 (57.4%)
+  Sílabas por Palavra: 2.97
+
+95_ult4657u303_saida.json:
+  Diversidade Léxica: 0.927 (92.7%)
+  Complexidade Lexical: 0.313 (31.3%) - Média
+  Palavras Longas (4+ sílabas): 0.382 (38.2%)
+  Diversidade Silábica: 0.561 (56.1%)
+  Palavras Complexas (3+ sílabas): 0.618 (61.8%)
+  Sílabas por Palavra: 3.11
+
+96_ult4657u119_saida.json:
+  Diversidade Léxica: 0.865 (86.5%)
+  Complexidade Lexical: 0.321 (32.1%) - Média
+  Palavras Longas (4+ sílabas): 0.351 (35.1%)
+  Diversidade Silábica: 0.502 (50.2%)
+  Palavras Complexas (3+ sílabas): 0.527 (52.7%)
+  Sílabas por Palavra: 3.09
+
+96_ult4657u304_saida.json:
+  Diversidade Léxica: 0.847 (84.7%)
+  Complexidade Lexical: 0.295 (29.5%) - Média
+  Palavras Longas (4+ sílabas): 0.333 (33.3%)
+  Diversidade Silábica: 0.556 (55.6%)
+  Palavras Complexas (3+ sílabas): 0.514 (51.4%)
+  Sílabas por Palavra: 2.97
+
+97_ult4657u120_saida.json:
+  Diversidade Léxica: 0.833 (83.3%)
+  Complexidade Lexical: 0.365 (36.5%) - Alta
+  Palavras Longas (4+ sílabas): 0.450 (45.0%)
+  Diversidade Silábica: 0.397 (39.7%)
+  Palavras Complexas (3+ sílabas): 0.617 (61.7%)
+  Sílabas por Palavra: 3.27
+
+99_ult4657u122_saida.json:
+  Diversidade Léxica: 0.877 (87.7%)
+  Complexidade Lexical: 0.261 (26.1%) - Média
+  Palavras Longas (4+ sílabas): 0.296 (29.6%)
+  Diversidade Silábica: 0.546 (54.6%)
+  Palavras Complexas (3+ sílabas): 0.444 (44.4%)
+  Sílabas por Palavra: 2.80
+
+9_aids-doenca-fatal_saida.json:
+  Diversidade Léxica: 0.829 (82.9%)
+  Complexidade Lexical: 0.260 (26.0%) - Média
+  Palavras Longas (4+ sílabas): 0.271 (27.1%)
+  Diversidade Silábica: 0.574 (57.4%)
+  Palavras Complexas (3+ sílabas): 0.571 (57.1%)
+  Sílabas por Palavra: 2.89
+
+==========================================================================================
+ESTATÍSTICAS GERAIS:
+Diversidade Léxica Média: 85.8%
+Desvio Padrão: 4.9%
+Complexidade Léxica Média: 27.4%
+Proporção de palavras longas (4+ sílabas): 30.0%
+Diversidade silábica média: 53.1%
+Proporção de palavras complexas (3+ sílabas): 58.2%
+Média de sílabas por palavra: 2.97
+Diversidade de todo dataset: 9.1%
+Arquivos válidos: 685
+
+--- ANÁLISE AVANÇADA ---
+Complexidade geral do dataset: 40.6%
+Classificação geral: Alta
+Distribuição de complexidade: {'Baixa': 13, 'Média': 642, 'Alta': 30}
+Correlação Diversidade-Complexidade: 0.246
