@@ -1,0 +1,3 @@
+A métrica de complexidade lexical (LCI) foi medida com base na quantidade média de sílabas por palavra
+Além disso, foi calculado a média e o desvio padrão.
+O código foi feito para ler o dataset "QwenMax" e o "Data". No dataset QwenMax estão presentes os comandos temáticos sintéticos, que foram gerados a partir de outros comandos temáticos, que estão presentes no "Data"
