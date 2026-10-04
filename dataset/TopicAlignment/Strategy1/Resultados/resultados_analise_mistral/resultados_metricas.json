@@ -1,0 +1,116 @@
+{
+  "alta": {
+    "natural": {
+      "ttr": {
+        "media": 0.7418103216766668,
+        "desvio_padrao": 0.06248687187526679,
+        "mediana": 0.7525100401606426
+      },
+      "complexidade": {
+        "media": 0.2054431016003764,
+        "desvio_padrao": 0.03679404242870285,
+        "mediana": 0.20357725932167686
+      },
+      "subjetividade": {
+        "media": 0.5685447762409847,
+        "desvio_padrao": 0.04300178566774021,
+        "mediana": 0.5723969042301178
+      },
+      "n_amostras": 30
+    },
+    "sintetico": {
+      "ttr": {
+        "media": 0.6099015212665464,
+        "desvio_padrao": 0.06479284181080289,
+        "mediana": 0.6070812689896805
+      },
+      "complexidade": {
+        "media": 0.2264488255548988,
+        "desvio_padrao": 0.02893132910841072,
+        "mediana": 0.22356933244149677
+      },
+      "subjetividade": {
+        "media": 0.5926471054553986,
+        "desvio_padrao": 0.04405921097907634,
+        "mediana": 0.5919972956180573
+      },
+      "n_amostras": 30
+    }
+  },
+  "media": {
+    "natural": {
+      "ttr": {
+        "media": 0.731144883609079,
+        "desvio_padrao": 0.0758401856287395,
+        "mediana": 0.7442639344880939
+      },
+      "complexidade": {
+        "media": 0.21165570855058527,
+        "desvio_padrao": 0.045414290333156575,
+        "mediana": 0.21685679686535853
+      },
+      "subjetividade": {
+        "media": 0.5817824840545655,
+        "desvio_padrao": 0.03155797807088804,
+        "mediana": 0.5805282592773438
+      },
+      "n_amostras": 30
+    },
+    "sintetico": {
+      "ttr": {
+        "media": 0.6545787124963481,
+        "desvio_padrao": 0.10639058519023784,
+        "mediana": 0.6435134501094777
+      },
+      "complexidade": {
+        "media": 0.2120456059566711,
+        "desvio_padrao": 0.026986841621252148,
+        "mediana": 0.21137158264854614
+      },
+      "subjetividade": {
+        "media": 0.594030515352885,
+        "desvio_padrao": 0.04733977471292963,
+        "mediana": 0.5957435965538025
+      },
+      "n_amostras": 30
+    }
+  },
+  "baixa": {
+    "natural": {
+      "ttr": {
+        "media": 0.7376528082039775,
+        "desvio_padrao": 0.054935445554546374,
+        "mediana": 0.7361779371883475
+      },
+      "complexidade": {
+        "media": 0.20260128098264701,
+        "desvio_padrao": 0.03335727118063802,
+        "mediana": 0.20337232105336883
+      },
+      "subjetividade": {
+        "media": 0.5679069389899571,
+        "desvio_padrao": 0.04327363923164698,
+        "mediana": 0.5652408301830292
+      },
+      "n_amostras": 30
+    },
+    "sintetico": {
+      "ttr": {
+        "media": 0.6548908227954634,
+        "desvio_padrao": 0.10716834050965492,
+        "mediana": 0.6273483567216711
+      },
+      "complexidade": {
+        "media": 0.18378218642498606,
+        "desvio_padrao": 0.04549752291463174,
+        "mediana": 0.17947074430945398
+      },
+      "subjetividade": {
+        "media": 0.5893897533416748,
+        "desvio_padrao": 0.038979223433839236,
+        "mediana": 0.5922606289386749
+      },
+      "n_amostras": 30
+    }
+  }
+}
