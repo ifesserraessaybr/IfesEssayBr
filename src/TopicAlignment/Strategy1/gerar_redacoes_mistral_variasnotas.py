@@ -8,7 +8,7 @@ import requests
 # ============================================================
 # CONFIGURAÇÕES - ALTERE AQUI!
 # ============================================================
-api_key = os.getenv("MISTRAL_API_KEY")api_key = os.getenv("MISTRAL_API_KEY")   # <--- sua chave
+api_key = os.getenv("MISTRAL_API_KEY")   # <--- sua chave
 PASTA_ENTRADA = r"C:\Users\AdminUser\Documents\IC\gpt4TurboOneshot"   # pasta com JSONs originais
 PASTA_SAIDA   = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"
 MODELO = "open-mistral-nemo"
