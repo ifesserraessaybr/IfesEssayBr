@@ -1,0 +1,44 @@
+{
+  "alta": {
+    "ttr": {
+      "statistic": 838.0,
+      "p-value": 1.0104532753263791e-08
+    },
+    "complexidade": {
+      "statistic": 176.0,
+      "p-value": 5.265008978704173e-05
+    },
+    "subjetividade": {
+      "statistic": 210.0,
+      "p-value": 0.0003988101938466105
+    }
+  },
+  "media": {
+    "ttr": {
+      "statistic": 847.0,
+      "p-value": 4.570327703514059e-09
+    },
+    "complexidade": {
+      "statistic": 394.0,
+      "p-value": 0.4119108371475996
+    },
+    "subjetividade": {
+      "statistic": 444.0,
+      "p-value": 0.9351919702393391
+    }
+  },
+  "baixa": {
+    "ttr": {
+      "statistic": 537.5,
+      "p-value": 0.19835133215882483
+    },
+    "complexidade": {
+      "statistic": 507.0,
+      "p-value": 0.40353753915408586
+    },
+    "subjetividade": {
+      "statistic": 307.0,
+      "p-value": 0.03513659994217983
+    }
+  }
+}
