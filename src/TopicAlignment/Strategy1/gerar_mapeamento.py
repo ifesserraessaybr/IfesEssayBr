@@ -10,6 +10,9 @@ from dotenv import load_dotenv
 # CONFIGURAÇÕES - ALTERE AQUI SE NECESSÁRIO
 # ============================================================
 
+# Carrega as variáveis do arquivo .env
+load_dotenv()
+
 api_key = os.getenv("MISTRAL_API_KEY")
 if not api_key:
     raise ValueError("A variável MISTRAL_API_KEY não foi encontrada no arquivo .env!")
@@ -17,9 +20,6 @@ MODELO = "open-mistral-nemo"                         # mesmo modelo da geração
 PASTA_BASE_ENTRADA = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"  # pasta que contém as subpastas baixa, media, alta
 PASTA_BASE_SAIDA   = r"C:\Users\AdminUser\Documents\IC\redacoesAnalisadas"   # onde serão criadas as pastas de saída
 DELAY_SEGUNDOS = 0.5                                 # pausa entre análises de frases
-
-# Carrega as variáveis do arquivo .env
-load_dotenv()
 
 # Mapeamento das subpastas de entrada para os nomes das pastas de saída
 SUBPASTAS = {
