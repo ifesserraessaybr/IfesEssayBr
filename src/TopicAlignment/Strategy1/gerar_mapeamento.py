@@ -13,8 +13,8 @@ from dotenv import load_dotenv
 # Carrega as variáveis do arquivo .env
 load_dotenv()
 
-api_key = os.getenv("MISTRAL_API_KEY")
-if not api_key:
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
+if not MISTRAL_API_KEY:
     raise ValueError("A variável MISTRAL_API_KEY não foi encontrada no arquivo .env!")
 MODELO = "open-mistral-nemo"                         # mesmo modelo da geração
 PASTA_BASE_ENTRADA = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"  # pasta que contém as subpastas baixa, media, alta
