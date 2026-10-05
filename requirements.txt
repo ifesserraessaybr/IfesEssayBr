@@ -1,0 +1,11 @@
+pandas
+numpy
+torch
+tqdm
+transformers
+syllable
+matplotlib
+seaborn
+scipy
+requests
+python-dotenv
