@@ -8,11 +8,16 @@ Devido ao tamanho dos arquivos, os datasets do projeto estão hospedados no Goog
 ### 🔗 Links para Download e Destino dos Arquivos
 
 1. **Mapeamento**
-   * 🔗 **[Clique aqui para baixar a Pasta 1 (Google Drive)](https://drive.google.com/file/d/1dJybq_LQX1nQbiAcvBShVTF7CoGGofKE/view?usp=sharing)**
+   * 🔗 **[Clique aqui para baixar a Pasta 1 (Google Drive)](https://drive.google.com/file/d/1sywv1hoAXYsZch_JDWJ8r0MGJCgQPiYp/view?usp=sharing)**
    * **Caminho onde deve ser salva localmente:**
-     `dataset/TopicAlignment/Strategy1/mapeamento/`
+     `dataset/TopicAlignment/Strategy1/mapping/`
 
 2. **Redações sintéticas**
-   * 🔗 **[Clique aqui para baixar a Pasta 2 (Google Drive)](https://drive.google.com/file/d/1C7XWpQdzfDZIWun9vOFEI8y8CptK25Lt/view?usp=sharing)**
+   * 🔗 **[Clique aqui para baixar a Pasta 2 (Google Drive)](https://drive.google.com/file/d/1ECh7Ti3c9BL5gRxKcUn6s0lj1-g0vFyX/view?usp=sharing)**
    * **Caminho onde deve ser salva localmente:**
-     `dataset/TopicAlignment/Strategy1/redacoes_sinteticas/`
+     `dataset/TopicAlignment/Strategy1/synthetic_essays/`
+
+3. **Resultados**
+   * 🔗 **[Clique aqui para baixar a Pasta 3 (Google Drive)](https://drive.google.com/file/d/1gpnxy5HC_hJZMeOEGqdGJ6V2MNDCmM7i/view?usp=sharing)**
+   * **Caminho onde deve ser salva localmente:**
+     `dataset/TopicAlignment/Strategy1/results/`

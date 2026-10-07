@@ -1,14 +1,12 @@
 # ignorar os datasets de redações
-data/raw/*
-data/synthetic/*
-dataset/TopicAlignment/Strategy1/mapeamento/*
-dataset/TopicAlignment/Strategy1/redacoes_sinteticas/*
+dataset/TopicAlignment/Strategy1/mapping/*
+dataset/TopicAlignment/Strategy1/synthetic_essays/*
+dataset/TopicAlignment/Strategy1/results/*
 
 # manter as pastas no github, ainda que vazias
-!dataset/TopicAlignment/raw/.gitkeep
-!dataset/TopicAlignment/synthetic/.gitkeep
-!dataset/TopicAlignment/Strategy1/mapeamento/.gitkeep
-!dataset/TopicAlignment/Strategy1/redacoes_sinteticas/.gitkeep
+!dataset/TopicAlignment/Strategy1/mapping/.gitkeep
+!dataset/TopicAlignment/Strategy1/synthetic_essays/.gitkeep
+!dataset/TopicAlignment/Strategy1/results/.gitkeep
 
 # ignorar o .env
 .env
