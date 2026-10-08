@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.pt.md">🇧🇷 Português</a> | <a href="README.md">🇺🇸 English</a>
+</div>
+
 # complexidade-e-diversidade-lexical
 Repositório unificado de ferramentas em Python para avaliação automática de redações no IFES Capus Serra. Inclui módulos de diversidade e complexidade léxica, processamento de métricas linguísticas e análise de datasets com textos do ChatGPT e da base completa para estudos em PLN.
 
@@ -21,8 +25,3 @@ Devido ao tamanho dos arquivos, os datasets do projeto estão hospedados no Goog
    * 🔗 **[Clique aqui para baixar a Pasta 3 (Google Drive)](https://drive.google.com/file/d/1gpnxy5HC_hJZMeOEGqdGJ6V2MNDCmM7i/view?usp=sharing)**
    * **Caminho onde deve ser salva localmente:**
      `dataset/TopicAlignment/Strategy1/results/`
-
-
-<div align="right">
-  <a href="README.pt.md">🇧🇷 Português</a> | <a href="README.md">🇺🇸 English</a>
-</div>
