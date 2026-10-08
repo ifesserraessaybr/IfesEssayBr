@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.pt.md">🇧🇷 Português</a> | <a href="README.md">🇺🇸 English</a>
+  <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.md">🇺🇸 English</a>
 </div>
 
 # complexidade-e-diversidade-lexical
