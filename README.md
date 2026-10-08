@@ -2,7 +2,7 @@
   <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.md">🇺🇸 English</a>
 </div>
 
-# lexical-complexity-and-diversity
+# IfesEssayBr
 Unified repository of Python tools for automated essay evaluation at IFES Campus Serra. Includes modules for lexical diversity and complexity, linguistic metrics processing, and dataset analysis containing ChatGPT texts and the complete baseline for NLP studies.
 
 ## 💾 Project Datasets
