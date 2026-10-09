@@ -1,65 +1,159 @@
-# 📊 Análise de Textos - Diversidade e Complexidade
+<div align="right">
+  <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.md">🇺🇸 English</a>
+</div>
 
-Ferramenta simples para analisar a qualidade e complexidade de textos em português.
+# 📊 Text Analysis - Diversity and Complexity
 
-## 🎯 O que faz?
+A simple tool to analyze text quality and complexity in Portuguese.
 
-Analisa textos e calcula:
+## 🎯 Features
 
-- **Diversidade Léxica**: Quantas palavras diferentes são usadas
-- **Complexidade**: Se o vocabulário é simples ou avançado  
-- **Padrões Silábicos**: Estrutura das palavras
+Analyzes texts and calculates:
 
-## 🚀 Como usar?
+- **Lexical Diversity**: How many unique words are used
 
-```python
-# Basta executar o script
+- **Complexity**: Whether the vocabulary is basic or advanced  
+
+- **Syllabic Patterns**: Word structure analysis
+
+
+## 🚀 Quick Start
+
+```bash
+# Simply run the script
 python Codigo_IC_diversidadeLexica.py
 ```
 
-O programa vai:
-1. Ler arquivos JSON da pasta configurada
-2. Analisar cada texto
-3. Gerar relatórios com os resultados
+The program will:
+1. Read JSON files from the configured directory
 
-## 📊 Resultados
+2. Analyze each text
+3. Generate detailed result reports
 
-### Para cada arquivo:
+## 📊 Sample Output
+
+### Per-file metrics:
 ```
-Diversidade Léxica: 85.8%  ✅ (Quanto maior, melhor)
-Complexidade: 27.4% - Média  📊
-Palavras Longas: 30.0%  🔤
-Sílabas por Palavra: 2.97  📝
+Lexical Diversity: 85.8%  ✅ (Higher is better)
+Complexity: 27.4% - Medium  📊
+Long Words: 30.0%  🔤
+Syllables per Word: 2.97  📝
 ```
 
-### Resumo geral:
-- ✅ **Diversidade Alta**: Textos com vocabulário variado
-- 📊 **Complexidade Média**: Nem simples, nem complicado demais
-- 🔄 **Consistente**: Resultados similares entre textos
+### Overall summary:
+- ✅ **High Diversity**: Rich and varied vocabulary
 
-## 📁 Arquivos necessários
+- 📊 **Medium Complexity**: Balanced, neither overly simple nor excessively complex
 
-Coloque os arquivos JSON na pasta:
+- 🔄 **Consistent**: Stable results across different texts
+
+
+## 📁 Required Setup
+
+Place your JSON files in the following path:
 ```
 C:/Users/Maxine/Downloads/IC/ChatgptTurbo/
 ```
 
-Estrutura do JSON:
+JSON structure format:
 ```json
 {
   "comando_tematico": {
-    "texto": "Seu texto aqui..."
+    "texto": "Your text here..."
   }
 }
 ```
 
-## 💡 Ideal para
+## 💡 Use Cases
 
-- Analisar redações e textos
-- Pesquisas em linguística  
-- Comparar estilos de escrita
-- Estudos sobre IA e geração de texto
+- Evaluating essays and written text
+
+- Computational linguistics research  
+
+- Comparative analysis of writing styles
+
+- AI and LLM text generation studies
+
 
 ---
 
-*Ferramenta desenvolvida para análise linguística computacional*
+*Tool developed for computational linguistics analysis*<div align="right">
+  <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.md">🇺🇸 English</a>
+</div>
+
+# 📊 Text Analysis - Diversity and Complexity
+
+A simple tool to analyze text quality and complexity in Portuguese.
+
+## 🎯 Features
+
+Analyzes texts and calculates:
+
+- **Lexical Diversity**: How many unique words are used
+
+- **Complexity**: Whether the vocabulary is basic or advanced  
+
+- **Syllabic Patterns**: Word structure analysis
+
+
+## 🚀 Quick Start
+
+```bash
+# Simply run the script
+python Codigo_IC_diversidadeLexica.py
+```
+
+The program will:
+1. Read JSON files from the configured directory
+
+2. Analyze each text
+3. Generate detailed result reports
+
+## 📊 Sample Output
+
+### Per-file metrics:
+```
+Lexical Diversity: 85.8%  ✅ (Higher is better)
+Complexity: 27.4% - Medium  📊
+Long Words: 30.0%  🔤
+Syllables per Word: 2.97  📝
+```
+
+### Overall summary:
+- ✅ **High Diversity**: Rich and varied vocabulary
+
+- 📊 **Medium Complexity**: Balanced, neither overly simple nor excessively complex
+
+- 🔄 **Consistent**: Stable results across different texts
+
+
+## 📁 Required Setup
+
+Place your JSON files in the following path:
+```
+C:/Users/Maxine/Downloads/IC/ChatgptTurbo/
+```
+
+JSON structure format:
+```json
+{
+  "comando_tematico": {
+    "texto": "Your text here..."
+  }
+}
+```
+
+## 💡 Use Cases
+
+- Evaluating essays and written text
+
+- Computational linguistics research  
+
+- Comparative analysis of writing styles
+
+- AI and LLM text generation studies
+
+
+---
+
+*Tool developed for computational linguistics analysis*
