@@ -4,11 +4,17 @@ import time
 import random
 from datetime import datetime
 import requests
+from pathlib import Path
 
 # ============================================================
 # CONFIGURAÇÕES - ALTERE AQUI!
 # ============================================================
-api_key = os.getenv("MISTRAL_API_KEY")   # <--- sua chave
+
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")   # chave API
+
+# Descobre a pasta onde este script está localizado
+BASE_DIR = Path("dataset/TopicAlignment/Strategy1")
+
 PASTA_ENTRADA = r"C:\Users\AdminUser\Documents\IC\gpt4TurboOneshot"   # pasta com JSONs originais
 PASTA_SAIDA   = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"
 MODELO = "open-mistral-nemo"
