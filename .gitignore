@@ -2,6 +2,7 @@
 dataset/TopicAlignment/Strategy1/mapping/*
 dataset/TopicAlignment/Strategy1/synthetic_essays/*
 dataset/TopicAlignment/Strategy1/results/*
+aes-pt
 
 # manter as pastas no github, ainda que vazias
 !dataset/TopicAlignment/Strategy1/mapping/.gitkeep
