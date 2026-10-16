@@ -25,3 +25,23 @@ Devido ao tamanho dos arquivos, os datasets do projeto estão hospedados no Goog
    * 🔗 **[Clique aqui para baixar a Pasta 3 (Google Drive)](https://drive.google.com/file/d/1gpnxy5HC_hJZMeOEGqdGJ6V2MNDCmM7i/view?usp=sharing)**
    * **Caminho onde deve ser salva localmente:**
      `dataset/TopicAlignment/Strategy1/results/`
+
+4. **gpt4Turbo**
+   * 🔗 **[Clique aqui para baixar a Pasta 4 (Google Drive)](https://drive.google.com/file/d/1Cf5w2c3K124RhtFsUr8tes64zFFC0F5v/view?usp=sharing)**
+   * **Caminho onde deve ser salva localmente:**
+     `dataset/TopicAlignment/json_dataset/gpt4Turbo/`
+
+5. **gpt4TurboOneshot**
+   * 🔗 **[Clique aqui para baixar a Pasta 5 (Google Drive)](https://drive.google.com/file/d/1tixbXh8cUeoBGYLXRCW2FocIWbC9IjCE/view?usp=sharing)**
+   * **Caminho onde deve ser salva localmente:**
+     `dataset/TopicAlignment/json_dataset/gpt4TurboOneshot/`
+  
+6. **QwenMax**
+   * 🔗 **[Clique aqui para baixar a Pasta 6 (Google Drive)](https://drive.google.com/file/d/1okoEOPiMLWv0cWF2j_-0Jb7MX3CqqBXT/view?usp=sharing)**
+   * **Caminho onde deve ser salva localmente:**
+     `dataset/TopicAlignment/json_dataset/QwenMax/`
+
+7. **QwenOneshot**
+   * 🔗 **[Clique aqui para baixar a Pasta 7 (Google Drive)](https://drive.google.com/file/d/1XfqxEERPLMz9wyivJfojx8zzmT2qKT6T/view?usp=sharing)**
+   * **Caminho onde deve ser salva localmente:**
+     `dataset/TopicAlignment/json_dataset/QwenOneshot/`

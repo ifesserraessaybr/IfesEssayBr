@@ -25,3 +25,23 @@ Due to file sizes, the project datasets are hosted on Google Drive and divided b
    * 🔗 **[Click here to download Folder 3 (Google Drive)](https://drive.google.com/file/d/1gpnxy5HC_hJZMeOEGqdGJ6V2MNDCmM7i/view?usp=sharing)**
    * **Local destination path:**
      `dataset/TopicAlignment/Strategy1/results/`
+
+4. **gpt4Turbo**
+   * 🔗 **[Click here to download Folder 4 (Google Drive)](https://drive.google.com/file/d/1Cf5w2c3K124RhtFsUr8tes64zFFC0F5v/view?usp=sharing)**
+   * **Local destination path:**
+     `dataset/TopicAlignment/json_dataset/gpt4Turbo/`
+
+5. **gpt4TurboOneshot**
+   * 🔗 **[Click here to download Folder 5 (Google Drive)](https://drive.google.com/file/d/1tixbXh8cUeoBGYLXRCW2FocIWbC9IjCE/view?usp=sharing)**
+   * **Local destination path:**
+     `dataset/TopicAlignment/json_dataset/gpt4TurboOneshot/`
+  
+6. **QwenMax**
+   * 🔗 **[Click here to download Folder 6 (Google Drive)](https://drive.google.com/file/d/1okoEOPiMLWv0cWF2j_-0Jb7MX3CqqBXT/view?usp=sharing)**
+   * **Local destination path:**
+     `dataset/TopicAlignment/json_dataset/QwenMax/`
+
+7. **QwenOneshot**
+   * 🔗 **[Click here to download Folder 7 (Google Drive)](https://drive.google.com/file/d/1XfqxEERPLMz9wyivJfojx8zzmT2qKT6T/view?usp=sharing)**
+   * **Local destination path:**
+     `dataset/TopicAlignment/json_dataset/QwenOneshot/`
