@@ -2,20 +2,14 @@
 dataset/TopicAlignment/Strategy1/mapping/*
 dataset/TopicAlignment/Strategy1/synthetic_essays/*
 dataset/TopicAlignment/Strategy1/results/*
-dataset/TopicAlignment/json_dataset/gpt4Turbo/*
-dataset/TopicAlignment/json_dataset/gpt4TurboOneshot/*
-dataset/TopicAlignment/json_dataset/QwenMax/*
-dataset/TopicAlignment/json_dataset/QwenOneshot/*
+dataset/TopicAlignment/json_dataset/*
 aes-pt
 
 # manter as pastas no github, ainda que vazias
 !dataset/TopicAlignment/Strategy1/mapping/.gitkeep
 !dataset/TopicAlignment/Strategy1/synthetic_essays/.gitkeep
 !dataset/TopicAlignment/Strategy1/results/.gitkeep
-!dataset/TopicAlignment/json_dataset/gpt4Turbo/.gitkeep
-!dataset/TopicAlignment/json_dataset/gpt4TurboOneshot/.gitkeep
-!dataset/TopicAlignment/json_dataset/QwenMax/.gitkeep
-!dataset/TopicAlignment/json_dataset/QwenOneshot/.gitkeep
+!dataset/TopicAlignment/json_dataset/.gitkeep
 
 # ignorar o .env
 .env
