@@ -9,7 +9,8 @@ aes-pt
 !dataset/TopicAlignment/Strategy1/mapping/.gitkeep
 !dataset/TopicAlignment/Strategy1/synthetic_essays/.gitkeep
 !dataset/TopicAlignment/Strategy1/results/.gitkeep
-!dataset/TopicAlignment/json_dataset/.gitkeep
+!dataset/TopicAlignment/json_dataset/readme.md
+!dataset/TopicAlignment/json_dataset/readme.pt-br.md
 
 # ignorar o .env
 .env
