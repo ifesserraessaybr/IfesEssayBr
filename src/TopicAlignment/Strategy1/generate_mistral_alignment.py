@@ -3,6 +3,8 @@ import json
 import re
 import time
 import requests
+import json
+from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
 
@@ -11,22 +13,39 @@ from dotenv import load_dotenv
 # ============================================================
 
 # Carrega as variáveis do arquivo .env
-load_dotenv()
+DIRETORIO_PROJETO = Path(__file__).resolve().parents[3]
+load_dotenv(DIRETORIO_PROJETO / ".env")
 
+# Carrega a chave de API do Mistral
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 if not MISTRAL_API_KEY:
     raise ValueError("A variável MISTRAL_API_KEY não foi encontrada no arquivo .env!")
 MODELO = "open-mistral-nemo"                         # mesmo modelo da geração
-PASTA_BASE_ENTRADA = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"  # pasta que contém as subpastas baixa, media, alta
-PASTA_BASE_SAIDA   = r"C:\Users\AdminUser\Documents\IC\redacoesAnalisadas"   # onde serão criadas as pastas de saída
-DELAY_SEGUNDOS = 0.5                                 # pausa entre análises de frases
+
+# Caminho do arquivo de configuração em JSON
+ARQUIVO_CONFIG = DIRETORIO_PROJETO / "config.json"
+
+# Carrega as configurações
+with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
+    CONFIG = json.load(arq)
+
+PASTA_BASE_ENTRADA = (DIRETORIO_PROJETO / CONFIG["pasta_base_entrada"]).resolve()
+PASTA_BASE_SAIDA = (DIRETORIO_PROJETO / CONFIG["pasta_base_saida"]).resolve()
+
+# PASTA_BASE_ENTRADA = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"  # pasta que contém as subpastas baixa, media, alta
+# PASTA_BASE_SAIDA   = r"C:\Users\AdminUser\Documents\IC\redacoesAnalisadas"   # onde serão criadas as pastas de saída
+
+
+DELAY_SEGUNDOS = 0.5     # pausa entre análises de frases
 
 # Mapeamento das subpastas de entrada para os nomes das pastas de saída
+'''
 SUBPASTAS = {
     "baixa": "Analise_baixas",
     "media": "Analise_medias",
     "alta":  "Analise_altas"
 }
+'''
 
 # ============================================================
 # Função para dividir redação em frases (mantendo pontuação)
@@ -34,7 +53,7 @@ SUBPASTAS = {
 def dividir_em_frases(texto):
     """
     Divide um texto em frases usando padrão simples: . ! ? seguidos de espaço ou fim de string.
-    Preserva abreviações como "Dr.", "Sr.", "etc." – essa regex básica já resolve.
+    Preserva abreviações como "Dr.", "Sr.", "etc." - essa regex básica já resolve.
     """
     texto = re.sub(r'\n+', ' ', texto)
     frases = re.split(r'(?<=[.!?])\s+(?=[A-Z])', texto)
@@ -142,49 +161,54 @@ def processar_arquivo(caminho_json):
 # ============================================================
 def main():
     # Verifica se a pasta base de entrada existe
-    if not os.path.exists(PASTA_BASE_ENTRADA):
+    if not PASTA_BASE_ENTRADA.is_dir():
         print(f"❌ Pasta base de entrada não encontrada: {PASTA_BASE_ENTRADA}")
         return
-    
-    # Itera sobre cada subpasta definida no mapeamento
-    for subpasta_entrada, nome_saida in SUBPASTAS.items():
-        caminho_entrada = os.path.join(PASTA_BASE_ENTRADA, subpasta_entrada)
-        caminho_saida = os.path.join(PASTA_BASE_SAIDA, nome_saida)
-        
-        if not os.path.exists(caminho_entrada):
-            print(f"⚠️ Subpasta '{subpasta_entrada}' não encontrada em {PASTA_BASE_ENTRADA}. Pulando...")
+
+    # Percorre as subpastas de entrada automaticamente
+    for pasta_entrada in sorted(PASTA_BASE_ENTRADA.iterdir()):
+
+        # Ignora arquivos e considera apenas diretórios
+        if not pasta_entrada.is_dir():
             continue
-        
-        # Cria a pasta de saída correspondente
-        os.makedirs(caminho_saida, exist_ok=True)
-        
-        # Lista todos os arquivos .json na subpasta de entrada
-        arquivos = [f for f in os.listdir(caminho_entrada) if f.endswith('.json')]
+
+        # A saída terá o mesmo nome da pasta de entrada
+        caminho_entrada = pasta_entrada
+        caminho_saida = PASTA_BASE_SAIDA / pasta_entrada.name
+
+        # Lista os arquivos JSON da subpasta
+        arquivos = sorted(pasta_entrada.glob("*.json"))
+
         if not arquivos:
             print(f"⚠️ Nenhum arquivo .json encontrado em {caminho_entrada}")
             continue
-        
+
+        # Cria a pasta de saída correspondente
+        caminho_saida.mkdir(parents=True, exist_ok=True)
+
         print(f"\n{'='*60}")
-        print(f"📁 Processando pasta: {subpasta_entrada.upper()} ({len(arquivos)} arquivos)")
+        print(f"📁 Processando pasta: {pasta_entrada.name.upper()} ({len(arquivos)} arquivos)")
         print(f"   Entrada: {caminho_entrada}")
         print(f"   Saída:   {caminho_saida}")
         print(f"{'='*60}\n")
-        
+
         for idx, arquivo in enumerate(arquivos, 1):
-            caminho_json = os.path.join(caminho_entrada, arquivo)
-            print(f"[{idx}/{len(arquivos)}] Analisando: {arquivo}")
-            
-            resultado = processar_arquivo(caminho_json)
+            print(f"[{idx}/{len(arquivos)}] Analisando: {arquivo.name}")
+
+            resultado = processar_arquivo(arquivo)
+
             if resultado:
-                nome_saida_arq = arquivo.replace('.json', '_analise.json')
-                caminho_saida_arq = os.path.join(caminho_saida, nome_saida_arq)
-                with open(caminho_saida_arq, 'w', encoding='utf-8') as f:
+                nome_saida_arq = f"{arquivo.stem}_analise.json"
+                caminho_saida_arq = caminho_saida / nome_saida_arq
+
+                with caminho_saida_arq.open("w", encoding="utf-8") as f:
                     json.dump(resultado, f, ensure_ascii=False, indent=2)
+
                 print(f"  ✅ Salvo em: {caminho_saida_arq}\n")
             else:
-                print(f"  ❌ Falha na análise.\n")
-    
-    print("\n🎉 Análise concluída para todas as pastas (baixa, media, alta)!")
+                print("  ❌ Falha na análise.\n")
+
+    print("\n🎉 Análise concluída para todas as pastas!")
 
 if __name__ == "__main__":
     main()
