@@ -13,8 +13,8 @@ from dotenv import load_dotenv
 # ============================================================
 
 # Carrega as variáveis do arquivo .env
-DIRETORIO_PROJETO = Path(__file__).resolve().parents[3]
-load_dotenv(DIRETORIO_PROJETO / ".env")
+BASE_DIR = Path(__file__).resolve().parents[3]
+load_dotenv(BASE_DIR / ".env")
 
 # Carrega a chave de API do Mistral
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
@@ -23,29 +23,16 @@ if not MISTRAL_API_KEY:
 MODELO = "open-mistral-nemo"                         # mesmo modelo da geração
 
 # Caminho do arquivo de configuração em JSON
-ARQUIVO_CONFIG = DIRETORIO_PROJETO / "config.json"
+ARQUIVO_CONFIG = BASE_DIR / "config.json"
 
 # Carrega as configurações
 with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
     CONFIG = json.load(arq)
 
-PASTA_BASE_ENTRADA = (DIRETORIO_PROJETO / CONFIG["pasta_base_entrada"]).resolve()
-PASTA_BASE_SAIDA = (DIRETORIO_PROJETO / CONFIG["pasta_base_saida"]).resolve()
-
-# PASTA_BASE_ENTRADA = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"  # pasta que contém as subpastas baixa, media, alta
-# PASTA_BASE_SAIDA   = r"C:\Users\AdminUser\Documents\IC\redacoesAnalisadas"   # onde serão criadas as pastas de saída
-
+PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["generate_mistral_alignment - entrada"]).resolve()
+PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["generate_mistral_alignment - saida"]).resolve()
 
 DELAY_SEGUNDOS = 0.5     # pausa entre análises de frases
-
-# Mapeamento das subpastas de entrada para os nomes das pastas de saída
-'''
-SUBPASTAS = {
-    "baixa": "Analise_baixas",
-    "media": "Analise_medias",
-    "alta":  "Analise_altas"
-}
-'''
 
 # ============================================================
 # Função para dividir redação em frases (mantendo pontuação)

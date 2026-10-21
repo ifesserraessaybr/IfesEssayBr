@@ -5,25 +5,39 @@ import random
 from datetime import datetime
 import requests
 from pathlib import Path
+from dotenv import load_dotenv
 
 # ============================================================
 # CONFIGURAÇÕES - ALTERE AQUI!
 # ============================================================
 
+# Carrega as variáveis do arquivo .env
+BASE_DIR = Path(__file__).resolve().parents[3]
+load_dotenv(BASE_DIR / ".env")
+
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")   # chave API
 
-# Descobre a pasta onde este script está localizado
-BASE_DIR = Path("dataset/TopicAlignment/Strategy1")
-
-PASTA_ENTRADA = r"C:\Users\AdminUser\Documents\IC\gpt4TurboOneshot"   # pasta com JSONs originais
-PASTA_SAIDA   = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"
+# Carrega a chave de API do Mistral
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
+if not MISTRAL_API_KEY:
+    raise ValueError("A variável MISTRAL_API_KEY não foi encontrada no arquivo .env!")
 MODELO = "open-mistral-nemo"
+
+# Caminho do arquivo de configuração em JSON
+ARQUIVO_CONFIG = BASE_DIR / "config.json"
+
+# Carrega as configurações
+with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
+    CONFIG = json.load(arq)
+
+PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["generate_mistral_essays - entrada"]).resolve()
+PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["generate_mistral_essays - saida"]).resolve()
 
 # Faixas de nota que serão geradas (a faixa "excelente" acima de 800 não é gerada,
 # pois você já possui esses exemplos)
 FAIXAS = {
     "baixa": {
-        "pasta": "baixa",                # subpasta de saída
+        "pasta": "low_score",                # subpasta de saída
         "descricao": "uma redação que seria avaliada com nota entre 0 e 450 pontos. "
                      "Apresente MUITOS erros de gramática, ortografia, pontuação, falta de coesão, "
                      "argumentação fraca ou inexistente, fuga parcial do tema, parágrafos desconexos e "
@@ -31,7 +45,7 @@ FAIXAS = {
         "temperatura": 0.95
     },
     "media": {
-        "pasta": "media",
+        "pasta": "medium_score",
         "descricao": "uma redação de nível médio, nota entre 450 e 650 pontos. "
                      "Deve ter uma estrutura básica (introdução, desenvolvimento, conclusão) com argumentos razoáveis, "
                      "mas pode conter alguns erros gramaticais leves, repetições, argumentos superficiais ou "
@@ -39,7 +53,7 @@ FAIXAS = {
         "temperatura": 0.8
     },
     "alta": {
-        "pasta": "alta",
+        "pasta": "high_score",
         "descricao": "uma redação de bom nível, nota entre 650 e 700 pontos. "
                      "Linguagem culta com raros deslizes, argumentação consistente, boa progressão temática, "
                      "proposta de intervenção pertinente. Extensão de 25 a 30 linhas.",
@@ -210,4 +224,4 @@ def processar_todos(entrada, saida):
 
 # ============================================================
 if __name__ == "__main__":
-    processar_todos(PASTA_ENTRADA, PASTA_SAIDA)
+    processar_todos(PASTA_BASE_ENTRADA, PASTA_BASE_SAIDA)

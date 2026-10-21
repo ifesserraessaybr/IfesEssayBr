@@ -1,4 +1,7 @@
 {
-    "pasta_base_entrada": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
-    "pasta_base_saida": "dataset/TopicAlignment/Strategy1/mapping/mistral_mapping"
+    "generate_mistral_alignment - entrada": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
+    "generate_mistral_alignment - saida": "dataset/TopicAlignment/Strategy1/mapping/mistral_mapping",
+
+    "generate_mistral_essays - entrada": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
+    "generate_mistral_essays - saida": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays"
 }
