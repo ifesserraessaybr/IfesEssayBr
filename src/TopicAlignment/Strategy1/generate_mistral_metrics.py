@@ -23,6 +23,7 @@ import random
 import statistics
 from typing import List, Dict, Tuple, Optional
 from collections import defaultdict
+from pathlib import Path
 
 import pandas as pd
 import numpy as np
@@ -297,13 +298,22 @@ def gerar_graficos(dados_naturais, dados_sinteticos, dominio, output_dir):
 # ------------------------------
 
 def main():
-    NATURAL_ROOT = r"C:\Users\AdminUser\Documents\IC\gpt4TurboOneshot"
-    SINTETICO_ROOT = r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"
+    # Define o diretório raiz
+    BASE_DIR = Path(__file__).resolve().parents[3]
+
+    # Carrega o arquivo de configuração
+    ARQUIVO_CONFIG = BASE_DIR / "config.json"
+    # Carrega as configurações
+    with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
+        CONFIG = json.load(arq)
+
+    NATURAL_ROOT = (BASE_DIR / CONFIG["generate_mistral_metrics - grounded"]).resolve() #r"C:\Users\AdminUser\Documents\IC\gpt4TurboOneshot"
+    SINTETICO_ROOT = (BASE_DIR / CONFIG["generate_mistral_metrics - synthetic_essays"]).resolve() #r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"
     DOMINIOS = ['alta', 'media', 'baixa']
     N_AMOSTRA = 30
     SEED = 42
 
-    RESULTADOS_DIR = r"C:\Users\AdminUser\Documents\IC\resultados_analise"
+    RESULTADOS_DIR = (BASE_DIR / CONFIG["generate_mistral_metrics - results"]).resolve() #r"C:\Users\AdminUser\Documents\IC\resultados_analise"
     os.makedirs(RESULTADOS_DIR, exist_ok=True)
 
     print("\n=== 1. Pareando documentos ===")

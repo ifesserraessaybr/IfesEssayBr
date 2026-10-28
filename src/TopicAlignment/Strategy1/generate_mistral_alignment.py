@@ -22,15 +22,13 @@ if not MISTRAL_API_KEY:
     raise ValueError("A variável MISTRAL_API_KEY não foi encontrada no arquivo .env!")
 MODELO = "open-mistral-nemo"                         # mesmo modelo da geração
 
-# Caminho do arquivo de configuração em JSON
-ARQUIVO_CONFIG = BASE_DIR / "config.json"
-
 # Carrega as configurações
+ARQUIVO_CONFIG = BASE_DIR / "config.json"
 with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
     CONFIG = json.load(arq)
 
-PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["generate_mistral_alignment - entrada"]).resolve()
-PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["generate_mistral_alignment - saida"]).resolve()
+PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["generate_mistral_alignment - in"]).resolve()
+PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["generate_mistral_alignment - out"]).resolve()
 
 DELAY_SEGUNDOS = 0.5     # pausa entre análises de frases
 

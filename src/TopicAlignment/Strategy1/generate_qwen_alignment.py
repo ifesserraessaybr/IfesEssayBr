@@ -178,7 +178,7 @@ def processar_arquivo(caminho_json, pasta_saida):
 # 5. CONFIGURAÇÃO DOS CAMINHOS (AJUSTE AQUI)
 # ------------------------------------------------------------
 # Altere para o caminho correto dentro do seu Drive
-DRIVE_BASE = "/content/drive/MyDrive/IC_mistral_qwen"
+DRIVE_BASE = "/content/drive/MyDrive/Qwen"
 
 # Pasta onde estão as redações sintéticas (com subpastas: baixo, medio, alto, excelente)
 PASTA_ENTRADA = os.path.join(DRIVE_BASE, "redacoes_sinteticas/redacoesSinteticas_variadas_qwen")
