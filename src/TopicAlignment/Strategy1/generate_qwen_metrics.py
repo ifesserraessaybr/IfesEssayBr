@@ -51,7 +51,7 @@ N_AMOSTRA = 30
 SEED = 42
 
 # Pasta para salvar resultados
-RESULTADOS_DIR = os.path.join(DRIVE_BASE, "dataset", "TopicAlignment", "Strategy1", "results", "qwen_evaluations_teste")
+RESULTADOS_DIR = os.path.join(DRIVE_BASE, "dataset", "TopicAlignment", "Strategy1", "results", "qwen_evaluations")
 os.makedirs(RESULTADOS_DIR, exist_ok=True)
 
 # ============================================================
