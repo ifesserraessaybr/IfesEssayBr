@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# @title generate_qwen_alignment.py
+
 """
 ANÁLISE DE COERÊNCIA FRASE A FRASE – QWEN (LOCAL)
 Lê redações sintéticas (JSON) das pastas baixo, medio, alto, excelente,
@@ -178,22 +179,23 @@ def processar_arquivo(caminho_json, pasta_saida):
 # 5. CONFIGURAÇÃO DOS CAMINHOS (AJUSTE AQUI)
 # ------------------------------------------------------------
 # Altere para o caminho correto dentro do seu Drive
-DRIVE_BASE = "/content/drive/MyDrive/Qwen"
+DRIVE_BASE = "/content/drive/MyDrive"
 
-# Pasta onde estão as redações sintéticas (com subpastas: baixo, medio, alto, excelente)
-PASTA_ENTRADA = os.path.join(DRIVE_BASE, "redacoes_sinteticas/redacoesSinteticas_variadas_qwen")
-# Se a estrutura for diferente (ex: redacoes_sinteticas/redacoesSinteticas_variadas),
-# ajuste a linha acima.
+# Pasta onde estão as redações sintéticas (com subpastas: baixo, medio, alto)
+PASTA_ENTRADA = os.path.join(DRIVE_BASE, "dataset/TopicAlignment/Strategy1/synthetic_essays/qwen_essays")
 
 # Pasta onde serão salvos os JSONs de análise
-PASTA_SAIDA = os.path.join(DRIVE_BASE, "analises_coerencia_qwen")
+PASTA_SAIDA = os.path.join(DRIVE_BASE, "dataset/TopicAlignment/Strategy1/mapping/qwen_mapping")
 
 # Mapeamento dos níveis (subpastas de entrada) para os nomes de saída
+'''
 NIVEIS = {
-    "baixo": "Analise_baixo",
-    "medio": "Analise_medio",
-    "alto": "Analise_alto",
+    "low_score": "low_score",
+    "medium_score": "medium_score",
+    "high_score": "high_score",
 }
+'''
+NIVEIS = ["low_score", "medium_score", "high_score"]
 
 # ------------------------------------------------------------
 # 6. PROCESSAMENTO PRINCIPAL
@@ -206,13 +208,13 @@ def main():
         return
 
     # Processa cada nível
-    for nivel_entrada, nome_saida in NIVEIS.items():
-        caminho_entrada = os.path.join(PASTA_ENTRADA, nivel_entrada)
+    for nivel in NIVEIS:
+        caminho_entrada = os.path.join(PASTA_ENTRADA, nivel)
         if not os.path.isdir(caminho_entrada):
-            print(f"⚠️ Subpasta '{nivel_entrada}' não encontrada. Pulando...")
+            print(f"⚠️ Subpasta '{nivel}' não encontrada. Pulando...")
             continue
 
-        caminho_saida = os.path.join(PASTA_SAIDA, nome_saida)
+        caminho_saida = os.path.join(PASTA_SAIDA, nivel)
         os.makedirs(caminho_saida, exist_ok=True)
 
         arquivos = [f for f in os.listdir(caminho_entrada) if f.endswith('.json')]
@@ -221,7 +223,7 @@ def main():
             continue
 
         print(f"\n{'='*60}")
-        print(f"📁 Nível: {nivel_entrada.upper()} ({len(arquivos)} arquivos)")
+        print(f"📁 Nível: {nivel.upper()} ({len(arquivos)} arquivos)")
         print(f"   Entrada: {caminho_entrada}")
         print(f"   Saída:   {caminho_saida}")
         print(f"{'='*60}\n")
