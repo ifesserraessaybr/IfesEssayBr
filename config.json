@@ -7,5 +7,10 @@
 
     "generate_mistral_metrics - grounded": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
     "generate_mistral_metrics - synthetic_essays": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
-    "generate_mistral_metrics - results": "dataset/TopicAlignment/Strategy1/results/mistral_evaluations"
+    "generate_mistral_metrics - results": "dataset/TopicAlignment/Strategy1/results/mistral_evaluations",
+
+    "inspect_dataset - in": "dataset/TopicAlignment/json_dataset/QwenOneshot",
+    "inspect_dataset - out": "dataset/TopicAlignment/json_dataset/dataset_inspection/QwenOneshot.txt",
+    "inspect_dataset - total files": 285,
+    "inspect_dataset - seed": 42
 }

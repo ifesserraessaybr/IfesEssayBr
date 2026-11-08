@@ -11,6 +11,7 @@ aes-pt
 !dataset/TopicAlignment/Strategy1/results/.gitkeep
 !dataset/TopicAlignment/json_dataset/readme.md
 !dataset/TopicAlignment/json_dataset/readme.pt-br.md
+!dataset/TopicAlignment/json_dataset/dataset_inspection
 
 # ignorar o .env
 .env
