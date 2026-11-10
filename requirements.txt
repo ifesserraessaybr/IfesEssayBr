@@ -9,3 +9,6 @@ seaborn
 scipy
 requests
 python-dotenv
+google-genai
+lxml
+nltk

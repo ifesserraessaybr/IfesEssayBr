@@ -4,16 +4,24 @@ import re
 import asyncio
 import sys
 import time
+import nltk
+from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from google.genai import Client
+from pathlib import Path
+
+nltk.download('punkt')
 
 # Encontrar o arquivo 'document.py' na pasta do seu projeto
-sys.path.append(r"C:\Users\joaqu\OneDrive\Desktop\IC")
+# Carrega as variáveis do arquivo .env
+BASE_DIR = Path(__file__).resolve().parents[3]
+load_dotenv(BASE_DIR / ".env")
+sys.path.append(BASE_DIR)
 from document import Document
 
 #Configuração das pastas
-PASTA_IC = r"C:\Users\joaqu\OneDrive\Desktop\IC"
+PASTA_IC = BASE_DIR
 PASTA_ENTRADA_JSON = PASTA_IC
 PASTA_DATA = os.path.join(PASTA_IC, "data")
 
@@ -26,8 +34,10 @@ ARQUIVO_PROCESSADOS = os.path.join(PASTA_SAIDA, "processados_lite.txt")
 os.makedirs(PASTA_SAIDA, exist_ok=True)
 
 # Conexão com a API
-MINHA_CHAVE = ""
-client = Client(api_key=MINHA_CHAVE)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    raise ValueError("A variável GEMINI_API_KEY não foi encontrada no arquivo .env!")
+client = Client(api_key=GEMINI_API_KEY)
 
 # 3 requisições por vez
 SEMAFORO = asyncio.Semaphore(3)
@@ -340,6 +350,10 @@ async def main():
         print("\nProcessamento completo!")
     else:
         print("Todas as redações já foram processadas.")
+
+    print(f"Total de XMLs encontrados no disco: {len(lista_xmls)}")
+    print(f"Total de temas carregados dos JSONs: {len(mapa_temas)}")
+    print(f"Total de XMLs já registrados no processados_lite.txt: {len(arquivos_processados)}")
 
 if __name__ == "__main__":
     asyncio.run(main())

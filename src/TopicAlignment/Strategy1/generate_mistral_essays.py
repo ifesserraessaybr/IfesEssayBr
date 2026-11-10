@@ -15,8 +15,6 @@ from dotenv import load_dotenv
 BASE_DIR = Path(__file__).resolve().parents[3]
 load_dotenv(BASE_DIR / ".env")
 
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")   # chave API
-
 # Carrega a chave de API do Mistral
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 if not MISTRAL_API_KEY:
