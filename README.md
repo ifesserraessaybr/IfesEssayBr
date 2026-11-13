@@ -52,10 +52,10 @@ Located in the repository root, the [`config.json`](config.json) file centralize
 | [`generate_mistral_metrics.py`](src/TopicAlignment/Strategy1/generate_mistral_metrics.py) | `"generate_mistral_metrics - grounded"` | Reference directory containing the original human essays (ground truth). |
 | [`generate_mistral_metrics.py`](src/TopicAlignment/Strategy1/generate_mistral_metrics.py) | `"generate_mistral_metrics - synthetic_essays"` | Directory containing the synthetic essays to be evaluated. |
 | [`generate_mistral_metrics.py`](src/TopicAlignment/Strategy1/generate_mistral_metrics.py) | `"generate_mistral_metrics - results"` | Output directory for statistical reports and metrics. |
-| [`inspect_dataset.py`](src/TopicAlignment/json_dataset/inspect_dataset.py) | `"inspect_dataset - in"` | Directory containing the dataset JSON files to be inspected. |
-| [`inspect_dataset.py`](src/TopicAlignment/json_dataset/inspect_dataset.py) | `"inspect_dataset - out"` | Full path to the output `.txt` audit report file. |
-| [`inspect_dataset.py`](src/TopicAlignment/json_dataset/inspect_dataset.py) | `"inspect_dataset - total files"` | Number of files analyzed in the random sample. |
-| [`inspect_dataset.py`](src/TopicAlignment/json_dataset/inspect_dataset.py) | `"inspect_dataset - seed"` | Random seed to ensure reproducibility during sampling. |
+| [`inspect_dataset.py`](src/TopicAlignment/inspect_dataset.py) | `"inspect_dataset - in"` | Directory containing the dataset JSON files to be inspected. |
+| [`inspect_dataset.py`](src/TopicAlignment/inspect_dataset.py) | `"inspect_dataset - out"` | Full path to the output `.txt` audit report file. |
+| [`inspect_dataset.py`](src/TopicAlignment/inspect_dataset.py) | `"inspect_dataset - total files"` | Number of files analyzed in the random sample. |
+| [`inspect_dataset.py`](src/TopicAlignment/inspect_dataset.py) | `"inspect_dataset - seed"` | Random seed to ensure reproducibility during sampling. |
 
 #### Example `config.json` structure:
 ```json

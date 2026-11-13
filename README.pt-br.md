@@ -52,10 +52,10 @@ Na raiz do repositório encontra-se o arquivo [`config.json`](config.json), resp
 | [`generate_mistral_metrics.py`](src/TopicAlignment/Strategy1/generate_mistral_metrics.py) | `"generate_mistral_metrics - grounded"` | Diretório de referência com as redações originais (base). |
 | [`generate_mistral_metrics.py`](src/TopicAlignment/Strategy1/generate_mistral_metrics.py) | `"generate_mistral_metrics - synthetic_essays"` | Diretório contendo as redações sintéticas a serem avaliadas. |
 | [`generate_mistral_metrics.py`](src/TopicAlignment/Strategy1/generate_mistral_metrics.py) | `"generate_mistral_metrics - results"` | Diretório de saída para os relatórios estatísticos e métricas. |
-| [`inspect_dataset.py`](src/TopicAlignment/json_dataset/inspect_dataset.py) | `"inspect_dataset - in"` | Diretório com os arquivos JSON do dataset a ser inspecionado. |
-| [`inspect_dataset.py`](src/TopicAlignment/json_dataset/inspect_dataset.py) | `"inspect_dataset - out"` | Caminho completo do arquivo `.txt` de relatório de auditoria. |
-| [`inspect_dataset.py`](src/TopicAlignment/json_dataset/inspect_dataset.py) | `"inspect_dataset - total files"` | Quantidade de arquivos analisados na amostragem. |
-| [`inspect_dataset.py`](src/TopicAlignment/json_dataset/inspect_dataset.py) | `"inspect_dataset - seed"` | Semente aleatória para reprodutibilidade da leitura. |
+| [`inspect_dataset.py`](src/TopicAlignment/inspect_dataset.py) | `"inspect_dataset - in"` | Diretório com os arquivos JSON do dataset a ser inspecionado. |
+| [`inspect_dataset.py`](src/TopicAlignment/inspect_dataset.py) | `"inspect_dataset - out"` | Caminho completo do arquivo `.txt` de relatório de auditoria. |
+| [`inspect_dataset.py`](src/TopicAlignment/inspect_dataset.py) | `"inspect_dataset - total files"` | Quantidade de arquivos analisados na amostragem. |
+| [`inspect_dataset.py`](src/TopicAlignment/inspect_dataset.py) | `"inspect_dataset - seed"` | Semente aleatória para reprodutibilidade da leitura. |
 
 #### Exemplo de estrutura do `config.json`:
 ```json
