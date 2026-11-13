@@ -11,3 +11,7 @@ Repositório unificado de ferramentas em Python para avaliação automática de 
 
 * [Pipeline e Resultados de Análise](dataset/TopicAlignment/Strategy1/README.pt-br.md)
 * [Dataset em JSON](dataset/TopicAlignment/json_dataset/README.pt-br.md)
+
+## ⚙️ Arquivo de configuração JSON
+
+Na raiz do repositório, está o arquivo [config.json](config.json)
