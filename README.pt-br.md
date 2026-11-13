@@ -14,4 +14,8 @@ Repositório unificado de ferramentas em Python para avaliação automática de 
 
 ## ⚙️ Arquivo de configuração JSON
 
-Na raiz do repositório, está o arquivo [config.json](config.json)
+Na raiz do repositório, está o arquivo [config.json](config.json). Nele, você consegue configurar facilmente os caminhos de entrada e saída, sem precisar fazer isso manualmente nos códigos.
+
+#### Os parâmetros do arquivo são:
+
+* Caminho de entrada e saída do código [generate_mistral_alignment](src/TopicAlignment/Strategy1/generate_mistral_alignment.py)
