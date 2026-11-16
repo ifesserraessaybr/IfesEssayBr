@@ -14,6 +14,7 @@ aes-pt - original
 !dataset/TopicAlignment/json_dataset/readme.pt-br.md
 !dataset/TopicAlignment/json_dataset/dataset_inspection
 !dataset/TopicAlignment/aes-pt/readme.md
+!dataset/TopicAlignment/aes-pt/readme.pt-br.md
 
 # ignorar o .env
 .env

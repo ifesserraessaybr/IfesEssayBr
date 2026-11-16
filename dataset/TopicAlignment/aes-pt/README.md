@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.md">🇺🇸 English</a>
+</div>
+
 # An Automatic Essay Scoring Framework for Portuguese Essays
 
 
@@ -11,6 +15,12 @@ The dataset is composed by 1840 essays distributed among 95 topics. We crawled t
 The dataset tarball contains 95 directories, each one is named after its respective topic. Each directory contains two subdirectories and two files. The two subdirectories contain the essays, one subdirectory has the XML version of essays and another directory has the HTML version of the essay. The two files are the HTML and XML of the prompt about the released topic. There is another README in the tarball file that details the XML strutucture of the essays and the prompts.
 
 Please report any issue in the dataset.
+
+## Download Dataset
+Due to file sizes, the project datasets are hosted on Google Drive.
+  * 🔗 **[Click here to download the Folder (Google Drive)](https://drive.google.com/file/d/1nMu2tqI0MY_UZqeldhrsUYZNvsID1hyJ/view?usp=sharing)**
+  * **Local destination path:**
+    `dataset/TopicAlignment/aes-pt/`
 
 ## Discourse Marker List
 
