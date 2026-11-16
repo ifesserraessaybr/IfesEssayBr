@@ -1,0 +1,38 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Problema sério, uma questão de saúde publica  , que desde os primórdios de nossa colonização faz parte de nossa cultura.",
+    "1": "A automedicação é coisa corriqueira em nossa sociedade, \"chá de quebra pedra é bom para os rins, buscopan é bom para cólica\", é só falar os sintomas de uma doença, as pessoas já falam toma isso que é bom.",
+    "2": "Muitas vezes pela dificuldade de ser examinado  pelo profissional de saúde,          ou até mesmo através da mídia que divulga medicamentos com resultados rápidos , nos automedicamos.",
+    "3": "Pela  correria do dia a dia  vamos a  farmácia e somos atendidos com rapidez e agilidade  por isso          esta prática é tão comum .",
+    "4": "Sabemos que é errado esse ato , bactérias estão ficando mais difícil  de combater devido ao uso errado de medicamentos, doenças que seria fácil  de cuidar, muitas vezes são camufladas por          este ato e quando procuramos ajuda medica  o quadro já esta  avançado.",
+    "5": "A automedicação é usual mas temos que mudar esta pratica  , divulgando os riscos que corremos.",
+    "6": "Os meios de comunicação tem  que colaborar com campanhas que informem os perigos,          e fiscalizar os meios que vendem remédios sem receitas médicas."
+  },
+  "redacao_gerada": {
+    "0": "No cenário contemporâneo, a automedicação consolidou-se como um grave problema de saúde pública, especialmente no que tange à parcela jovem da população brasileira.",
+    "1": "Essa vertiginosa expansão decorre não apenas da ineficiência estrutural do sistema de atendimento médico, mas também da intensa pressão estética e emocional imposta pelas redes sociais.",
+    "2": "Desse modo, torna-se imperativo analisar os fatores que perpetuam essa perigosa prática na juventude."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

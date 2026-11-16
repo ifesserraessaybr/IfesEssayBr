@@ -1,0 +1,110 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Pelo fato de um mau hábito alimentar atingir a todos direta ou indiretamente o governo deve ser responsável sobre a escolha alimentar da população, pois o mesmo  cuida do bem comum.",
+    "1": "O consumo exagerado de açúcar aumenta o risco de desenvolver diabetes, como o excesso de sal a pressão-alta, o exagero de gordura a  doenças respiratórias; todas são exemplos de doenças causadas por um mau hábito alimentício  que pode ser corrigido.",
+    "2": "A sociedade precisa ser orientada para não errar na alimentação.",
+    "3": "O Estado por ser responsável pela saúde pública deve passar essas orientações seja na mídia, nas escolas como uma disciplina ou nos hospitais em forma de palestras.",
+    "4": "Com uma população saudavelmente alimentada todos só têm a ganhar.",
+    "5": "O sistema de saúde com uma demanda baixa de pessoas com problemas por causa da alimentação inadequada e a sociedade com uma melhor qualidade de vida."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o paradoxo da abundância alimentar e da precarização das escolhas nutricionais.",
+    "1": "Nesse contexto, a problemática concernente à responsabilidade sobre a dieta da população transcende a esfera estritamente individual, revelando contornos complexos que envolvem tanto a autonomia do cidadão quanto a atuação estatal.",
+    "2": "Com efeito, esse impasse perdura não apenas devido à negligência governamental na regulamentação do setor alimentício, mas também em virtude da forte influência da publicidade abusiva sobre o comportamento coletivo.",
+    "3": "Torna-se imperioso, portanto, analisar esses fatores para a efetiva mitigação do problema.",
+    "4": "Em primeira análise, cabe pontuar que a mercantilização da saúde alimentar atenta contra preceitos constitucionais basilares.",
+    "5": "Consoante o filósofo Thomas Hobbes, o Estado possui o dever intransigível de garantir a integridade e o bem-estar da coletividade, o que deveria abranger a segurança alimentar.",
+    "6": "Contudo, o que se observa hodiernamente é a omissão dos poderes públicos diante da proliferação de produtos ultraprocessados, que são comercializados sem a devida restrição mercadológica.",
+    "7": "Ademais, a falta de investimentos na agricultura familiar dificulta o acesso da população de baixa renda a alimentos in natura, perpetuando um cenário de vulnerabilidade social e nutricional que obsta a concretização da cidadania plena.",
+    "8": "Em segundo plano, é fundamental destacar o papel nocivo da indústria cultural na formação dos hábitos alimentares.",
+    "9": "Conforme a Escola de Frankfurt, os meios de comunicação de massa manipulam os desejos humanos com o fito de maximizar o lucro, utilizando-se de estratégias publicitárias agressivas voltadas ao público infantil e às classes menos favorecidas.",
+    "10": "Desse modo, a autonomia de escolha do indivíduo é sutilmente anulada por propagandas que associam o consumo de fast-food a status e felicidade.",
+    "11": "Sem a devida educação alimentar e nutricional nas escolas, o cidadão permanece desamparado diante desse bombardeio midiático, tornando-se presa fácil de patologias associadas à má alimentação, a exemplo da obesidade e da hipertensão arterial.",
+    "12": "Depreende-se, portanto, a urgência de medidas interventivas para mitigar essa problemática estrutural.",
+    "13": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover campanhas de conscientização nas escolas e nos meios de comunicação, por meio de palestras com nutricionistas e distribuição de cartilhas informativas, com o intuito de desmistificar a falsa ideia de conveniência dos ultraprocessados e fomentar hábitos saudáveis.",
+    "14": "Ademais, o Poder Legislativo deve endurecer a tributação sobre esses produtos e subsidiar os alimentos orgânicos, visando tornar a alimentação saudável acessível a todos.",
+    "15": "Somente assim, com a união de esforços estatais e sociais, o Brasil consolidará um panorama de justiça alimentar."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

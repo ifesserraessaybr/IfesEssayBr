@@ -4,24 +4,53 @@ import re
 import asyncio
 import sys
 import time
+import unicodedata
+import nltk
+import json5
+from dotenv import load_dotenv
 from google import genai
 from google.genai import types
+from google.genai import Client
+from pathlib import Path
 
-sys.path.append(r"C:\Users\joaqu\OneDrive\Desktop\IC")
+nltk.download('punkt')
+
+# Encontrar o arquivo 'document.py' na pasta do seu projeto e carregar o .env
+BASE_DIR = Path(__file__).resolve().parents[3]
+load_dotenv(BASE_DIR / ".env")
+sys.path.append(str(BASE_DIR))
 from document import Document
 
-PASTA_IC = r"C:\Users\joaqu\OneDrive\Desktop\IC"
-PASTA_ENTRADA_JSON = PASTA_IC
-PASTA_DATA = os.path.join(PASTA_IC, "data")
-PASTA_SAIDA = os.path.join(PASTA_IC, "dataset_sintetico_gemini")
-ARQUIVO_PROCESSADOS = os.path.join(PASTA_SAIDA, "processados.txt")
+# Carrega json de configuração
+ARQUIVO_CONFIG = BASE_DIR / "config.json"
+with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
+    CONFIG = json.load(arq)
+
+# Configuração das pastas
+PASTA_ENTRADA_JSON = (BASE_DIR / CONFIG["generate_gemini_flash - json_dataset_in"]).resolve()
+PASTA_ENTRADA_XML = (BASE_DIR / CONFIG["generate_gemini_flash - xml_dataset_in"]).resolve()
+PASTA_SAIDA = (BASE_DIR / CONFIG["generate_gemini_flash - out"]).resolve()
+ARQUIVO_PROCESSADOS = PASTA_SAIDA / "processados.txt"
+
+
+
+# PASTA_ENTRADA_JSON = BASE_DIR / "dataset" / "TopicAlignment" / "json_dataset" / "gpt4TurboOneshot"
+# PASTA_DATA = BASE_DIR / "dataset" / "TopicAlignment" / "aes-pt" / "data" / "data"
+# PASTA_SAIDA = BASE_DIR / "dataset" / "TopicAlignment" / "Strategy2" / "synthetic_essays" / "gemini_flash"
+# ARQUIVO_PROCESSADOS = PASTA_SAIDA / "processados.txt"
 
 os.makedirs(PASTA_SAIDA, exist_ok=True)
-MINHA_CHAVE = ""
-from google.genai import Client
-client = Client(api_key=MINHA_CHAVE)
-SEMAFORO = asyncio.Semaphore(5)
-#Prompts
+
+# Conexão com a API
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    raise ValueError("A variável GEMINI_API_KEY não foi encontrada no arquivo .env!")
+client = Client(api_key=GEMINI_API_KEY)
+
+# 3 requisições por vez para controle de cota RPM/TPM
+SEMAFORO = asyncio.Semaphore(3)
+
+# Prompts
 PROMPT_800_1000 = (
     "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. "
     "Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. "
@@ -52,27 +81,61 @@ PROMPT_ABAIXO_450 = (
     "acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes."
 )
 
+# Funções auxiliares e de carregamento
+
+def normalizar_slug(texto: str) -> str:
+    """ Remove acentos, converte para minúsculas e mantém apenas letras e números para cruzamento seguro. """
+    texto = unicodedata.normalize("NFKD", texto).encode("ASCII", "ignore").decode("ASCII")
+    return re.sub(r"[^a-z0-9]", "", texto.lower())
+
 def carregar_dados_dos_temas():
+    """ Abre e lê os JSONs principais para coletar os temas, comandos e motivadores. """
     mapa_temas = {}
-    arquivos = [f for f in os.listdir(PASTA_ENTRADA_JSON) if f.endswith(".json") and "_gerado" not in f and f != "prompts_extraidos.json"]
+    if not os.path.exists(PASTA_ENTRADA_JSON):
+        print(f"[ERRO] PASTA_ENTRADA_JSON não encontrada: {PASTA_ENTRADA_JSON}")
+        return mapa_temas
+
+    arquivos = [
+        f for f in os.listdir(PASTA_ENTRADA_JSON)
+        if f.endswith(".json") and not f.startswith("._") and "_gerado" not in f and f != "prompts_extraidos.json"
+    ]
     for arquivo in arquivos:
         caminho = os.path.join(PASTA_ENTRADA_JSON, arquivo)
         try:
             with open(caminho, "r", encoding="utf-8") as f:
-                dados = json.load(f)
-                tema = dados.get("tema", "")
-                if tema:
-                    mapa_temas[tema] = dados
+                conteudo = f.read()
+                try:
+                    dados = json.loads(conteudo)
+                except json.JSONDecodeError:
+                    try:
+                        dados = json.loads(conteudo, strict=False)
+                    except json.JSONDecodeError:
+                        dados = json5.loads(conteudo)
+
+                # Remove o prefixo numérico ("100_") e o sufixo ("_saida.json" ou ".json") em duas etapas
+                slug_arquivo = re.sub(r"^\d+_", "", arquivo)
+                slug_arquivo = re.sub(r"(_saida)?\.json$", "", slug_arquivo)
+
+                if slug_arquivo:
+                    mapa_temas[slug_arquivo] = dados
+                    mapa_temas[normalizar_slug(slug_arquivo)] = dados
+                if dados.get("tema"):
+                    mapa_temas[dados["tema"]] = dados
+                    mapa_temas[normalizar_slug(dados["tema"])] = dados
+
         except Exception as e:
             print(f"[Erro Inicialização] Falha ao ler JSON {arquivo}: {e}")
     return mapa_temas
 
 def listar_todos_xmls_e_calcular_faixas():
+    """ Conta todos os arquivos XML e calcula como dividi-los igualmente entre os 4 níveis de notas. """
     lista_tarefas_xml = []
-    if not os.path.exists(PASTA_DATA):
+    if not os.path.exists(PASTA_ENTRADA_XML):
+        print(f"[ERRO] PASTA_ENTRADA_XML não encontrada no caminho: {PASTA_ENTRADA_XML}")
         return [], []
-    for pasta_tema in os.listdir(PASTA_DATA):
-        caminho_xml_dir = os.path.join(PASTA_DATA, pasta_tema, "xml")
+    
+    for pasta_tema in os.listdir(PASTA_ENTRADA_XML):
+        caminho_xml_dir = os.path.join(PASTA_ENTRADA_XML, pasta_tema, "xml")
         if os.path.exists(caminho_xml_dir):
             xmls = [f for f in os.listdir(caminho_xml_dir) if f.endswith(".xml") and not f.startswith("._")]
             for xml in xmls:
@@ -81,8 +144,10 @@ def listar_todos_xmls_e_calcular_faixas():
                     "nome_xml": xml,
                     "caminho_completo": os.path.join(caminho_xml_dir, xml)
                 })
+                
     total_xmls = len(lista_tarefas_xml)
     print(f"[Configuração] Total de XMLs válidos detectados: {total_xmls}")
+    
     quociente = total_xmls // 4
     resto = total_xmls % 4
     lista_faixas = [
@@ -118,11 +183,13 @@ def carregar_processados():
     if not os.path.exists(ARQUIVO_PROCESSADOS):
         return set()
     with open(ARQUIVO_PROCESSADOS, "r", encoding="utf-8") as f:
-        return set(linha.strip() for linea in f if (linha := linea.strip()))
+        return set(linha.strip() for linha_crua in f if (linha := linha_crua.strip()))
 
 def salvar_processado(identificador_unico):
     with open(ARQUIVO_PROCESSADOS, "a", encoding="utf-8") as f:
         f.write(identificador_unico + "\n")
+
+# Conversa com a API do Gemini
 
 async def chamar_gemini_unificado(prompt_instrucao, tema, texto_comando, texto_motivadores):
     prompt_final = f"""
@@ -158,7 +225,7 @@ RETORNO OBRIGATÓRIO (JSON STRICT - SEM MARKDOWN):
         for tentativa in range(10):
             try:
                 response = await client.aio.models.generate_content(
-                    model='gemini-2.5-flash',
+                    model='gemini-3.5-flash',
                     contents=prompt_final,
                     config=types.GenerateContentConfig(
                         response_mime_type="application/json",
@@ -186,6 +253,8 @@ RETORNO OBRIGATÓRIO (JSON STRICT - SEM MARKDOWN):
                     await asyncio.sleep(tempo_espera)
         return None
 
+# Processamento de cada XML
+
 async def processar_redacao_xml(info_xml, indice_atual, lista_faixas, dados_do_tema):
     nome_xml = info_xml["nome_xml"]
     pasta_tema = info_xml["pasta_tema"]
@@ -199,7 +268,7 @@ async def processar_redacao_xml(info_xml, indice_atual, lista_faixas, dados_do_t
     
     prompt_escolhido, nome_faixa = obter_prompt_por_indice(indice_atual, lista_faixas)
     
-    print(f"[Processando] {pasta_tema} -> {nome_xml} | Faixa: {nome_faixa}")
+    print(f"[Processando Flash] {pasta_tema} -> {nome_xml} | Faixa: {nome_faixa}")
 
     redacao_original_fatiada = {}
     try:
@@ -245,7 +314,7 @@ async def processar_redacao_xml(info_xml, indice_atual, lista_faixas, dados_do_t
                 json.dump(dados_saida, f, ensure_ascii=False, indent=2)
                 
             salvar_processado(f"{pasta_tema}/{nome_xml}")
-            print(f"[Sucesso] Gravado: {nome_saida}")
+            print(f"[Sucesso Flash] Gravado: {nome_saida}")
             
             return True
         except Exception as e:
@@ -272,7 +341,10 @@ async def main():
         if id_unico in arquivos_processados:
             continue
             
-        dados_tema_vinculado = mapa_temas.get(info_xml['pasta_tema'])
+        dados_tema_vinculado = (
+            mapa_temas.get(info_xml['pasta_tema'])
+            or mapa_temas.get(normalizar_slug(info_xml['pasta_tema']))
+        )
         if not dados_tema_vinculado:
             continue
             
@@ -281,13 +353,22 @@ async def main():
         )
         tarefas.append(tarefa)
         indice_ficticio += 1
+
+    if not tarefas and len(arquivos_processados) == 0:
+        print("[Diagnóstico] Nenhuma correspondência encontrada entre XMLs e JSONs!")
+        print("[Diagnóstico] Exemplo de pasta XML:", lista_xmls[0]['pasta_tema'] if lista_xmls else "Nenhuma")
+        print("[Diagnóstico] Exemplos de chaves no mapa_temas:", list(mapa_temas.keys())[:6])
         
     if tarefas:
-        print(f"Iniciando processamento acelerado de {len(tarefas)} redações XML...")
+        print(f"Iniciando processamento (Flash) de {len(tarefas)} redações XML...")
         await asyncio.gather(*tarefas)
         print("\nProcessamento completo!")
     else:
         print("Todas as redações já foram processadas.")
+
+    print(f"Total de XMLs encontrados no disco: {len(lista_xmls)}")
+    print(f"Total de chaves indexadas dos JSONs: {len(mapa_temas)}")
+    print(f"Total de XMLs já registrados no processados.txt: {len(arquivos_processados)}")
 
 if __name__ == "__main__":
     asyncio.run(main())

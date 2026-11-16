@@ -1,0 +1,105 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Diabetes, obesidade infantil, colesterol alto e problemas relacionados ao coração são alguns dos tópicos  mais frequentes nas clínicas pediátricas.",
+    "1": "Sabendo-se que essas doenças são causadas por uma má alimentação, surge  algumas perguntas como:          essa má alimentação é direcionada a um grupo específico?",
+    "2": "E a quem cabe a responsabilidade de controlar a alimentação da população?",
+    "3": "Os fast-food são os grandes vilões dessa história, pois a maioria dos seus produtos alimentícios possuem um elevado índice de gordura trans, açúcar e sódio que são causadores de diversas doenças se forem ingeridos em excesso.",
+    "4": "O mercado do fast-food tem como principal alvo as crianças, dedicando-se totalmente a esse público, adaptando instalações, colocando escorregadores e outros brinquedos e criando alguns pacotes promocionais onde  você compra um lanche e ganha um brinquedo.",
+    "5": "Você já viu uma criança com obesidade mor fazendo uma propaganda do Mc Donalds, por exemplo?",
+    "6": "Provavelmente não.",
+    "7": "Observando esses fatos pode-se dizer que a responsabilidade do problema é tanto do governo quanto dos pais e mães, pois tem que haver uma parte do governo e também uma conscientização dos pais para a alimentação de seus filhos.",
+    "8": "O governo tem que  criar uma lei, que nas propagandas de refrigerantes e lanches tem que  haver um anúncio mostrando as doenças causadas pelo uso em excesso de tais alimentos, e os pais, por sua vez precisam educar seus filhos a comerem coisas saudáveis, tentar trocar o refrigerante ou o milk shake por um suco natural é uma ótima escolha.",
+    "9": "Não será fácil convencer os baixinhos, mas se trata da saúde de seus filhos, por isso o papel dos pais e tão importante quando  o do governo.",
+    "10": "Fica-se  claro, portanto, que a responsabilidade da escola  dos alimentos que          iremos ingerir é tanto do governo como da sociedade, aonde  todos deverão colaborar para que aja realmente um progresso para a melhoria da qualidade dos alimentos que ingerirmos."
+  },
+  "redacao_gerada": {
+    "0": "Em \"A Utopia\", Thomas More idealizou uma sociedade em que o bem-estar coletivo e o acesso equitativo a condições dignas de vida constituíam pilares fundamentais.",
+    "1": "Contudo, na contemporaneidade brasileira, a garantia de uma nutrição adequada afasta-se desse ideal, suscitando um embate acerca da responsabilidade sobre as escolhas alimentares da população.",
+    "2": "Nesse contexto, percebe-se que tal incumbência não se restringe ao livre-arbítrio individual, visto que é gravemente influenciada tanto pela negligência estatal na regulação do mercado de ultraprocessados quanto pela carência de letramento nutricional nas escolas.",
+    "3": "Em primeira análise, cabe pontuar que a omissão governamental no controle da indústria alimentícia condiciona ostensivamente os hábitos dos cidadãos.",
+    "4": "O sociólogo Zygmunt Bauman, ao conceituar a \"Modernidade Líquida\", aponta que o consumo desenfreado é estimulado por lógicas de mercado que se sobrepõem às necessidades humanas vitais.",
+    "5": "Sob essa ótica, a massiva publicidade de produtos hipercalóricos e barateados financeiramente — fruto de incentivos fiscais desiguais — empurra as classes menos favorecidas para escolhas nocivas à saúde, desconstruindo a ilusão de uma decisão puramente autônoma.",
+    "6": "Assim, o Estado falha ao não impor limites rígidos ao marketing predatório e ao não subsidiar adequadamente os alimentos in natura.",
+    "7": "Ademais, a ausência de uma formação educacional voltada à nutrição perpetua a vulnerabilidade social e limita a capacidade crítica dos indivíduos.",
+    "8": "Segundo o filósofo Immanuel Kant, o ser humano é aquilo que a educação faz dele; logo, a falta de conhecimento formal sobre alimentação saudável impede a emancipação autônoma do cidadão.",
+    "9": "Desprovida de orientações claras sobre a leitura de rótulos e sobre os impactos biológicos do consumo excessivo de ingredientes nocivos, a população torna-se refém de conveniências impostas pela rotina urbana acelerada.",
+    "10": "Consequentemente, sem a devida mediação pedagógica, o poder de escolha fica severamente comprometido pela desinformação estrutural.",
+    "11": "Infere-se, portanto, que a responsabilidade pelas decisões alimentares é compartilhada, exigindo uma atuação decisiva do Poder Público.",
+    "12": "Cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, implementar a Campanha Nacional de Letramento e Regulação Alimentar, por meio da reformulação curricular nas escolas e da taxação progressiva sobre ultraprocessados, incluindo oficinas práticas de culinária e análise crítica de rótulos nas salas de aula.",
+    "13": "Essa medida visa a democratizar o acesso à informação e a capacitar o cidadão para escolhas genuinamente autônomas e saudáveis."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

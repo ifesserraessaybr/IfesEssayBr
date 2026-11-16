@@ -1,0 +1,104 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Os acontecimentos recentes na sociedade brasileira mostram que as revoluções e revoltas que se iniciaram em 2013 ainda não acabaram.",
+    "1": "A população mostra seu descontentamento através de greves, passeatas e manifestações que infelizmente adquirem caráter violento e caótico.",
+    "2": "A população sai às ruas com o intuito de fazer reivindicações, lutar por melhorias, porém não são todos os integrantes que agem de forma pacífica.",
+    "3": "Muitos acreditam que a violência é o único modo de se fazer ouvir, de transformar uma rua em um caos tão grande que desperte a atenção de todo o país.",
+    "4": "Manifestantes como os Black Blocs extrapolam no direito de democracia e ultrapassam o limite do bom senso.",
+    "5": "A polícia tem que fazer seu papel, mesmo sendo também cidadãos que precisam de melhorias.",
+    "6": "Essa luta violenta atinge inocentes, como no caso do cinegrafista Santiago Andrade, atingido por um artefato no Rio de Janeiro.",
+    "7": "O artefato foi arremessado durante um protesto contra o aumento do valor do transporte coletivo.",
+    "8": "A polícia militar afirma que o rojão foi atirado por vândalos, e especialistas dizem que a PM não utiliza esse tipo de artefato.",
+    "9": "Desse modo, subtende-se  que o rojão partiu de vândalos.",
+    "10": "O papel da polícia é manter a ordem pública, por meio de proteção para a população.",
+    "11": "Manifestantes como os Black Blocs representam os interesses do restante da população que se manifesta pacificamente, visto que esses manifestantes buscam também por mais democracia e igualdade social.",
+    "12": "Porém, o modo como esse protesto é realizado deveria ser observado com mais atenção, pois quem quer o bem da população não tomaria atitudes como essas.",
+    "13": "Desse modo, é evidente que a polícia deve cumprir seu papel, e os manifestantes não devem exceder o limite dos protestos, já que a população deve lutar pelo bem da sociedade como um todo."
+  },
+  "redacao_gerada": {
+    "0": "Consoante a teoria contratualista de Thomas Hobbes, o Estado detém o monopólio legítimo da força para garantir a ordem e a pacificação social.",
+    "1": "No entanto, hodiernamente, observa-se que a atuação policial em manifestações populares frequentemente transgride esse preceito, oscilando entre o cumprimento do dever de manter a segurança e o excesso repressivo.",
+    "2": "Esse cenário desafiador decorre tanto da lacuna na formação humanística das forças de segurança quanto da inércia estatal na fiscalização rigorosa de tais abusos, perpetuando um ciclo de violência e violação de direitos fundamentais.",
+    "3": "Primeiramente, é imperioso pontuar que a estrutura militarizada das corporações policiais brasileiras favorece a adoção de posturas bélicas em detrimento do diálogo.",
+    "4": "Sob a ótica do sociólogo Pierre Bourdieu, a violência simbólica e física opera como mecanismo de reprodução de desigualdades e controle das classes marginalizadas.",
+    "5": "Desse modo, quando o aparato estatal restringe o direito constitucional à livre manifestação mediante o uso desproporcional da força, a democracia é frontalmente ferida.",
+    "6": "A população, ao exercer seu legítimo direito de protesto, passa a ser tratada como inimiga pública, revelando uma grave distorção do papel constitucional da polícia, que deveria primar pela proteção do cidadão.",
+    "7": "Ademais, a impunidade histórica associada aos excessos cometidos por agentes do Estado corrobora a persistência dessa problemática.",
+    "8": "Conforme postula o filósofo iluminista Montesquieu, todo homem que tem poder é ledor de abusá-lo, razão pela qual o controle e a responsabilização são imprescindíveis.",
+    "9": "Sem mecanismos eficientes de punição para os desvios de conduta policial, a violência institucional se normaliza e a confiança na justiça decai.",
+    "10": "Por conseguinte, medidas enérgicas são exigidas para harmonizar a atuação policial com os preceitos democráticos.",
+    "11": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as Secretarias Estaduais de Segurança, reformular os protocolos de atuação em protestos, por meio da implementação obrigatória de cursos continuados de direitos humanos e mediação de conflitos para todos os agentes.",
+    "12": "Essa ação deve ser realizada mediante a alocação de recursos federais específicos e a revisão dos manuais de operação, com o efeito de coibir abusos e garantir a integridade física dos manifestantes.",
+    "13": "Somente assim o Estado brasileiro consolidar-se-á como um porto seguro e democrático para a coletividade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

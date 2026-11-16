@@ -1,0 +1,84 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Segundo a Constituição de 1988 o cidadão tem direito a  livre manifestação.",
+    "1": "Manifestar-se é uma forma de demonstrar insatisfação com a política,          saúde, lazer , etc., pacificamente e de forma organizada.",
+    "2": "Contudo, vândalos se infiltram nos protestos  levando a polícia a agir de maneira violenta atingindo  , inclusive, as pessoas que se manifestam ordenadamente.",
+    "3": "A não aceitação de uma vertente de ordem social motiva a organização de manifestos  populares, onde  um grupo de pessoas com interesses em comum se reúne para juntos lutar pelos seus direitos previstos na Constituição.",
+    "4": "Um exemplo recente disso, é o “rolezinho”, movimento em que jovens da periferia, indignados com a falta de lazer, marcaram encontros nos shoppings através da rede social Facebook.",
+    "5": "A intenção foi manifestar-se de forma indireta, ou seja, sem cartazes nem passeatas, mas promovendo o lazer a si mesmo  , fazendo novas amizades, batendo papo, etc.",
+    "6": "Porém, algumas pessoas têm uma ideia deturpada em relação aos protestos.",
+    "7": "Tais indivíduos  durante o manifesto destrói  patrimônios públicos e privados, atacam violentamente outras pessoas e ameaçam autoridades e policiais.",
+    "8": "Retomando o caso do “rolezinho”   pessoas assim, se  infiltraram e furtaram jovens que faziam parte do movimento e funcionários das lojas do shopping.",
+    "9": "A polícia como resposta age com violência de maneira indiscriminada, atingindo também os cidadãos que se comportam adequadamente.",
+    "10": "É comum a utilização de armas de efeito moral e de balas de borracha para conter os vândalos.",
+    "11": "Vale uma ressalva, o dever da polícia em protestos é deter quem destruir patrimônios, agir de maneira violenta e praticar qualquer que seja ação de desordem.",
+    "12": "Assim como é obrigação da mesma  garantir a proteção e a integridade de todos, bem como o direito de livre manifestação.",
+    "13": "Sendo assim, a utilização de força de forma aleatória e desordenada não condiz com o dever de proteger os manifestantes diante de um direito que pertence a todos."
+  },
+  "redacao_gerada": {
+    "0": "Consoante a teoria contratualista de Thomas Hobbes, o Estado detém o monopólio legítimo da força para garantir a ordem e a pacificação social.",
+    "1": "No entanto, no contexto brasileiro contemporâneo, observa-se recorrentemente uma dicotomia preocupante entre a prerrogativa de segurança e o uso desproporcional da violência policial contra manifestantes.",
+    "2": "Esse cenário evidencia-se não apenas pela violação sistemática de direitos fundamentais assegurados pela Constituição de 1988, mas também pela fragilização do direito constitucional à livre expressão, impulsionada por resquícios autoritários e pelo racismo estrutural arraigados nas instituições de segurança pública.",
+    "3": "Ademais, sob a ótica da sociologia crítica da Escola de Frankfurt, a violência estatal muitas vezes opera como um mecanismo de coerção e silenciamento das minorias políticas.",
+    "4": "Nesse viés, a atuação truculenta das forças de segurança em protestos populares reflete a persistência de uma lógica bélica na gestão de conflitos urbanos, na qual o manifestante é erroneamente tratado como inimigo interno a ser combatido, em detrimento do diálogo e da salvaguarda da integridade física.",
+    "5": "Tal panorama corrobora a tese de que o Estado falha em equilibrar o poder de polícia com a garantia democrática.",
+    "6": "Portanto, medidas cabíveis são urgentes para mitigar tal problemática.",
+    "7": "Cabe ao Ministério da Justiça e Segurança Pública, em parceria com os governos estaduais, reformular os protocolos de atuação policial em manifestações, por meio da implementação de treinamentos focados em direitos humanos e mediação de conflitos para todos os agentes de segurança.",
+    "8": "Essa ação deve ser realizada mediante a revisão de manuais operacionais e a obrigatoriedade de uso de câmeras corporais, com o intuito de coibir excessos e responsabilizar abusos.",
+    "9": "Desse modo, o Estado cumprirá seu papel constitucional de proteger o cidadão, consolidando, assim, a harmonia entre a ordem pública e o pleno exercício da democracia."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

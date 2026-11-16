@@ -1,0 +1,87 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A utilizaçao  de medicamentos por conta própria vem preocupando médicos e farmacêuticos do Brasil.",
+    "1": "Segundo uma recente pesquisa realizada pelo ICTQ (Instituto de Ciência Tecnologia e Qualidade), a prática da automedicação é constante entre a maioria da população (76,1%) destes,  (90,1%) sao de  jovens entre 16 à  24 anos.",
+    "2": "Apontar  os motivos dessa conduta arriscada pode nos levar a questões políticas e culturais.",
+    "3": "Vejamos, a cobertura por planos de saúde privados ainda é cara e de difícil acesso para a maioria da população, estima-se  que apenas 25% dos brasileiros estão vinculados a algum destes  sistemas.",
+    "4": "Somando a este fato  encontra-se o frágil sistema público de saúde, o SUS, com as mínimas condições  de atendimentos e qualidade.",
+    "5": "Carente  de mais atençao  .",
+    "6": "Por outro lado  vemos a facilidade na obtenção de medicamentos em farmácias, alguns de forma ilegal.",
+    "7": "Tudo isso leva as pessoas, principalmente os jovens, a buscarem em primeira opçao  , mais simples e rápida, a compra e o cunsumo  por conta própria  baseando-se em em experiencias  de terceiros e deixando o atendimento especializado em segundo plano, tal pratica  arriscada, sendo que todo e qualquer remédio tem efeitos colateráis  .",
+    "8": "Portanto, a automedicação é o reflexo da frágil estrutura de saúde do Brasil, que necessita de uma melhor qualidade  que pode e deveria ser concebida através de um repasse maior das receitas da união para a saúde.",
+    "9": "E usar os meios          mídianos para a conscientização dos riscos que o consumo de medicamentos sem prescrição de um profissional capacitado pode trazer.",
+    "10": "Afim  de combater a tal prática, de risco."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea testemunha a banalização de condutas nocivas à saúde, dentre as quais sobressai a automedicação entre os jovens.",
+    "1": "Tal panorama revela-se alarmante e complexo, sendo perpetuado tanto pela negligência informacional quanto pela influência da cultura do alívio imediato no ciberespaço.",
+    "2": "Desse modo, torna-se imperioso analisar esses fatores para mitigar os riscos inerentes a essa prática deletéria na juventude brasileira.",
+    "3": "Em primeira análise, cabe destacar que a desinformação acerca dos fármacos atua como um catalisador da conduta imprudente.",
+    "4": "Sob essa ótica, o conceito de biopoder de Michel Foucault elucida como o controle sobre os corpos é exercido muitas vezes pela falsa autonomia no consumo de remédios, promovida pela ausência de um letramento em saúde eficiente.",
+    "5": "Com efeito, a facilidade de acesso a analgésicos e anti-inflamatórios, aliada à carência de instrução escolar sobre farmacologia básica, faz com que o público jovem ignore efeitos colaterais severos, como a resistência bacteriana e a hepatotoxicidade, em prol de uma solução rápida e superficial para seus mal-estares.",
+    "6": "Ademais, a espetacularização do bem-estar nas redes sociais intensifica a urgência sintomatológica na geração atual.",
+    "7": "Sob esse viés, a indústria cultural criticada por Adorno e Horkheimer mercantiliza a saúde ao propagar a ideia de que a felicidade e a produtividade ininterruptas são obrigações alcançáveis por meio de pílulas.",
+    "8": "Consequentemente, a pressão estética e psicológica imposta pelo meio digital empurra o indivíduo a suprimir dores emocionais e físicas por conta própria, evitando o diagnóstico médico especializado e agravando quadros clínicos subjacentes que demandariam acompanhamento profissional rigoroso.",
+    "9": "Portanto, medidas urgentes são necessárias para combater a automedicação na juventude.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover campanhas de conscientização nas escolas e plataformas digitais, por meio de palestras e conteúdos interativos sobre os perigos do consumo indiscriminado de medicamentos.",
+    "11": "Essa ação tem o fito de desconstruir a cultura da cura rápida, visando a garantir a segurança sanitária e o bem-estar integral das futuras gerações."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

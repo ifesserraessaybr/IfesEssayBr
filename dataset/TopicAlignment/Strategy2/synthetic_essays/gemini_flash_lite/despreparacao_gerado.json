@@ -1,0 +1,108 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A função de autoridade policial implica normalmente a aplicação da lei, a proteção das pessoas e da propriedade e a manutenção da ordem pública.",
+    "1": "Normalmente, aos agentes de autoridade policial é concedido o poder para o uso legítimo da força no âmbito do cumprimento da sua missão.",
+    "2": "Todavia, nas ultimas  semanas vem ocorrendo uma demonstração da incapacidade dos profissionais para conter          movimentos sociais que na maioria das vezes acabaram na destruição do patrimônio público .",
+    "3": "É inaceitável o modo como age a policia, além do mais  a capacidade da segurança social vem surpreendendo e demonstrando que os objetivos para manutenção da ordem pública não são tão eficientes e a ação dos profissionais mediante as situações criticas  é na maioria das vezes resolvidas  de forma inadequada, na qual civis são retaliados covardemente por homens armados, sendo que seus  deveres também giram em torno de proteger a integridade física de vândalos.",
+    "4": "Contudo, é sabido que há outros meios de parar a massa delituosa , formas de contenção que não irá  agredir a integridade física de culpados ou inocentes, pois, a partir, do momento em que          uma bomba de efeito moral ou spray de pimenta são lançadas  , seus efeitos podem atingir outrem e até mesmo quem não tem nada a ver com a situação e acabam  ficando asfixiados  com a entrada de gás lacrimogêneo em suas casas  .",
+    "5": "Por conseguinte, o meio mais constitucional para resolver situações de vandalismo que devastam o patrimônio público é a identificação e punição com prisão e multa para os acusados  .",
+    "6": "Ademais,          demonstrar boa relação com os manifestantes, para que a identificação dos criminosos seja facilitada.",
+    "7": "Também, demonstrar que a participação policial é apenas ocular e que o show é apenas dos manifestantes."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, o Estado brasileiro tem enfrentado o desafio de conciliar a garantia da ordem pública com a preservação dos direitos fundamentais, especialmente no que tange ao direito constitucional de livre manifestação.",
+    "1": "Nesse contexto, observa-se frequentemente que a atuação policial em protestos oscila entre o cumprimento legítimo do dever e o uso desproporcional da força.",
+    "2": "Tal problemática decorre tanto da lacuna na formação continuada dos agentes de segurança quanto da herança autoritária presente nas instituições estatais.",
+    "3": "Torna-se imperioso, portanto, analisar esses fatores para assegurar o pleno exercício da cidadania democrática.",
+    "4": "Em primeira análise, é fundamental destacar que a violência policial em protestos reflete a persistência de estruturas de poder excludentes.",
+    "5": "Conforme postula o sociólogo Max Weber, o Estado detém o monopólio do uso legítimo da força física; contudo, quando essa prerrogativa é exercida sem critérios de proporcionalidade, transforma-se em arbítrio.",
+    "6": "Ademais, a falta de preparo técnico e psicológico das corporações para lidar com multidões heterogêneas agrava o cenário de confrontos.",
+    "7": "Desse modo, o excesso policial não apenas fere a integridade física dos manifestantes, mas também compromete a legitimidade das próprias instituições democráticas perante a sociedade civil.",
+    "8": "Em segunda análise, convém pontuar que a criminalização dos movimentos sociais contribui para a escalada da violência nas ruas.",
+    "9": "Sob a égide da teoria da ação comunicativa de Jürgen Habermas, o espaço público deve ser o lócus do debate racional e livre de coações, sendo inadmissível a supressão do dissenso por vias autoritárias.",
+    "10": "No entanto, muitas vezes a narrativa oficial tende a rotular os manifestantes como vândalos, justificando, assim, repressões desmedidas.",
+    "11": "Evidencia-se, portanto, que a atuação da polícia deve pautar-se pelo respeito intransigente aos direitos humanos, garantindo a segurança de todos os cidadãos, independentemente de suas reivindicações políticas.",
+    "12": "Em virtude dos fatos expostos, medidas urgentes são necessárias para harmonizar a atuação policial com os preceitos do Estado Democrático de Direito.",
+    "13": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as secretarias estaduais de segurança, reformular as diretrizes de atuação em manifestações públicas, por meio da implementação obrigatória de cursos de direitos humanos e técnicas de mediação de conflitos para todas as corporações policiais.",
+    "14": "Essa ação tem como finalidade coibir abusos de autoridade e restabelecer a confiança da população nas forças de segurança, assegurando que o direito ao protesto pacífico seja plenamente exercido.",
+    "15": "Somente assim o país consolidará uma democracia madura, na qual a ordem pública e a liberdade de expressão coexistem harmoniosamente."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

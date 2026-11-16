@@ -1,0 +1,91 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Uma pesquisa recente mostrou que grande parte dos brasileiros – em especial os mais jovens – já se automedicou.",
+    "1": "Mas o que a maioria já sabe e subestima é que a automedicação traz sérios riscos a  saúde          .",
+    "2": "Alguns remédios podem conter toxinas que causam efeitos colaterais.",
+    "3": "Outros são avessos a determinada faixa etária.",
+    "4": "Ambos riscos são duplicados, já que parte dos usuários costuma dobrar a dose da droga conforme surge  novas complicações patológicas.",
+    "5": "O que eles não percebem é que essas complicações de saúde podem ocorrer pelo uso indiscriminado de fármacos e antibióticos .",
+    "6": "Acontece que, com o uso prolongado de certo medicamento, algumas bactérias se adaptam ao seu anticorpo.",
+    "7": "Isso acontece porque os microrganismos mais resistentes sobrevivem e passam sua imunidade para as próximas gerações de sua espécie.",
+    "8": "Esse processo tão natural se torna reconte  a ponto de gerar superbactérias.",
+    "9": "Casos como esses não são tão raros e surgem principalmente na rede pública, matando vários pacientes por graves infecções.",
+    "10": "O motivo para seu surgimento em hospitais públicos se deve ao fato da  população mais carente recorrer constantemente à automedicação, até mesmo pela dificuldade em conseguir uma consulta de qualidade.",
+    "11": "Decerto que dificilmente consulta-se um médico por um simples resfriado.",
+    "12": "No entanto  não significa que sejamos capazes de nos consultar corretamente, nem muito menos se \"rechear\" de remédios.",
+    "13": "É sempre importante que se consulte um médico, na  ausência desse, deve-se procurar um farmacêutico  o qual irá - juntamente com a bula - lhe indicar com maior clareza a eficacia  do medicamento conforme a necessidade.",
+    "14": "Lembremos portanto que o farmaceutico  também tem conhecimento aceitável sobre a química dos produtos e seus efeitos."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade contemporânea consolidou uma cultura de busca por alívio imediato para o mal-estar, fenômeno que encontrou solo fértil entre os jovens brasileiros.",
+    "1": "Nesse cenário, a automedicação emergiu como uma prática corriqueira e alarmante, impulsionada tanto pela facilidade de acesso aos fármacos quanto pela influência do meio digital.",
+    "2": "Com efeito, torna-se imperativo analisar como a negligência institucional e a banalização do consumo de remédios perpetuam esse panorama nocivo à saúde pública.",
+    "3": "Em primeira análise, cabe destacar que a mercantilização da saúde, aliada à carência de orientações sólidas, fomenta o uso indiscriminado de medicamentos pela juventude.",
+    "4": "Sob essa ótica, o sociólogo Zygmunt Bauman, em sua teoria da modernidade líquida, aponta que as relações e as soluções tornaram-se efêmeras e utilitárias, o que se reflete na ânsia juvenil por curas rápidas sem a devida mediação médica.",
+    "5": "Consequentemente, farmácias transformaram-se em espaços de consumo rápido, onde a venda de analgésicos e anti-inflamatórios ocorre sem a rigorosa exigência de prescrição, banalizando os riscos inerentes à iatrogenia e aos efeitos colaterais severos.",
+    "6": "Ademais, a expansão das redes sociais agrava essa problemática ao propagar uma cultura de autossuficiência e conselhos terapêuticos infundados.",
+    "7": "De acordo com o filósofo Pierre Lévy, o ciberespaço democratizou a informação, mas também abriu margem para a proliferação de conteúdos não verificados e de automutilação simbólica por meio de diagnósticos precipitados.",
+    "8": "Nesse viés, influenciadores digitais e algoritmos frequentemente romantizam o uso de substâncias para o controle de sintomas cotidianos, como ansiedade e dores leves, desestimulando a busca por atendimento profissional qualificado.",
+    "9": "Portanto, medidas urgentes são necessárias para mitigar a automedicação entre os jovens no país.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover campanhas de conscientização nas escolas e nos meios de comunicação, detalhando os perigos do consumo autônomo de fármacos por meio de palestras e distribuição de cartilhas informativas.",
+    "11": "Tal ação deve ser realizada com o apoio de profissionais da saúde, visando a desconstruir a cultura da cura imediata e a orientar a juventude sobre a importância do diagnóstico seguro."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

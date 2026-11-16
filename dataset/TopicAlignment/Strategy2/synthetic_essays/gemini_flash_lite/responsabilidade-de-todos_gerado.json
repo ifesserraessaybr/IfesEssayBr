@@ -1,0 +1,97 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "No Brasil, em 2012, está ocorrendo  o  Rio+20, o tema aborda  questões ambientais e o futuro de nosso Planeta.",
+    "1": "Após 20 anos depois do acontecido do Eco-92, as Nações Unidas voltam-se ao principal problema de todos os países, como  desenvolver a tecnologia sem agredir mais o meio em que vivemos.",
+    "2": "Ao visualizar o nosso Planeta e suas grandes potências , pensamos em quanto poderiam ser úteis no  desenvolvimento mundial  sem agreção de  nosso meio ambiente;           porém não é isso que reflete os  EUA na contribuição do  Rio+20.",
+    "3": "Seria uma escapatória?",
+    "4": "Como todos sabemos, o  Estados Unidos estão           na tão temida crise .",
+    "5": "Contudo, como advertem os chineses, \"Isso não pode ser uma desculpa para fugir do compromisso\", visto que os  são os maiores consumidores e como consequência os mais vorazes em poluir, deixando a desejar seu cuidado com o meio ambiente.",
+    "6": "Todavia, o grande problema caminha em direção aos países subdesenvolvidos, tal como em um \"efeito dominó\", refletindo em nós o prejuízo causado pela irresponsabilidade, deixando no ar a interrogação \"poluída\" de como ficará o mundo com dinheiro e sem àrvores  Portanto as expectativas por um futuro melhor, com  uma conferência tão importante, só haverá êxito  se todos contribuírem, sejam eles chineses, americanos ou brasileiros.",
+    "7": "Pois o risco está em uma vida universal, cabe a cada qual dar o seu exemplo para que possamos ter um futuro garantido."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o dilema acerca da soberania sobre a dieta dos cidadãos.",
+    "1": "Nesse cenário, o debate sobre a responsabilidade pelas escolhas alimentares oscila entre a autonomia individual e a tutela estatal.",
+    "2": "Desse modo, impõe-se analisar como a negligência do poder público e a forte influência da indústria alimentícia perpetuam esse impasse nocivo à coletividade brasileira.",
+    "3": "Convém pontuar, primeiramente, que a mercantilização da saúde, impulsionada pelo capitalismo tardio, corrobora a hegemonia de produtos ultraprocessados na mesa dos brasileiros.",
+    "4": "Sob essa ótica, a Escola de Frankfurt, por meio da Teoria Crítica, elucida como a Indústria Cultural manipula desejos e necessidades por intermédio da publicidade massiva, obscurecendo os malefícios de tais hábitos nutricionais.",
+    "5": "Com isso, o indivíduo, imerso em uma lógica de consumo desenfreado, torna-se refém de um sistema que prioriza o lucro em detrimento do bem-estar coletivo, eximindo, de forma falaciosa, o Estado de seu dever regulatório.",
+    "6": "Ademais, é imperativo destacar que a omissão estatal no que tange à garantia da segurança alimentar e nutricional agrava o quadro de vulnerabilidade social.",
+    "7": "Consoante o filósofo Thomas Hobbes, o Estado possui a obrigação intransferível de assegurar a proteção e a qualidade de vida dos cidadãos, preceito que se choca com a carente fiscalização dos aditivos químicos e com a escassez de subsídios aos alimentos in natura.",
+    "8": "Consequentemente, as classes de menor poder aquisitivo, privadas de acesso equitativo à informação e a produtos saudáveis, sofrem diretamente com epidemias de obesidade e desnutrição, evidenciando que a liberdade de escolha é severamente cerceada por barreiras estruturais.",
+    "9": "Depreende-se, portanto, a urgência de medidas mitigadoras para o equacionamento dessa problemática no país.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em conjunto com o Ministério da Educação, promover a reeducação alimentar nacional, por meio da implementação de campanhas midiáticas de conscientização e da inserção obrigatória da disciplina de nutrição na grade curricular básica.",
+    "11": "Essa ação deve ser realizada mediante a alocação de recursos federais específicos e parcerias com nutricionistas, com o fito de desconstruir o apelo mercadológico dos ultraprocessados e fomentar hábitos saudáveis desde a infância.",
+    "12": "Afinal, somente com a união entre conscientização popular e amparo estatal o país poderá superar essa chaga e garantir a plenitude da cidadania."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

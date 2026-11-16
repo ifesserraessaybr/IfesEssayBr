@@ -1,0 +1,87 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A escolha alimentar da população é um tema muito abordado no Brasil, devido aos sérios problemas ligados à saúde causados por ela.",
+    "1": "Diante dessa realidade social, quem seria o real responsável por tal questão?",
+    "2": "Em meio a tantas facilidades para conseguir comida rápida e industrializada, fica difícil manter uma dieta saudável e recusar as ofertas dos fast-foods e dos restaurantes de comida a quilo.",
+    "3": "O resultado está numa população cada vez mais afetada por problemas de saúde, como: obesidade, doenças cardíacas e alto colesterol no sangue.",
+    "4": "Quando esse assunto se torna um caso de saúde pública, é evidente que a responsabilidade é dos profissionais da área , como também do Estado, que deve promover programas de conscientização da população e de mudança nos cardápios ofertados as  pessoas.",
+    "5": "Afinal, a população se alimenta das opções que estam  ao seu alcance,sendo na maioria das vezes, alimentos com alto índice de gordura e açúcares.",
+    "6": "Enquanto não houver um incentivo para uma reeducação alimentar,nenhuma melhoria será obtida.",
+    "7": "Por outro lado, as pessoas precisam contribuir para todo esse processo, pois se não houver aceitação da parte afetada, o problema jamais será solucionado.",
+    "8": "Vale ressaltar que o incentivo no âmbito familiar é fundamental numa boa escolha alimentar, essencialmente para as crianças que precisam construir uma vida saudável desde pequenas, assim se tornarão adultos cientes dos benefícios de uma alimentação sadia.",
+    "9": "Portanto, a questão alimentar da população é responsabilidade de todos, tendo cada membro sua contribuição particular.",
+    "10": "Enquando o estado  é responsável pelas políticas públicas e pela contribuição na área da saúde, as pessoas devem se conscientizar sobre a alimentação que escolhem e buscar uma dieta mais saudável.",
+    "11": "Assim, com a participação de ambas as partes, a problemática será as  poucos solucionada.",
+    "12": "Porém ainda há muito para ser feito."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o dilema acerca da soberania sobre a dieta dos cidadãos.",
+    "1": "Nesse cenário, o debate sobre a responsabilidade pelas escolhas alimentares oscila entre a autonomia individual e a tutela estatal.",
+    "2": "Desse modo, faz-se imperioso analisar tal problemática a partir da omissão legislativa na regulação da indústria e da negligência educacional quanto à formação de hábitos saudáveis.",
+    "3": "Em primeira análise, cabe pontuar que a mercantilização da saúde, denunciada pelo filósofo Theodor Adorno na Indústria Cultural, manipula os desejos do corpo social em prol do lucro.",
+    "4": "Desse modo, o marketing agressivo de ultraprocessados, somado à escassez de políticas públicas incisivas de taxação desses produtos, constrange o livre-arbítrio do indivíduo, tornando-o refém de um sistema alimentar obesogênico.",
+    "5": "Ademais, é fundamental destacar que a carência de letramento nutricional nas escolas perpetua a vulnerabilidade alimentar da população, visto que a formação escolar muitas vezes negligencia a pedagogia do consumo consciente.",
+    "6": "Sob essa ótica, a ausência de um projeto pedagógico transversal sobre segurança alimentar impede que as futuras gerações desenvolvam autonomia crítica frente às armadilhas do mercado, perpetuando o ciclo de doenças crônicas no país.",
+    "7": "Evidencia-se, portanto, que a responsabilidade sobre a escolha alimentar recai tanto sobre o Estado quanto sobre a sociedade, exigindo medidas enérgicas.",
+    "8": "Para mitigar esse impasse, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover uma ampla reformulação curricular e regulatória, por meio da implementação de campanhas midiáticas obrigatórias e da taxação progressiva de alimentos nocivos.",
+    "9": "Tal ação deve ser realizada mediante a criação de diretrizes interministeriais rígidas e subsídios para alimentos in natura, com o intuito de democratizar o acesso à comida de qualidade e salvaguardar o bem-estar coletivo."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

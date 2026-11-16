@@ -1,0 +1,107 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "As manifestações se tornaram comuns no atual cenário da sociedade brasileira.",
+    "1": "São vários os grupos que estão indo as  ruas reivindicar e protestar.",
+    "2": "Os pontos reivindicados em sua maioria são: o mal  gasto do dinheiro público e a péssima qualidade dos serviços prestados a população          .",
+    "3": "Porém  nem todas as pessoas envolvidas nesses protestos agem pacificamente, alguns grupos  como os Black Blocs  são acusados pelas autoridades de se aproveitarem dos protestos para praticar atos de vandalismo, tendo a polícia nessas ocasiões agir  para manter a paz e a ordem.",
+    "4": "Essa ação da polícia vem sendo muito contestada na sociedade, devido ao alto grau de violência utilizado para conter esses manifestantes desordeiros.",
+    "5": "A polícia que deveria ser intitulada de pacificadora , por muitas vezes e  acusada de repressora.",
+    "6": "Mas essa violência só reflete a desorganização que se encontra o nosso país atualmente.",
+    "7": "Entre os serviços públicos de má qualidade se encontra a polícia.",
+    "8": "Policiais são mau  pagos e pouco treinados para agir nessas situações, e em muitas cidades as condições de trabalho são desoladoras.",
+    "9": "Esses pontos também devem se analisados por nós cidadões  .",
+    "10": "Para finalizar, boa parte desses problemas poderia começar a ser resolvido  se os governantes aumentassem os investimentos nos dois setores mais exigidos pela sociedade, educação e saúde.",
+    "11": "Principalmente a educação, que e  o principal alicerce de uma sociedade civilizada."
+  },
+  "redacao_gerada": {
+    "0": "Na obra O Leviatã, Thomas Hobbes postula que o Estado detém o monopólio da violência legítima para assegurar a ordem e a proteção social.",
+    "1": "No entanto, a atuação das forças policiais brasileiras em manifestações públicas distancia-se dessa premissa, oscilando entre o cumprimento do dever constitucional e a prática recorrente de abusos de poder.",
+    "2": "Com efeito, essa problematização evidencia que a corporação frequentemente se excede contra os cidadãos, cenário alimentado tanto pela militarização histórica das formações de segurança quanto pela fragilidade dos mecanismos de fiscalização institucional.",
+    "3": "Em primeira análise, cabe pontuar que o viés belicista impregnado nas forças policiais desvirtua o papel garantidor da segurança pública.",
+    "4": "Sob a ótica do sociólogo Max Weber, a coercibilidade estatal exige sustentação moral; contudo, quando a repressão desproporcional substitui a proteção, o uso da força perde sua validade democrática.",
+    "5": "Nesse contexto, o emprego abusivo de armas não letais e de táticas ostensivas contra protestos revela que o contingente policial opera sob uma lógica de combate ao inimigo, e não de salvaguarda dos direitos civis.",
+    "6": "Dessarte, o excesso violento consolida-se como uma constante que fere o direito fundamental à livre manifestação.",
+    "7": "Ademais, a perpetuação desses excessos decorre da escassez de transparência e da condescendência institucional frente aos desvios de conduta.",
+    "8": "Segundo o filósofo Michel Foucault, as instituições de controle tendem a normatizar a violência para manter estruturas de dominação sem sofrerem sanções efetivas.",
+    "9": "Paralelamente, a assimetria na apuração das arbitrariedades cometidas por agentes estatais gera um sentimento de impunidade que enfraquece a confiança da sociedade civil nas instituições.",
+    "10": "Assim, perverte-se o verdadeiro papel da polícia, que deveria proteger a população em vez de intimidá-la.",
+    "11": "Infere-se, portanto, a necessidade urgente de mitigar os excessos policiais e reorientar a corporação para a defesa dos direitos fundamentais.",
+    "12": "Para tanto, o Ministério da Justiça e Segurança Pública deve reformular os protocolos de atuação policial em manifestações populares.",
+    "13": "Essa medida será efetuada mediante a obrigatoriedade do uso de equipamentos de gravação individual e a implementação de treinamentos compulsórios voltados à mediação de conflitos e Direitos Humanos — especificando-se que tais diretrizes e registros audiovisuais sejam auditados continuamente por ouvidorias externas e independentes.",
+    "14": "Com essas ações, buscar-se-á restabelecer a função primordial da segurança pública, harmonizando a manutenção da ordem com o respeito irrestrito às manifestações democráticas."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "O principal objetivo de uma república é a democracia, não uma democracia puramente constitucional , mas sim em seu estado pleno, completo, através da qual se manteria a paz entre os indivíduos e a igualdade destes  perante a lei.",
+    "1": "Porém, o ser humano, na busca por esta  aclamada forma de governo, se desvia deste  objetivo,          decorrendo a seus próprios interesses muitas vezes motivados por visões e pensamentos diferenciados.",
+    "2": "Sendo assim, a \"culpa\" não pode estar unicamente nas autoridades corruptas, e nem na população ignorante e mal orientada, mas sim na natureza animal e humana de lutar por privilégios ou necessidades.",
+    "3": "Desde os primórdios da civilização, sábios como Montesquieu buscam maneiras de manter o equilíbrio entre as diferenças de poder presente nas diversas classes que compõem um povo, mas nem assim conseguiram atingir a verdadeira paz de governo.",
+    "4": "A agressão física dos últimos dias é a expressão clara e irracional da revolta de pessoas que não conseguiram satisfazer seus objetivos pessoais (pode as vezes ser chamado de \"direito\") usando seu poder de raciocínio , é como o desabafo, o ultimo  suspiro.",
+    "5": "Para impedir que esta agressão se torne exageradamente perturbadora, o órgão da polícia militar  toma medidas igualmente irracionais, tentando          amenizar a revolta social e (subliminarmente) proteger o interesse daqueles que garantem o salario e a possível ascensão de seus integrantes (um minuto, estes não são os próprios manifestantes?) .",
+    "6": "O sistema é corrupto, a política desorganizada e a cidadania quase nunca exercida.",
+    "7": "Então sobre quem está a culpa quando o conflito é motivado pelo mesmo tipo de interesse?",
+    "8": "Não há egoísmo que soa como correto.",
+    "9": "Não se pode acusar, não se pode julgar, pelo menos não com justiça e sem hipocrisia.",
+    "10": "Um julgamento severo e uma acusação racional, mesmo que hipócrita, pode moderadamente propagar uma certa \"paz\" ou manter uma certa organização, mas para alcançar a plenitude da relação social, devemos antes procurar em nós mesmos valores como justiça, amor e entendimento.",
+    "11": "Entre polícia ou manifestantes, governo ou povo, com desfiles ou cartazes, cassetetes ou bombas.",
+    "12": "Então vemos que não é nem um nem outro, mas sim o \"ou\" que nos incapacita de chegar ao bem estar social."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, o Estado moderno consolidou-se sob a égide do monopólio do uso legítimo da força, conforme postulado pelo sociólogo Max Weber.",
+    "1": "No entanto, na contemporaneidade, observa-se uma distorção dessa prerrogativa quando a atuação policial em manifestações populares transborda os limites da proporcionalidade, gerando debates acerca do equilíbrio entre a manutenção da ordem pública e a garantia constitucional do direito de protesto.",
+    "2": "Nesse cenário, o excesso da força policial decorre tanto da persistência de heranças autoritárias na estrutura de segurança quanto da insuficiência de treinamentos voltados aos Direitos Humanos, desafiando a consolidação da democracia brasileira.",
+    "3": "Em primeira análise, é fundamental destacar que a formação das corporações policiais ainda carrega resquícios de um passado de exceção.",
+    "4": "Consoante a tese da Banalidade do Mal, formulada pela filósofa Hannah Arendt, estruturas burocráticas opressoras normalizam a violência quando desprovidas de senso crítico e empatia institucional.",
+    "5": "No contexto brasileiro, a militarização histórica das polícias frequentemente prioriza o combate ao inimigo em detrimento da proteção ao cidadão, o que se traduz em abordagens truculentas contra manifestantes.",
+    "6": "Desse modo, o ativismo social é criminalizado preventivamente, ferindo o princípio da livre expressão e transformando o espaço público em um cenário de hostilidade estatal desproporcional.",
+    "7": "Ademais, sob a ótica do filósofo Michel Foucault, o poder disciplinar manifesta-se no controle dos corpos e na coerção dos movimentos dissidentes.",
+    "8": "Paralelamente a essa perspectiva teórica, a carência de capacitação continuada para os agentes de segurança no manejo de multidões agrava o quadro de violência institucional.",
+    "9": "Sem preparo adequado para lidar com situações de alta tensão sem o uso de armas letais ou menos letais de forma abusiva, a polícia cumpre seu papel de forma distorcida, reprimindo em vez de mediar.",
+    "10": "Consequentemente, o direito à manifestação pacífica é cerceado por uma lógica de coerção que intimida a população e enfraquece o tecido democrático da sociedade.",
+    "11": "Portanto, medidas efetivas são imperativas para harmonizar a atuação policial com os preceitos democráticos.",
+    "12": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as secretarias estaduais de segurança, reformular a matriz curricular das academias de polícia, inserindo obrigatoriamente disciplinas aprofundadas sobre Direitos Humanos, resolução pacífica de conflitos e mediação de multidões.",
+    "13": "Essa ação deve ser realizada por meio da contratação de especialistas em direitos fundamentais e da revisão dos manuais de conduta, com o objetivo de coibir abusos de autoridade e garantir a integridade física dos manifestantes.",
+    "14": "Com essa transformação estrutural, o Estado assegurará o cumprimento legítimo do papel policial, resguardando a ordem pública em consonância com a liberdade democrática."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

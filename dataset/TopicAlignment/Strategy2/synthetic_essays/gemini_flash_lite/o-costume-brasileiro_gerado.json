@@ -1,0 +1,104 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "O costume de ir até a farmácia e comprar vários medicamentos sem orientação de um médico ou farmacêutico é comum no Brasil.",
+    "1": "Essa facilidade acarreta no  uso irracional e coloca em risco a saúde da população.",
+    "2": "O Brasil, país com elevado consumo de medicamentos , enfrenta grande dificuldade para promoção do uso racional de medicamentos .",
+    "3": "Visto que, os jovens desde cedo veem o mal exemplo de seus pais e acabam se influenciando.",
+    "4": "Dessa forma, ocasiona um consumo desenfreado de fármacos no País.",
+    "5": "Muitas vezes, a vida agitada, coloca  o jovem em situações onde  ele prefere o meio mais rápido e fácil para automedicar-se  do que a segurança de sua saúde.",
+    "6": "Os casos de intoxicação medicamentosa não são raros e são facilitados pelo do  livre acesso de farmácos nas farmácias do país.",
+    "7": "Portanto, para reverter essa situação, a ANVISA deve promover campanhas alertando os jovens sobre o perigo da automedicação, além de criar leis mais rígidas com relação ao fácil acesso e dispensação de medicamentos."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade contemporânea consolidou um panorama de hipervalorização da eficiência imediata, o qual revercute diretamente sobre a saúde das gerações mais jovens.",
+    "1": "Nesse viés, a automedicação tornou-se uma prática alarmante e corriqueira no cotidiano da juventude brasileira.",
+    "2": "Tal problemática corrói o bem-estar coletivo, fruto primordial tanto da negligência institucional quanto da banalização mercadológica dos fármacos.",
+    "3": "Torna-se imperioso, portanto, analisar os fatores que perpetuam esse cenário nocivo para mitigar seus impactos na saúde pública.",
+    "4": "Em primeira análise, cabe pontuar que a mercantilização da saúde, impulsionada pelo capitalismo tardio, fomenta o consumo irresponsável de medicamentos.",
+    "5": "Sob essa ótica, o pensador Zygmunt Bauman, em sua teoria da modernidade líquida, aponta para a urgência de respostas rápidas e descartáveis na vida cotidiana, o que se traduz, no contexto juvenil, na busca por soluções instantâneas para qualquer mal-estar físico por meio de comprimidos.",
+    "6": "Paralelamente, as redes sociais operam como vitrines de conselhos médicos informais e propagandas veladas, desconsiderando a complexidade biológica do organismo humano.",
+    "7": "Como resultado, a juventude passa a enxergar a farmácia como um espaço de conveniência, ignorando os riscos inerentes à toxicidade e à resistência bacteriana.",
+    "8": "Em segundo plano, sobressai a insuficiência de campanhas educacionais estatais direcionadas à conscientização sobre os perigos do uso indiscriminado de remédios.",
+    "9": "Conforme postula o sociólogo Pierre Bourdieu, a violência simbólica opera quando estruturas de poder omitem informações cruciais, perpetuando vulnerabilidades sociais.",
+    "10": "No Brasil, a carência de debates aprofundados nas instituições de ensino sobre farmacologia básica e saúde preventiva deixa os adolescentes à mercê de conselhos parentais ultrapassados e da autoprescrição baseada em pesquisas superficiais na internet.",
+    "11": "Dessa forma, a falta de letramento em saúde cria um terreno fértil para a perpetuação de danos hepáticos, renais e diagnósticos tardios de patologias graves.",
+    "12": "Evidencia-se, portanto, a urgência de medidas enérgicas para combater a automedicação entre os jovens brasileiros.",
+    "13": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover uma campanha nacional nas escolas públicas e privadas, por meio de palestras e oficinas ministradas por profissionais da saúde, com o intuito de orientar os estudantes sobre os riscos do consumo de remédios sem prescrição médica.",
+    "14": "Essa ação deve ser realizada mediante a distribuição de cartilhas informativas e a utilização de plataformas digitais, visando a desconstrução da cultura da pílula mágica.",
+    "15": "Desse modo, o país poderá salvaguardar a integridade física da juventude e consolidar um paradigma de cuidado embasado na prudência científica."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

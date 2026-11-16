@@ -1,0 +1,71 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "É notório que todos os jovens passam por problemas na adolescência , o que é natural, pois é o período em que questionam tudo o que acontece à sua volta.",
+    "1": "Sendo o método mais simples, porém não o correto, a automedicação permite aliviar essas conturbações.",
+    "2": "De certo modo, as relações sociais, a convivência familiar, a preocupação em ser aceito, são pontos importantes e necessários na vida de um indivíduo, principalmente para seu equilíbrio psicológico.",
+    "3": "O índice desse problema no Brasil está elevado, mas não o faz a sede dessa prática, pode-se citar como o país da automedicação o  Estados Unidos, com mais da metade dos jovens envolvidos em conflitos sociais, as doenças psicológicas também favorecem o aumento da mesma, uma parcela dos jovens drogam-se para eliminar o estresse do dia-a-dia, pela pressão de amigos ou por diversão.",
+    "4": "Portanto, deve-se conscientizar a população de que medicamentos não são a forma adequada de solucionar problemas, que existem consequências em ingerir um produto, cujo  o corpo não está necessitando,          e de encaminhar os indivíduos à um centro especializado, onde possa  receber o tratamento."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade moderna consolidou uma cultura de busca incessante pelo alívio imediato de sintomas, panorama que encontrou solo fértil entre os jovens da atualidade.",
+    "1": "Nesse contexto, a automedicação transformou-se em um hábito alarmante e cotidiano no Brasil, impulsionado tanto pela facilidade de acesso aos fármacos quanto pela influência do meio digital.",
+    "2": "Diante disso, faz-se imperioso analisar como a banalização do consumo de remédios e a cultura da urgência perpetuam essa problemática nociva à saúde pública.",
+    "3": "Em primeira análise, é fundamental pontuar que a mercantilização da saúde, teorizada pelo sociólogo Zygmunt Bauman em sua obra sobre a modernidade líquida, favorece o consumo desenfreado de produtos, incluindo os medicamentos.",
+    "4": "Sob essa ótica, a juventude, imersa em uma lógica de produtividade exacerbada, recorre aos fármacos de forma autônoma como um atalho para manter o desempenho acadêmico e social, ignorando os riscos inerentes à hepatotoxicidade e à resistência bacteriana.",
+    "5": "Ademais, a cibercultura atua como um vetor de desinformação, haja vista que a proliferação de diagnósticos superficiais nas redes sociais banaliza a gravidade de patologias e estimula a ingestão incorreta de substâncias.",
+    "6": "Em decorrência disso, o indivíduo é reduzido a um consumidor passivo de orientações virtuais não fundamentadas, agravando um quadro que deveria ser estritamente clínico e humanizado.",
+    "7": "Portanto, medidas efetivas são imprescindíveis para mitigar esse cenário de risco na juventude brasileira.",
+    "8": "Para tanto, cabe ao Ministério da Saúde, em parceria com as instituições de ensino, promover campanhas nacionais de conscientização nas escolas e plataformas digitais sobre os perigos da automedicação, por meio de palestras ministradas por profissionais da área e inserção de debates curriculares.",
+    "9": "Essa ação tem o fito de desconstruir a cultura do alívio imediato e promover o uso racional de medicamentos, garantindo, assim, o bem-estar físico e social das futuras gerações."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

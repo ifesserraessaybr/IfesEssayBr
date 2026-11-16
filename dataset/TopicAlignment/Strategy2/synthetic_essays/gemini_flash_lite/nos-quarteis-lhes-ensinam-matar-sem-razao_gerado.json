@@ -1,0 +1,94 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "No segundo semestre de 2013 foi divulgado um vídeo nos meios de comunicação, que a repórter Giuliana (Folha de S.",
+    "1": "Paulo) foi atingida no olho por uma bala de borracha disparada por policiais militares da Rota (Rondas Ostensivas Tobias de Aguiar).",
+    "2": "Enquanto  cobria o protesto contra o aumento das tarifas em São Paulo.",
+    "3": "Ela foi hospitalizada e perdeu a visão do olho direito, junto a ela estavam mais sete repórteres feridos levemente.",
+    "4": "Casos como de Giuliana, tem  tido grande repercussão, devido o  modo como a policia  tem reprimido as manifestações, o que nos remete ao Período Ditatorial Brasileiro, que  os          jovens não podiam se expressar.",
+    "5": "A única coisa que os difere  é o fato de uma parte da mídia e as redes sociais no momento estarem alertando a periculosidade dos rolezinhos e das manifestações.",
+    "6": "Ao invés de reclamarem pelo preço das tarifas, corrupção e gastos com Copa e Olimpíada, a população deveria somente exigir a desmilitarização da policia, pois é a única que os soldados não possuem necessariamente formação superior.",
+    "7": "Observe este trecho do Art.",
+    "8": "2º INC II da Lei 6652/79 As Polícias Militares ...",
+    "9": "no âmbito de suas jurisdições: atuar de maneira preventiva como força de dissuasão, em locais ou áreas específicas, onde se presuma ser possível a perturbação da ordem.",
+    "10": "No século 21, tal lei funciona assim,  qualquer policial militar em exercício ou não com sua devidas funções pode matar, atirar em trabalhadores sumir com o corpo é opcional, isto porque a          lei citada foi criada e na Ditadura Militar e permanece na Constituição.",
+    "11": "Impressiona-nos como a legislação é ineficiente para aqueles que deveriam ser provedores da ordem.",
+    "12": "Conclui-se que 600 mortos em maio de 2006 em uma série de ataques na Baixada Santista, 111 presos assassinados em 1992 durante o Massacre do Carandiru, o desaparecimento do pedreiro carioca Amarildo de Souza em 14 de Julho de 2013 e a violência policial contra professores na Câmara dos Vereadores do Rio justificam a desmilitarização da polícia que ultrapassa diariamente aos deveres .",
+    "13": "Acrescentando que no ano de 2014 haverá provas para capacitar militares a evitarem manifestações na Copa, com certeza, mais \"Amarildos\" e \"Giulianas\"  sofrerão da brutalidade, ineficiência e desorganização da polícia militar  brasileira e suas histórias veremos no chão."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, o Estado moderno consolidou-se sob a égide do monopólio do uso legítimo da força, conforme postulado pelo sociólogo Max Weber.",
+    "1": "No entanto, na contemporaneidade, a atuação das forças de segurança em protestos populares tem levantado debates acalorados acerca do limite entre a garantia da ordem pública e o autoritarismo.",
+    "2": "Sob essa ótica, é imperativo analisar como o excesso policial vulnera o Estado Democrático de Direito, sendo impulsionado tanto pela falta de capacitação adequada dos agentes quanto pela herança de práticas repressivas estruturais.",
+    "3": "Em primeira análise, convém pontuar que a formação militarizada das corporações frequentemente prioriza a neutralização do opositor em detrimento da mediação de conflitos.",
+    "4": "Tal panorama corrobora o conceito de biopoder de Michel Foucault, segundo o qual o corpo social é submetido a mecanismos de controle e coerção que visam à manutenção do status quo.",
+    "5": "Desse modo, o manifestante é muitas vezes encarado não como um cidadão no gozo de seu direito constitucional de livre expressão, mas sim como um vetor de desordem a ser neutralizado, o que resulta em episódios de violência desproporcional e violação sistemática de direitos fundamentais.",
+    "6": "Ademais, sob a perspectiva histórica, a violência policial encontra solo fértil em resquícios autoritários herdados de períodos ditatoriais que ainda permeiam as instituições brasileiras.",
+    "7": "Conforme discute o historiador Sérgio Buarque de Holanda, a propensão ao personalismo e à sobreposição da força sobre o diálogo reflete-se na atuação de patrulhas que ignoram protocolos internacionais de direitos humanos.",
+    "8": "Consequentemente, o uso abusivo de armas não letais e de força física desmedida gera um efeito inibidor na sociedade, amedrontando a população e enfraquecendo o tecido democrático ao cercear o dissenso legítimo nas ruas.",
+    "9": "Infere-se, portanto, a urgência de medidas remediadoras para coibir os abusos do aparato de segurança estatal.",
+    "10": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as secretarias estaduais de segurança, reformular a matriz curricular das academias de polícia, inserindo obrigatoriamente disciplinas de direitos humanos, mediação de conflitos e técnicas de desescalada, por meio de investimentos federais específicos.",
+    "11": "Essa ação tem o fito de humanizar a atuação policial, garantindo que o direito à manifestação pacífica coexistam harmoniosamente com a preservação da ordem pública."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

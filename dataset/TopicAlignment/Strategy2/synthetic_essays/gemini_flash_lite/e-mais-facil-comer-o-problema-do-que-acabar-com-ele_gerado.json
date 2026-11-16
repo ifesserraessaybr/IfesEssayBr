@@ -1,0 +1,74 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Podemos dizer que a responsabilidade dessa forma de alimentação é realmente da propagando ou ate  mesmo dos fabricantes?",
+    "1": "De certa forma sim, mas a população também tem uma grande parte em culpa, pois todos nós ingerimos uma quantidade enorme de informação que nos dizem como esses produtos industrializados e os famosos          fast-food podem prejudicar o nossa saúde e mesmo assim fingimos de que isso não nos prejudicara  .",
+    "2": "As crianças e os adolescentes são os mais influenciados pelas propagandas e a divulgação dos produtos, pois a maioria deles tem como atingir esse público e assim fazer com que a obesidade infantil aumente em nossa sociedade.",
+    "3": "Essa publicidade dos fabricantes pode influenciar em uma  grande parte da população.",
+    "4": "Mas então por que não é criada uma lei para mudar essa forma de divulgação?",
+    "5": "E os pais não vêm  como isso afeta os seus filhos?",
+    "6": "Ou é realmente culpa da sociedade que se faz de surdo para não ver  os problemas que isso nos causa?",
+    "7": "A sociedade sabe os riscos dessa forma de alimentação e ate  mesmo          o ministério alega ser um problema de saúde pública, mas da mesma forma não tenta resolver um problema que para muitos e  algo simples, mas que no fundo tem uma gravidade imensa.",
+    "8": "E se para o governo é simples então é só resolver e assim tudo seria, mas uma vitória para o país.",
+    "9": "A culpa pode ser considerada de todos, mas isso não é uma desculpa para podermos tampar os ouvida  para o problema e abrirmos a boca para de certa forma “acabarmos” com ele."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida, teorizada por Zygmunt Bauman, a sociedade contemporânea defronta-se com complexas transformações nos hábitos cotidianos, dentre os quais sobressai o impasse acerca da tutela sobre a alimentação civil.",
+    "1": "Com efeito, tal problemática transcende o mero arbítrio individual, revelando-se como um dilema estrutural intrinsecamente ligado à negligência estatal e à mercantilização da saúde.",
+    "2": "Primeiramente, é imperioso pontuar que a lógica capitalista, fomentada por conglomerados agroindustriais, impõe barreiras mercadológicas severas ao consumo de produtos in natura, tornando-os financeiramente inacessíveis a expressiva parcela dos cidadãos.",
+    "3": "Sob esse viés, conforme postula o filósofo Theodor Adorno acerca da indústria cultural, os meios de comunicação de massa atuam de maneira incisiva na manipulação dos desejos, massificando o apelo por ultraprocessados de baixo valor nutricional e alta cumplicidade na gênese de enfermidades crônicas.",
+    "4": "Em segundo plano, cumpre destacar a omissão dos poderes públicos na garantia de políticas públicas eficazes de segurança alimentar e nutricional, perpetuando um cenário de vulnerabilidade coletiva.",
+    "5": "Nesse sentido, o sociólogo Pierre Bourdieu discute como a violência simbólica opera na reprodução das desigualdades, corroborando para que camadas marginalizadas da população sequer possuam o capital cultural necessário para discernir escolhas alimentares saudáveis.",
+    "6": "Evidencia-se, portanto, a urgência de mitigar essa problemática na esfera nacional.",
+    "7": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover campanhas de conscientização nutricional nas escolas e redes sociais, detalhando os riscos dos ultraprocessados e incentivando a agricultura familiar, por meio de investimentos financeiros robustos e distribuição descentralizada de cartilhas informativas, com o fito de garantir a autonomia e o bem-estar biopsicossocial dos cidadãos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

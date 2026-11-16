@@ -1,0 +1,109 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Atualmente, para agradar a maioria das crianças é facil, basta leva-las  a lanchonetes em que os pequenos se deliciam com os famosos fast-foods  .",
+    "1": "É inegável e surpreendente como esses alimentos          calóricos fazem parte da rotina de crianças e adolescentes em toda a sociedade.",
+    "2": "Porém, uma alimentação regada a essas comidas rápidas e com a  ausência de exercícios físicos está elevando o número de obesos entre as crianças.",
+    "3": "É o que diz a Sociedade de Pediatria de São Paulo,          em que a obesidade infantil aumentou 5  vezes nos últimos 20 anos e atualmente atinge 15% dos pré-adolescentes (cerca de 5 milhões de crianças).",
+    "4": "Contudo, o dever de educar essa garotada é dividido entre pais e o Estado.",
+    "5": "Este é encarregado de criar leis e normas que regulem as propagandas e advertências sobre o consumo excessivo.",
+    "6": "Já os tutores são responsáveis pelo controle do que os filhos poem  nas lancheiras.",
+    "7": "São os pais que devem aconselhar os pequenos na hora de escolher entre uma refeição saudável e um hambúrguer.",
+    "8": "Controlar e aconselhar parece surtir um efeito mais positivo do que a simplês  proibição de comer essas guloseimas.",
+    "9": "Também é necessário que os pais incentivem os pequenos a praticar exercícios físicos e a incluir nas refeições frutas e legumes a fim de que essa juventude cresça saudável e possa ter uma vida longa e prazerosa."
+  },
+  "redacao_gerada": {
+    "0": "Na obra \"A Elite do Atraso\", o sociólogo Jessé Souza reflete sobre como as estruturas sociais moldam os comportamentos individuais e limitam a autonomia dos cidadãos.",
+    "1": "Analogamente, a problemática em torno da responsabilidade sobre a escolha alimentar da população brasileira ultrapassa a esfera da mera vontade individual, configurando um impasse coletivo.",
+    "2": "Nesse contexto, torna-se imperativo analisar como a omissão estatal na regulação do mercado alimentício e a vulnerabilidade socioeconômica interferem diretamente nos hábitos de nutrição da sociedade.",
+    "3": "Em primeira análise, cabe pontuar que a atuação do Estado é determinante na mediação do consumo alimentar, afastando a tese de culpa exclusiva do indivíduo.",
+    "4": "Segundo o filósofo John Locke, o contrato social exige que o poder público garanta o bem-estar e a proteção da coletividade.",
+    "5": "Contudo, a escassa fiscalização sobre a publicidade de produtos ultraprocessados e a concessão de incentivos fiscais a indústrias nocivas contrariam essa premissa, induzindo a população ao consumo de itens de baixo valor nutricional.",
+    "6": "Dessa forma, a negligência governamental valida um cenário em que a liberdade de escolha torna-se uma ilusão orquestrada pelo mercado.",
+    "7": "Ademais, a desigualdade socioeconômica atua como um fator limitador da autonomia nutricional dos cidadãos marginalizados.",
+    "8": "O geógrafo Josué de Castro, em \"Geopolítica da Fome\", já denunciava que a má alimentação não decorre da escassez, mas de disparidades na distribuição de renda e acesso aos alimentos.",
+    "9": "Sob essa perspectiva, grande parte dos brasileiros é forçada a optar por ultraprocessados devido ao menor custo financeiro em comparação a alimentos in natura, os quais frequentemente possuem preços inacessíveis.",
+    "10": "Logo, a responsabilidade individual é mitigada quando o contexto econômico tolhe o direito básico à alimentação saudável.",
+    "11": "Infere-se, portanto, que a responsabilidade sobre a nutrição populacional deve ser compartilhada, exigindo uma postura proativa do Estado para garantir a soberania alimentar.",
+    "12": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Fazenda — órgão responsável pela gestão orçamentária do país —, implementar uma política de desoneração fiscal sobre alimentos in natura, combinada ao aumento da taxação sobre ultraprocessados.",
+    "13": "Essa medida operará por meio de reformas tributárias direcionadas, visando baratear o acesso a hortifrutis e coibir a hegemonia das indústrias alimentícias nocivas.",
+    "14": "Com essas ações, o Brasil poderá assegurar uma verdadeira autonomia alimentar à sua população, promovendo a justiça social preconizada por Jessé Souza."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

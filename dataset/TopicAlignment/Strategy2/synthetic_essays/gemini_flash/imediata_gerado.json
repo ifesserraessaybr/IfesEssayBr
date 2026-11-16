@@ -1,0 +1,103 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "E já dizia a filosofia, o homem é um ser singular, autônomo, pensante, original, motivável e principalmente de pensamento livre e sem limites.",
+    "1": "Ai  está o problema, até que ponto podemos chegar?",
+    "2": "O problema sempre foi e sempre será o mesmo: o ser humano e sua mania descontrolada de agir por impulso.",
+    "3": "Assim  esquecendo sua          ideologia , desobedecendo as leis, e fazendo coisas banais .",
+    "4": "Temos como exemplo as manifestações, que deveriam ser uma forma de expressar a luta por uma democracia justa , criticar o sistema falho e a injustiça .",
+    "5": "Mas o que acontece na maioria das vezes é uma sanguinária luta por sobrevivência , espancamentos e várias formas de vandalismo.",
+    "6": "Portanto, para evitar esses tipos de problemas, deve existir bom senso e organização tanto da parte dos manifestantes quanto da dos policiais.",
+    "7": "Algumas ótimas ideias seriam usar as redes sociais e a mídia para divulgar campanhas pacificadoras; aumentar a fiscalização quando acontecesse tal evento, e por último usar a expressão sem limites para boas causas."
+  },
+  "redacao_gerada": {
+    "0": "Em sua obra \"O Leviatã\", Thomas Hobbes postula que cabe ao Estado o monopólio do uso legítimo da força para assegurar a ordem social e proteger os cidadãos.",
+    "1": "Todavia, na contemporaneidade brasileira, observa-se uma constante tensão nas manifestações públicas, em que a atuação policial oscila entre o cumprimento do dever constitucional e o descumprimento dos direitos fundamentais por meio do uso abusivo da violência.",
+    "2": "Nesse contexto, torna-se imperioso analisar não apenas a herança militarista das forças de segurança, mas também a fragilidade dos mecanismos de fiscalização institucional sobre o contingente estatal.",
+    "3": "Em primeira análise, cabe pontuar que o viés arbitrário em abordagens policiais durante protestos reflete um legado histórico violento e desproporcional.",
+    "4": "De acordo com o sociólogo Zygmunt Bauman, a segurança sem liberdade transforma-se em opressão, comprometendo as bases do tecido democrático.",
+    "5": "Sob essa perspectiva, nota-se que a doutrina de segurança pública no Brasil, forjada em regimes autoritários, frequentemente trata o manifestante como um inimigo do Estado, e não como um cidadão no exercício legítimo de sua liberdade de expressão.",
+    "6": "Como consequência, o uso indevido de armas não letais e de agressões físicas ultrapassa a estrita preservação da ordem pública, configurando claro abuso de poder institucional.",
+    "7": "Ademais, ressalta-se a incipiente eficácia dos órgãos de controle e responsabilização das forças policiais como fator agravante dessa problemática.",
+    "8": "Conforme os preceitos do filósofo Montesquieu, a garantia dos direitos individuais exige que o poder controle o próprio poder, evitando excessos e arbitrariedades.",
+    "9": "Contudo, a opacidade no acompanhamento de denúncias de truculência policial e a impunidade recorrente geram um ambiente de complacência com a violência do aparato estatal.",
+    "10": "Por conseguinte, enquanto a conduta de agentes transgressores permanecer sem a devida sanção rigorosa, a corporação continuará a desviar de seu verdadeiro papel republicano de proteção social.",
+    "11": "Infere-se, portanto, a necessidade urgente de reordenar as diretrizes operacionais das forças policiais no tocante ao acompanhamento de manifestações sociais.",
+    "12": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, órgão de diretriz executiva, reformular o protocolo de atuação em atos públicos, mediante a obrigatoriedade do uso de câmeras corporais conectadas aos órgãos de auditoria externa e o treinamento contínuo focado em direitos humanos.",
+    "13": "Essa medida visa garantir a transparência das operações e a punição imediata de excessos individuais cometidos por agentes.",
+    "14": "Dessa forma, será possível harmonizar a manutenção da ordem com o respeito pleno à liberdade de manifestação popular."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

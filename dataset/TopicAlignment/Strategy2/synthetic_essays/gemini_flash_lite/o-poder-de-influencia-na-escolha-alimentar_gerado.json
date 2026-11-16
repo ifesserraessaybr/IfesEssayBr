@@ -1,0 +1,119 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Uma alimentação saudável é fundamental para uma boa qualidade de vida.",
+    "1": "Maus hábitos podem refletir futuramente na saúde de uma pessoa.",
+    "2": "Dessa forma, é importante criar bons hábitos alimentares desde a infância, para que venha trazer  uma vida mais longa e diminuir  as chances de se desenvolver problemas cardiovasculares, obesidade, entre outros.",
+    "3": "Nesse aspecto, a família é o agente mais próximo e direto para a educação alimentar.",
+    "4": "É ela que vai dizer          o que pode e o que não pode , e vai poder interferir diretamente sobre o principal alvo da indústria alimentícia: as crianças.",
+    "5": "No entanto, a família tem diante desse caminho um obstáculo mais forte e mais poderoso: as propagandas de fast-food direcionadas para o público alvo e adequadas a todos os gostos, com brindes, brinquedinhos e tudo mais para ser mais desejado.",
+    "6": "Diante desse obstáculo maior e mais forte, apenas o governo é capaz de reagir e obter verdadeiramente o poder de influência sobre a massa populacional.",
+    "7": "Dessa forma, o Ministério da Saúde, a Anvisa, entre outros órgãos devem se impor diante da indústria de alimentos, para essas empresas de fast-food terem uma maior preocupação com a saúde da população.",
+    "8": "E, ultimamente, já pode-se  notar essa atitude de precaução.",
+    "9": "Os produtos industrializados já estão reduzindo a taxa de gordura trans e de calorias , Aumenta-se  cada vez mais o número de alimentos diet e light e aqueles feitos com cereais integrais.",
+    "10": "Reportagens, enciclopédias e livros são produzidos nesse assunto.",
+    "11": "Principalmente quando a preocupação com a estética tem sido cada vez maior.",
+    "12": "Contudo, mesmo em meio a essa maior preocupação com a beleza, os dados em relação à taxa de obesidade infantil ainda são crescentes .",
+    "13": "Assim, o governo não pode se conformar com o atual quadro, mas  deve cada vez mais se impor diante dessa poderosa indústria de alimentos, pois ele é o órgão que detém do  maior poder de influência na escolha alimentar da população.",
+    "14": "Portanto, essa escolha deve estar dividida entre a família, que é uma forma direta de educação alimentar, e o governo, que é a forma mais poderosa e verdadeiramente capaz de agir sobre todos os outros meios de influência da massa populacional."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com a mercantilização exacerbada do cotidiano, na qual os hábitos alimentares assumem centralidade na discussão acerca da saúde pública.",
+    "1": "Nesse panorama, a determinação do que nutre o corpo transita em uma tênue linha divisória entre a autonomia individual e a tutela estatal.",
+    "2": "Conquanto o livre-arbítrio pareça legitimar as escolhas cotidianas, tal perspectiva mostra-se reducionista diante de determinantes socioeconômicos e da agressiva publicidade industrial.",
+    "3": "Torna-se imperioso, portanto, analisar como a escassez de recursos financeiros e a manipulação midiática cerceiam a soberania alimentar dos cidadãos brasileiros.",
+    "4": "Em primeira análise, é fundamental pontuar que a Teoria do Capital Humano, de Gary Becker, ressalta a importância de investimentos estruturais para o desenvolvimento social, premissa negligenciada no que tange ao acesso democrático à alimentação saudável.",
+    "5": "Deveras, o avanço dos ultraprocessados nas prateleiras, aliados à precarização da renda de parcelas marginalizadas, transforma o ato de comer em um reflexo da desigualdade de classes.",
+    "6": "A propaganda corporativa, por sua vez, atua como um mecanismo de alienação de massas, mascarando os malefícios de produtos nocivos sob o véu da conveniência e do apelo emocional.",
+    "7": "Desse modo, a suposta liberdade de escolha é severamente comprometida por barreiras estruturais que favorecem o lucro em detrimento do bem-estar coletivo.",
+    "8": "Ademais, sob a ótica da filosofia contratualista de John Locke, o Estado tem o dever intransigível de garantir os direitos naturais dos cidadãos, entre os quais sobressai a integridade física e a saúde.",
+    "9": "No entanto, a omissão dos órgãos governamentais na regulação rígida da indústria alimentícia perpetua um cenário de vulnerabilidade sanitária, cujos desdobramentos recaem sobre o sistema público de saúde.",
+    "10": "A inércia estatal, portanto, corrobora a manutenção de um ciclo vicioso de morbidades associadas à má nutrição, eximindo o poder público de sua responsabilidade primordial.",
+    "11": "Evidencia-se, assim, que a escolha alimentar não reside apenas no âmbito privado, mas exige uma intervenção multissetorial incisiva.",
+    "12": "Destarte, medidas concretas fazem-se urgentes para mitigar tal problemática e resguardar a coletividade.",
+    "13": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover a reeducação alimentar nas escolas e nos centros comunitários por meio de palestras, oficinas culinárias e cartilhas informativas, com o fito de conscientizar a população acerca dos riscos dos ultraprocessados.",
+    "14": "Ademais, o Poder Legislativo deve endurecer a taxação sobre produtos de baixa qualidade nutricional e criar subsídios para alimentos in natura, viabilizando o acesso universal.",
+    "15": "Somente assim, por intermédio de uma práxis estatal efetiva e da conscientização social, mitigar-se-á a vulnerabilidade alimentar, assegurando a dignidade da pessoa humana no Brasil."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

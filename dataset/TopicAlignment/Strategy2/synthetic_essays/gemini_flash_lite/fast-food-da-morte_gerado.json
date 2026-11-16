@@ -1,0 +1,86 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A obesidade é um dos grandes problemas de hoje em dia, e precisamos ficar conscientes dos males que ela nos traz.",
+    "1": "O governo deveria criar alguma lei para controlar as propagandas de Fast-Food?",
+    "2": "O Ministério da Saúde promove campanhas para a sociedade , com a finalidade de informar os altos índices de gorduras, açúcar, e sal.",
+    "3": "E com isso houve propostas de limitações de comerciais, com as informações dessas “bombas calóricas”.",
+    "4": "A obesidade nos Estados Unidos tem um índice mais alto, por causa das redes de Fast-Food localizada  nos centros das cidades, e a vista  desses alimentos gordurosos chama a atenção da população para uma vida menos saudável, chegando a causar até o sedentarismo.",
+    "5": "Sanduíches, Batata Frita, Milk-Shake é um  dos grandes “amigos” das crianças, mas  um grande malefício para o organismo, provocando a obesidade, diabete, alto teor de insulina, chegando a provocar a morte.",
+    "6": "E os pais vivem se preocupando com os filhos, e vejam como solução a proibição desses alimentos ou a regulação, e incrementar sucos, saladas e frutas no dia a dia delas, pois assim terão um organismo mais saudável."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o paradoxo da abundância alimentar e a precarização das escolhas nutricionais.",
+    "1": "Nesse viés, a problemática acerca da responsabilidade sobre a dieta da população emerge não apenas como um foro íntimo de deliberação individual, mas como um reflexo de engrenagens estruturais e mercadológicas complexas.",
+    "2": "Diante disso, convém analisar como a negligência estatal na fiscalização da indústria e a intensa pressão publicitária exercida sobre os cidadãos configuram os pilares que perpetuam esse cenário deletério à saúde pública.",
+    "3": "Em primeira análise, é imperioso pontuar que o Estado brasileiro detém o dever constitucional de zelar pelo bem-estar coletivo, prerrogativa esta mitigada pela leniência regulatórios frente ao lobby corporativo.",
+    "4": "Consoante o economista Amartya Sen, o desenvolvimento socioeconômico exige a garantia de liberdades substantivas, as quais incluem o acesso a informações transparentes e a produtos alimentícios seguros, preceitos frequentemente violados pela rotulagem inadequada e pelo barateamento artificial de ultraprocessados.",
+    "5": "Dessa forma, a omissão dos órgãos governamentais em taxar severamente os malefícios nutricionais transfere, indevidamente, o ônus da vigilância sanitária e alimentar ao indivíduo, que se encontra vulnerável perante o poderio financeiro das grandes corporações alimentícias.",
+    "6": "Ademais, corrobora com essa lógica perversa a hegemonia da indústria cultural, que, conforme a Escola de Frankfurt, manipula desejos e dita padrões de consumo por meio de estratégias midiáticas agressivas.",
+    "7": "Destarte, o apelo visual e emocional veiculado cotidianamente nas redes de televisão e internet fomenta a hiperpalatabilidade dos alimentos em detrimento da culinária tradicional in natura, moldando o paladar infantil e adulto sob a égide da conveniência e do lucro.",
+    "8": "Destarte, medidas urgentes são necessárias para mitigar esse impasse e resguardar a soberania alimentar dos brasileiros.",
+    "9": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, reformular as diretrizes nutricionais nacionais por meio de campanhas de conscientização nas escolas e mídias de massa, detalhando os riscos associados aos ultraprocessados e promovendo feiras de agricultura familiar.",
+    "10": "Essa ação deve ser realizada mediante a alocação de recursos do orçamento federal e a implementação de restrições severas à publicidade infantil, a fim de garantir que as futuras gerações façam escolhas alimentares conscientes e autônomas, distantes das amarras mercadológicas."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

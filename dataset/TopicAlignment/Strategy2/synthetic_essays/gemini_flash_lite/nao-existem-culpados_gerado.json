@@ -1,0 +1,123 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Hoje em dia, nesse mundo globalizado, o tempo torna-se precioso.",
+    "1": "Muitas coisas para se fazer ao mesmo tempo, e muitas vezes as principais tarefas do dia, que deveriam ser as refeições, são colocadas em segundo plano.",
+    "2": "Por exemplo, muitas pessoas preferem adiantar uma tarefa e comer qualquer coisa rápida a fazer a sua refeição tranquilamente.",
+    "3": "Mas será que a falta de tempo é o único motivo para as pessoas preferirem um fast-food?",
+    "4": "Uma pesquisa feita há pouco tempo atrás  revelou que cerca de 80% das crianças brasileiras são influenciadas por propagandas.",
+    "5": "Os adultos muitas vezes também são induzidos pela propaganda, afinal pedir um lanche pelo telefone é muito melhor do que fazer uma comida em um tempo que varia a  mais de meia hora, ou não.",
+    "6": "O trabalho da publicidade é esse, a população apenas se deixa levar por uma cultura de consumo voltada à rapidez e ao sabor, no caso dos fast-food.",
+    "7": "Os alimentos gostosos, a fartura está  sendo mais importante  do que as taxas de colesterol, gorduras, proteínas do  seu corpo.",
+    "8": "A empresa McDonald's é um exemplo perfeito.",
+    "9": "Foi uma das pioneiras das redes de fast-food, oferece brinquedos e brindes em seus lanches, as crianças pedem, os pais compram e é assim todo o final de semana.",
+    "10": "A antiga história de que refrigerante só aos domingos e festas está mesmo muito antiga, e as brincadeiras de rua, em que as crianças ficavam o dia inteiro se divertindo e correndo na rua de sua casa?",
+    "11": "O mundo mudou e as tecnologias avançaram, hoje tudo o que é mais prático e que requer menos esforço é melhor.",
+    "12": "Os videogames ajudam no sedentarismo, até já foram inventados aparelhos que permitem que você jogue utilizando o seu corpo, como um jogo de boliche em que o seu corpo é o referencial para o boneco na tela.",
+    "13": "Isso já é um grande começo.",
+    "14": "Mas e na questão alimentação?",
+    "15": "Qual o fator responsável pelo número crescente de obesidade no mundo, principalmente nas crianças?",
+    "16": "A cultura alienante americana empobreceu o regime alimentício dos brasileiros, até o clássico arroz e feijão perdendo o espaço para os hambúrgueres.",
+    "17": "O único responsável por sua escolha alimentar é o próprio ser humano.",
+    "18": "Seguir as suas próprias vontades responsavelmente é fundamental para uma boa educação alimentar, fast-food é bom, mas sem exagero."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida, descrita por Zygmunt Bauman, a sociedade contemporânea defronta-se com complexos dilemas atinentes à autonomia e à tutela do indivíduo.",
+    "1": "No contexto brasileiro, a problemática concernente à responsabilidade sobre a escolha alimentar da população revela-se evidente, polarizada entre a soberania individual e a ingerência estatal.",
+    "2": "Nesse viés, faz-se imperioso analisar tal panorama sob dois prismas fundamentais: a precarização do acesso à informação nutricional verídica e a agressiva manipulação mercadológica perpetrada pela indústria alimentícia.",
+    "3": "Com efeito, impõe-se a necessidade de mitigar esses óbices para garantir o bem-estar coletivo.",
+    "4": "Em primeira análise, é fundamental pontuar que a mercantilização da saúde tem raízes profundas na lógica capitalista, a qual prioriza o lucro em detrimento da qualidade de vida.",
+    "5": "Sob esse viés, conforme postula a Escola de Frankfurt, a Indústria Cultural atua na massificação do consumo, moldando desejos e ocultando os malefícios dos ultraprocessados por meio de propagandas seduções.",
+    "6": "Paralelamente, a carência de políticas educacionais eficazes voltadas à conscientização alimentar agrava o quadro, deixando a população vulnerável a falsas promessas nutricionais e à desinformação disseminada nos meios digitais.",
+    "7": "Desse modo, o arbítrio sobre o que se consome torna-se ilusório, uma vez que o livre-arbítrio é sutilmente cerceado por interesses corporativos que desconsideram o impacto sanitário de seus produtos.",
+    "8": "Em segunda análise, cabe destacar que a vulnerabilidade socioeconômica de parcela expressiva dos brasileiros constitui um entrave intransponível para a plena liberdade de escolha alimentar.",
+    "9": "Conforme o conceito de capitalismo periférico de Raul Prebisch, as desigualdades estruturais limitam o acesso das classes subalternas a alimentos in natura, tornando-os financeiramente inacessíveis quando comparados aos produtos industrializados de baixo custo e alta densidade calórica.",
+    "10": "Consequentemente, a suposta autonomia alimentar esbarra na dura realidade da escassez de recursos financeiros e na desertificação alimentar presente em periferias urbanas, onde o comércio local prioriza itens duráveis e nocivos à saúde.",
+    "11": "Desse modo, a responsabilidade não recai unicamente sobre o indivíduo, pois a estrutura social vigente impõe barreiras intransponíveis que condicionam seus hábitos diários.",
+    "12": "Infere-se, portanto, que a responsabilidade sobre a escolha alimentar da população é compartilhada, exigindo ações enérgicas do Estado e da sociedade civil.",
+    "13": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação — órgão responsável pela gestão do ensino público —, implementar o Programa Nacional de Educação Nutricional nas escolas, por meio de palestras e oficinas práticas na grade curricular, com o fito de desmistificar mitos alimentares e capacitar os jovens para escolhas conscientes.",
+    "14": "Ademais, o Poder Legislativo deve endurecer a taxação sobre ultraprocessados e restringir sua publicidade infantil, visando a desestimular o consumo excessivo dessas mercadorias.",
+    "15": "Somente assim, por meio de tais medidas, o país poderá emancipar seus cidadãos das amarras mercadológicas e assegurar o direito fundamental à alimentação adequada."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

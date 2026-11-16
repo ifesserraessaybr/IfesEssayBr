@@ -1,0 +1,87 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Analgésicos, antialérgicos e antibióticos estão entre os medicamentos que com a legislação de 1975 se tornaram isentos de prescrição médica.",
+    "1": "Após esta  legislação a automedicação se tornou uma prática mundialmente comum.",
+    "2": "E apesar de ser um grande avanço, o ato desorientado tem desencadeado graves problemas, sobretudo em países subdesenvolvidos.",
+    "3": "Com a crescente demanda social e econômica  a automedicação é apoiada pela OMS          .",
+    "4": "Isso porque, segundo a própria ela é eficiente no tratamento de doenças sem gravidades  , e já tem gerado resultados positivos em lugares como EUA e Europa.",
+    "5": "Mas para que isto  aconteça estes  locais tem  desenvolvido alertas que denotam que estes  resultados só são possíveis          com a orientação de um médico, ou seja depois de ter informações, como: efeitos colaterais e tempo de uso.",
+    "6": "Infelizmente em países como o Brasil, esta  prática          não pode ser caracterizada como eficiente.",
+    "7": "Pois neste  , além da falta de investimento e fiscalização pública, há um          \"comércio medicinal\" altamente perigoso, que consiste em propagandas má  constituídas e de caráter integralmente consumista  .",
+    "8": "Que persuadem  todas faixas etárias, principalmente os jovens, maioria no consumo  de medicamentos, que com este  alto consumo tem desencadeado problemas como intoxicação e overdose.",
+    "9": "Neste  contexto, é preciso que haja do governo uma iniciativa  , que junto com a  vigilância sanitária, desenvolva o controle o  publicidade e cria  punições a quem tenta persuadi  pessoas ao autoconsumo de fármacos.",
+    "10": "Para que assim está  prática já benéfica em países como os EUA, também possa denotar-se como um auxilio a  saúde pública brasileira."
+  },
+  "redacao_gerada": {
+    "0": "Na contemporaneidade, a automedicação consolidou-se como um grave problema de saúde pública, sendo alarmantemente comum entre os jovens brasileiros.",
+    "1": "Tal panorama decorre tanto da cultura da conveniência e da busca por alívio imediato quanto da negligência informacional fomentada pelo meio digital.",
+    "2": "Sob essa ótica, torna-se imperioso analisar os fatores socioculturais que perpetuam essa conduta nociva à integridade da juventude.",
+    "3": "Em primeira análise, cabe pontuar que a sociedade moderna é fortemente influenciada pela lógica consumista e pela impaciência, conforme postula o sociólogo Zygmunt Bauman em sua teoria da modernidade líquida.",
+    "4": "Nesse cenário de relações e soluções instantâneas, o jovem contemporâneo tende a enxergar nos fármacos uma ferramenta rápida para suprimir qualquer sintoma indesejado, ignorando os riscos inerentes a essa prática.",
+    "5": "Consequentemente, a facilidade de acesso a medicamentos sem prescrição médica, atrelada à cultura do alívio imediato, transforma o cuidado com a saúde em um ato irresponsável e automatizado.",
+    "6": "Em segundo plano, destaca-se a influência nociva da internet e das redes sociais na disseminação de diagnósticos precoces e conselhos farmacológicos informais.",
+    "7": "De acordo com o filósofo Pierre Lévy, a cibercultura democratizou a informação, mas também abriu margem para a proliferação de conteúdos não verificados e de fake news na área médica.",
+    "8": "Desse modo, a exposição constante a propagandas veladas e a relatos de pares no ambiente virtual induz os jovens ao erro, fazendo com que confiem em orientações leigas em detrimento do saber científico.",
+    "9": "Infere-se, portanto, a urgência de medidas coordenadas para mitigar a automedicação juvenil no país.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em parceria com as instituições de ensino, promover campanhas nacionais de conscientização nas escolas e nas plataformas digitais, por meio de palestras ministradas por profissionais da área e inserções publicitárias educativas.",
+    "11": "Essa ação tem como efeito inibir a banalização do uso de remédios, visando a salvaguardar a vida e a integridade física das futuras gerações."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

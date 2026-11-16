@@ -1,0 +1,95 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Comumente se vê pessoas praticando a automedicação, muitas vezes porque viu a propagando  do medicamento na televisão, outras vezes por conselho de um conhecido.",
+    "1": "A automedicação, por um lado, é boa  para não sobrecarregar os hospitais, mas por outra  coloca em risco a vida de quem a pratica.",
+    "2": "A questão “saúde” no Brasil ainda é algo que merece mais atenção e investimentos.",
+    "3": "Os hospitais, sejam eles públicos ou privados, e postos de saúde, estão com superlotação, o que causa demora no atendimento e uma má prestação de serviço.",
+    "4": "A fim de evitar a espera  muitas pessoas fazem a automedicação.",
+    "5": "Os jovens, os mais adeptos da prática, são          muitas vezes influencias pelas propagandas, muitas vezes ilusórias, vinculadas aos  meios de comunicação,          uma vez que eles assistem a tevê e ouvem ao rádio mais do que uma pessoa adulta.",
+    "6": "Não é raro ouvir casos de pessoas que morreram por se automedicar, muitas vezes devido a uma superdose do medicamento.",
+    "7": "A prática é algo que pode ser fatal.",
+    "8": "Segundos a Fundação Oswaldo Cruz (FIOCRUZ), em 2007 quase que 35 mil pessoas sofreram intoxicação por se automedicarem, sendo que 90 morreram.",
+    "9": "As pessoas, e principalmente os jovens, devem ter consciência que remédio é uma droga , e que deve ser ministrado somente por pessoas eruditas no assunto , que estudaram e que sabem a melhor forma de tratar o problema.",
+    "10": "Devem saber que automedicação é prejudicial à saúde, podendo levar a  morte ou causar sérios riscos ao corpo.",
+    "11": "Os usuários de redes sociais, na maioria os jovens  , devem criar grupos e divulgar o problema para o maior número de pessoas possíveis, informando o risco que elas correm com a automedicação.",
+    "12": "Os maiores laboratórios, para evitar que a população sofra problemas sérios com a prática, devem vincular junto a  mídia comerciais informando os graves danos que podem acontecer aos adeptos da prática.",
+    "13": "Nas propagandas dos medicamentos todos os laboratórios devem informar as reações adversas mais comum, juntamente com interações medicamentos."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade contemporânea testemunhou a consolidação do consumo rápido como pilar das relações cotidianas, o que reverberou diretamente na saúde.",
+    "1": "Nesse contexto, a automedicação entre os jovens brasileiros consolidou-se como um grave problema de saúde pública, impulsionada tanto pela banalização do acesso farmacológico quanto pela negligência institucional.",
+    "2": "Diante desse cenário, torna-se imperativo analisar tal panorama à luz da modernidade líquida de Zygmunt Bauman e da premissa da autonomia individual.",
+    "3": "Em primeira análise, é fundamental destacar que a cultura da urgência, teorizada por Zygmunt Bauman em sua obra 'Modernidade Líquida', propicia um ambiente no qual a busca por alívio imediato sobresai-se à reflexão cautelosa sobre a saúde.",
+    "4": "Desse modo, os indivíduos, imersos em um ritmo de vida acelerado e na pressão por produtividade constante, recorrem a fármacos sem prescrição médica como solução paliativa para mal-estares corriqueiros, ignorando os riscos toxicológicos inerentes a essa prática.",
+    "5": "Paralelamente a isso, a influência da publicidade velada e a facilidade de aquisição de medicamentos nas redes de farmácias comerciais criam uma falsa sensação de segurança, corroborando a ideia de que o corpo sob controle é aquele que se autogerencia rapidamente.",
+    "6": "Em segunda análise, sob a ótica da autonomia distorcida, observa-se a carência de uma educação voltada para a literacia em saúde nas instituições de ensino do país.",
+    "7": "Consequentemente, a falta de discernimento crítico faz com que grande parte da juventude assimile orientações superficiais da internet, substituindo o diagnóstico clínico profissional por conselhos informais obtidos em redes sociais.",
+    "8": "Essa postura acarreta o aumento alarmante de casos de intoxicação medicamentosa e a resistência bacteriana, fenômenos que revelam a urgência de intervenções estruturais.",
+    "9": "Portanto, medidas cabem ser tomadas para mitigar essa problemática e garantir o bem-estar juvenil.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover campanhas de conscientização nas escolas e nos meios de comunicação de massa sobre os perigos da automedicação, por meio de palestras interativas e distribuição de cartilhas informativas.",
+    "11": "Ademais, as farmácias e drogarias devem ser fiscalizadas com maior rigor por órgãos competentes, visando coibir a venda de remédios controlados sem a devida receita médica.",
+    "12": "Somente assim, com a união entre conscientização pedagógica e fiscalização estatal, o país poderá superar essa perniciosa cultura e assegurar uma juventude mais saudável e informada."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

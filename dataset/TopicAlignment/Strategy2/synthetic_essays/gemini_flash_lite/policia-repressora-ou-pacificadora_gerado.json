@@ -1,0 +1,92 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "As manifestações se tornaram comuns no atual cenário da sociedade brasileira.",
+    "1": "São vários os grupos que estão indo as  ruas reivindicar e protestar.",
+    "2": "Os pontos reivindicados em sua maioria são: o mal  gasto do dinheiro público e a péssima qualidade dos serviços prestados a população          .",
+    "3": "Porém  nem todas as pessoas envolvidas nesses protestos agem pacificamente, alguns grupos  como os Black Blocs  são acusados pelas autoridades de se aproveitarem dos protestos para praticar atos de vandalismo, tendo a polícia nessas ocasiões agir  para manter a paz e a ordem.",
+    "4": "Essa ação da polícia vem sendo muito contestada na sociedade, devido ao alto grau de violência utilizado para conter esses manifestantes desordeiros.",
+    "5": "A polícia que deveria ser intitulada de pacificadora , por muitas vezes e  acusada de repressora.",
+    "6": "Mas essa violência só reflete a desorganização que se encontra o nosso país atualmente.",
+    "7": "Entre os serviços públicos de má qualidade se encontra a polícia.",
+    "8": "Policiais são mau  pagos e pouco treinados para agir nessas situações, e em muitas cidades as condições de trabalho são desoladoras.",
+    "9": "Esses pontos também devem se analisados por nós cidadões  .",
+    "10": "Para finalizar, boa parte desses problemas poderia começar a ser resolvido  se os governantes aumentassem os investimentos nos dois setores mais exigidos pela sociedade, educação e saúde.",
+    "11": "Principalmente a educação, que e  o principal alicerce de uma sociedade civilizada."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, o Estado moderno consolidou-se sob a égide do monopólio do uso legítimo da força, conforme postulado pelo sociólogo Max Weber.",
+    "1": "No entanto, na contemporaneidade, observa-se uma distorção dessa prerrogativa quando a atuação policial em manifestações populares transborda os limites da legalidade, gerando debates acerca do equilíbrio entre a manutenção da ordem pública e a garantia dos direitos fundamentais.",
+    "2": "Diante desse cenário, impõe-se analisar tanto a ineficácia do treinamento das forças de segurança quanto a perpetuação de heranças autoritárias na estrutura estatal, fatores que alimentam a escalada da violência urbana.",
+    "3": "Em primeira análise, é fundamental pontuar que a formação policial muitas vezes negligencia os preceitos constitucionais de respeito aos direitos humanos.",
+    "4": "Sob a perspectiva do filósofo Michel Foucault, as instituições de custódia e controle social operam sob a lógica da disciplina punitiva, o que frequentemente resulta em respostas desproporcionais frente ao direito legítimo à livre expressão.",
+    "5": "Desse modo, o aparato de segurança pública, em vez de atuar como guardião da cidadania, reproduz práticas de coerção que criminalizam os movimentos sociais e acirram os conflitos nas ruas brasileiras.",
+    "6": "Ademais, a persistência de resquícios ditatoriais no imaginário institucional corrobora a desproporcionalidade da ação policial.",
+    "7": "Consoante à teoria do pensador Theodor Adorno sobre a persistência da barbárie em sociedades civilizadas, a cultura do medo e da repressão aos dissidentes permanece enraizada nas estruturas burocráticas do país.",
+    "8": "Consequentemente, o direito constitucional de reunião pacífica é sistematicamente violado por intervenções violentas que sufocam o debate democrático e aprofundam a desconfiança da população em relação às autoridades constituídas.",
+    "9": "Portanto, medidas enérgicas são premente necessárias para harmonizar a atuação policial com os valores democráticos.",
+    "10": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as Secretarias Estaduais de Segurança, reformular a matriz curricular dos cursos de formação policial, mediante a inserção de disciplinas obrigatórias de direitos humanos e mediação de conflitos, com o escopo de humanizar o atendimento e coibir excessos.",
+    "11": "Somente assim, por meio de um Estado efetivamente garantidor, a ordem pública coexistirá plenamente com a liberdade de manifestação."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

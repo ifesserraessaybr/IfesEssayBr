@@ -1,0 +1,78 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Automedicar-se é uma prática bastante comum, tendo em vista que os  últimos anos  a sociedade tornou-se          ainda mais apressada.",
+    "1": "Os jovens em sua maioria  são os verdadeiros médicos de si mesmo  , tomam o remédio por conta própria, apenas porque um amigo indicou ou          ele mesmo ouviu falar que seria bom para aquele mal estar.",
+    "2": "A pressa e o pouco tempo disponível devido o  emprego ou os  estudos podem ser uma das causas de levar a juventude a se automedicar.",
+    "3": "Por vezes os indivíduos veem a doença como uma simples virose ou a indisposição para realizar os afazeres cotidianos fazem  com que muitas pessoas recorram ao velho amigo que sempre lhe  indica o melhor remédio.",
+    "4": "Automedicar-se nunca foi aconselhado, tendo em vista que isso pode agravar o problema, causar à dependência  do medicamento e ainda levar o indivíduo a intoxicação e ainda leva à morte  .",
+    "5": "O que seria de suma importância é que esses jovens e os demais que se julgam aptos a medicar-se pudesse  refletir que a  simples virose mal tratada pode vir a ser  uma grave doença, ou aquela dor de cabeça pode ser sinal de uma doença um pouco mais séria.",
+    "6": "Consultar um médico sempre será a melhor opção antes de ingerir qualquer medicamento,          sabendo que remédios são drogas e que os mesmo administrados de forma incorreta podem agravar o quadro de saúde da pessoa."
+  },
+  "redacao_gerada": {
+    "0": "No cenário contemporâneo, a automedicação consolidou-se como um grave problema de saúde pública, especialmente entre o público jovem.",
+    "1": "Essa prática nociva decorre tanto da facilidade de acesso a fármacos sem prescrição médica quanto da influência exercida pelo meio digital.",
+    "2": "Desse modo, torna-se imperioso analisar as raízes socioculturais desse comportamento para mitigá-lo na sociedade brasileira.",
+    "3": "Em primeiro lugar, é fundamental pontuar que a sociedade de consumo, conforme postulado por Zygmunt Bauman, estimula a busca por gratificações imediatas e soluções instantâneas para o sofrimento.",
+    "4": "Nesse contexto, o jovem moderno, imerso na lógica da rapidez, recorre aos medicamentos como atalhos para cessar dores físicas ou emocionais, negligenciando os riscos inerentes à toxicidade e à resistência bacteriana.",
+    "5": "Ademais, a cibercultura desempenha um papel central na disseminação dessa conduta, visto que as redes sociais funcionam como vitrines de conselhos médicos informais e influenciadores digitais irresponsáveis.",
+    "6": "Segundo o sociólogo Pierre Bourdieu, a reprodução de hábitos sem o devido capital cultural crítico perpetua vulnerabilidades, o que, no caso em tela, expõe a juventude a diagnósticos equivocado e propagandas farmacológicas agressivas.",
+    "7": "Portanto, medidas urgentes são necessárias para combater a automedicação entre os jovens brasileiros.",
+    "8": "Para tanto, cabe ao Ministério da Saúde, em parceria com as escolas, intensificar campanhas de conscientização por meio de palestras e oficinas pedagógicas, detalhando os perigos do uso indiscriminado de remédios.",
+    "9": "O objetivo dessa iniciativa é alertar a comunidade discente sobre os malefícios à saúde, promovendo um consumo responsável e seguro.",
+    "10": "Dessa forma, a juventude poderá afastar-se de práticas nocivas e garantir um futuro pautado no bem-estar coletivo."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A sociedade é o ambiente em que vivemos, visto que somos personagens coadjuvantes para que se haja  uma paz e harmonia.",
+    "1": "Entretanto sabemos que nem todos desempenham esse papel, de forma que é necessário que hajam  burocracias e regras para          limitar, e delimitar, um meio pacifico  de convivência          , tendo “supervisores”, nomeados policiais, com o objetivo de monitorar, e reprimir, caso essas regras estão  de fato ou não sendo cumpridas.",
+    "2": "Na teoria, essas normas e supervisores são efetivas  , mas na prática, a policia  de fato não é muito pacífica.",
+    "3": "Visto que este é um país democrático, é dito que se pode haver força de expressão , desde que não se infrinja nenhuma regra ou lei, e, olhando para atualidade brasileira, o cidadão e a milícia têm estado em contínuos confrontos devido ao excesso de disciplina por parte da policia  , gerando inquietação da população.",
+    "4": "Entretanto, se partirmos do pressuposto que  quando depredamos algo, perdemos a razão, se nota  que os manifestantes também estão errados, mesmo que dentre eles estão  alguns que conseguem expor seu pensamento de forma pacata e sem quebrar patrimônios públicos.",
+    "5": "Contudo, o uso de equipamentos prejudiciais atingem por muitas vezes pessoas inocentes que estavam apenas no meio do ocorrido.",
+    "6": "É interessante ressaltar que a policia  militar é treinada para lidar com criminosos, visto que manifestantes não se encaixam nesse contexto, tornando esses profissionais incapacitados adequadamente para esse tipo de situação.",
+    "7": "Vale salientar que nada se explica  a violência,          porque ela está associada ao nosso estado primitivo, e hoje, como seres racionais, precisamos aprender a resolver nossas questões sem agredir um ao outro  .",
+    "8": "Para impedir que essa onda de violência venha se propagar mais, é necessário que o governo exija uma recapacitação e reeducação profissional nos  militares, para que saibam distinguir criminoso de civil, e saiba  punir o transgressor de forma que não atinjam os demais manifestantes.",
+    "9": "É importante que          se tenha postura de ambas as partes, de tal forma se é  cumprido o tão utópico lema “Ordem e progresso”."
+  },
+  "redacao_gerada": {
+    "0": "Na obra \"O Leviatã\", Thomas Hobbes postula que cabe ao Estado a manutenção da ordem social por meio do monopólio da força legítima.",
+    "1": "Contudo, no cenário brasileiro contemporâneo, a atuação das forças policiais em manifestações populares frequentemente descumpre esse preceito, oscilando entre o cumprimento do dever constitucional e a extrapolação desproporcional do uso da violência.",
+    "2": "Sob essa ótica, torna-se imperativo analisar como a lacuna na formação cidadã das corporações e a fragilidade dos mecanismos de fiscalização perpetuam tais abusos contra a liberdade de expressão.",
+    "3": "Em primeira análise, cabe pontuar que o despreparo técnico e ideológico das forças de segurança fomenta a truculência e desvirtua a função protetiva do Estado.",
+    "4": "A esse respeito, o sociólogo Zygmunt Bauman, em sua teoria da \"Modernidade Líquida\", reflete sobre a fragilidade das instituições modernas em garantir a segurança sem suprimir os direitos fundamentais dos cidadãos.",
+    "5": "Paralelamente a esse pensamento, nota-se que a abordagem policial repressiva em protestos muitas vezes trata manifestantes como inimigos do Estado, utilizando armamentos não letais de forma inadequada e ferindo o direito constitucional à livre manifestação.",
+    "6": "Desse modo, o excesso estatal sobrepuja o cumprimento legítimo do papel policial, gerando um ciclo de opressão e desconfiança institucional.",
+    "7": "Ademais, a insuficiência de controle e transparência sobre as ações policiais viabiliza a impunidade e perpetua abusos recorrentes.",
+    "8": "Segundo o filósofo Michel Foucault, em \"Vigiar e Punir\", as estruturas de poder tendem a exercer um controle disciplinar assimétrico quando não submetidas à rigorosa vigilância da sociedade.",
+    "9": "Nessa perspectiva, a ausência de mecanismos externos efetivos de corregedoria e o uso limitado de tecnologias de monitoramento individual, como câmeras corporais, abrem margem para arbitrariedades desmedidas durante a contenção de aglomerações.",
+    "10": "Logo, a falta de prestação de contas consolida a percepção de que a polícia frequentemente excede os limites da legalidade sob o pretexto de manter a ordem pública.",
+    "11": "Portanto, medidas urgentes são necessárias para harmonizar a atuação policial com o respeito aos direitos humanos essenciais à democracia.",
+    "12": "Para tanto, o Ministério da Justiça e Segurança Pública deve reformular os protocolos de atuação em manifestações, por meio do treinamento contínuo em direitos humanos e do uso obrigatório de câmeras corporais acopladas aos uniformes dos agentes de segurança.",
+    "13": "Essa reformulação curricular e operacional, detalhada com diretrizes de mediação de conflitos e avaliação psicológica periódica, visará assegurar a transparência total das operações e mitigar o uso desproporcional da força.",
+    "14": "Com essas ações, o Estado brasileiro poderá finalmente cumprir seu papel constitucional de proteger o cidadão sem violar as liberdades democráticas."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

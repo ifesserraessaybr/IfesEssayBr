@@ -9,8 +9,18 @@
     "generate_mistral_metrics - synthetic_essays": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
     "generate_mistral_metrics - results": "dataset/TopicAlignment/Strategy1/results/mistral_evaluations",
 
+    "generate_gemini_flash-lite - json_dataset_in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
+    "generate_gemini_flash-lite - xml_dataset_in": "dataset/TopicAlignment/aes-pt/data/data",
+    "generate_gemini_flash-lite - out": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash_lite",
+
+    "generate_gemini_flash - json_dataset_in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
+    "generate_gemini_flash - xml_dataset_in": "dataset/TopicAlignment/aes-pt/data/data",
+    "generate_gemini_flash - out": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash",
+
     "inspect_dataset - in": "dataset/TopicAlignment/json_dataset/QwenOneshot",
     "inspect_dataset - out": "dataset/TopicAlignment/json_dataset/dataset_inspection/QwenOneshot.txt",
     "inspect_dataset - total files": 285,
     "inspect_dataset - seed": 42
+
+    
 }

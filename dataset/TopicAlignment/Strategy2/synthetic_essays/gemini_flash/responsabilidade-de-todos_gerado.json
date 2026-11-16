@@ -1,0 +1,112 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "No Brasil, em 2012, está ocorrendo  o  Rio+20, o tema aborda  questões ambientais e o futuro de nosso Planeta.",
+    "1": "Após 20 anos depois do acontecido do Eco-92, as Nações Unidas voltam-se ao principal problema de todos os países, como  desenvolver a tecnologia sem agredir mais o meio em que vivemos.",
+    "2": "Ao visualizar o nosso Planeta e suas grandes potências , pensamos em quanto poderiam ser úteis no  desenvolvimento mundial  sem agreção de  nosso meio ambiente;           porém não é isso que reflete os  EUA na contribuição do  Rio+20.",
+    "3": "Seria uma escapatória?",
+    "4": "Como todos sabemos, o  Estados Unidos estão           na tão temida crise .",
+    "5": "Contudo, como advertem os chineses, \"Isso não pode ser uma desculpa para fugir do compromisso\", visto que os  são os maiores consumidores e como consequência os mais vorazes em poluir, deixando a desejar seu cuidado com o meio ambiente.",
+    "6": "Todavia, o grande problema caminha em direção aos países subdesenvolvidos, tal como em um \"efeito dominó\", refletindo em nós o prejuízo causado pela irresponsabilidade, deixando no ar a interrogação \"poluída\" de como ficará o mundo com dinheiro e sem àrvores  Portanto as expectativas por um futuro melhor, com  uma conferência tão importante, só haverá êxito  se todos contribuírem, sejam eles chineses, americanos ou brasileiros.",
+    "7": "Pois o risco está em uma vida universal, cabe a cada qual dar o seu exemplo para que possamos ter um futuro garantido."
+  },
+  "redacao_gerada": {
+    "0": "Na obra \"Utopia\", de Thomas More, a garantia da plena subsistência e do bem-estar biológico figura como alicerce fundamental para a harmonia social.",
+    "1": "Todavia, ao perquirir o cenário brasileiro hodierno quanto à questão de a quem cabe a responsabilidade sobre a escolha alimentar da população, observa-se uma antítese ao ideal moriano.",
+    "2": "Nesse contexto, a conduta nutricional dos indivíduos não é fruto mero do livre-arbítrio, mas sim influenciada por uma complexa rede de determinantes.",
+    "3": "Dessarte, torna-se imperativo analisar como a omissão estatal na regulamentação corporativa e a assimetria de capital informativo perpetuam a vulnerabilidade alimentar coletiva.",
+    "4": "Em primeira análise, cabe pontuar que a ingerência predatória da indústria de ultraprocessados, aliada à passividade do Poder Público, mitiga a autonomia individual na seleção dos mantimentos.",
+    "5": "Sob a ótica do sociólogo Zygmunt Bauman e seu conceito de \"Consumismo\", o indivíduo contemporâneo é constantemente instigado ao consumo impulsivo, pautado pela conveniência em detrimento da higidez.",
+    "6": "Paralelamente, o Estado falha ao não coibir satisfatoriamente o marketing ostensivo de produtos nocivos, permitindo que corporações hiperestimulem escolhas não saudáveis, sobretudo entre as classes de menor renda.",
+    "7": "Dessa forma, a responsabilidade não pode recair unicamente sobre o cidadão, visto que suas decisões são moldadas por um mercado agressivo e desregulamentado.",
+    "8": "Ademais, a escassez de letramento nutricional e as desigualdades socioeconômicas obstaculizam o pleno exercício de escolhas conscientes.",
+    "9": "Segundo o geógrafo Josué de Castro, em \"Geografia da Fome\", o fenômeno da má nutrição no Brasil resulta de estruturas sociais injustas e da ausência de políticas distributivas eficazes.",
+    "10": "Nessa perspectiva, as populações vulnerabilizadas encontram-se encurraladas pelos chamados \"desertos alimentares\", regiões onde o acesso a alimentos in natura é financeiramente inviável ou geograficamente escasso.",
+    "11": "Assim, imputar o ônus da má alimentação exclusivamente ao arbítrio pessoal desconsidera o peso imposto pela privação econômica, tornando a dieta equilibrada um privilégio de classe.",
+    "12": "Portanto, medidas prementes são necessárias para delimitar a responsabilidade estatal e restituir ao cidadão a capacidade de escolha alimentar saudável.",
+    "13": "Para tanto, o Ministério da Saúde, em conjunto com o Ministério da Educação, deve instituir o Programa Nacional de Letramento Nutricional e Regulamentação Alimentar.",
+    "14": "Essa ação será realizada por meio da inserção de diretrizes sobre nutrição na Base Nacional Comum Curricular (BNCC) e da restrição severa à publicidade infantil de itens hipercalóricos, detalhando-se a obrigatoriedade de alertas visuais frontais e informativos nas embalagens.",
+    "15": "Com isso, mediante essa reformulação estrutural, buscar-se-á efetivar a soberania alimentar e garantir o bem-estar social preconizado na utopia de More."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

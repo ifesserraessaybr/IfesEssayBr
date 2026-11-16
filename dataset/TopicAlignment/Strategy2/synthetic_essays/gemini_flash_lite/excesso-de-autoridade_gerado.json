@@ -1,0 +1,97 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "É de conhecimento público, que  a polícia tem se excedido          em suas durante manifestações .",
+    "1": "Dentre tantos  motivos relevantes , temos o uso da violência o abuso de autoridade, assim como          lesar os direitos de uma democracia .",
+    "2": "É preciso frisar que, o  uso exagerado da violência por policiais se faz presente em manifestações.",
+    "3": "Constata-se isso em manifestações, onde  a polícia faz uso de força bruta sem controle e respeito.",
+    "4": "Dessa forma, manifestantes pacíficos são tratados como \"bandidos\" por tal ato abusivo.",
+    "5": "Isto deve-se a  autoridade concedida a estes  policiais  a  rotina exaustiva que este  se depara  ,          além da falta de treinamento oferecida a eles.",
+    "6": "Observa-se tal abuso em condutas policias, não  só em manifestações, que acabaram sendo recorridas ações violentas o que poderia ser de forma pacífica, torna-se um ato de agressividade.",
+    "7": "Ainda convém lembrar que a mau  conduta destes  , lesa  direitos de uma sociedade democrática, onde todos tem  o direito de se manifestar ter suas opiniões.",
+    "8": "Sendo assim, a polícia faz um jogo          \"sujo\" para defender interesses de político  \"defensores da pobreza\" .",
+    "9": "Dado o exposto, a polícia se excede sim contra manifestantes, pacíficos  .",
+    "10": "Portanto se faz necessário uma análise crítica que possibilite a constatação da causa e as suas consequências.",
+    "11": "Buscar soluções eficazes e viáveis para a melhoria de vida é responsabilidades de todos."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, o Estado brasileiro consolidou-se sob a égide do monopólio do uso legítimo da força, conforme postulado pelo sociólogo Max Weber.",
+    "1": "No entanto, hodiernamente, observa-se uma distorção dessa prerrogativa quando forças policialescas atuam de maneira desproporcional em manifestações populares, suscitando o debate acerca dos limites entre a garantia da ordem pública e o cerceamento de direitos fundamentais.",
+    "2": "Desse modo, essa problemática persiste não apenas devido à ineficiência na formação humanizada das corporações, mas também pela perpetuação de heranças autoritárias no tecido social.",
+    "3": "Em primeira análise, é imperioso destacar que a formação militarizada das polícias, muitas vezes pautada na lógica do inimigo interno, corrobora os excessos repressivos.",
+    "4": "A esse respeito, o filósofo Michel Foucault, em sua obra Vigiar e Punir, discute como as instituições disciplinares exercem controle sobre os corpos, moldando condutas por meio da coerção.",
+    "5": "Sob essa ótica, o manifestante não é visto como um cidadão exercendo seu direito à livre expressão, mas sim como uma ameaça a ser neutralizada, o que legitima, no imaginário institucional, o uso desmedido da violência e compromete a harmonia democrática.",
+    "6": "Ademais, a persistência de resquícios autoritários na sociedade contemporânea fomenta a tolerância à violência estatal contra minorias e movimentos sociais.",
+    "7": "Consoante o pensamento do filósofo Theodor Adorno, a educação deve ser emancipatória para evitar a reprodução da barbárie e de preconceitos estruturais.",
+    "8": "Contudo, a ausência de um debate crítico e plural sobre o papel da segurança pública nos espaços educacionais resulta em uma parcela da população que corrobora a repressão, desde que esta não atinja seus próprios interesses, perpetuando um ciclo vicioso de violações aos direitos humanos.",
+    "9": "Depreende-se, portanto, a urgência de mitigar os excessos policiais e assegurar o direito constitucional à livre manifestação.",
+    "10": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as Secretarias de Segurança Estaduais, reformular a matriz curricular das academias de polícia, por meio da inserção de disciplinas voltadas aos direitos humanos e à mediação de conflitos.",
+    "11": "Essa medida tem por efeito humanizar a atuação dos agentes, visando garantir a segurança coletiva sem reprimir o exercício democrático.",
+    "12": "Somente assim, o Estado brasileiro distanciar-se-á de práticas autoritárias e cumprirá efetivamente seu pacto social."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

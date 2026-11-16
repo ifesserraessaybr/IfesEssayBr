@@ -1,0 +1,97 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Desde sempre a automedicação é utilizada.",
+    "1": "Hoje em dia é inimaginável vivermos sem ela, já que pequenas doenças tem  se tornado tão comum  em meio a  população.",
+    "2": "Os avanços da medicina vem  nos ajudando muito para a eliminação das enfermidades do dia-dia  de todo ser humano.",
+    "3": "Hoje em dia a automedicação tem se tornado um problema.",
+    "4": "Graças a  imprudência de quem utiliza este meio, principalmente jovens, vem  ocorrendo          óbitos fora do comum .",
+    "5": "Se as pessoas se conscientizassem a  ler e respeitar a bula, não estaria ocorrendo          tamanha algazarra na saúde pública.",
+    "6": "Muito se comenta inviabilizar a venda de remédios, vender apenas com o receituário.",
+    "7": "Em contrapartida, com a desorganização da saúde pública, que já não suporta a atual realidade brasileira , um caos ainda maior se instalaria.",
+    "8": "Enfim, espera-se que o governo realize procedimentos  cabíveis          para decrescer o número de óbitos decorrentes da automedicação .",
+    "9": "Como exemplo  deve-se aumentar a capacidade de atendimento de postos de saúde, hospitais e conscientizar a população a          se medicar com prudência através da leintura  da bula.",
+    "10": "Cada índividuo é responsável por sí  próprio e o governo trabalha para todos nós, se cada um fizer sua parte,          o fenecimento será bom para todos."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade contemporânea consolidou uma cultura de busca por alívio imediato para o sofrimento físico, fenômeno que encontrou solo fértil entre os jovens.",
+    "1": "Nesse contexto, a automedicação emergiu como um hábito corriqueiro e alarmante no cotidiano dessa parcela populacional.",
+    "2": "Tal cenário nocivo persiste não apenas devido à facilidade de acesso aos fármacos, mas também em virtude da influência exercida pelo ambiente digital.",
+    "3": "Torna-se imperioso, portanto, analisar esses fatores para mitigar tal problemática.",
+    "4": "Em primeira análise, é fundamental destacar que a mercantilização da saúde e a ampla difusão de informações na internet fomentam essa conduta irresponsável.",
+    "5": "Sob a ótica do sociólogo Zygmunt Bauman, a modernidade líquida é marcada pela rapidez e pela superficialidade das relações e das soluções buscadas pelos indivíduos.",
+    "6": "Consequentemente, a juventude, imersa nesse ritmo acelerado, recorre a diagnósticos virtuais rasos e conselhos não científicos para suprimir sintomas instantaneamente, negligenciando os riscos inerentes à ingestão desregrada de medicamentos.",
+    "7": "Em segunda análise, a negligência institucional no controle da venda de remédios potencializa o problema.",
+    "8": "De acordo com a teoria da burocracia de Max Weber, a eficiência de um sistema depende de normas rígidas e fiscalizadas; contudo, a comercialização frouxa de fármacos no Brasil contradiz esse preceito.",
+    "9": "Farmácias e drogarias muitas vezes burlam a exigência de prescrição médica em prol do lucro, permitindo que jovens adquiram substâncias controladas ou de uso restrito sem a devida orientação profissional, o que agrava a vulnerabilidade sanitária dessa faixa etária.",
+    "10": "Portanto, medidas cabíveis são urgentes para combater a automedicação entre os jovens.",
+    "11": "Para isso, cabe ao Ministério da Saúde, órgão responsável pelo bem-estar público, intensificar a fiscalização sobre os estabelecimentos farmacêuticos por meio de vistorias rigorosas e aplicação de multas severas aos infratores.",
+    "12": "Essa ação tem como intuito coibir a venda ilegal de remédios, garantindo que o acesso a tais produtos ocorra estritamente sob supervisão médica.",
+    "13": "Somente assim, com o apoio de campanhas educacionais nas escolas, a juventude brasileira poderá afastar-se desse perigoso hábito e preservar sua integridade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

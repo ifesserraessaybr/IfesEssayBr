@@ -1,0 +1,95 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "É comum encontrar crianças e jovens com doenças relacionadas a uma má alimentação, como, por exemplo , Obesidade, Diabetes e Hipertensão  .",
+    "1": "Um elo entre Governo  e família seria um grande passo para mudar a nova  realidade do nosso país.",
+    "2": "O investimento  em campanhas e medidas pelos governantes para  a reeducação alimentar da população seria uma ação preventiva bastante eficaz, pois, além de melhorar as condições de vida das pessoas, diminuiria, consequentemente, a superlotação dos hospitais, já que muitos casos de doenças seriam evitados, não sendo necessária a ida ao hospital por essas pessoas.",
+    "3": "Não adiantaria praticamente nada se só o Governo investisse na educação alimentar da população.",
+    "4": "A família também deve fazer a sua parte na formação de indivíduos com melhores hábitos alimentares  , que se alimentem de menos comidas  gordurosas e menos carregadas de substâncias químicas que fazem mal à saúde.",
+    "5": "O controle das propagandas que vendem alimentos gordurosos, obrigatoriedade de empresas alimentícias conterem em seu cardápio também comidas saudáveis, valorização dos Nutricionistas,  empenho da família para mudar o hábito alimentar para melhor seriam medidas que solucionaria  esse problema se colocados  em prática simultaneamente e não separadamente."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o paradoxo da abundância alimentar, que oscila entre a autonomia individual e a tutela estatal.",
+    "1": "Nesse viés, a problemática acerca da responsabilidade sobre as escolhas alimentares da população revela-se complexa, perpetuada não apenas pela negligência governamental, mas também pela voracidade da indústria alimentícia na era do consumo.",
+    "2": "Torna-se imperioso, portanto, analisar esses fatores para a efetiva garantia da segurança alimentar e nutricional no país.",
+    "3": "Em primeira análise, cabe pontuar que o aparato mercadológico exerce forte influência sobre o comportamento dos indivíduos.",
+    "4": "Consoante a teoria da Indústria Cultural de Adorno e Horkheimer, os meios de comunicação de massa manipulam os desejos humanos em prol da lógica capitalista, transformando ultraprocessados em símbolos de status e praticidade.",
+    "5": "Desse modo, o cidadão vulnerável torna-se refém de propagandas persuasivas que camuflam os malefícios desses produtos, eximindo o Estado de seu dever constitucional de assegurar a saúde pública e a informação clara, o que corrobora a perpetuação de hábitos nocivos à coletividade.",
+    "6": "Ademais, sob a perspectiva da soberania alimentar, é fundamental reconhecer que a escolha nutricional transcende o livre-arbítrio quando condicionada por barreiras socioeconômicas e geográficas.",
+    "7": "Conforme postulado por Amartya Sen em sua acepção sobre desenvolvimento como liberdade, a privação de recursos básicos restringe a capacidade humana de realizar escolhas racionais e saudáveis.",
+    "8": "Infere-se, portanto, que a população de baixa renda, submetida aos desertos alimentares e à inflação dos produtos in natura, encontra-se tolhida em seu poder de decisão, evidenciando que a responsabilidade estatal é indissociável da garantia de acesso equitativo à alimentação adequada.",
+    "9": "Infere-se, portanto, que medidas urgentes são necessárias para mitigar esse impasse.",
+    "10": "Para tanto, cabe ao Poder Executivo, especificamente por meio do Ministério da Saúde em parceria com o Ministério da Agricultura e Pecuária, intensificar a fiscalização e a taxação de alimentos ultraprocessados, além de subsidiar a produção de orgânicos da agricultura familiar.",
+    "11": "Essa ação deve ser realizada por meio da implementação de um Plano Nacional de Incentivo à Alimentação Saudável, o qual destinará recursos federais para feiras populares e campanhas educativas nas escolas e mídias, com o intuito de conscientizar a população e democratizar o acesso a produtos nutritivos.",
+    "12": "Com essas medidas, o país consolidará um cenário no qual a escolha alimentar seja, de fato, um ato consciente e acessível a todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

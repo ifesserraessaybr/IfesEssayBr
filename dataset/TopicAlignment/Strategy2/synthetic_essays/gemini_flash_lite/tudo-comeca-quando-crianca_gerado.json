@@ -1,0 +1,106 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A educação alimentar deve vir dede criança  , a exigência dos pais em relação aos habitos  saudáveis na alimentação é muito importante para os pequenos.",
+    "1": "E como apoio da escola, na hora do recreio, dispor de pratos leves e livre de gorduras.",
+    "2": "Com esse tipo de formação e costume a criança acaba dando prioridade a saúde.",
+    "3": "E também uma ajuda do governo para criar leis e projetos para concientização  da população, alertando sobre os males causados pelo excesso de comida gordurosa.",
+    "4": "Hoje em dia, a procura pelo fácil e prático acaba aumentando a demanda do fast-food .",
+    "5": "Apesar de que não se pode  proibir totalmente o consumo desse tipo de alimento, o importante é substituir calorias por vitaminas, como  exemplo, refrigerantes por sucos, etc.",
+    "6": "Deixando cada vez mais saudável a alimentação, ficando livres de problemas como açucar, sal e gordura, pois esses três ingredientes em excesso no nosso corpo pode  causar danos para saúde.",
+    "7": "Assim como nas caixas de tabaco, os  alertas sobre os problemas que causa o uso excessivo de determinado  produto seria fundamental para concientizar  os gordinhos de que controle na hora da comida e escolher pela verduras  , legumes e frutas, é muito importante para saúde.",
+    "8": "Leis governamentais para implantação desses avisos seria um passo importante para diminuir a obesidade de todas as idades, pois seria um estímulo a  vida sem gorduras.",
+    "9": "Concluimos que,  a escolha da alimentação é desde criança  com hábitos saudáveis exigidos pela família, não esquecendo de um boa qualidade de vida como exercícios físicos.",
+    "10": "E com apoio das escolas, fazendo concientização  desde pequeno, o futuro de ser um gordinho é pouco provável.",
+    "11": "E caso não tenha uma boa alimentação, começar desde já é uma boa opção, pois é melhor começar antes que seja tarde de mais  ."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o paradoxo da abundância alimentar e a precarização das escolhas nutricionais.",
+    "1": "Nesse contexto, a problemática concernente à responsabilidade sobre a dieta da população transcende o âmbito estritamente privado, configurando-se como um impasse de matiz coletivo e estatal.",
+    "2": "Com efeito, tal cenário persiste não apenas devido à omissão governamental na regulação do setor alimentício, mas também em virtude da intensa alienação mercadológica promovida pela indústria cultural.",
+    "3": "Torna-se imperioso, portanto, analisar esses óbices para a efetivação da soberania alimentar no país.",
+    "4": "Em primeira análise, cabe pontuar que a inércia do Estado no tocante à fiscalização rigorosa dos produtos ultraprocessados fomenta hábitos nocivos à coletividade.",
+    "5": "Sob essa ótica, o economista Amartya Sen defende que o desenvolvimento socioeconômico exige a garantia de liberdades substantivas, dentre as quais sobressai o acesso a uma nutrição adequada.",
+    "6": "No entanto, o que se observa no Brasil é a negligência estatal em desestimular o consumo de comestíveis prejudiciais por meio de tributações severas e campanhas educativas incisivas, corroborando a perpetuação de um panorama de vulnerabilidade sanitária e perpetuando o adoecimento em massa das classes subalternas.",
+    "7": "Ademais, a estratégia agressiva de marketing engendrada pela indústria alimentícia exerce um poder persuasivo determinante sobre o imaginário civil, anulando o discernimento crítico dos indivíduos.",
+    "8": "A esse respeito, a Escola de Frankfurt, por meio de Theodor Adorno, cunhou o conceito de indústria cultural para explicar como os meios de comunicação de massa moldam desejos e comportamentos em prol do lucro capitalista.",
+    "9": "Consequentemente, a população, bombardeada cotidianamente por propagandas enganosas que associam fast-food a status e felicidade, sucumbe a um consumo alienado, tornando-se refém de um sistema que prioriza a mercantilização da vida em detrimento da saúde pública.",
+    "10": "Infere-se, portanto, a urgência de medidas interventivas para mitigar o impasse acerca da responsabilidade alimentar no Brasil.",
+    "11": "Para tanto, caberá ao Poder Executivo, especificamente por meio do Ministério da Saúde e em parceria com o Ministério da Educação, promover a reeducação nutricional da sociedade.",
+    "12": "Essa ação deve ser realizada mediante a implementação de palestras obrigatórias nas escolas e campanhas midiáticas de grande alcance, detalhando os impactos deletérios dos ultraprocessados e ensinando o preparo de alimentos in natura.",
+    "13": "O intuito dessa iniciativa é conscientizar os cidadãos sobre a autonomia alimentar, viabilizando, assim, a construção de uma nação mais saudável e emancipada."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A população obesa no Brasil vem crescendo consideravelmente nos últimos anos.",
+    "1": "Isso se deve à proliferação das redes de “fast-food”, cujo carro chefe é um combinado de sanduíche, batata frita e refrigerante , pelo país.",
+    "2": "O fato de o índice estar mais alto entre crianças e jovens reflete o poder da propaganda sobre eles.",
+    "3": "Mas as crianças não podem carregar sozinhas a culpa pelo que ingerem a grande maioria delas não sabe o risco e os males futuros desse tipo de alimentação.",
+    "4": "Toda criança começa a construir sua personalidade muito cedo, começa a escolher o que vai vestir, onde quer passear, que amigos vai fazer e também o que vai comer, por isso é importante o exemplo dos pais na vida deles.",
+    "5": "Os pequenos demonstram grande admiração pelos parentes próximos e tendem a imitar o que esses fazem.",
+    "6": "Se os pais forçam os filhos a se alimentarem corretamente em casa, mas sempre os levam para lanchar em redes de \"fast-food\", o ensino nunca será eficaz.",
+    "7": "As crianças se vêem num mundo em que tudo acontece muito rápido e deve-se aproveitar ao máximo toda e qualquer experiência, logo, na hora de comer, querem algo que os  satisfaça, seja gostoso, agrade ao seu grupo de amigos e não tome muito tempo para que elas se divirtam depois.",
+    "8": "Como as crianças acreditam nos encantos da propaganda das \"trash-foods\" , o governo pode contribuir adotando leis sobre o horário em que elas serão exibidas, de modo que os alvos sejam apenas adolescentes e adultos, já que apresentam certo conhecimento sobre o prejuízo de se alimentar mal e não se deixam influenciar tanto pelo marketing.",
+    "9": "Além disso, cabe à família mostrar para as crianças que comidas saudáveis podem ser gostosas e atrativas visualmente, como as \"junk-food\", basta que o prato seja montado de forma adequada e envolva a criança no preparo, fazendo da alimentação algo divertido e prazeroso para pais e filhos.",
+    "10": "Portanto, podemos concluir que o segredo para combater a obesidade no Brasil é o equilíbrio.",
+    "11": "Proibir o consumo de comidas inadequadas ou deixar que os jovens escolham livremente o que vão comer não são opções sensatas.",
+    "12": "A família deve mostrar a eles que uma alimentação saudável é importante para a saúde e para a auto-estima e não os priva do convívio social, e que a ingestão de comidas mais gordurosas e calóricas algumas vezes é perfeitamente aceitável."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o paradoxo da abundância alimentar e da precarização das escolhas nutricionais.",
+    "1": "Nesse contexto, a problemática concernente à responsabilidade sobre a dieta da população transcende a esfera estritamente individual, revelando intricadas amarras socioeconômicas e mercadológicas.",
+    "2": "Com efeito, tal impasse persiste tanto devido à omissão estatal na regulação da indústria alimentícia quanto em virtude da voraz publicidade que aliena o cidadão.",
+    "3": "Torna-se imperioso, portanto, analisar esses fatores para a desconstrução desse cenário deletério."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

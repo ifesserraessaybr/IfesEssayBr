@@ -1,0 +1,110 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "As manifestações de junho do ano passado (2013) tiveram enorme importância no sentido de relembrar o povo brasileiro do seu direito de ir às ruas e protestar contra suas insatisfações.",
+    "1": "Além disso, contribuíram ao expor para todas as esferas da sociedade, a repressão e truculência policial, há muito praticadas nas favelas e periferias brasileiras.",
+    "2": "Essa tônica de ação policial manteve-se no inicio  deste ano na contenção dos \"rolezinhos\" e dos protestos          anti-copa , reascendendo  o debate sobre o papel e modo de atuação da Policia  Militar no trato com a sociedade civil.",
+    "3": "Esse modelo de policia  repressiva deve-se aos fortes laços entre as Forças Armadas e a Policia  Militar, herdados do período da Ditadura Militar, que não foram rompidos mesmo após 25 anos da Constituição Federal de 88.",
+    "4": "O problema desse vínculo é evidente: os policiais são treinados militarmente, ensinados a enxergar a sociedade civil como um inimigo a ser combatido e a rotina policial como uma guerra.",
+    "5": "A relação entre as duas instituições é tão forte que as UPPs (Unidades de Policia Pacificadoras) são comandadas efetivamente pelas Forças Armadas e a segurança pública durante a Copa do Mundo será realizada pelo Exército.",
+    "6": "Como se não bastasse a repressão, a Policia  Militar encontra seu esgotamento quando junto à  isso inclui-se  as péssimas condições oferecidas aos seus efetivos, principal causa da corrupção endêmica que assola o setor, propiciando o acordo entre as facções criminosas e policias  .",
+    "7": "Os resultados dessa crise são as cenas horríveis promovidas pela PM durante os protestos e o exorbitante número de execuções primárias no Brasil, chamadas eufemisticamente de autos de resistência (mortes de civis resultantes da ação policial).",
+    "8": "O país vive um momento decisivo desse debate e a solução para este cenário passa pela via legislativa e pela atuação dos Governos Estaduais.",
+    "9": "Esta  na melhora das condições de trabalho dos policiais e na efetivação daquela que reside na desvinculação da Policia Militar das Forças Armadas, a unificação da PM junto à   Policia  Civil          e a destinação da ação policial para atividades civis, em contraposição ao cargo atual de manutenção da ordem pública."
+  },
+  "redacao_gerada": {
+    "0": "Consoante a teoria contratualista de Thomas Hobbes, o Estado detém o monopólio legítimo da força para garantir a ordem e a pacificação social.",
+    "1": "No entanto, hodiernamente, observa-se que a atuação policial em manifestações populares muitas vezes transborda os limites da legalidade, manifestando-se por meio de excessos repressivos que ferem os direitos fundamentais.",
+    "2": "Tal problemática persiste não apenas pela militarização enraizada nas instituições de segurança, mas também pela fragilidade dos mecanismos de responsabilização estatal.",
+    "3": "Torna-se imperioso, portanto, analisar esse cenário sob a ótica da sociologia e efetivar reformas estruturais urgentes.",
+    "4": "Em primeira análise, é fundamental destacar que a estrutura das forças de segurança brasileira carrega heranças autoritárias.",
+    "5": "Sob a perspectiva do sociólogo Pierre Bourdieu, a violência simbólica e a força física exercidas pelo Estado muitas vezes servem para silenciar minorias e conter insatisfações legítimas, em detrimento do diálogo democrático.",
+    "6": "Desse modo, o aparato policial, concebido para proteger o cidadão, corriqueiramente reproduz lógicas de exclusão e combate ao manifestante como se este fosse um inimigo interno.",
+    "7": "Essa inversão de papéis corrompe o Estado Democrático de Direito e transforma o direito constitucional à livre manifestação em um cenário de vulnerabilidade civil e risco iminente.",
+    "8": "Em segunda análise, urge pontuar que a impunidade dos agentes transgressores fomenta a continuidade dessas arbitrariedades.",
+    "9": "Conforme postula o filósofo iluminista Cesare Beccaria, a eficácia da justiça reside na certeza da punição, princípio muitas vezes negligenciado quando os abusos cometidos por autoridades são acobertados por corporativismos institucionais.",
+    "10": "Com efeito, a ausência de rigor na apuração de desvios funcionais transmite a mensagem perniciosa de que a violência estatal é tolerada.",
+    "11": "Essa leniência corrói a confiança pública nas instituições e aprofunda o abismo entre a população marginalizada e os órgãos responsáveis pela manutenção da lei e da ordem.",
+    "12": "Infere-se, portanto, a necessidade de medidas enérgicas para harmonizar a atuação policial com os preceitos constitucionais.",
+    "13": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as corregedorias das polícias estaduais, reformular os protocolos de atuação em protestos, por meio da implementação de treinamentos focados em direitos humanos e técnicas de mediação de conflitos.",
+    "14": "Essa ação deve ser realizada mediante a obrigatoriedade de uso de câmeras corporais em todos os uniformes e a criação de ouvidorias externas independentes, com o intuito de coibir abusos e garantir a transparência nas operações.",
+    "15": "Afinal, somente assim o Estado cumprirá seu papel primordial de salvaguardar a cidadania sem suprimir a voz daqueles que lutam por justiça social."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

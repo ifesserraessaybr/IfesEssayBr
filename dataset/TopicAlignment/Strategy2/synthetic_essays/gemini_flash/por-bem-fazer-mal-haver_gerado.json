@@ -1,0 +1,99 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Segundo a Constituição de 1988 o cidadão tem direito a  livre manifestação.",
+    "1": "Manifestar-se é uma forma de demonstrar insatisfação com a política,          saúde, lazer , etc., pacificamente e de forma organizada.",
+    "2": "Contudo, vândalos se infiltram nos protestos  levando a polícia a agir de maneira violenta atingindo  , inclusive, as pessoas que se manifestam ordenadamente.",
+    "3": "A não aceitação de uma vertente de ordem social motiva a organização de manifestos  populares, onde  um grupo de pessoas com interesses em comum se reúne para juntos lutar pelos seus direitos previstos na Constituição.",
+    "4": "Um exemplo recente disso, é o “rolezinho”, movimento em que jovens da periferia, indignados com a falta de lazer, marcaram encontros nos shoppings através da rede social Facebook.",
+    "5": "A intenção foi manifestar-se de forma indireta, ou seja, sem cartazes nem passeatas, mas promovendo o lazer a si mesmo  , fazendo novas amizades, batendo papo, etc.",
+    "6": "Porém, algumas pessoas têm uma ideia deturpada em relação aos protestos.",
+    "7": "Tais indivíduos  durante o manifesto destrói  patrimônios públicos e privados, atacam violentamente outras pessoas e ameaçam autoridades e policiais.",
+    "8": "Retomando o caso do “rolezinho”   pessoas assim, se  infiltraram e furtaram jovens que faziam parte do movimento e funcionários das lojas do shopping.",
+    "9": "A polícia como resposta age com violência de maneira indiscriminada, atingindo também os cidadãos que se comportam adequadamente.",
+    "10": "É comum a utilização de armas de efeito moral e de balas de borracha para conter os vândalos.",
+    "11": "Vale uma ressalva, o dever da polícia em protestos é deter quem destruir patrimônios, agir de maneira violenta e praticar qualquer que seja ação de desordem.",
+    "12": "Assim como é obrigação da mesma  garantir a proteção e a integridade de todos, bem como o direito de livre manifestação.",
+    "13": "Sendo assim, a utilização de força de forma aleatória e desordenada não condiz com o dever de proteger os manifestantes diante de um direito que pertence a todos."
+  },
+  "redacao_gerada": {
+    "0": "Na obra \"O Leviatã\", Thomas Hobbes postula que a manutenção da ordem pública constitui o dever primordial do Estado moderno.",
+    "1": "Todavia, no contexto contemporâneo brasileiro, a atuação das forças policiais durante manifestações populares tensiona essa premissa, oscilando entre o cumprimento legítimo do dever e o excesso desmedido de força.",
+    "2": "Nesse cenário, constata-se que o aparato estatal frequentemente transgride seu papel mediador, impulsionado tanto por um histórico institucional autoritário quanto pela carência de formações pautadas nos direitos humanos.",
+    "3": "Em primeira análise, cabe pontuar que a truculência policial frente aos protestos reflete a permanência de posturas herdadas de regimes antidemocráticos.",
+    "4": "Segundo o sociólogo Max Weber, o Estado detém o monopólio do uso legítimo da força física; contudo, essa prerrogativa perde validade moral quando a violência extrapola os limites da legalidade e atinge cidadãos no exercício de sua liberdade de expressão.",
+    "5": "Desse modo, a ação desproporcional do contingente repressivo silencia o debate público e deturpa a função originária da instituição, transformando a proteção coletiva em coerção sistemática.",
+    "6": "Ademais, sobressai a deficiência na capacitação contínua dos agentes de segurança para gerir conflitos de massa de forma pacífica.",
+    "7": "Sobre essa ótica, a filósofa Hannah Arendt, em suas reflexões acerca da violência, alerta que o recurso à força desmedida sinaliza a perda de poder político e a incapacidade de diálogo.",
+    "8": "Assim, sem o devido treinamento focado na mediação e no respeito às garantias constitucionais, a polícia tende a enxergar o manifestante como um inimigo a ser combatido, e não como um sujeito de direitos que pleiteia demandas legítimas.",
+    "9": "Infere-se, portanto, a urgência de remodelar a postura das forças policiais para assegurar o equilíbrio entre a ordem e os direitos individuais.",
+    "10": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as Secretarias Estaduais de Segurança, reformular a diretriz pedagógica das corporações, mediante a implementação de cursos obrigatórios de mediação não violenta de conflitos e gestão humanizada de multidões.",
+    "11": "Essa medida, detalhada com a inclusão de simulados práticos e acompanhamento psicológico contínuo dos agentes de segurança pública, visará erradicar a brutalidade nas ruas.",
+    "12": "Com isso, garantir-se-á que as instituições policiais cumpram rigorosamente seu papel constitucional de salvaguardar o povo e a democracia."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Os jovens da geração mais moderna  estão suscetíveis a qualquer novidade que se lança.",
+    "1": "Pode se citar a tecnologia, a moda, a música e a comida.",
+    "2": "Apesar de ser um item estranho de ser relacionado aos jovens,          a comida afetou-lhes  negativamente.",
+    "3": "Isto pode ser percebido nas matérias de reportagem  mostradas pela mídia.",
+    "4": "O que acontece é o fato de as crianças e os jovens adquirirem péssimo estado de saúde por conta de hábitos alimentares irregulares, como a frequência costumeria de se alimentar em lanchonetes de fast-food.",
+    "5": "Tal situação está se tornando cada vez mais preocupante.",
+    "6": "As soluções mais viáveis para amenizar esse acontecimento alarmante, seriam  a criação de mais programas educativos para informar aos pais e aos responsáveis pela alimentação das crianças e dos jovens, a modificação de ingredientes utilizados na fabricação de alimentos pelas lanchonetes de fast-food e a redução de propagandas de produtos alimentares, pois este último  geralmente atinge  em larga escala as crianças e os jovens.",
+    "7": "Dessa forma, percebe-se que são atitudes para amenizar a escandalosa situação que se encontram essas jovens vítimas, e não de erradicar os prazeres delas.",
+    "8": "Portanto, é preciso de muito esforço por parte dos responsáveis da alimentação da população jovem, a fim de tornar a sociedade mais saudável e menos vulnerável."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o dilema acerca da tutela sobre as escolhas alimentares dos cidadãos.",
+    "1": "Nesse cenário, tal problemática perpetua-se não apenas pela mercantilização exacerbada da indústria alimentícia, mas também pela negligência estatal na garantia de informações transparentes à coletividade.",
+    "2": "Destarte, torna-se imperioso analisar esses vetores para a desconstrução desse panorama deletério.",
+    "3": "Em primeira análise, cabe pontuar que a lógica capitalista, conforme postula a Escola de Frankfurt, transforma a alimentação em mercadoria massificada, cujos apelos midiáticos anestesiam o senso crítico do indivíduo.",
+    "4": "Sob esse viés, conglomerados agroindustriais impõem produtos ultraprocessados altamente palatáveis e nocivos à saúde, mascarando seus malefícios por meio de propagandas persuasivas que atingem sobretudo as camadas mais vulneráveis.",
+    "5": "Consequentemente, o cidadão vê-se submerso em um mar de estímulos comerciais que tolhem sua autonomia real, tornando a escolha alimentar um reflexo da manipulação mercadológica e não do livre arbítrio consciente.",
+    "6": "Em segunda análise, sobressai a omissão do Estado na regulação e na educação alimentar da população, corroborando a teoria da anomia de Émile Durkheim, na qual a ausência de normas e diretrizes claras gera desordem social.",
+    "7": "Com efeito, a falta de políticas públicas efetivas que facilitem o acesso a alimentos in natura e que rotulem ostensivamente os perigos dos aditivos químicos perpetua o desconhecimento nutricional.",
+    "8": "Sem o respaldo governamental por meio de campanhas pedagógicas e fiscalização rigorosa, a coletividade permanece vulnerável ao obesogenic environment, consolidando um ciclo de descaso institucional que compromete a saúde pública nacional.",
+    "9": "Infere-se, portanto, que a responsabilidade sobre a escolha alimentar recai sobre uma esfera compartilhada entre o Estado e a sociedade, exigindo medidas enérgicas para sua mitigação.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover a reestruturação da política de alimentação escolar e o lançamento de campanhas de conscientização de alcance nacional, por intermigrations de mídias de massa e palestras nas escolas, com o fito de instruir acerca dos riscos dos ultraprocessados e fomentar hábitos saudáveis.",
+    "11": "Ademais, o Poder Legislativo deve intensificar a taxação de produtos nocivos e endurecer as regras de rotulagem nutricional frontal, visando a desestimular o consumo de tais itens e a resguardar o bem-estar coletivo.",
+    "12": "Dessa forma, mitigar-se-á o impacto da indústria na dieta da população, consolidando um país mais saudável e consciente."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

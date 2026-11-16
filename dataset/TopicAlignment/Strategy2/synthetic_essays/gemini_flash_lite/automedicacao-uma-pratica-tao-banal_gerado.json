@@ -1,0 +1,83 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Cerca de 76,4% dos brasileiros tendem a se automedicar  .",
+    "1": "Prática essa  nada saudável já que pode levar a pessoa a se intoxicar  ou até mesmo à morte.",
+    "2": "Mas a culpa acaba sendo do próprio sistema de saúde , que acaba conduzindo as pessoas a procurar pelo medicamento e não pelo médico  ao divulgar na  propagandas          a seguinte orientação: “se persistirem os sintomas os  médico deverá ser consultado”.",
+    "3": "O Ministério da Saúde deve procurar conscientizar a população de que antes de ingerir um remédio é necessário consultar o médico.",
+    "4": "É bom deixar claro também que estamos falando sobre o uso por conta própria de remédio com tarja vermelha ou preta na caixa .",
+    "5": "Pois nos casos de uma simples dor de cabeça ou de dente, de cólicas mestruais  , por exemplo, a automedicação é considerada “automedicação responsável”; e automedicação responsável é econômica e o sistema de saúde agradece.",
+    "6": "É importante conscientizar as pessoas a procurarem a se  informar antes de consumir o medicamento."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade contemporânea consolidou um panorama em que a rapidez na busca por bem-estar sobrepõe-se à prudência médica, cenário que fomenta a perigosa cultura da automedicação entre os jovens.",
+    "1": "Tal problemática decorre tanto da banalização do consumo de fármacos, impulsionada pela facilidade de acesso, quanto da ineficiência das instâncias de conscientização sanitária.",
+    "2": "Torna-se imperioso, portanto, analisar esses fatores para mitigar os riscos inerentes a essa prática nociva à saúde pública.",
+    "3": "Em primeira análise, é fundamental pontuar que a facilidade na obtenção de medicamentos, somada à influência da publicidade digital, fomenta o uso indiscriminado desses produtos por parte da juventude.",
+    "4": "Sob essa ótica, o filósofo Zygmunt Bauman, em sua teoria da modernidade líquida, aponta para a urgência de respostas imediatas aos sofrimentos, o que se traduz na ilusão de que comprimidos são soluções instantâneas para qualquer malestar.",
+    "5": "Consequentemente, os indivíduos, imersos em uma lógica consumista, ignoram os efeitos colaterais e os riscos de resistência bacteriana, transformando o autocuidado em um ato de negligência orgânica.",
+    "6": "Ademais, sob a ótica do sociólogo Pierre Bourdieu, a violência simbólica manifesta-se na negligência informacional perpetuada pelas instituições, as quais falham em educar criticamente as novas gerações sobre os perigos toxicológicos.",
+    "7": "Desse modo, a falta de campanhas pedagógicas eficazes perpetua um cenário de ignorância coletiva, no qual a recomendação informal entre pares substitui o diagnóstico clínico especializado.",
+    "8": "Evidencia-se, assim, que a ausência de um letramento em saúde compromete a autonomia e a integridade física dos cidadãos em formação.",
+    "9": "Infere-se, portanto, a urgência de medidas interventivas para coibir a automedicação juvenil no Brasil.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em parceria com as redes sociais, intensificar campanhas de conscientização por meio de influenciadores digitais e conteúdos interativos, detalhando os perigos do uso empírico de remédios, a fim de desconstruir a cultura da cura imediata.",
+    "11": "Ademais, as escolas devem promover debates curriculares sobre saúde preventiva, garantindo uma juventude mais consciente e protegida."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

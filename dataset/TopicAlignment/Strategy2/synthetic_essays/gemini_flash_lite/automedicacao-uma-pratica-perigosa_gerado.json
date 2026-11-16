@@ -1,0 +1,86 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A medicação por conta própria é um dos exemplos de uso indevido de remédios, considerado um problema de saúde pública no Brasil e no mundo.",
+    "1": "Uma pesquisa recente do ICTQ (Instituto de Ciência Tecnologia e Qualidade), feita em doze capitais do país, mostrou que a automedicação é praticada por 76,4% dos brasileiros.",
+    "2": "A automedicação, muitas vezes, vista como uma solução para o alívio imediato de alguns sintomas  pode trazer consequências graves, como agravamento de uma doença, uma vez que          sua utilização inadequada pode esconder determinados sintomas dificultando, assim, o diagnóstico correto, entre muitos outros problemas como: resistência  aos remédios, intoxicação, reações alérgicas, dependência e até a morte.",
+    "3": "As causas dessa prática são muitas, no Brasil, a falta de estrutura do sistema de saúde, a demora no agendamento de consultas em áreas específicas (até 6 meses), a falta de acesso a exames precisos, muitas vezes negados pelo SUS (Sistema Único de Saúde), por serem exames de alto custo, colaboram por agravar ainda mais esse quadro.",
+    "4": "É preciso mudar esse cenário, para  isso, a população e governo precisam trabalhar juntos, a população cuidando da saúde com hábitos mais saudáveis, como exercício físico por exemplo,  e o governo investindo mais em medicina preventiva, diminuindo, assim,  a necessidade de automedicação."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade contemporânea consolidou um panorama de hipervalorização da eficiência imediata, reflexo do avanço técnico-científico que prioriza a rapidez na resolução de problemas cotidianos.",
+    "1": "Tal conjuntura reflete-se nocivamente na saúde pública brasileira, sobretudo no tocante à recorrente prática da automedicação entre os jovens.",
+    "2": "Essa problemática comportamental é perpetuada, precipuamente, pela banalização do consumo farmacológico e pela influência exercida pelo ecossistema digital, que dissemina informações sem o devido rigor científico.",
+    "3": "Torna-se imperioso, portanto, debelar tal cenário para salvaguardar a integridade das futuras gerações.",
+    "4": "Em primeira análise, é fundamental pontuar que a facilidade de acesso a fármacos sem prescrição médica corrobora a naturalização do uso indiscriminado de remédios.",
+    "5": "Sob esse viés, o sociólogo Zygmunt Bauman, em sua teoria acerca da modernidade líquida, aponta que as relações e as soluções tornaram-se efêmeras e utilitárias, lógica que se estende à busca por alívio rápido de sintomas corriqueiros, como dores e ansiedades.",
+    "6": "Desse modo, os indivíduos da faixa etária juvenil, imersos nessa cultura da urgência, recorrem a analgésicos e estimulantes de forma autônoma, ignorando os riscos toxicológicos e a possibilidade de mascaramento de patologias graves, o que corrói o princípio hipocrático de não causar danos.",
+    "7": "Ademais, a expansão das redes sociais intensifica essa realidade ao erigir um cenário de autopromoção da saúde e de conselhos médicos informais destituídos de embasamento técnico.",
+    "8": "Conforme o pensador Jürgen Habermas, a esfera pública deformada pela mercantilização e pela comunicação desimpedida de critérios epistêmicos gera um ambiente propício para a proliferação de inverdades e de indicações terapêuticas nocivas.",
+    "9": "Desse modo, influenciadores digitais e fóruns virtuais frequentemente estimulam o consumo de substâncias milagrosas, atrelando a autonomia corporal a uma suposta liberdade, o que seduz a parcela jovem da população a negligenciar os protocolos sanitários estabelecidos pela vigilância médica oficial.",
+    "10": "Em virtude dos fatos supracitados, medidas governamentais são imprescindíveis para mitigar a automedicação juvenil no país.",
+    "11": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, intensificar campanhas de conscientização nas escolas e nos meios de comunicação de massa, detalhando os perigos farmacológicos por meio de palestras e inserções publicitárias educativas.",
+    "12": "Essa ação deve ser realizada com o apoio de profissionais da saúde e psicólogos escolares, a fim de desconstruir a cultura do alívio imediato e promover o uso racional de medicamentos, garantindo, assim, uma juventude mais consciente e protegida."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

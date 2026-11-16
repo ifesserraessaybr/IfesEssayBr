@@ -1,0 +1,109 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A obesidade infantil tem aumentado cada vez mais no Brasil.",
+    "1": "Estatísticas alarmantes, como a reportada pela Sociedade de Pediatria de São Paulo, que estima expressivos 15% de crianças brasileiras acima do peso recomendável, justificam a comoção  dos órgãos públicos de saúde.",
+    "2": "Eles pretendem regulamentar propagandas de alimentos gordurosos e com altos teores de açúcar e sal, estabelecendo horários inadequados de vinculação  e a obrigação de conter avisos  sobre as consequências do consumo exacerbado.",
+    "3": "Entretanto, questiona-se se tais medidas não tomam um caráter autoritário e uma posição na qual os pais deveriam estar .",
+    "4": "Afinal, a quem cabe essa responsabilidade?",
+    "5": "É mais do que sabido que as crianças não têm controle sobre seus desejos, pois deles só enxergam o aspecto positivo, nunca o negativo.",
+    "6": "Sendo assim, torna-se viável diminuir a exposição dos atrativos e ressaltar os malefícios desses alimentos, que segundo Fábio Ancona Lopez, professor do Departamento de Pediatria da Universidade Federal de São Paulo (Unifesp), são muito gordurosos, pobres em fibras, vitaminas e minerais.",
+    "7": "Porém, esconder a tentação não é tudo, até porque ainda há a necessidade de vigiar, aconselhar e, dependendo do caso, de proibir.",
+    "8": "E é justamente aí onde [que] os pais entram          , de modo que, por conhecerem as particularidades de seus filhos melhor do que ninguém, sabem o momento certo de dizer sim ou não.",
+    "9": "Portanto, o problema da obesidade infantil está sob a responsabilidade de dois papéis, um de informar e outro de coagir."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da contemporaneidade, a discussão acerca da responsabilidade sobre a escolha alimentar da população assoma como um desafio multifacetado.",
+    "1": "De um lado, há a exaltação do livre-arbítrio individual na seleção dos gêneros de primeira necessidade; de outro, sobressai a influência determinante da indústria agroalimentar e da publicidade abusiva.",
+    "2": "Nesse contexto, faz-se imperioso analisar como a falta de regulamentação estatal e a carência de educação nutricional perpetuam hábitos nocivos à saúde pública.",
+    "3": "Deveras, é fundamental perscrutar as raízes socioeconômicas e mercadológicas desse impasse para que se alcance uma sociedade mais hígida e consciente.",
+    "4": "Em primeira análise, convém destacar a força do aparato midiático na moldagem dos hábitos de consumo.",
+    "5": "Sob a perspectiva do filósofo Theodor Adorno, a Indústria Cultural opera na padronização de comportamentos, transformando o indivíduo em mero consumidor passivo de produtos hiperprocessados.",
+    "6": "Desse modo, as grandes corporações alimentícias utilizam-se de estratégias persuasivas que mascaram os malefícios de tais mercadorias, direcionando o paladar da coletividade para o lucro em detrimento do bem-estar.",
+    "7": "Consequentemente, a suposta autonomia na escolha alimentar é sutilmente podada por um sistema que mercantiliza a nutrição e invisibiliza a soberania alimentar.",
+    "8": "Ademais, sob a ótica da sociologia de Zygmunt Bauman, a modernidade líquida impõe um ritmo de vida exaustivo que culmina na busca por praticidade, negligenciando a qualidade dos alimentos.",
+    "9": "A mercantilização do tempo nas metrópoles contemporâneas empurra as classes trabalhadoras para o consumo recorrente de fast-food e comestíveis ultraprocessados, haja vista a escassez de tempo e o alto custo dos produtos orgânicos.",
+    "10": "Paralelamente, a omissão do Estado em frear o avanço predatório dessas corporações e em democratizar o acesso a gêneros alimentícios in natura corrobora para a manutenção desse cenário caótico, ferindo o princípio constitucional da dignidade da pessoa humana.",
+    "11": "Portanto, medidas urgentes são necessárias para mitigar essa problemática estrutural.",
+    "12": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover a reestruturação da política nacional de alimentação, mediante a implantação de aulas obrigatórias de educação nutricional e culinária básica nas escolas públicas.",
+    "13": "Essa ação deve ser realizada por meio de palestras interativas, oficinas práticas e revisão dos cardápios da merenda escolar, com o fito de conscientizar as novas gerações sobre os impactos dos ultraprocessados e fomentar hábitos longevos e saudáveis.",
+    "14": "Com essa articulação, a sociedade brasileira poderá superar a alienação alimentar e consolidar um panorama de autonomia e saúde coletiva."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

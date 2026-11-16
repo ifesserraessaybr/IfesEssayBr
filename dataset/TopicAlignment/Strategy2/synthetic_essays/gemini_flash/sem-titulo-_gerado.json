@@ -1,0 +1,104 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Nações tem  se levantado com o objetivo de por fim a governos autoritários e ausentes.",
+    "1": "Manifestações, rebeliões e revoltas tem  estado presente nos noticiários mostrando um novo começo ou simplesmente a luta por uma sociedade mais justa, menos corrupta e com mais oportunidades.",
+    "2": "Desde 2013 tem  ocorrido manifestações no Brasil com vários objetivos e em sua maioria é para  criticar a realização da copa do mundo  no país.",
+    "3": "Já no início de 2014 houve mais manifestação contra a realização desta, e houve  mais polêmica sobre a atuação da polícia sobre  os manifestantes.",
+    "4": "De um lado  marginais se infiltram entre estes com objetivo de depredar patrimônios públicos e privados, furtar e espalhar o caos.",
+    "5": "Por outro lado  a polícia tenta realizar  a sua função de proteger os bens  materiais e vidas que  nem sempre é realizado da maneira correta, pois frequentemente é visto  a falta de preparo de  policiais quando estão de frente com questões como estas.",
+    "6": "A situação ganha proporções mundiais quando são divulgadas pelas mídias internacionais passando uma imagem negativa do país.",
+    "7": "Manifestar e expressar a opinião é um direito proporcionado pela constituição  brasileira que no entanto  deve ocorrer da maneira adequada, sem violência e para isso  é necessário haver mais organização por parte do grupo organizador  da manifestação e um preparo adequado e especializado para os policiais  para que  em situações como esta  eles possam agir e garantir a segurança          para ambos .",
+    "8": "Portanto, havendo a realização destas medidas é possível  sim, haver manifestações pacíficas e saudáveis para o bem da cidadania, cumprindo com seus objetivos e direitos sem causar prejuízos públicos e privados para que assim haja uma sociedade um pouco mais justa e igualitária."
+  },
+  "redacao_gerada": {
+    "0": "Na ordem constitucional brasileira, a garantia do direito à livre manifestação surge como pilar indispensável para o pleno exercício da democracia e para a reivindicação de direitos.",
+    "1": "Contudo, o cenário contemporâneo evidencia um descompasso estrutural, haja vista que a atuação da polícia militarizada descumpre frequentemente seu papel protetivo e incide em excessos violentos contra os cidadãos.",
+    "2": "Essa problemática perpetua-se tanto pela perpetuação de um ethos formativo calcado na repressão ostensiva quanto pela fragilidade dos mecanismos institucionais de controle e fiscalização.",
+    "3": "Em primeira análise, cabe pontuar que a atuação policial em atos públicos frequentemente transgride o limite da manutenção da ordem, desvirtuando o conceito de violência legítima postulado por Max Weber.",
+    "4": "Segundo o sociólogo alemão, o Estado detém o monopólio do uso da força para assegurar a paz social; todavia, no contexto nacional, essa prerrogativa converte-se em abusos desproporcionais contra indivíduos em protesto.",
+    "5": "Essa assimetria decorre de um histórico legado autoritário que enxerga o manifestante como ameaça, transformando a segurança pública em instrumento de cerceamento de direitos.",
+    "6": "Desse modo, a truculência recorrente expõe a urgência de remodelar a postura corporativa, que deve atuar como fiadora da integridade física dos cidadãos, e não como agente de supressão do debate público.",
+    "7": "Ademais, a continuidade dessas condutas exorbitantes é favorecida pela escassez de responsabilização e pela leniência dos órgãos de supervisão.",
+    "8": "À luz da Teoria dos Pesos e Contrapostos de Montesquieu, a preservação das liberdades fundamentais exige que as instituições exerçam vigilância mútua para evitar o arbítrio do poder.",
+    "9": "No entanto, a ausência de apurações rigorosas por parte das corregedorias e do Ministério Público estimula a impunidade e valida a violência institucional.",
+    "10": "Consequentemente, a cidadania é silenciada pelo temor da ação estatal, enfraquecendo a estabilidade democrática.",
+    "11": "Depreende-se, portanto, a necessidade premente de conter a violência policial e reconduzir as corporações à sua função republicana.",
+    "12": "Para tanto, o Ministério da Justiça e Segurança Pública, em articulação com os Governos Estaduais, deve reformular as diretrizes de atuação em manifestações públicas.",
+    "13": "Essa medida efetivar-se-á por meio da implantação obrigatória de câmeras corporais nos uniformes e do fortalecimento de ouvidorias externas autônomas — ação indispensável para garantir a transparência das operações e a imparcialidade nas investigações.",
+    "14": "Com essas ações, será possível coibir os abusos estatais e assegurar que as forças policiais cumpram rigorosamente seu papel de proteção ao cidadão."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

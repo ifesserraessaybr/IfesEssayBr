@@ -1,0 +1,86 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A automedicação é uma prática muito comum na vida dos jovens brasileiros e até de outras faixas etárias, como adultos e idosos, conforme pesquisa realizada pelo ICTQ (Instituto de Ciência Tecnologia e Qualidade).",
+    "1": "A dificuldade em conseguir um atendimento médico pela população faz com que esse problema se agrave cada vez mais.",
+    "2": "Vemos cotidianamente quadros de hospitais lotados, falta de médicos em postos de saúde, pessoas indo para filas na madrugada e consultas e planos de saúde cada vez mais caros, fazendo com que a única opção da pessoa seja ir a uma farmácia e comprar um remédio que algum amigo indicou ou até mesmo o balconista da farmácia, que nem sempre é farmacêutico.",
+    "3": "Apesar de ser uma prática altamente arriscada, na maioria das vezes é a única saída de pessoas que dependem do Sistema Único de Saúde e não podem pagar uma consulta.",
+    "4": "Outro ponto que colabora para essa atitude é a facilidade da circulação de informações que temos hoje, através da expansão da Internet.",
+    "5": "Muitas vezes as pessoas consultam a internet para saber qual remédio é aconselhável para certo problema de saúde, e acabam comprando e fazendo uso do mesmo  .",
+    "6": "É uma atitude um tanto perigosa, pois os efeitos colaterais em cada organismo são diferentes e há possibilidade de desenvolvimento de intoxicações, o que agrava o quadro de saúde do paciente ao invés  de curá-lo.",
+    "7": "Muitas vezes há a necessidade de recorrer a um atendimento emergencial, o que poderia ser evitado.",
+    "8": "É importante que campanhas de saúde sejam realizadas para esclarecimento da população sobre os riscos da automedicação, e que haja melhoria nas condições de atendimento médico para a população em geral, que tanto sofre com o descaso na saúde por parte dos governantes.",
+    "9": "Essas atitudes podem não resolver definitivamente o problema, mas com certeza ajudariam muito a população e diminuiriam os casos fatais."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea testemunha a valorização da rapidez e do alívio imediato para qualquer desconforto, panorama que incide fortemente sobre os mais jovens.",
+    "1": "Nesse contexto, a automedicação consolidou-se como um hábito alarmante entre essa parcela populacional, impulsionada tanto pela banalização do consumo farmacêutico quanto pela ineficácia de políticas públicas de conscientização.",
+    "2": "Torna-se imperioso, portanto, analisar essa problemática para mitigar seus graves riscos à saúde pública.",
+    "3": "Em primeira análise, é fundamental destacar que a cultura da conveniência e o fácil acesso aos medicamentos sem prescrição médica fomentam a prática autônoma.",
+    "4": "Segundo o sociólogo Pierre Bourdieu, os comportamentos individuais são moldados por estruturas sociais pré-existentes, as quais, no Brasil, normalizam a resolução rápida de mazelas cotidianas por meio de pílulas.",
+    "5": "Dessa forma, os jovens, imersos em uma rotina estressante e hiperconectada, recorrem aos fármacos como soluções milagrosas, ignorando os perigos inerentes à dosagem incorreta, à resistência bacteriana e à ocorrência de efeitos colaterais severos, o que evidencia uma negligência coletiva em relação ao próprio bem-estar físico.",
+    "6": "Ademais, sob a ótica da falha informacional, a carência de debates aprofundados sobre a farmacologia nas instituições de ensino contribui para a perpetuação do problema.",
+    "7": "De acordo com o filósofo Immanuel Kant, o ser humano é aquilo que a educação o faz, de modo que a ausência de uma formação crítica acerca dos perigos dos remédios deixa os indivíduos vulneráveis à desinformação disseminada na internet.",
+    "8": "Sem o devido letramento em saúde, a juventude torna-se presa fácil para propagandas abusivas e conselhos informais de redes sociais, substituindo a consulta médica especializada por opiniões superficiais.",
+    "9": "Consequentemente, medidas são necessárias para combater a automedicação juvenil no país.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover campanhas de conscientização nas escolas e mídias digitais sobre o uso racional de medicamentos, por meio de palestras e distribuição de cartilhas informativas, a fim de desconstruir a cultura da cura rápida e alertar sobre os riscos toxicológicos.",
+    "11": "Somente assim, com a efetivação dessas ações, a sociedade brasileira poderá resguardar a integridade da juventude e promover um estilo de vida verdadeiramente saudável."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

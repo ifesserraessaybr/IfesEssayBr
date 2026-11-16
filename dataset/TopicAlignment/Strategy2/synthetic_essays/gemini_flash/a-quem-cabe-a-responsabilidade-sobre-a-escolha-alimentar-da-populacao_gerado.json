@@ -1,0 +1,105 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Pelo fato de um mau hábito alimentar atingir a todos direta ou indiretamente o governo deve ser responsável sobre a escolha alimentar da população, pois o mesmo  cuida do bem comum.",
+    "1": "O consumo exagerado de açúcar aumenta o risco de desenvolver diabetes, como o excesso de sal a pressão-alta, o exagero de gordura a  doenças respiratórias; todas são exemplos de doenças causadas por um mau hábito alimentício  que pode ser corrigido.",
+    "2": "A sociedade precisa ser orientada para não errar na alimentação.",
+    "3": "O Estado por ser responsável pela saúde pública deve passar essas orientações seja na mídia, nas escolas como uma disciplina ou nos hospitais em forma de palestras.",
+    "4": "Com uma população saudavelmente alimentada todos só têm a ganhar.",
+    "5": "O sistema de saúde com uma demanda baixa de pessoas com problemas por causa da alimentação inadequada e a sociedade com uma melhor qualidade de vida."
+  },
+  "redacao_gerada": {
+    "0": "Na obra \"A Democracia na América\", Alexis de Tocqueville estabelece que o bem-estar social exige a atuação articulada entre as instituições públicas e a autonomia dos cidadãos.",
+    "1": "Contudo, no cenário contemporâneo, a discussão sobre a responsabilidade pelas escolhas alimentares da população evidencia um descompasso entre a liberdade individual e o dever estatal de tutela da saúde pública.",
+    "2": "Nesse prisma, constata-se que a gestão alimentar não é mero ato de volição pessoal, mas sim um reflexo da omissão regulatória do Estado frente à indústria alimentícia e da persistente vulnerabilidade socioeconômica das famílias.",
+    "3": "Em primeira análise, cabe pontuar que a ingerência predatória do mercado de ultraprocessados limita severamente a capacidade de decisão consciente dos indivíduos.",
+    "4": "Segundo a teoria da Biopolítica de Michel Foucault, as estruturas de poder regem o corpo e a vida da população mediante estratégias que visam ao controle e ao lucro.",
+    "5": "Sob essa perspectiva, o livre-arbítrio nutricional torna-se ilusório quando grandes corporações utilizam estratégias persuasivas de marketing e aditivos químicos viciantes sem a devida intervenção do Poder Público.",
+    "6": "Desse modo, ao negligenciar a regulação da publicidade e a tributação progressiva de produtos nocivos, o Estado falha em seu dever constitucional de proteger o bem-estar coletivo.",
+    "7": "Ademais, sobressai a disparidade socioeconômica como um fator determinante que restringe o acesso a refeições saudáveis, descentralizando a responsabilidade do indivíduo.",
+    "8": "De acordo com o pensador Josué de Castro, em \"Geopolítica da Fome\", a desnutrição e as escolhas inadequadas não derivam da escassez natural, mas de estruturas econômicas desiguais que marginalizam parcelas expressivas da sociedade.",
+    "9": "Diante disso, imputar a culpa dos índices de obesidade ou subnutrição unicamente ao cidadão constitui uma visão reducionista, haja vista que a inflação dos alimentos in natura inviabiliza opções equilibradas para as classes de menor renda.",
+    "10": "Torna-se imperativo, portanto, reconhecer que a emancipação alimentar exige uma base material mínima provida pela coletividade.",
+    "11": "Infere-se, portanto, que a responsabilidade sobre a alimentação é compartilhada, exigindo uma postura ativa do Estado na mediação das escolhas dos cidadãos.",
+    "12": "Para tanto, cabe ao Ministério da Saúde, em conjunto com o Ministério da Educação, instituir um Programa Nacional de Letramento e Regulação Alimentar.",
+    "13": "Essa medida deve ser efetivada por intermédio da inclusão de educação nutricional nas matrizes curriculares escolares e da proibição de propagandas de ultraprocessados voltadas ao público infantil, detalhando ostensivamente os rótulos de produtos hipercalóricos no comércio.",
+    "14": "Com essa ação, objetiva-se fomentar a autonomia crítica da população, garantindo a efetivação do direito humano à alimentação adequada."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

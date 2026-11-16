@@ -1,0 +1,94 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Vive-se na epoca onde  optamos por uma alimentação pouco saudável, para economizar tempo e pelos seus sabores.",
+    "1": "Sem duvida  batatas fritas, hambúrgueres, são, mas  atraentes que outros alimentos, porém seu consumo exagerado trás  grandes pontos negativos como obesidade infantil e colesterol, o que nós  leva a pensar que cabe aos pais a reeducação alimentar dos filhos, incentivando-os ha  terem hábitos mais saudáveis.",
+    "2": "Na sociedade atual não da  para nós  privar desses alimentos, porém se os pais estiverem preparados para dar uma boa orientação á  seus filhos de como podem levar uma vida mais saudável e mostrando-lhes que 5 milhões de crianças brasileiras já sofrem com a obesidade, esse número diminuiria, pois a partir do momento em que se tem conhecimento sobre o mal que nós  causa sabemos avaliar que isso é prejudicial, mas em muitos casos nem os pais estão preparados para passar uma boa orientação para seus filhos pois não estão atento as  informações que o produto trás  .",
+    "3": "Os pais são os grandes responsáveis pela alimentação de seus filhos, pois entendem dos seus gostos e podem procurar a fazer um cardápio variado, deixando alimentos com altos teores de sódio, açúcar e gorduras de lado e incrementando, mas  alimentos saudáveis, sem duvida  uma criança que passa a consumir e gostar de alimentos saudáveis terá menos chances e se tornar dependente desses alimentos porque ela conhece seus riscos.",
+    "4": "Para finalizar, é claro que não os pais não  podem proibir o consumo de batatas fritas, hambúrgueres e refrigerantes, contudo eles têm que por  limites a seus filhos orientando quando esses alimentos podem ser consumidos, os riscos que podem trazer de for consumido  frequentemente e como pode ser bom deixá-los de lado e experimentar comidas diferentes e saudáveis, além  disso é necessário uma maior atenção na hora da compras de produtos verificando suas informações."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea defronta-se com o dilema acerca da autonomia sobre os hábitos alimentares.",
+    "1": "Nesse contexto, a problemática da responsabilidade pela nutrição coletiva transcende o âmbito estritamente privado, revelando-se um desafio multifacetado.",
+    "2": "Tal cenário persiste não apenas devido à inércia estatal na regulamentação da indústria alimentícia, mas também em virtude da forte influência mercadológica que molda o consumo.",
+    "3": "Torna-se imperioso, portanto, analisar esses fatores para a garantia da seguridade alimentar e nutricional no país.",
+    "4": "Em primeira análise, é fundamental pontuar que o Estado desempenha um papel central na tutela da saúde pública, conforme preconiza a Constituição Federal de 1988.",
+    "5": "Contudo, observa-se uma lacuna na fiscalização efetiva dos produtos ultraprocessados, cuja comercialização agressiva atinge, sobremaneira, as camadas mais vulneráveis da população.",
+    "6": "Consoante o pensamento do filósofo Thomas Hobbes, o pacto social exige que o poder público zele pelo bem-estar e pela integridade de seus cidadãos, premissa que é negligenciada quando o mercado dita as regras do que vai à mesa.",
+    "7": "Paralelamente, a responsabilidade também recai sobre a esfera individual, mediada pelo acesso à informação e pela educação.",
+    "8": "De acordo com o sociólogo Pierre Bourdieu, o capital cultural de um indivíduo condiciona suas escolhas e sua percepção da realidade, o que inclui a capacidade de discernir entre uma alimentação saudável e os apelos do consumo rápido.",
+    "9": "Sem o devido letramento nutricional, propagado desde os bancos escolares até os meios de comunicação, o cidadão torna-se presa fácil da publicidade enganosa, reiterando um ciclo de adoecimento evitável.",
+    "10": "Infere-se, logo, que a responsabilidade sobre a escolha alimentar é compartilhada entre o Estado e o indivíduo.",
+    "11": "Para mitigar esse impasse, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, implementar o Programa Nacional de Conscientização Alimentar, por meio de campanhas midiáticas de grande alcance e reestruturação das diretrizes curriculares nas escolas.",
+    "12": "Essa ação deve detalhar os impactos nocivos dos ultraprocessados e promover feiras orgânicas locais, com o fito de garantir o direito à saúde garantido na Carta Magna e emancipar o povo brasileiro de amarras comerciais nocivas."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

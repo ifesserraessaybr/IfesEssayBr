@@ -1,0 +1,85 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A automedicação que todo mundo condena, muitas vezes, é desejável, em  certos casos que pessoas com simples problemas, dores  de cabeça ou cólica, por exemplo, tomar  um remédio          que não relate nenhuma tarja , não faz mal algum.",
+    "1": "Há até uma recomendação da OMS (Organização Mundial de Saúde) que diz que é benéfico o ato de se automedicar, pois beneficia o sistema de saúde.",
+    "2": "Entretendo  devemos observar bem nos  casos de intoxicações,          onde se acontecer pela primeira vez, pode acontecer constantemente, então deve-se suspender o remédio do uso, em  relação as doenças  muitas delas são autolimitadas e são as mais que afeta  a população, não requerendo mais do que o alívio dos sintomas.",
+    "3": "Fazer com que pessoas com simples problemas  passem por um médico, com apenas quadros virais menores ou dores benignas, só iam aglomera-se nos hospitais levando o pouco que temos do sistema de saúde ao colapso.",
+    "4": "A saúde nos dias de hoje não encontrasse  em condições de suporta  atendimentos médicos desnecessários, onde não se tem  médicos nem para casos de extrema urgência.",
+    "5": "Afinal, dos 160 milhões de brasileiros,          120 não têm convênios para assistência à saúde.",
+    "6": "Por conta das dificuldades e custos, portanto, automedicação deve ser responsável e é econômica, ajuda o sistema de saúde como todo.",
+    "7": "A decisão de levar um comprimido da palma da mão ao estômago é do paciente, as razões pelas quais os paciente se automedicam são inúmeras, onde cada qual sabe bem os ricos  que devem ser prevenidos, são orientados pela bula e até mesmo pela embalagem, e também se orientam nos casos da quantidade onde que se deve ingerir.",
+    "8": "Então o desafio é das autoridades de encontrar um meio de onde se possa manter as  alertas e prevenções,          para que as pessoas tomem os cuidados necessário  ao se automedicarem, para ficar tudo dentro de seus limites."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade moderna consolidou uma cultura de busca por alívio imediato para o sofrimento, fenômeno intensificado na contemporaneidade.",
+    "1": "Nesse contexto, a automedicação tornou-se uma prática alarmantemente comum entre os jovens, impulsionada tanto pela facilidade de acesso a fármacos quanto pela influência do meio digital.",
+    "2": "Diante desse cenário, urge analisar como a negligência médica e a banalização do consumo de remédios alimentam essa problemática nociva à saúde pública.",
+    "3": "Em primeira análise, é fundamental pontuar que a mercantilização da saúde e a cultura da urgência corroboram a atitude imprudente dos cidadãos.",
+    "4": "Sob essa ótica, o sociólogo Zygmunt Bauman, em sua teoria da modernidade líquida, aponta que as relações e as respostas aos problemas tornaram-se imediatistas e efêmeras.",
+    "5": "Desse modo, a juventude, imersa nessa lógica capitalista, recorre a analgésicos e estimulantes sem prescrição médica como atalhos para manter a produtividade e anestesiar dores emocionais e físicas.",
+    "6": "Em adição a isso, a desinformação veiculada nas redes sociais atua como um potente vetor da prática prejudicial.",
+    "7": "Conforme o filósofo Jürgen Habermas, o uso deturpado da esfera pública compromete o debate racional e propaga fake news.",
+    "8": "Assim, algoritmos de plataformas digitais frequentemente promovem a apologia à saúde perfeita e a dicas farmacológicas infundadas, fazendo com que o público jovem acredite na autonomia total sobre o próprio corpo, ignorando os graves riscos de intoxicação e resistência bacteriana.",
+    "9": "Depreende-se, portanto, a necessidade de mitigar a automedicação entre os jovens brasileiros.",
+    "10": "Para isso, cabe ao Ministério da Saúde, em parceria com as instituições de ensino, promover campanhas de conscientização nas escolas e nos meios digitais sobre os perigos do consumo indiscriminado de medicamentos, por meio de palestras e debates com profissionais da área.",
+    "11": "Tal ação tem como finalidade informar os riscos inerentes a essa conduta, a fim de garantir a segurança sanitária das futuras gerações."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

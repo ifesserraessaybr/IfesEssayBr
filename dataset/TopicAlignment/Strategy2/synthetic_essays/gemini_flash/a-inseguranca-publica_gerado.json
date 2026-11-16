@@ -1,0 +1,101 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A polícia, em um estado democrático como é o caso do Brasil, desempenha um papel muito importante: o controle social.",
+    "1": "Na qual  busca manter a ordem pública e zelar pela propriedade, liberdade e segurança individual e coletiva.",
+    "2": "Todavia, várias situações ocorridas nos últimos dias ínsita  o questionamento: Esta  corporação é sinônimo de segurança ou insegurança pública?",
+    "3": "No transcorrer do ano de 2013 e início de 2014, a população brasileira foi às ruas mostrar suas insatisfações diante de várias situações e realidades.",
+    "4": "Neste aspecto cabe a essa corporativa  prezar pela liberdade de manifestação, bem como proteger o patrimônio público e privado, que na maioria das vezes é danificado por vândalos que se aproveitam do grande número de pessoas para cometerem crimes.",
+    "5": "O grande número de manifestantes dificulta o trabalho de polícia, que em situações extremas opta por atitudes que são mal vistas pela sociedade.",
+    "6": "Mas que  para a situação  são cabíveis e necessárias, ainda que vá  contra a legitimidade do movimento.",
+    "7": "Apesar de frequentemente vermos em meios de comunicação casos de policiais que se excedem na repreensão  , estes  fatos ainda são exceções e, os  infratores devem ser punidos.",
+    "8": "Entretanto isso não é motivo para desmoralizar todo o papel da junta  policial.",
+    "9": "Por mais que a atuação da polícia seja muito contestada, esta ainda deve ser vista como sinônimo de segurança pública.",
+    "10": "No caso das manifestações é necessário um melhor treinamento da corporação de  como agir em meio a um grande número de pessoas e saber identificar e conter e punir os causadores da baderna  ."
+  },
+  "redacao_gerada": {
+    "0": "Na obra 'O Leviatã', Thomas Hobbes postula que cabe ao Estado a manutenção da ordem social por meio do uso da força.",
+    "1": "Contudo, na contemporaneidade brasileira, observa-se uma constante fricção entre a atuação das forças policiais e o direito constitucional à livre manifestação, oscilando entre o cumprimento do dever e o excesso violento.",
+    "2": "Nesse contexto, torna-se imperioso analisar como a preparação inadequada da corporação e o desprezo por preceitos democráticos perpetuam a truculência contra manifestantes.",
+    "3": "Em primeira análise, cabe pontuar que a formação institucional da polícia muitas vezes prioriza uma lógica ostensiva em detrimento da mediação de conflitos.",
+    "4": "Segundo o sociólogo Max Weber, o Estado detém o monopólio da coerção física legítima; todavia, essa legitimidade se esvai quando o aparato de segurança ultrapassa os limites legais para subjugar movimentos sociais.",
+    "5": "Diante disso, a desproporcionalidade no uso de força transforma o espaço público em cenário de beligerância, comprometendo o livre exercício da cidadania.",
+    "6": "Ademais, é fundamental ressaltar que a naturalização da truculência estatal reflete aquilo que o filósofo Michel Foucault conceituou como biopolítica, na qual o corpo social é submetido ao controle repressivo.",
+    "7": "Sob essa ótica, a atuação policial violenta não constitui um mero evento isolado, mas sim um desrespeito às garantias salvaguardadas pela Carta Magna de 1988.",
+    "8": "Consequentemente, o esgarçamento da confiança nas instituições de segurança fomenta a inibição dos protestos e o enfraquecimento da democracia.",
+    "9": "Infere-se, portanto, a urgência de remodelar a postura das forças policiais frente aos movimentos sociais.",
+    "10": "Para tanto, o Ministério da Justiça e Segurança Pública — órgão federal responsável pela coordenação da segurança nacional — deve reformular a matriz curricular de capacitação das polícias estaduais.",
+    "11": "Essa ação será executada por meio da implementação obrigatória de diretrizes de Direitos Humanos e técnicas de mediação de conflitos.",
+    "12": "Essa reformulação visa a garantir que a repressão desmedida seja substituída pela garantia da ordem com respeito aos manifestantes.",
+    "13": "Dessa forma, a polícia cumprirá seu verdadeiro papel constitucional no Brasil."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

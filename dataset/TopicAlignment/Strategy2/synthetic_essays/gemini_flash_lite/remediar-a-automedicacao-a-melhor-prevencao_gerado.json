@@ -1,0 +1,72 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "São comuns constantes discussões a respeito do apoio ou não a  prática de automedicação.",
+    "1": "O fato é que, mesmo com todos          os pormenores contrários , esse exercício continua, principalmente entre a geração jovem.",
+    "2": "Dentre  tantos motivos para tal ocorrência  estão à  praticidade da sociedade imediatista  a  qual esses jovens estão acostumados  bem como a          atual burocracia e até mesmo o descaso do atual sistema público de saúde.",
+    "3": "A nova geração é habituada a uma velocidade extremamente alta.",
+    "4": "Tem tudo ao seu alcance num piscar de olhos, o que contribui para um aguçamento na  impaciência.",
+    "5": "Assim  torna-se muito          mais fácil e menos complexo automedicar-se, ou seja, usar o mesmo medicamento que o amigo, ou ainda o que apareceu na TV semana passada, justamente porque a maioria dos remédios usados sem prescrição são voltados a amenizar sintomas provocados por ciclos virais .",
+    "6": "Além disso, frequentemente a mídia retrata situações de saturação de hospitais e prontos-socorros, causados pela falta de médicos ou por uma desorganização do próprio sistema de saúde.",
+    "7": "Enfim, se nem casos gravíssimos vencem  ser solucionados,          como alguém, com um simples resfriado, pode ter esperanças de chegar a um hospital e ser atendido por um clínico para receber indicação de qual anti-inflamatório deve usar?",
+    "8": "Diante do exposto, percebem-se os equívocos que se apresentam frente ao posicionamento, qualquer que seja, sobre a temática .",
+    "9": "Assim se faz necessário uma política não extremista que informe os riscos e consequências da automedicação.",
+    "10": "A  qual cite casos nos quais deve ser consultado um médico, mas que não tente eliminar a prática e que seja destinada a sanar dúvidas a respeito do combate aos sintomas de          doenças virais  a fim de que a automedicação ao menos seja feita com alguma segurança, uma vez que a simples proibição não acabará com seu exercício."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, a sociedade moderna consolidou uma cultura de busca incessante pelo alívio imediato de sintomas, panorama que encontrou solo fértil entre os jovens brasileiros.",
+    "1": "Nesse contexto, a automedicação desponta como uma prática alarmante e corriqueira nessa parcela populacional, impulsionada tanto pela facilidade de acesso aos fármacos quanto pela influência da cultura digital.",
+    "2": "Para reverter esse cenário, faz-se imperativo analisar como a negligência médica e a romantização do consumo de remédios nas redes sociais alimentam essa problemática na contemporaneidade.",
+    "3": "Em primeira análise, é fundamental pontuar que a mercantilização da saúde e a carência de orientação adequada facilitam o uso irresponsável de medicamentos.",
+    "4": "Sob esse viés, o sociólogo Zygmunt Bauman, em sua teoria da modernidade líquida, aponta para a rapidez das relações e a urgência por soluções rápidas, o que se reflete na tentativa juvenil de sanar dores e mal-estares de maneira instantânea e sem o devido acompanhamento profissional.",
+    "5": "Ademais, a leviandade com que farmácias e o ambiente virtual tratam a dispensação de substâncias terapêuticas agrava o quadro.",
+    "6": "Depreende-se, portanto, a urgência de mitigar a automedicação entre a juventude brasileira, garantindo o bem-estar coletivo.",
+    "7": "Para tanto, cabe ao Ministério da Saúde, em parceria com os veículos de grande mídia, promover campanhas de conscientização de âmbito nacional sobre os riscos do uso indiscriminado de remédios, por meio de propagandas televisivas e palestras nas escolas, com o intuito de alertar os jovens acerca dos perigos toxicológicos e da necessidade de prescrição médica.",
+    "8": "Desse modo, o país poderá superar essa perniciosa vertente da modernidade e assegurar uma juventude mais saudável e informada."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

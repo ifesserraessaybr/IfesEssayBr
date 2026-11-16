@@ -1,0 +1,92 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Apesar do  SUS ser um exemplo no mundo, a saúde pública brasileira é bastante frágil.",
+    "1": "Existem inúmeros          problemas e com isso a preferência são os hospitais particulares e os dois têm problemas com a grande quantidade de pacientes.",
+    "2": "Para evitar uma visita ao médico, mais e mais brasileiros estão se automedicando sem uma orientação profissional, podendo trazer vários malefícios à saúde.",
+    "3": "De 160 milhões de brasileiros, 120 não tem  convênio de assistência à saúde e o sistema público é conhecido por ser saturado e, por vezes, ineficaz.",
+    "4": "O governo está tentando resolver implantando o programa Mais Médicos e requerimento de estudantes recém-graduados no SUS, porém ainda estão em fases de teste e representam uma parcela do problema da infra estrutura  da saúde pública.",
+    "5": "Em vez de ter que esperar horas numa fila de um hospital ou pagar caro no sistema de saúde privado para receber a notícia de uma virose simples, as pessoas preferem a orientação popular e se baseiam pela bula do remédio.",
+    "6": "Somente os médicos conseguem diferenciar as doenças simples das complexas e isso faz a automedicação se tornar um risco.",
+    "7": "Se as pessoas conseguissem fazer um diagnóstico efetivo de uma simples gripe, elas identificariam se uma consulta fosse necessária ou não, assim não implicaria na grande demanda de pacientes.",
+    "8": "Algumas medidas provisórias são necessárias até ser possível proibir a automedicação.",
+    "9": "Os remédios que possam ser adquiridos sem prescrição devem conter orientação médica indireta, em panfleto ou na bula mesmo, e a regulação da sua compra.",
+    "10": "As campanhas de vacinação para doenças como virose e gripe e até mesmo de outras mais complexas, desde que a população tenha fácil acesso e sejam periódicas, elas podem até mesmo diminuir o problema."
+  },
+  "redacao_gerada": {
+    "0": "Sob a égide da modernidade líquida de Zygmunt Bauman, a sociedade contemporânea testemunha a valorização da rapidez e da autonomia instantânea, reflexos que atingem sobremaneira o comportamento juvenil.",
+    "1": "Nesse cenário, a automedicação consolidou-se como um grave problema de saúde pública entre os jovens brasileiros, impulsionada não apenas pela facilidade de acesso a fármacos, mas também pela cultura da conveniência e pela desinformação disseminada no meio digital.",
+    "2": "Torna-se imperioso, portanto, analisar como a negligência médica e a influência midiática perpetuam essa conduta nociva, exigindo intervenções enérgicas do Estado e da sociedade.",
+    "3": "Em primeira análise, é fundamental pontuar que a busca por alívio imediato de sintomas, somada à precarização do atendimento médico acessível, fomenta o consumo indiscriminado de medicamentos.",
+    "4": "De acordo com o sociólogo Pierre Bourdieu, a violência simbólica opera de modo a naturalizar práticas prejudiciais quando estas são mascaradas por uma suposta necessidade de eficiência.",
+    "5": "Consequentemente, a juventude, imersa em uma rotina estressante de estudos e trabalho, recorre aos remédios de venda livre como soluções mágicas, ignorando os riscos inerentes à hepatotoxicidade, à resistência bacteriana e à dependência química.",
+    "6": "Ademais, a atuação deletéria das redes sociais e da publicidade farmacêutica intensifica a banalização do uso de drogas.",
+    "7": "Sob a perspectiva do filósofo Guy Debord, a sociedade do espetáculo reduziu a saúde a uma mercadoria estetizada e amplamente promissora de bem-estar rápido.",
+    "8": "Desse modo, influenciadores digitais e propagandas negligenciam os efeitos colaterais em prol do lucro, induzindo o público jovem ao erro por meio da automedicação irresponsável, o que agrava o quadro de morbimortalidade juvenil no país.",
+    "9": "Depreende-se, portanto, a urgência de mitigar essa problemática por meio de ações estruturadas.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, órgão responsável pela gestão sanitária do país, intensificar campanhas de conscientização nas mídias sociais e nas escolas, por meio de palestras e distribuição de cartilhas informativas, com o fito de alertar os jovens sobre os perigos da ingestão inadequada de medicamentos.",
+    "11": "Essa medida deve ser realizada em parceria com os conselhos de farmácia, visando à fiscalização rigorosa da venda de remédios sem prescrição.",
+    "12": "Somente assim, com informação e rigor, a juventude brasileira poderá afastar-se desse hábito deletério e preservar o direito fundamental à vida."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

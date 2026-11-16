@@ -1,0 +1,101 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A polícia, em um estado democrático como é o caso do Brasil, desempenha um papel muito importante: o controle social.",
+    "1": "Na qual  busca manter a ordem pública e zelar pela propriedade, liberdade e segurança individual e coletiva.",
+    "2": "Todavia, várias situações ocorridas nos últimos dias ínsita  o questionamento: Esta  corporação é sinônimo de segurança ou insegurança pública?",
+    "3": "No transcorrer do ano de 2013 e início de 2014, a população brasileira foi às ruas mostrar suas insatisfações diante de várias situações e realidades.",
+    "4": "Neste aspecto cabe a essa corporativa  prezar pela liberdade de manifestação, bem como proteger o patrimônio público e privado, que na maioria das vezes é danificado por vândalos que se aproveitam do grande número de pessoas para cometerem crimes.",
+    "5": "O grande número de manifestantes dificulta o trabalho de polícia, que em situações extremas opta por atitudes que são mal vistas pela sociedade.",
+    "6": "Mas que  para a situação  são cabíveis e necessárias, ainda que vá  contra a legitimidade do movimento.",
+    "7": "Apesar de frequentemente vermos em meios de comunicação casos de policiais que se excedem na repreensão  , estes  fatos ainda são exceções e, os  infratores devem ser punidos.",
+    "8": "Entretanto isso não é motivo para desmoralizar todo o papel da junta  policial.",
+    "9": "Por mais que a atuação da polícia seja muito contestada, esta ainda deve ser vista como sinônimo de segurança pública.",
+    "10": "No caso das manifestações é necessário um melhor treinamento da corporação de  como agir em meio a um grande número de pessoas e saber identificar e conter e punir os causadores da baderna  ."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, o Estado moderno consolidou-se sob a égide do monopólio do uso legítimo da força, conforme postulado pelo sociólogo Max Weber.",
+    "1": "No entanto, na contemporaneidade, a atuação das forças de segurança em manifestações populares tem suscitado debates acerca dos limites entre a garantia da ordem pública e o cerceamento de direitos fundamentais.",
+    "2": "Esse cenário problemático perpetua-se não apenas devido à insuficiência de diretrizes humanizadas na formação policial, mas também pela naturalização da violência institucional na sociedade brasileira.",
+    "3": "Destarte, torna-se imprescindível analisar tais vertentes para a efetivação da cidadania plena.",
+    "4": "Em primeira análise, é fundamental pontuar que a formação das corporações militares ainda reproduz heranças autoritárias incompatíveis com o Estado Democrático de Direito.",
+    "5": "Sob essa ótica, o conceito de biopoder, formulado por Michel Foucault, elucida como o controle dos corpos e a coerção física são instrumentalizados para subjugar minorias políticas e silenciar dissidências.",
+    "6": "Consequentemente, o excesso policial em protestos não constitui um mero desvio de conduta individual, senão um sintoma estrutural de uma cultura punitivista que prioriza a repressão em detrimento do diálogo.",
+    "7": "Tal panorama corrói os pilares republicanos e fragiliza o tecido social.",
+    "8": "Ademais, sob a ótica da teoria da ação comunicativa de Jürgen Habermas, o espaço público deve ser o lócus do debate racional e livre de coações, premissa violada quando o direito constitucional à livre manifestação é reprimido com truculência.",
+    "9": "Deveras, o uso desproporcional da força policial fere tratados internacionais de direitos humanos dos quais o Brasil é signatário, gerando um clima de terror e inibindo a participação cívica da população.",
+    "10": "Dessa forma, a supressão do direito ao protesto pacífico acarreta a regressão democrática e a desconfiança generalizada nas instituições estatais, perpetuando um ciclo nocivo de hostilidade mútua.",
+    "11": "Em virtude dos fatos supracitados, urge mitigar a violência policial em protestos por meio de ações interventivas concretas.",
+    "12": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com os governos estaduais, reformular a matriz curricular das academias de polícia, introduzindo disciplinas obrigatórias de direitos humanos e técnicas de mediação de conflitos, por intermédio de diretrizes federais rígidas, com o escopo de humanizar a atuação dos agentes e preservar vidas.",
+    "13": "Somente assim o país consolidará uma democracia verdadeiramente inclusiva e garantidora dos direitos civis."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

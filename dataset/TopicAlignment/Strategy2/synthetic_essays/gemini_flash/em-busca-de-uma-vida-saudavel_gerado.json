@@ -1,0 +1,113 @@
+{
+  "tema": "a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao",
+  "comando_tematico": {
+    "0": "A alimentação é um dos fatores mais determinantes para a saúde e o bem-estar das pessoas, influenciando diretamente a qualidade de vida das populações.",
+    "1": "De acordo com a Organização Mundial da Saúde, os hábitos alimentares inadequados estão entre as principais causas de doenças crônicas não transmissíveis, como hipertensão e diabetes.",
+    "2": "Nas últimas décadas, o avanço da urbanização e a rotina acelerada têm modificado a forma como a população se alimenta, estimulando o consumo de produtos industrializados e refeições rápidas.",
+    "3": "Essas mudanças têm levantado o debate sobre quem deve ser responsável por promover escolhas alimentares saudáveis — se o Estado, as famílias ou os próprios indivíduos.",
+    "4": "O Estado, ao atuar na promoção da saúde pública, pode implementar políticas de educação alimentar e regulamentar a publicidade de produtos com alto teor de açúcar, sal e gordura.",
+    "5": "Por outro lado, é dever das famílias e dos cidadãos buscar informações e adotar práticas que priorizem uma alimentação equilibrada.",
+    "6": "A escola também desempenha papel fundamental nesse processo, ao contribuir para a formação de hábitos alimentares desde a infância.",
+    "7": "A mídia e as redes sociais, por sua vez, influenciam fortemente o comportamento alimentar, podendo tanto reforçar padrões pouco saudáveis quanto incentivar o consumo consciente.",
+    "8": "Segundo o Fundo das Nações Unidas para a Infância, promover a alimentação adequada é essencial para o desenvolvimento físico e cognitivo das novas gerações.",
+    "9": "Diante desse cenário, torna-se necessário refletir sobre como equilibrar liberdade de escolha e responsabilidade coletiva na construção de uma sociedade mais saudável.",
+    "10": "De quem é, afinal, a responsabilidade sobre a escolha alimentar da população?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Pesquisas mostram que a população brasileira vem, gradativamente, alcançando melhores índices de expectativa de vida ao longo dos tempos.",
+    "1": "Incentivado pela promessa de um viver mais saudável e longo, um número considerável de pessoas têm  buscado a prática de exercícios físicos aliada a uma boa alimentação.",
+    "2": "Indo de encontro a tudo isso, no entanto, está o crescimento da oferta de comida rápida e saborosa, porém com um alto teor de gordura e açúcar, que pode provocar graves doenças.",
+    "3": "Embora muitos adultos tenham aderido ao \"fast food\", uma das maiores preocupações é com as crianças, tendo em vista que a obesidade infantil aumentou significativamente nos últimos vinte anos.",
+    "4": "De acordo com a Sociedade de Pediatria de São Paulo, são, aproximadamente, cinco milhões de brasileirinhos.",
+    "5": "Convém lembrar ainda que tem surgido um grande número de crianças com diabetes, levando muitos pais a um estado de alerta.",
+    "6": "Contudo, não se podem negar as dificuldades em se educar adultos e crianças quanto a uma escolha correta da comida que consomem, já que a televisão se tornou um potente veículo de propagação de alimentos, como os refrigerantes, sanduíches, \"milk shakes\", variados tipos de biscoitos e muitos outros que são apetitosos e atraentes aos olhos, mas que não são nutritivos, além de oferecerem graves riscos à saúde se consumidos em excesso.",
+    "7": "Portanto, diante do supra-exposto  , constata-se a necessidade de uma ação conjunta entre as famílias brasileiras e o governo, no que se refere ao controle dos alimentos industrializados.",
+    "8": "É importante que se crie uma regulamentação específica, que normatize a questão das propagandas destes alimentos, e que possa advertir aos pais, que, por sua vez, venham a educar os seus filhos quanto a uma forma saudável de alimentação, a fim de erradicar a obesidade infantil, prevenindo doenças e proporcionando mais saúde aos adultos de amanhã, levando  a um aumento efetivo da expectativa de vida dos brasileiros."
+  },
+  "redacao_gerada": {
+    "0": "No pensamento filosófico de John Locke, cabe ao Estado a preservação dos direitos fundamentais dos cidadãos, garantindo-lhes o bem-estar e a integridade física.",
+    "1": "Contudo, ao analisar a responsabilidade sobre a escolha alimentar da população contemporânea, observa-se uma grave lacuna na efetivação desse dever social.",
+    "2": "Nesse contexto, a conduta alimentar não pode ser vista unicamente como uma decisão individual, visto que está intrinsecamente ligada à omissão governamental e à ostensiva manipulação da indústria alimentícia.",
+    "3": "Dessarte, torna-se imperativo discutir a atuação estática do poder público e o cerceamento da autonomia do consumidor como pilares dessa problemática.",
+    "4": "Em primeira análise, cabe pontuar que a negligência estatal na regulação do mercado alimentício favorece a prevalência de dietas nocivas à saúde.",
+    "5": "De acordo com o conceito de \"Indústria Cultural\", formulado por Theodor Adorno, a lógica capitalista visa à padronização do consumo para a maximização dos lucros, relegando o bem-estar social a um plano secundário.",
+    "6": "De maneira análoga, grandes corporações utilizam estratégias de marketing agressivas e preços acessíveis para disseminar ultraprocessados, criando os chamados desertos alimentares nas periferias.",
+    "7": "Assim, ao falhar na fiscalização e na tributação ostensiva de produtos nocivos, o Governo omite-se de sua responsabilidade protetiva, deixando o cidadão à mercê da exploração comercial.",
+    "8": "Ademais, a ilusão de um livre-arbítrio irrestrito nas escolhas individuais camufla condicionamentos socioeconômicos profundos.",
+    "9": "Segundo o sociólogo Zygmunt Bauman, a sociedade de consumo moderna transforma o indivíduo em uma mercadoria regida pelo imediatismo, minando sua capacidade crítica.",
+    "10": "Sob essa ótica, a população vulnerável não opta livremente por alimentos ultraprocessados, mas é impelida a eles pela escassez de recursos financeiros e pela falta de letramento nutricional.",
+    "11": "Portanto, responsabilizar apenas o indivíduo por seus hábitos de saúde constitui uma simplificação falaciosa, que ignora as barreiras estruturais impostas pela desigualdade e pela desinformação.",
+    "12": "Depreende-se, portanto, a necessidade de redistribuir essa responsabilidade para assegurar uma alimentação saudável coletiva.",
+    "13": "Para tanto, o Ministério da Saúde, em conjunto com o Ministério da Educação, deve instituir o Programa Nacional de Autonomia Alimentar, por meio do aumento de impostos sobre produtos hipercalóricos e da obrigatoriedade de módulos de educação nutricional nas escolas.",
+    "14": "Essa medida — que inclui o direcionamento da arrecadação fiscal para subsidiar a produção da agricultura familiar — terá como efeito capacitar o cidadão para escolhas conscientes e baratear os alimentos in natura.",
+    "15": "Com isso, o Estado cumprirá o seu papel constitucional de proteger a sociedade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

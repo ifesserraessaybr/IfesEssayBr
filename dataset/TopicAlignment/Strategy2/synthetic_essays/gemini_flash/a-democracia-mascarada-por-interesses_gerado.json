@@ -1,0 +1,93 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "O principal objetivo de uma república é a democracia, não uma democracia puramente constitucional , mas sim em seu estado pleno, completo, através da qual se manteria a paz entre os indivíduos e a igualdade destes  perante a lei.",
+    "1": "Porém, o ser humano, na busca por esta  aclamada forma de governo, se desvia deste  objetivo,          decorrendo a seus próprios interesses muitas vezes motivados por visões e pensamentos diferenciados.",
+    "2": "Sendo assim, a \"culpa\" não pode estar unicamente nas autoridades corruptas, e nem na população ignorante e mal orientada, mas sim na natureza animal e humana de lutar por privilégios ou necessidades.",
+    "3": "Desde os primórdios da civilização, sábios como Montesquieu buscam maneiras de manter o equilíbrio entre as diferenças de poder presente nas diversas classes que compõem um povo, mas nem assim conseguiram atingir a verdadeira paz de governo.",
+    "4": "A agressão física dos últimos dias é a expressão clara e irracional da revolta de pessoas que não conseguiram satisfazer seus objetivos pessoais (pode as vezes ser chamado de \"direito\") usando seu poder de raciocínio , é como o desabafo, o ultimo  suspiro.",
+    "5": "Para impedir que esta agressão se torne exageradamente perturbadora, o órgão da polícia militar  toma medidas igualmente irracionais, tentando          amenizar a revolta social e (subliminarmente) proteger o interesse daqueles que garantem o salario e a possível ascensão de seus integrantes (um minuto, estes não são os próprios manifestantes?) .",
+    "6": "O sistema é corrupto, a política desorganizada e a cidadania quase nunca exercida.",
+    "7": "Então sobre quem está a culpa quando o conflito é motivado pelo mesmo tipo de interesse?",
+    "8": "Não há egoísmo que soa como correto.",
+    "9": "Não se pode acusar, não se pode julgar, pelo menos não com justiça e sem hipocrisia.",
+    "10": "Um julgamento severo e uma acusação racional, mesmo que hipócrita, pode moderadamente propagar uma certa \"paz\" ou manter uma certa organização, mas para alcançar a plenitude da relação social, devemos antes procurar em nós mesmos valores como justiça, amor e entendimento.",
+    "11": "Entre polícia ou manifestantes, governo ou povo, com desfiles ou cartazes, cassetetes ou bombas.",
+    "12": "Então vemos que não é nem um nem outro, mas sim o \"ou\" que nos incapacita de chegar ao bem estar social."
+  },
+  "redacao_gerada": {
+    "0": "Na perspectiva do sociólogo Max Weber, o Estado detém o monopólio do uso legítimo da força física para a manutenção da ordem social.",
+    "1": "Contudo, na contemporaneidade brasileira, observa-se uma constante fricção na atuação das forças policiais durante manifestações populares, oscilando entre o cumprimento do dever constitucional e o excesso violento.",
+    "2": "Nesse contexto, torna-se imperioso analisar como a frágil formação cidadã corporativa e a ineficácia dos mecanismos de fiscalização contribuem para a perpetuação do abuso de poder estatal contra os manifestantes.",
+    "3": "Em primeira análise, cabe pontuar que a conduta desproporcional da polícia em atritos sociais deriva da perpetuação de uma lógica militarizada de repressão.",
+    "4": "Segundo o filósofo Thomas Hobbes, o contrato social exige a garantia da segurança pública; todavia, quando o aparato repressivo enxerga o cidadão manifestante como um inimigo e não como um sujeito de direitos, desvirtua-se a essência da proteção estatal.",
+    "5": "Consequentemente, o uso desmedido de armas não letais e de violência física sob o pretexto de manter a ordem extrapola o papel constitucional da instituição, gerando violação dos direitos fundamentais garantidos no artigo 5º da Carta Magna de 1988.",
+    "6": "Ademais, a ausência de mecanismos rigorosos e transparentes de controle externo das atividades policiais intensifica o sentimento de impunidade e incentiva o excesso corporativo.",
+    "7": "Sob a ótica do sociólogo Zygmunt Bauman, a modernidade líquida é marcada pelo enfraquecimento das instituições responsáveis por mediar e fiscalizar o cumprimento das normas morais e jurídicas.",
+    "8": "Diante disso, sem um acompanhamento pericial e autônomo sobre os desvios de conduta cometidos em protestos, a polícia tende a desviar de sua função garantidora da ordem democratizada, convertendo a salvaguarda social em truculência desmedida contra a livre manifestação do pensamento.",
+    "9": "Infere-se, portanto, a urgência de remodelar a postura das forças de segurança para que cumpram estritamente seu papel democrático sem violar direitos.",
+    "10": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as Secretarias Estaduais de Segurança, reestruturar os protocolos de atuação em manifestações populares, por meio da implementação obrigatória de câmeras corporais nos uniformes e do treinamento continuado focado em mediação de conflitos e Direitos Humanos.",
+    "11": "Essa medida, detalhada pela fiscalização independente das ouvidorias e corregedorias com relatórios públicos mensais, terá o fito de coibir abusos de autoridade e assegurar o pleno exercício da cidadania no espaço público."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

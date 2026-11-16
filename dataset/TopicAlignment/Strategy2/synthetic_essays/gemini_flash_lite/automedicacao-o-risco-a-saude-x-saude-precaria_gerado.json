@@ -1,0 +1,93 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "No Brasil a prática da automedicação vem se tornando uma ação cada vez  mais corriqueira.",
+    "1": "Crianças , jovens, adultos e idosos ingerem de forma natural qualquer medicamento que lhe proponha  o alívio ou fim de sua enfermidade.",
+    "2": "Os riscos à saúde são inúmeros, no entanto, estes parecem  valer apena diante da segunda opção;  recorrer ao precário e          decadente sistema de saúde brasileiro.",
+    "3": "A estrutura dos hospitais, postos e clínicas de saúde ainda não são suficientemente eficazes.",
+    "4": "Frequentemente os noticiários abordam questões voltadas para esse tema em suas reportagens e é então que podemos mensurar o quão carente  de recursos e bons profissionais estão os nossos hospitais.",
+    "5": "Certamente, estimular a ida ao médico, por  indivíduos que são acometidos por triviais dores de cabeça ou simples inflamações não seria uma atitude plausível  .",
+    "6": "Isso provavelmente culminaria em um colapso.",
+    "7": "Por outro lado, incentivar a ingestão desenfreada de medicamentos não apresenta-se  como uma saída.",
+    "8": "Solucionar a questão da automedicação é uma missão bastante complexa.",
+    "9": "Existem pontos positivos e negativos que influenciam para uma  decisão.",
+    "10": "Talvez não uma, mas algumas atitudes fossem necessárias.",
+    "11": "Aumentar a quantidade de médicos, e  melhorar o espaço físico dos hospitais, já  seria um entusiasmante começo."
+  },
+  "redacao_gerada": {
+    "0": "No alvorecer da contemporaneidade, a prática da automedicação consolidou-se como um grave problema de saúde pública, sendo alarmantemente frequente entre os jovens brasileiros.",
+    "1": "Tal cenário nocivo decorre tanto da cultura da facilidade de acesso aos fármacos quanto da negligência informacional acerca dos riscos iatrogênicos.",
+    "2": "Desse modo, torna-se imperioso analisar essa problemática para mitigar seus impactos deletérios na juventude.",
+    "3": "Em primeira análise, é fundamental pontuar que a facilidade na aquisição de medicamentos sem prescrição médica reflete a lógica consumista da sociedade moderna.",
+    "4": "Sob a ótica do sociólogo Zygmunt Bauman, a modernidade líquida estimula a busca por gratificações instantâneas e soluções rápidas para qualquer desconforto, transformando a saúde em mercadoria acessível nas farmácias de esquina.",
+    "5": "Desse modo, os jovens, imersos nessa cultura da urgência, recorrem aos remédios sintomáticos como atalhos para manter a produtividade acadêmica ou social, ignorando os perigos da dependência química e da resistência bacteriana.",
+    "6": "Ademais, sob a perspectiva do filósofo Immanuel Kant, o ser humano é aquilo que a educação o faz, evidenciando o papel basilar do conhecimento na autonomia crítica.",
+    "7": "Contudo, a carência de uma educação em saúde nas escolas brasileiras deixa a parcela jovem vulnerável à publicidade farmacêutica e aos conselhos informais de redes sociais, onde a internet atua como um falso diagnóstico generalizado.",
+    "8": "Sem o devido letramento científico, a juventude passa a cultuar a cura imediata, banalizando efeitos colaterais severos e mascarando patologias mais profundas que exigem acompanhamento clínico especializado.",
+    "9": "Portanto, medidas urgentes são necessárias para combater a automedicação juvenil no país.",
+    "10": "Para tanto, cabe ao Ministério da Saúde, em parceria com o Ministério da Educação, promover campanhas nacionais de conscientização nas mídias sociais e nas escolas, por meio de palestras ministradas por profissionais da área e distribuição de cartilhas educativas.",
+    "11": "Essa intervenção tem como finalidade desconstruir a cultura da pílula salvadora e alertar sobre os riscos biológicos da medicação sem controle.",
+    "12": "Desse modo, a juventude poderá exercer sua cidadania com plena consciência corporal, garantindo o bem-estar coletivo preconizado pela Constituição."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "As manifestações de junho do ano passado (2013) tiveram enorme importância no sentido de relembrar o povo brasileiro do seu direito de ir às ruas e protestar contra suas insatisfações.",
+    "1": "Além disso, contribuíram ao expor para todas as esferas da sociedade, a repressão e truculência policial, há muito praticadas nas favelas e periferias brasileiras.",
+    "2": "Essa tônica de ação policial manteve-se no inicio  deste ano na contenção dos \"rolezinhos\" e dos protestos          anti-copa , reascendendo  o debate sobre o papel e modo de atuação da Policia  Militar no trato com a sociedade civil.",
+    "3": "Esse modelo de policia  repressiva deve-se aos fortes laços entre as Forças Armadas e a Policia  Militar, herdados do período da Ditadura Militar, que não foram rompidos mesmo após 25 anos da Constituição Federal de 88.",
+    "4": "O problema desse vínculo é evidente: os policiais são treinados militarmente, ensinados a enxergar a sociedade civil como um inimigo a ser combatido e a rotina policial como uma guerra.",
+    "5": "A relação entre as duas instituições é tão forte que as UPPs (Unidades de Policia Pacificadoras) são comandadas efetivamente pelas Forças Armadas e a segurança pública durante a Copa do Mundo será realizada pelo Exército.",
+    "6": "Como se não bastasse a repressão, a Policia  Militar encontra seu esgotamento quando junto à  isso inclui-se  as péssimas condições oferecidas aos seus efetivos, principal causa da corrupção endêmica que assola o setor, propiciando o acordo entre as facções criminosas e policias  .",
+    "7": "Os resultados dessa crise são as cenas horríveis promovidas pela PM durante os protestos e o exorbitante número de execuções primárias no Brasil, chamadas eufemisticamente de autos de resistência (mortes de civis resultantes da ação policial).",
+    "8": "O país vive um momento decisivo desse debate e a solução para este cenário passa pela via legislativa e pela atuação dos Governos Estaduais.",
+    "9": "Esta  na melhora das condições de trabalho dos policiais e na efetivação daquela que reside na desvinculação da Policia Militar das Forças Armadas, a unificação da PM junto à   Policia  Civil          e a destinação da ação policial para atividades civis, em contraposição ao cargo atual de manutenção da ordem pública."
+  },
+  "redacao_gerada": {
+    "0": "Na obra \"O Contrato Social\", Jean-Jacques Rousseau postula que o Estado surge para garantir a ordem e salvaguardar os direitos fundamentais dos cidadãos.",
+    "1": "Todavia, no cenário contemporâneo brasileiro, a atuação das forças de segurança pública em manifestações populares tensiona esse preceito, oscilando entre o cumprimento do dever constitucional e a extrapolação do uso legítimo da força.",
+    "2": "Nesse contexto, torna-se imperativo analisar como o despreparo institucional e a cultura da truculência perpetuam abusos estatais que violam garantias democráticas.",
+    "3": "Em primeira análise, cabe pontuar que o uso desarrazoado da coerção policial reflete falhas estruturais na forma como o Estado exerce o monopólio da violência.",
+    "4": "De acordo com o sociólogo Max Weber, o poder estatal caracteriza-se pela posse legítima da força física, contudo, essa prerrogativa deve ser limitada pelo direito positivo e pela preservação do bem comum.",
+    "5": "Todavia, em episódios de manifestações, observa-se frequentemente a transposição desses limites legais, resultando na repressão desproporcional a movimentos sociais legítimos e na mitigação da liberdade de expressão.",
+    "6": "Ademais, ressalta-se que a deficiência no treinamento voltado à mediação de conflitos perpetua ações truculentas que extrapolam a função de manutenção da ordem.",
+    "7": "Sob a ótica do filósofo Michel Foucault sobre os mecanismos de controle corporativo, a instituição policial por vezes atua sob uma lógica punitiva e disciplinadora direcionada aos manifestantes.",
+    "8": "Dessa forma, em vez de atuar como agente garantidor da segurança de todos, a polícia incorre em excessos desnecessários, deslegitimando seu papel de protetora das liberdades democráticas.",
+    "9": "Portanto, medidas são prementes para atenuar os excessos policiais e assegurar o direito constitucional à livre manifestação.",
+    "10": "Para tanto, o Ministério da Justiça e Segurança Pública deve reformular os protocolos de atuação em protestos públicos, por meio da implementação obrigatória de treinamentos em direitos humanos e mediação pacífica de conflitos, direcionados a todo o efetivo operacional.",
+    "11": "Essa medida, acompanhada da fiscalização rigorosa por órgãos correicionais autônomos, visará harmonizar a preservação do pátrio sossego com o pleno respeito às vozes da sociedade civil."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

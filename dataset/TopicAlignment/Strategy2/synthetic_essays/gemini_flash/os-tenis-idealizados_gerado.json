@@ -1,0 +1,98 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Todos sabem que no Brasil, há tempos, observa-se, a  exclusão social dos moradores das periferias,          e recentemente cogita-se o movimento rolezinho, em que os jovens \"favelados\" estão sendo protagonistas, um momento marcante na história.",
+    "1": "Percebe-se nesse movimento a participação ativa da polícia , mas o que atormenta a população é se este se excede contra os manifestantes ou cumpre seu papel.",
+    "2": "Os jovens em geral, sempre  querem estar na moda, comprar roupas e tênis de marca, com  os jovens da periferia não poderia ser diferente, para ser incluso na sociedade  eles fazem de tudo para obterem esses tênis tão idealizados , e convenhamos, que, em uma sociedade que se diz civilizada  a exclusão já deveria deixar  de existir.",
+    "3": "O movimento rolezinho reuniu os jovens de diferentes realidades e cidades com um único objetivo: se divertir no shopping, e de certa forma, inconscientemente, protestar contra a exclusão social.",
+    "4": "Embora o movimento, a priore  , pareça inofensivo  a reunião de vários jovens facilitou ao  acontecimento de arrastões em local de lazer para as famílias, o que, sem dúvida, causa desordem .",
+    "5": "Para manter a ordem  surge a          participação dos polícias  , entretanto percebe-se que a polícia esta se excedendo contra os manifestantes, não tolerando os protestos.",
+    "6": "Em um país que se diz democrático, os manifestantes estão sendo reprimidos pelos polícias  por expressarem sua opinião,tudo bem que, algumas  pessoas vão com outras finalidades          desagradáveis , mas os policiais não podem generalizar e agredir os jovens cidadãos que estão no seu direito de opinar.",
+    "7": "Para amenizar tal situação  os jovens poderiam organizar suas manifestações em locais abertos, para não facilitarem  a existência de perturbação pública, a mídia poderia investir em propagandas que acreditem no poder juvenil, afinal, os jovens são o futuro do país, e o governo poderia orientar mais os policiais para não          generalizarem todos os manifestantes e evitarem a agressão, para impedir que esses transtornos voltem a acontecer no futuro."
+  },
+  "redacao_gerada": {
+    "0": "Na obra \"Economia e Sociedade\", Max Weber conceitua o Estado moderno pelo monopólio da violência física legítima para a manutenção da ordem social.",
+    "1": "Todavia, no contexto contemporâneo brasileiro, observa-se uma fissura nessa premissa quando a atuação policial em manifestações populares transgride o dever constitucional e incorre em excessos violentos contra os cidadãos.",
+    "2": "Nesse prisma, as forças de segurança pública frequentemente extrapolam seu papel institucional, impulsionadas pela herança de uma formação militarizada e pela escassez de mecanismos eficazes de fiscalização.",
+    "3": "Em primeira análise, cabe pontuar que o uso desproporcional da força desvirtua a finalidade protetiva do aparelho estatal.",
+    "4": "Conforme a teoria do controle social de Michel Foucault, as estruturas institucionais de poder tendem a exercer uma disciplina severa sobre os corpos, convertendo a contestação política em objeto de reprimenda.",
+    "5": "Sob essa perspectiva, a agressão policial contra manifestantes representa uma truculência arbitrária que atenta diretamente contra as garantias fundamentais inscritas na Constituição Federal de 1988, transmutando a garantia da ordem em opressão sistêmica.",
+    "6": "Ademais, sobressai a lacuna no controle externo e na formação cidadã dos agentes de segurança como vetor intensificador dos abusos.",
+    "7": "Segundo o sociólogo Zygmunt Bauman, a fragilidade das instituições na contemporaneidade resulta em respostas truculentas e inadequadas diante das pressões sociais.",
+    "8": "Dessa forma, a perpetuação de uma lógica bélica no policiamento ostensivo faz com que o manifestante seja visto como um inimigo a ser neutralizado, e não como um sujeito de direitos no exercício da democracia, consolidando o desvio de função da corporação.",
+    "9": "Infere-se, portanto, que o aparato policial precisa readequar sua conduta para que cumpra seu verdadeiro papel protetivo sem exceder os limites legais.",
+    "10": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com os governos estaduais, reformular o protocolo de atuação das forças de segurança em protestos.",
+    "11": "Essa medida deve ser efetivada mediante a obrigatoriedade do uso de câmeras corporais nos uniformes e a capacitação contínua em mediação de conflitos sob a ótica dos Direitos Humanos.",
+    "12": "Esse processo será detalhado por meio de auditorias independentes do Ministério Público com acesso a relatórios em tempo real.",
+    "13": "Com isso, garantir-se-á a segurança coletiva e o pleno respeito à liberdade de expressão."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

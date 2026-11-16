@@ -1,0 +1,60 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Nesses últimos meses tem se registrado uma proliferação de manifestações, a qual tem  tido como objetivo principal a busca pela igualdade por parte daqueles que se encontram a  margem da sociedade.",
+    "1": "Por outro lado, existe  as classes superiores, que reagem de forma preconceituosa e violenta ao se debaterem com  essa situação.",
+    "2": "A elite, na maioria das vezes, não reconhece sua postura discriminante, no entanto seus atos evidenciam a existência de uma mentalidade escassa e cheia de valores próprios  , ela  não aceita o fato de ter que se misturar com pessoas “inferiores”,          dessa forma,  contribuindo com a normalidade dos acontecimentos.",
+    "3": "A intolerância é a maior resposta para essas pessoas , que tem  se visto “predestinadas” a serem reprimidas e se manter  em silêncio, a policia  utiliza-se de sua          força e status para justificar o poder demasiado, o que demonstra novamente a diferenciação que se cria, socialmente e racialmente, para com a classe pobre.",
+    "4": "Não existe mudança quando não há uma reavaliação e renovação de ideias, é  necessário que aconteça um diálogo entre as classes dominantes e as classes que visam a integração na sociedade,          para que se cumpra a constituição  , e consequentemente garantindo os direito de ir e vir de cada um          ."
+  },
+  "redacao_gerada": {
+    "0": "Consoante a teoria contratualista de Thomas Hobbes, o Estado detém o monopólio legítimo da força para garantir a ordem e a segurança da coletividade.",
+    "1": "No entanto, no contexto brasileiro contemporâneo, observa-se com frequência a superação desses limites por parte das forças de segurança durante manifestações populares, gerando um embate entre a prerrogativa estatal de manutenção da ordem pública e o direito constitucional à livre expressão.",
+    "2": "Nesse cenário, o excesso policial manifesta-se não apenas pela inadequação do uso de instrumentos de contenção, mas também pela criminalização velada dos movimentos sociais.",
+    "3": "Paralelamente, tal problemática perpetua-se devido à persistência de heranças autoritárias institucionais e à insuficiência de treinamentos humanizados nas corporações.",
+    "4": "Torna-se imperativo, portanto, mitigar essa problemática para assegurar o pleno funcionamento do Estado Democrático de Direito.",
+    "5": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as Secretarias de Segurança Estaduais, reformular os protocolos de atuação policial em protestos, por meio da implementação de cursos obrigatórios de mediação de conflitos e direitos humanos para todos os agentes.",
+    "6": "Essa medida visa a coibir abusos de autoridade e a garantir a integridade física dos manifestantes, consolidando, assim, uma sociedade mais justa e pacífica, em consonância com os preceitos constitucionais."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

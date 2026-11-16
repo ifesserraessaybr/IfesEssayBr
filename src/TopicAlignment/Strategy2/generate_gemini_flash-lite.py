@@ -5,11 +5,13 @@ import asyncio
 import sys
 import time
 import nltk
+import json5
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from google.genai import Client
 from pathlib import Path
+
 
 nltk.download('punkt')
 
@@ -20,13 +22,16 @@ load_dotenv(BASE_DIR / ".env")
 sys.path.append(BASE_DIR)
 from document import Document
 
-#Configuração das pastas
-PASTA_IC = BASE_DIR
-PASTA_ENTRADA_JSON = PASTA_IC
-PASTA_DATA = os.path.join(PASTA_IC, "data")
+# Carrega json de configuração
+ARQUIVO_CONFIG = BASE_DIR / "config.json"
+with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
+    CONFIG = json.load(arq)
 
-# Pasta criada  para salvar os resultados desta versão Lite
-PASTA_SAIDA = os.path.join(PASTA_IC, "dataset_sintetico_flash_lite")
+# Configuração das pastas
+PASTA_ENTRADA_JSON = (BASE_DIR / CONFIG["generate_gemini_flash-lite - json_dataset_in"]).resolve()
+PASTA_ENTRADA_XML = (BASE_DIR / CONFIG["generate_gemini_flash-lite - xml_dataset_in"]).resolve()
+PASTA_SAIDA = (BASE_DIR / CONFIG["generate_gemini_flash-lite - out"]).resolve()
+
 # Arquivo de texto que serve para marcar o que já foi finalizado
 ARQUIVO_PROCESSADOS = os.path.join(PASTA_SAIDA, "processados_lite.txt")
 
@@ -78,16 +83,30 @@ PROMPT_ABAIXO_450 = (
 def carregar_dados_dos_temas():
     """ Abre e lê os JSONs principais para coletar os temas, comandos e motivadores. """
     mapa_temas = {}
-    # Filtra e pega só os JSONs originais de temas, ignorando os arquivos gerados
-    arquivos = [f for f in os.listdir(PASTA_ENTRADA_JSON) if f.endswith(".json") and "_gerado" not in f and f != "prompts_extraidos.json"]
+    arquivos = [
+        f for f in os.listdir(PASTA_ENTRADA_JSON)
+        if f.endswith(".json") and not f.startswith("._") and "_gerado" not in f and f != "prompts_extraidos.json"
+    ]
     for arquivo in arquivos:
         caminho = os.path.join(PASTA_ENTRADA_JSON, arquivo)
         try:
             with open(caminho, "r", encoding="utf-8") as f:
-                dados = json.load(f)
-                tema = dados.get("tema", "")
-                if tema:
-                    mapa_temas[tema] = dados  # Indexa o conteúdo usando o nome do tema como chave
+                conteudo = f.read()
+                try:
+                    dados = json.loads(conteudo)
+                except json.JSONDecodeError:
+                    # Fallback em memória para JSONs com chaves sem aspas duplas ou vírgulas sobrando
+                    dados = json5.loads(conteudo)
+
+                # Extrai o slug do nome do arquivo (ex: "100_e-tempo-da-reeducacao-alimentar_saida.json" -> "e-tempo-da-reeducacao-alimentar")
+                slug_arquivo = re.sub(r"^\d+_|_saida\.json$|\.json$", "", arquivo)
+
+                # Indexa tanto pelo slug extraído do nome do arquivo quanto pela chave "tema" (se existir)
+                if slug_arquivo:
+                    mapa_temas[slug_arquivo] = dados
+                if dados.get("tema"):
+                    mapa_temas[dados["tema"]] = dados
+
         except Exception as e:
             print(f"[Erro Inicialização] Falha ao ler JSON {arquivo}: {e}")
     return mapa_temas
@@ -95,12 +114,12 @@ def carregar_dados_dos_temas():
 def listar_todos_xmls_e_calcular_faixas():
     #Conta todos os arquivos XML e calcula como dividi-los igualmente entre os 4 níveis de notas.
     lista_tarefas_xml = []
-    if not os.path.exists(PASTA_DATA):
+    if not os.path.exists(PASTA_ENTRADA_XML):
         return [], []
     
     #Procura a pasta 'xml' dentro de cada pasta de tema
-    for pasta_tema in os.listdir(PASTA_DATA):
-        caminho_xml_dir = os.path.join(PASTA_DATA, pasta_tema, "xml")
+    for pasta_tema in os.listdir(PASTA_ENTRADA_XML):
+        caminho_xml_dir = os.path.join(PASTA_ENTRADA_XML, pasta_tema, "xml")
         if os.path.exists(caminho_xml_dir):
             # Ignora arquivos que começam com ._
             xmls = [f for f in os.listdir(caminho_xml_dir) if f.endswith(".xml") and not f.startswith("._")]
@@ -200,7 +219,7 @@ RETORNO OBRIGATÓRIO (JSON STRICT - SEM MARKDOWN):
         for tentativa in range(10):
             try:
                 response = await client.aio.models.generate_content(
-                    model='gemini-2.5-flash-lite', #Modelo usado
+                    model='gemini-3.5-flash-lite', #Modelo usado
                     contents=prompt_final,
                     config=types.GenerateContentConfig(
                         response_mime_type="application/json", #Obriga a resposta a vir estruturada em JSON puro

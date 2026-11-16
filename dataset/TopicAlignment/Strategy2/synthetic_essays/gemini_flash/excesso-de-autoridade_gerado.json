@@ -1,0 +1,97 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "É de conhecimento público, que  a polícia tem se excedido          em suas durante manifestações .",
+    "1": "Dentre tantos  motivos relevantes , temos o uso da violência o abuso de autoridade, assim como          lesar os direitos de uma democracia .",
+    "2": "É preciso frisar que, o  uso exagerado da violência por policiais se faz presente em manifestações.",
+    "3": "Constata-se isso em manifestações, onde  a polícia faz uso de força bruta sem controle e respeito.",
+    "4": "Dessa forma, manifestantes pacíficos são tratados como \"bandidos\" por tal ato abusivo.",
+    "5": "Isto deve-se a  autoridade concedida a estes  policiais  a  rotina exaustiva que este  se depara  ,          além da falta de treinamento oferecida a eles.",
+    "6": "Observa-se tal abuso em condutas policias, não  só em manifestações, que acabaram sendo recorridas ações violentas o que poderia ser de forma pacífica, torna-se um ato de agressividade.",
+    "7": "Ainda convém lembrar que a mau  conduta destes  , lesa  direitos de uma sociedade democrática, onde todos tem  o direito de se manifestar ter suas opiniões.",
+    "8": "Sendo assim, a polícia faz um jogo          \"sujo\" para defender interesses de político  \"defensores da pobreza\" .",
+    "9": "Dado o exposto, a polícia se excede sim contra manifestantes, pacíficos  .",
+    "10": "Portanto se faz necessário uma análise crítica que possibilite a constatação da causa e as suas consequências.",
+    "11": "Buscar soluções eficazes e viáveis para a melhoria de vida é responsabilidades de todos."
+  },
+  "redacao_gerada": {
+    "0": "Na obra \"O Leviatã\", Thomas Hobbes postula que o Estado detém o monopólio da violência legítima para garantir a coesão social.",
+    "1": "Contudo, no contexto contemporâneo, observa-se uma constante tensão quanto à atuação das forças policiais em manifestações populares, oscilando entre o cumprimento do dever e a extrapolação abusiva do poder.",
+    "2": "Nesse viés, torna-se imperioso analisar como a herança estrutural autoritária e a carência de capacitação humanística dos agentes perpetuam condutas desproporcionais contra a população.",
+    "3": "Em primeira análise, cabe pontuar que o uso desproporcional da força reflete um legado histórico autoritário arraigado nas instituições de segurança pública.",
+    "4": "Segundo o sociólogo Pierre Bourdieu em sua reflexão sobre a violência institucional, certas práticas arbitrárias são naturalizadas pelo aparelho estatal sob o pretexto de manutenção da ordem.",
+    "5": "Dessa forma, quando manifestantes são violentamente reprimidos em seu direito constitucional de livre expressão, evidencia-se um desvio de finalidade da corporação, a qual passa a coagir a cidadania em vez de salvaguardá-la.",
+    "6": "Ademais, é imperioso sublinhar que a insuficiência de diretrizes pedagógicas pautadas nos Direitos Humanos corrobora a ocorrência de abusos operacionais.",
+    "7": "Conforme propõe a ética kantiana, a pessoa humana deve ser tratada como um fim em si mesma, nunca como um mero alvo de coerção violenta.",
+    "8": "Todavia, a escassez de treinamento voltado à desescalada de conflitos transforma o patrulhamento em episódios truculentos, deturpando o papel constitucional da polícia perante os manifestantes.",
+    "9": "Infere-se, portanto, a urgência de readequar a conduta das forças policiais no contexto das manifestações sociais.",
+    "10": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública — órgão responsável por coordenar as diretrizes de segurança nacional — reformular a matriz curricular e o protocolo de atuação ostensiva dos agentes.",
+    "11": "Essa reformulação deve ocorrer mediante a implementação obrigatória de treinamentos contínuos em mediação pacífica e o uso compulsório de câmeras corporais, visando à transparência das operações e ao combate aos excessos.",
+    "12": "Assim, o Estado garantirá a segurança pública sem violar os direitos fundamentais do cidadão."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

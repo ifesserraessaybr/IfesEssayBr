@@ -1,0 +1,101 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "O povo tem perdido o medo de lutar por seus direitos e não serem ouvidos, sendo  assim,          organizão manifestações com grande quantidade de pessoas e saem para as ruas, porém, muitas vezes tais manifestações nem sempre são organizadas o bastante e acabam gerando confusão ao invés de conquistarem os anseios dos cidadãos.",
+    "1": "Em todos os casos, a fiscalização da policia  é fundamental, pois  dentro desses movimentos, também existe a penetração de vândalos, que acabam          digredindo o patrimônio publico e também a imagem de um povo lutando por seus direitos, são  momentos onde  os policiais precisam interferir muitas vezes excedendo o seu poder e agindo violentamente com tais manifestantes.",
+    "2": "Na maioria das vezes, o povo luta pacificamente e a policia  apenas fiscaliza para o bem da sociedade, porém quando as autoridades são deparadas por  imprevistos,          muitas vezes despreparados belicamente em uma porcentagem muito mais inferior do que as próprias gangues e vândalos , são obrigados  a partir para a agressão com o intuito de acabar o mais breve possível com os manifestos e  riscos ao patrimônio publico  .",
+    "3": "Se desejamos lutar por nossos direitos, é necessário que antes de qualquer ato de manifestação, haja conscientização, de sair as ruas com um alvo  , e um alvo  que gere paz.",
+    "4": "Para a policia  , preparação e respeito, e ao governo  que muitas vezes ordena aos policiais a agir bruscamente  , que possa ouvir a voz do povo, ao invés de apenas querer acabar com os manifestos  rapidamente sem que o problema seja resolvido.",
+    "5": "A realidade é que se desejamos viver em uma sociedade pacifica  , todos devemos agir cooperando para a realização desta ideia  ,          afinal todos juntos formamos apenas uma população, a população Brasileira, e toda melhora, resultará na melhora de todos!"
+  },
+  "redacao_gerada": {
+    "0": "Consoante a teoria contratualista de Thomas Hobbes, o Estado surge para garantir a ordem e a segurança coletiva, mediando conflitos por meio do monopólio legítimo da força.",
+    "1": "No entanto, no contexto brasileiro contemporâneo, tal prerrogativa estatal tem sido tensionada nos episódios em que a atuação policial se excede contra manifestantes.",
+    "2": "Esse cenário problemático revela-se não apenas um obstáculo à liberdade de expressão, mas também uma grave violação dos direitos fundamentais, sendo impulsionado tanto pela herança histórica de violência institucional quanto pela ineficiência dos mecanismos de controle sobre a tropa.",
+    "3": "Primeiramente, é imperioso pontuar que a práxis policial brasileira carrega profundas marcas de um passado autoritário, fundamentado na Doutrina de Segurança Nacional.",
+    "4": "Sob essa ótica, movimentos sociais e protestos populares frequentemente não são encarados como o exercício legítimo da cidadania, mas sim como ameaças à ordem pública a serem reprimidas.",
+    "5": "A sociologia de Max Weber corrobora essa análise ao definir o Estado detentor do uso legítimo da força física, cuja aplicação, contudo, deve ser estritamente proporcional e pautada no princípio da legalidade.",
+    "6": "Desse modo, o desrespeito a essa proporção por parte dos agentes de segurança corrói a própria legitimidade do pacto social e silencia vozes que clamam por justiça e direitos.",
+    "7": "Ademais, sob a perspectiva da inércia governamental, destaca-se a deficiência na formação e na responsabilização dos agentes públicos.",
+    "8": "A ausência de treinamentos contínuos focados em direitos humanos e em técnicas de mediação de conflitos resulta em respostas violentas e desproporcionadas em cenários de manifestações.",
+    "9": "Conforme o filósofo Pierre Bourdieu, a violência simbólica e física muitas vezes se institucionaliza quando as estruturas de poder falham em autocorreção.",
+    "10": "Sem um sistema de responsabilização rigoroso e transparente, a impunidade perpetua os abusos de autoridade, criando um ciclo vicioso no qual o cidadão se vê desamparado perante aquele que deveria protegê-lo.",
+    "11": "Portanto, medidas urgentes são necessárias para harmonizar a atuação policial com o Estado Democrático de Direito.",
+    "12": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as secretarias estaduais de segurança, reformular a matriz curricular das academias de polícia, inserindo cursos obrigatórios de direitos humanos, resolução pacífica de conflitos e proporcionalidade da força.",
+    "13": "Essa ação deve ser realizada por meio da contratação de especialistas civis e de oficinas práticas, com o fito de desconstruir a cultura de violência institucional.",
+    "14": "Somente assim, com forças policiais capacitadas e submetidas a ouvidorias externas independentes, o Brasil poderá assegurar o direito constitucional à manifestação sem o temor da repressão abusiva."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

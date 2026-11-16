@@ -1,0 +1,93 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "0": "Movimentos de protesto no Brasil, como os de 2013, colocam em evidência o papel da polícia em situações de grande mobilização social.",
+    "1": "Em manifestações, é necessário equilibrar a garantia da ordem pública com o respeito à liberdade de expressão e aos direitos humanos.",
+    "2": "A violência pode ocorrer tanto por parte de indivíduos que praticam atos ilícitos quanto de agentes de segurança que excedem suas funções.",
+    "3": "Os meios de comunicação influenciam a percepção pública sobre manifestações, distinguindo entre protestos legítimos e atos de vandalismo.",
+    "4": "O treinamento adequado da polícia e a preparação para lidar com grandes grupos de pessoas são fundamentais para reduzir abusos e preservar direitos.",
+    "5": "Refletir sobre essas situações permite discutir formas de garantir segurança, organização e respeito à cidadania de forma equilibrada.",
+    "6": "Como é possível proteger a sociedade e, ao mesmo tempo, assegurar o direito de manifestação pacífica?"
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "E já dizia a filosofia, o homem é um ser singular, autônomo, pensante, original, motivável e principalmente de pensamento livre e sem limites.",
+    "1": "Ai  está o problema, até que ponto podemos chegar?",
+    "2": "O problema sempre foi e sempre será o mesmo: o ser humano e sua mania descontrolada de agir por impulso.",
+    "3": "Assim  esquecendo sua          ideologia , desobedecendo as leis, e fazendo coisas banais .",
+    "4": "Temos como exemplo as manifestações, que deveriam ser uma forma de expressar a luta por uma democracia justa , criticar o sistema falho e a injustiça .",
+    "5": "Mas o que acontece na maioria das vezes é uma sanguinária luta por sobrevivência , espancamentos e várias formas de vandalismo.",
+    "6": "Portanto, para evitar esses tipos de problemas, deve existir bom senso e organização tanto da parte dos manifestantes quanto da dos policiais.",
+    "7": "Algumas ótimas ideias seriam usar as redes sociais e a mídia para divulgar campanhas pacificadoras; aumentar a fiscalização quando acontecesse tal evento, e por último usar a expressão sem limites para boas causas."
+  },
+  "redacao_gerada": {
+    "0": "Historicamente, o Estado moderno consolidou-se sob a égide do monopólio do uso legítimo da força, conforme postulado pelo sociólogo Max Weber.",
+    "1": "No entanto, na contemporaneidade, a atuação das forças de segurança em protestos sociais tem suscitado debates acerca dos limites entre a garantia da ordem pública e o cerceamento de direitos fundamentais.",
+    "2": "Nesse viés, a violência policial em manifestações configura um grave entrave à democracia, impulsionada tanto pela militarização excessiva das instituições quanto pela ineficiência dos mecanismos de controle e responsabilização estatal.",
+    "3": "Torna-se imperioso, portanto, analisar tais vertentes para a efetivação da cidadania plena no país.",
+    "4": "Em primeira análise, é fundamental pontuar que a formação militarizada das corporações policiais frequentemente prioriza o combate ao inimigo em detrimento da mediação de conflitos civis.",
+    "5": "Sob essa ótica, o conceito de biopoder, formulado pelo filósofo Michel Foucault, elucida como o Estado exerce controle sobre os corpos e comportamentos, muitas vezes recorrendo à coerção física desmedida para neutralizar vozes dissidentes.",
+    "6": "Consequentemente, o direito constitucional à livre expressão e à manifestação pacífica é mitigado por abordagens truculentas que violam a dignidade da pessoa humana e a própria ordem jurídica vigente.",
+    "7": "Em segunda análise, destaca-se que a impunidade dos agentes de segurança que cometem excessos perpetua esse cenário de violência institucional.",
+    "8": "Conforme aponta o filósofo Thomas Hobbes em sua obra Leviatã, o pacto social pressupõe proteção aos cidadãos, e não a subjugação destes pelo aparato estatal.",
+    "9": "Desse modo, a carência de investigações rigorosas e punições exemplares para abusos de autoridade fomenta um ciclo vicioso de impunidade, minando a confiança da sociedade civil nas instituições democráticas e no Estado de Direito.",
+    "10": "Portanto, medidas urgentes são necessárias para mitigar a violência policial em protestos e assegurar o pleno exercício dos direitos civis.",
+    "11": "Para tanto, cabe ao Ministério da Justiça e Segurança Pública, em parceria com as secretarias estaduais de segurança, reformular as diretrizes de treinamento das polícias militar e civil, introduzindo cursos obrigatórios de direitos humanos, técnicas de mediação de conflitos e uso proporcional da força.",
+    "12": "Essa ação deve ser realizada por meio da revisão dos currículos acadêmicos das corporações e da implementação de ouvidorias externas independentes, com o intuito de coibir abusos, punir os desvios de conduta e garantir que o papel constitucional de proteção ao cidadão seja cumprido com rigor e respeito à democracia."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

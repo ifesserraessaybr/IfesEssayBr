@@ -1,0 +1,82 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "0": "A automedicação, reconhecida por organizações internacionais de saúde como um comportamento que pode trazer benefícios quando praticado com responsabilidade, é amplamente difundida entre diferentes grupos da população.",
+    "1": "Entretanto, especialistas alertam que o uso de medicamentos sem orientação profissional pode gerar riscos significativos, sobretudo quando ocorrem intoxicações, reações adversas ou a repetição inadequada de tratamentos.",
+    "2": "Nesse cenário, torna-se relevante analisar os fatores que contribuem para a escolha de tratar sintomas por conta própria, considerando desde a limitação de recursos do sistema de saúde até a falta de informação sobre limites seguros desse hábito."
+  },
+  "textos_motivadores": {},
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Populações de países , do jovem ao idoso  estão aderindo a auto medicação sem preocupar-se  com as consequências.",
+    "1": "O que fazer para que as pessoas se alertem  e preocupem-se com esse          método de medicação?",
+    "2": "Dos jovens aos maduros , como Michael Jackson, atormentados por problemas diversos  procuram a fuga por meio de medicamentos controlados, calmantes e anestésicos,          que por sua vez, a overdose acaba por ser seu final.",
+    "3": "Não apenas esses medicamentos como também,  remédios que alteram também  o funcionamento de hormônios e órgãos, como anticoncepcionais, remédios para o coração ou fígado e antibióticos.",
+    "4": "Entretanto, o tratamento médico não estar  ao alcance de todos, além  disso, se pessoas com problemas variados for ir a  procura dos hospitais e clínicas, haverá um provável colapso,          congestionando os mais necessitados pelos casos fúteis ou menos grave  .",
+    "5": "Logo, folhetos e propagandas que alertem o perigo dos medicamentos utilizados de maneira errônea, para que todos tenham          conhecimento, consciência e preocupação ao ingerir certas químicas que podem ser letais, seria  uma medida para a prevenção das piores consequências."
+  },
+  "redacao_gerada": {
+    "0": "No cenário contemporâneo, a automedicação consolidou-se como um grave problema de saúde pública, especialmente entre os jovens brasileiros.",
+    "1": "Tal panorama decorre tanto da influência nociva do ciberespaço quanto da ineficiência estrutural do sistema de saúde em acolher essa parcela populacional com agilidade.",
+    "2": "Torna-se imprescindível, portanto, analisar esses fatores para mitigar os riscos inerentes a essa prática perniciosa.",
+    "3": "Em primeira análise, é fundamental pontuar que a proliferação de informações não checadas nas redes sociais fomenta o consumo irracional de fármacos.",
+    "4": "Sob a ótica do sociólogo Zygmunt Bauman, a modernidade líquida é marcada pela volatilidade e pela busca imediata por soluções para o mal-estar, o que se traduz na facilidade com que a juventude adere ao diagnóstico e à prescrição por conta própria.",
+    "5": "Desse modo, algoritmos e influenciadores digitais banalizam os perigos da iatrogenia, substituindo o saber médico científico por opiniões rasas e irresponsáveis.",
+    "6": "Ademais, a precariedade do atendimento médico nos postos públicos e a burocracia para obtenção de consultas impulsionam os indivíduos a buscarem atalhos perigosos nas farmácias.",
+    "7": "Conforme o filósofo Immanuel Kant, o ser humano é aquilo que a educação o faz, evidenciando que a carência de letramento em saúde na sociedade perpetua a ilusão de que o alívio sintomático equivale à cura de patologias subjacentes.",
+    "8": "Consequentemente, o uso indiscriminado de analgésicos e anti-inflamatórios mascara doenças graves, além de provocar reações adversas severas, intoxicações e a perigosa resistência bacteriana.",
+    "9": "Em virtude dos fatos supracitados, medidas urgentes são necessárias para combater a automedicação juvenil.",
+    "10": "Para isso, cabe ao Ministério da Saúde, em parceria com as secretarias estaduais de educação, promover campanhas de conscientização nas escolas e mídias sociais sobre os riscos do consumo de remédios sem prescrição, por meio de palestras ministradas por profissionais da área e distribuição de cartilhas informativas.",
+    "11": "Essa ação tem como finalidade principal educar criticamente os jovens, garantindo que compreendam a importância do diagnóstico profissional, a fim de construir uma sociedade mais saudável e segura."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}
