@@ -32,13 +32,6 @@ PASTA_ENTRADA_XML = (BASE_DIR / CONFIG["generate_gemini_flash - xml_dataset_in"]
 PASTA_SAIDA = (BASE_DIR / CONFIG["generate_gemini_flash - out"]).resolve()
 ARQUIVO_PROCESSADOS = PASTA_SAIDA / "processados.txt"
 
-
-
-# PASTA_ENTRADA_JSON = BASE_DIR / "dataset" / "TopicAlignment" / "json_dataset" / "gpt4TurboOneshot"
-# PASTA_DATA = BASE_DIR / "dataset" / "TopicAlignment" / "aes-pt" / "data" / "data"
-# PASTA_SAIDA = BASE_DIR / "dataset" / "TopicAlignment" / "Strategy2" / "synthetic_essays" / "gemini_flash"
-# ARQUIVO_PROCESSADOS = PASTA_SAIDA / "processados.txt"
-
 os.makedirs(PASTA_SAIDA, exist_ok=True)
 
 # Conexão com a API

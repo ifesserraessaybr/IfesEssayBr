@@ -6,6 +6,7 @@ import time
 import json
 import sys
 import subprocess
+from pathlib import Path as Caminho
 
 def verificar_e_instalar_dependencias():
     """Verifica se matplotlib e seaborn estão instalados; se não, instala automaticamente."""
@@ -34,36 +35,23 @@ def verificar_e_instalar_dependencias():
 verificar_e_instalar_dependencias()
 
 # Agora os imports avançados estão seguros contra erros de 'ModuleNotFoundError'
+from seaborn.objects import Path
 from transformers import pipeline
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Semente
-random.seed(42)
+# Carrega json de configuração e define caminhos de arquivos
+BASE_DIR = Caminho(__file__).resolve().parents[3]
+ARQUIVO_CONFIG = BASE_DIR / "config.json"
+with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
+    CONFIG = json.load(arq)
 
-# Caminhos
-ARQUIVO_TXT_PROGRESSO = "progresso_subjetividade.txt"
-ARQUIVO_RELATORIO_FINAL = "relatorio_final.txt"
-CAMINHO_PASTA = r"C:\Users\joaqu\OneDrive\Desktop\IC\dataset_sintetico_gemini"
+OUTPUT_DIR = (BASE_DIR / CONFIG["eval_gemini_flash - out"]).resolve()
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-
-import os
-import random
-import math
-import re
-import time
-import json
-from transformers import pipeline
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# Semente
-random.seed(42)
-
-# Caminhos (Ajustados para o seu ambiente local no Windows)
-ARQUIVO_TXT_PROGRESSO = "progresso_subjetividade.txt"
-ARQUIVO_RELATORIO_FINAL = "relatorio_final.txt"
-CAMINHO_PASTA = r"C:\Users\joaqu\OneDrive\Desktop\IC\dataset_sintetico_gemini"
+ARQUIVO_TXT_PROGRESSO = os.path.join(OUTPUT_DIR, "progresso_subjetividade.txt")
+ARQUIVO_RELATORIO_FINAL = os.path.join(OUTPUT_DIR, "relatorio_final.txt")
+CAMINHO_PASTA = (BASE_DIR / CONFIG["eval_gemini_flash - in"]).resolve()
 
 # Inicialização do pipeline de classificação de estilo
 analisador_subjetividade = pipeline(
@@ -199,8 +187,8 @@ def gerar_boxplots_comparativos(ttr_orig, ttr_sint, comp_orig, comp_sint, sub_or
     # Ajusta o layout das margens de forma automática
     plt.tight_layout()
     
-    # Salva o arquivo PNG diretamente na mesma pasta dos seus dados gerados
-    nome_grafico = os.path.join(CAMINHO_PASTA, "boxplot_comparativo_metricas.png")
+    # Salva o arquivo PNG na pasta definida no config.json
+    nome_grafico = os.path.join(OUTPUT_DIR, "boxplot_comparativo_metricas.png")
     plt.savefig(nome_grafico, dpi=300)
     print(f"[Gráficos] Gráfico Boxplot salvo com sucesso em: {nome_grafico}")
     

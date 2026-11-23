@@ -1,0 +1,42 @@
+################################################################################
+Resultados da Análise Léxica e de Estilo (Redação Original versus Redação Sintética)
+################################################################################
+
+Grupo 1 (15 pares)
+
+Estatísticas do Grupo 1:
+  Média da Diversidade Lexical (Original / Sintética): 0.6199 / 0.6379
+  Desvio Padrão da Diversidade Lexical (Original / Sintética): 0.0514 / 0.0250
+  Mediana da Diversidade Lexical (Original / Sintética): 0.6103 / 0.6382
+  Média da Complexidade Léxica (Original / Sintética): 0.3326 / 0.4546
+  Desvio Padrão da Complexidade Léxica (Original / Sintética): 0.0287 / 0.0125
+  Mediana da Complexidade Léxica (Original / Sintética): 0.3333 / 0.4538
+  Média da Subjetividade (Original / Sintética): 0.4280 / 0.4394
+  Desvio Padrão da Subjetividade (Original / Sintética): 0.0467 / 0.0268
+  Mediana da Subjetividade (Original / Sintética): 0.4262 / 0.4434
+
+Grupo 2 (10 pares)
+
+Estatísticas do Grupo 2:
+  Média da Diversidade Lexical (Original / Sintética): 0.5983 / 0.6362
+  Desvio Padrão da Diversidade Lexical (Original / Sintética): 0.0379 / 0.0199
+  Mediana da Diversidade Lexical (Original / Sintética): 0.6056 / 0.6363
+  Média da Complexidade Léxica (Original / Sintética): 0.3137 / 0.4511
+  Desvio Padrão da Complexidade Léxica (Original / Sintética): 0.0334 / 0.0156
+  Mediana da Complexidade Léxica (Original / Sintética): 0.3281 / 0.4464
+  Média da Subjetividade (Original / Sintética): 0.4611 / 0.4206
+  Desvio Padrão da Subjetividade (Original / Sintética): 0.0265 / 0.0340
+  Mediana da Subjetividade (Original / Sintética): 0.4592 / 0.4292
+
+================================================================================
+Estatísticas Globais (Todas as Redações Analisadas)
+================================================================================
+Média da Diversidade Lexical Total (Original / Sintética): 0.6113 / 0.6372
+Desvio Padrão da Diversidade Lexical Total (Original / Sintética): 0.0476 / 0.0231
+Mediana da Diversidade Lexical Total (Original / Sintética): 0.6076 / 0.6366
+Média da Complexidade Léxica Total (Original / Sintética): 0.3251 / 0.4532
+Desvio Padrão da Complexidade Léxica Total (Original / Sintética): 0.0320 / 0.0140
+Mediana da Complexidade Léxica Total (Original / Sintética): 0.3283 / 0.4525
+Média da Subjetividade Total (Original / Sintética): 0.4412 / 0.4319
+Desvio Padrão da Subjetividade Total (Original / Sintética): 0.0431 / 0.0313
+Mediana da Subjetividade Total (Original / Sintética): 0.4395 / 0.4301
