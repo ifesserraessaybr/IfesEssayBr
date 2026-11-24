@@ -9,6 +9,9 @@
     "strategy 1 - generate_mistral_metrics - synthetic_essays": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
     "strategy 1 - generate_mistral_metrics - results": "dataset/TopicAlignment/Strategy1/results/mistral_evaluations",
 
+    "strategy 1 - generate_gemini_flash_essays - in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
+    "strategy 1 - generate_gemini_flash_essays - out": "dataset/TopicAlignment/Strategy1/synthetic_essays/gemini_flash_essays",
+
     "strategy 2 - generate_gemini_flash-lite - json_dataset_in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
     "strategy 2 - generate_gemini_flash-lite - xml_dataset_in": "dataset/TopicAlignment/aes-pt/data/data",
     "strategy 2 - generate_gemini_flash-lite - out": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash_lite",

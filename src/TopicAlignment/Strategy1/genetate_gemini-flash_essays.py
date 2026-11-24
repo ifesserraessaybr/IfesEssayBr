@@ -3,7 +3,8 @@ import json
 import time
 import random
 from datetime import datetime
-import requests
+from google import genai
+from google.genai import types
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -19,6 +20,7 @@ load_dotenv(BASE_DIR / ".env")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("A variável GEMINI_API_KEY não foi encontrada no arquivo .env!")
+client = genai.Client(api_key=GEMINI_API_KEY)
 MODELO = 'gemini-3.5-flash'
 
 # Carrega as configurações
@@ -26,8 +28,8 @@ ARQUIVO_CONFIG = BASE_DIR / "config.json"
 with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
     CONFIG = json.load(arq)
 
-PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["generate_mistral_essays - in"]).resolve()
-PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["generate_mistral_essays - out"]).resolve()
+PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["strategy 1 - generate_gemini_flash_essays - in"]).resolve()
+PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["strategy 1 - generate_gemini_flash_essays - out"]).resolve()
 
 # Faixas de nota que serão geradas (a faixa "excelente" acima de 800 não é gerada,
 # pois você já possui esses exemplos)
@@ -88,6 +90,34 @@ Forneça apenas o texto da redação."""
 # Geração via API Mistral
 # ============================================================
 def gerar_redacao_api(comando, angulo, faixa_info):
+    prompt = criar_prompt(comando, angulo, faixa_info)
+    
+    for tentativa in range(5):
+        try:
+            resposta = client.models.generate_content(
+                model=MODELO,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction="Você é um assistente que escreve redações do ENEM com o nível de qualidade solicitado.",
+                    temperature=faixa_info["temperatura"],
+                    top_p=0.9,
+                    max_output_tokens=2000,
+                )
+            )
+            return resposta.text.strip()
+        except Exception as e:
+            erro_msg = str(e)
+            if "429" in erro_msg or "RESOURCE_EXHAUSTED" in erro_msg:
+                print("  ⏳ Cota atingida (429). Aguardando 30s antes de tentar novamente...")
+                time.sleep(30)
+            else:
+                print(f"  ❌ Erro na API Gemini (tentativa {tentativa + 1}): {e}")
+                time.sleep(5)
+                
+    return "[ERRO NA API]"
+
+'''
+def gerar_redacao_api(comando, angulo, faixa_info):
     url = "https://api.mistral.ai/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {GEMINI_API_KEY}",
@@ -117,6 +147,7 @@ def gerar_redacao_api(comando, angulo, faixa_info):
     except Exception as e:
         print(f"  ❌ Exceção: {e}")
         return "[ERRO NA API]"
+'''
 
 # ============================================================
 # Extrair comando temático do JSON (mantida)
