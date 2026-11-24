@@ -307,13 +307,13 @@ def main():
     with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
         CONFIG = json.load(arq)
 
-    NATURAL_ROOT = (BASE_DIR / CONFIG["generate_mistral_metrics - grounded"]).resolve() #r"C:\Users\AdminUser\Documents\IC\gpt4TurboOneshot"
-    SINTETICO_ROOT = (BASE_DIR / CONFIG["generate_mistral_metrics - synthetic_essays"]).resolve() #r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"
+    NATURAL_ROOT = (BASE_DIR / CONFIG["strategy 1 - generate_mistral_metrics - grounded"]).resolve() #r"C:\Users\AdminUser\Documents\IC\gpt4TurboOneshot"
+    SINTETICO_ROOT = (BASE_DIR / CONFIG["strategy 1 - generate_mistral_metrics - synthetic_essays"]).resolve() #r"C:\Users\AdminUser\Documents\IC\redacoesSinteticas"
     DOMINIOS = ['alta', 'media', 'baixa']
     N_AMOSTRA = 30
     SEED = 42
 
-    RESULTADOS_DIR = (BASE_DIR / CONFIG["generate_mistral_metrics - results"]).resolve() #r"C:\Users\AdminUser\Documents\IC\resultados_analise"
+    RESULTADOS_DIR = (BASE_DIR / CONFIG["strategy 1 - generate_mistral_metrics - results"]).resolve() #r"C:\Users\AdminUser\Documents\IC\resultados_analise"
     os.makedirs(RESULTADOS_DIR, exist_ok=True)
 
     print("\n=== 1. Pareando documentos ===")

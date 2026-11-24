@@ -27,9 +27,9 @@ with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
     CONFIG = json.load(arq)
 
 # Configuração das pastas
-PASTA_ENTRADA_JSON = (BASE_DIR / CONFIG["generate_gemini_flash - json_dataset_in"]).resolve()
-PASTA_ENTRADA_XML = (BASE_DIR / CONFIG["generate_gemini_flash - xml_dataset_in"]).resolve()
-PASTA_SAIDA = (BASE_DIR / CONFIG["generate_gemini_flash - out"]).resolve()
+PASTA_ENTRADA_JSON = (BASE_DIR / CONFIG["strategy 2 - generate_gemini_flash - json_dataset_in"]).resolve()
+PASTA_ENTRADA_XML = (BASE_DIR / CONFIG["strategy 2 - generate_gemini_flash - xml_dataset_in"]).resolve()
+PASTA_SAIDA = (BASE_DIR / CONFIG["strategy 2 - generate_gemini_flash - out"]).resolve()
 ARQUIVO_PROCESSADOS = PASTA_SAIDA / "processados.txt"
 
 os.makedirs(PASTA_SAIDA, exist_ok=True)

@@ -26,8 +26,8 @@ ARQUIVO_CONFIG = BASE_DIR / "config.json"
 with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
     CONFIG = json.load(arq)
 
-PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["generate_mistral_essays - in"]).resolve()
-PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["generate_mistral_essays - out"]).resolve()
+PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["strategy 1 - generate_mistral_essays - in"]).resolve()
+PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["strategy 1 - generate_mistral_essays - out"]).resolve()
 
 # Faixas de nota que serão geradas (a faixa "excelente" acima de 800 não é gerada,
 # pois você já possui esses exemplos)

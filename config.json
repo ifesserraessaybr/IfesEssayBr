@@ -1,27 +1,27 @@
 {
-    "generate_mistral_alignment - in": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
-    "generate_mistral_alignment - out": "dataset/TopicAlignment/Strategy1/mapping/mistral_mapping",
+    "strategy 1 - generate_mistral_alignment - in": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
+    "strategy 1 - generate_mistral_alignment - out": "dataset/TopicAlignment/Strategy1/mapping/mistral_mapping",
 
-    "generate_mistral_essays - in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
-    "generate_mistral_essays - out": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
+    "strategy 1 - generate_mistral_essays - in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
+    "strategy 1 - generate_mistral_essays - out": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
 
-    "generate_mistral_metrics - grounded": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
-    "generate_mistral_metrics - synthetic_essays": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
-    "generate_mistral_metrics - results": "dataset/TopicAlignment/Strategy1/results/mistral_evaluations",
+    "strategy 1 - generate_mistral_metrics - grounded": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
+    "strategy 1 - generate_mistral_metrics - synthetic_essays": "dataset/TopicAlignment/Strategy1/synthetic_essays/mistral_essays",
+    "strategy 1 - generate_mistral_metrics - results": "dataset/TopicAlignment/Strategy1/results/mistral_evaluations",
 
-    "generate_gemini_flash-lite - json_dataset_in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
-    "generate_gemini_flash-lite - xml_dataset_in": "dataset/TopicAlignment/aes-pt/data/data",
-    "generate_gemini_flash-lite - out": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash_lite",
+    "strategy 2 - generate_gemini_flash-lite - json_dataset_in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
+    "strategy 2 - generate_gemini_flash-lite - xml_dataset_in": "dataset/TopicAlignment/aes-pt/data/data",
+    "strategy 2 - generate_gemini_flash-lite - out": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash_lite",
 
-    "generate_gemini_flash - json_dataset_in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
-    "generate_gemini_flash - xml_dataset_in": "dataset/TopicAlignment/aes-pt/data/data",
-    "generate_gemini_flash - out": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash",
+    "strategy 2 - generate_gemini_flash - json_dataset_in": "dataset/TopicAlignment/json_dataset/gpt4TurboOneshot",
+    "strategy 2 - generate_gemini_flash - xml_dataset_in": "dataset/TopicAlignment/aes-pt/data/data",
+    "strategy 2 - generate_gemini_flash - out": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash",
 
-    "eval_gemini_flash - in": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash",
-    "eval_gemini_flash - out": "dataset/TopicAlignment/Strategy2/results/gemini_flash_evaluations",
+    "strategy 2 - eval_gemini_flash - in": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash",
+    "strategy 2 - eval_gemini_flash - out": "dataset/TopicAlignment/Strategy2/results/gemini_flash_evaluations",
 
-    "eval_gemini_flash-lite - in": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash_lite",
-    "eval_gemini_flash-lite - out": "dataset/TopicAlignment/Strategy2/results/gemini_flash_lite_evaluations",
+    "strategy 2 - eval_gemini_flash-lite - in": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash_lite",
+    "strategy 2 - eval_gemini_flash-lite - out": "dataset/TopicAlignment/Strategy2/results/gemini_flash_lite_evaluations",
 
     "inspect_dataset - in": "dataset/TopicAlignment/json_dataset/QwenOneshot",
     "inspect_dataset - out": "dataset/TopicAlignment/json_dataset/dataset_inspection/QwenOneshot.txt",

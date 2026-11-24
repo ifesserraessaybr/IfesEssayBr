@@ -46,12 +46,12 @@ ARQUIVO_CONFIG = BASE_DIR / "config.json"
 with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
     CONFIG = json.load(arq)
 
-OUTPUT_DIR = (BASE_DIR / CONFIG["eval_gemini_flash - out"]).resolve()
+OUTPUT_DIR = (BASE_DIR / CONFIG["strategy 2 - eval_gemini_flash - out"]).resolve()
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 ARQUIVO_TXT_PROGRESSO = os.path.join(OUTPUT_DIR, "progresso_subjetividade.txt")
 ARQUIVO_RELATORIO_FINAL = os.path.join(OUTPUT_DIR, "relatorio_final.txt")
-CAMINHO_PASTA = (BASE_DIR / CONFIG["eval_gemini_flash - in"]).resolve()
+CAMINHO_PASTA = (BASE_DIR / CONFIG["strategy 2 - eval_gemini_flash - in"]).resolve()
 
 # Inicialização do pipeline de classificação de estilo
 analisador_subjetividade = pipeline(

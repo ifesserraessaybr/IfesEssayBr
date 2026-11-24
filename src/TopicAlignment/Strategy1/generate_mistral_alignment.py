@@ -27,8 +27,8 @@ ARQUIVO_CONFIG = BASE_DIR / "config.json"
 with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
     CONFIG = json.load(arq)
 
-PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["generate_mistral_alignment - in"]).resolve()
-PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["generate_mistral_alignment - out"]).resolve()
+PASTA_BASE_ENTRADA = (BASE_DIR / CONFIG["strategy 1 - generate_mistral_alignment - in"]).resolve()
+PASTA_BASE_SAIDA = (BASE_DIR / CONFIG["strategy 1 - generate_mistral_alignment - out"]).resolve()
 
 DELAY_SEGUNDOS = 0.5     # pausa entre análises de frases
 
