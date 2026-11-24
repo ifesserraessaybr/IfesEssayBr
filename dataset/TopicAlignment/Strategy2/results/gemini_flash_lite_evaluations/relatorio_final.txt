@@ -1,0 +1,233 @@
+################################################################################
+Resultados da Análise Léxica e de Estilo (Original versus Flash Lite)
+################################################################################
+
+Grupo 1 (15 pares)
+Par 1 - Nome do Arquivo: ate-onde-vai-o-limite-para-um-protesto_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5574 / Complexidade Léxica: 0.3142 / Subjetividade: 0.4597 (Neutralidade: 0.5403)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6313 / Complexidade Léxica: 0.4469 / Subjetividade: 0.4415 (Neutralidade: 0.5585)
+Par 2 - Nome do Arquivo: a-populacao-pede-socorro_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6061 / Complexidade Léxica: 0.3603 / Subjetividade: 0.4665 (Neutralidade: 0.5335)
+  Redação Sintética - Diversidade Lexical (TTR): 0.7732 / Complexidade Léxica: 0.4330 / Subjetividade: 0.3891 (Neutralidade: 0.6109)
+Par 3 - Nome do Arquivo: o-cruel-jogo-da-trash-food-no-brasil-imediatista_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5842 / Complexidade Léxica: 0.2730 / Subjetividade: 0.5111
+  Redação Sintética - Diversidade Lexical (TTR): 0.8353 / Complexidade Léxica: 0.5059 / Subjetividade: 0.4301 (Neutralidade: 0.5699)
+Par 4 - Nome do Arquivo: e-mais-facil-comer-o-problema-do-que-acabar-com-ele_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5019 / Complexidade Léxica: 0.2201 / Subjetividade: 0.4920 (Neutralidade: 0.5080)
+  Redação Sintética - Diversidade Lexical (TTR): 0.7099 / Complexidade Léxica: 0.4885 / Subjetividade: 0.3671 (Neutralidade: 0.6329)
+Par 5 - Nome do Arquivo: tudo-comeca-quando-crianca_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5966 / Complexidade Léxica: 0.3034 / Subjetividade: 0.4540 (Neutralidade: 0.5460)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6382 / Complexidade Léxica: 0.4599 / Subjetividade: 0.4823 (Neutralidade: 0.5177)
+Par 6 - Nome do Arquivo: atos-de-selvageria_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6534 / Complexidade Léxica: 0.3466 / Subjetividade: 0.4119 (Neutralidade: 0.5881)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6364 / Complexidade Léxica: 0.4617 / Subjetividade: 0.3684 (Neutralidade: 0.6316)
+Par 7 - Nome do Arquivo: remediar-a-automedicacao-a-melhor-prevencao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6212 / Complexidade Léxica: 0.3174 / Subjetividade: 0.4569 (Neutralidade: 0.5431)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6693 / Complexidade Léxica: 0.4280 / Subjetividade: 0.3726 (Neutralidade: 0.6274)
+Par 8 - Nome do Arquivo: responsabilidade-de-todos_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6460 / Complexidade Léxica: 0.2920 / Subjetividade: 0.5004
+  Redação Sintética - Diversidade Lexical (TTR): 0.6415 / Complexidade Léxica: 0.4178 / Subjetividade: 0.4916 (Neutralidade: 0.5084)
+Par 9 - Nome do Arquivo: o-melhor-remedio---consultar-o-medico_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6035 / Complexidade Léxica: 0.2203 / Subjetividade: 0.4823 (Neutralidade: 0.5177)
+  Redação Sintética - Diversidade Lexical (TTR): 0.7087 / Complexidade Léxica: 0.4685 / Subjetividade: 0.3558 (Neutralidade: 0.6442)
+Par 10 - Nome do Arquivo: manifestantes-x-policiais-expressao-ou-repressao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6322 / Complexidade Léxica: 0.3283 / Subjetividade: 0.4302 (Neutralidade: 0.5698)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6419 / Complexidade Léxica: 0.4578 / Subjetividade: 0.4517 (Neutralidade: 0.5483)
+Par 11 - Nome do Arquivo: alianca-entre-governo-e-familia_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6935 / Complexidade Léxica: 0.4032 / Subjetividade: 0.3920 (Neutralidade: 0.6080)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6146 / Complexidade Léxica: 0.4505 / Subjetividade: 0.4488 (Neutralidade: 0.5512)
+Par 12 - Nome do Arquivo: por-bem-fazer-mal-haver_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5803 / Complexidade Léxica: 0.3738 / Subjetividade: 0.4173 (Neutralidade: 0.5827)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6551 / Complexidade Léxica: 0.4321 / Subjetividade: 0.4208 (Neutralidade: 0.5792)
+Par 13 - Nome do Arquivo: em-busca-de-uma-vida-saudavel_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6052 / Complexidade Léxica: 0.3269 / Subjetividade: 0.4040 (Neutralidade: 0.5960)
+  Redação Sintética - Diversidade Lexical (TTR): 0.8312 / Complexidade Léxica: 0.4805 / Subjetividade: 0.4525 (Neutralidade: 0.5475)
+Par 14 - Nome do Arquivo: os-sintomas-de-um-pais-despreocupado_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6235 / Complexidade Léxica: 0.3529 / Subjetividade: 0.4875 (Neutralidade: 0.5125)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6647 / Complexidade Léxica: 0.4441 / Subjetividade: 0.3692 (Neutralidade: 0.6308)
+Par 15 - Nome do Arquivo: definicao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6400 / Complexidade Léxica: 0.3150 / Subjetividade: 0.4788 (Neutralidade: 0.5212)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6919 / Complexidade Léxica: 0.4394 / Subjetividade: 0.4377 (Neutralidade: 0.5623)
+
+Estatísticas do Grupo 1:
+  Média da Diversidade Lexical (Original / Sintética): 0.6097 / 0.6895
+  Desvio Padrão da Diversidade Lexical (Original / Sintética): 0.0433 / 0.0685
+  Mediana da Diversidade Lexical (Original / Sintética): 0.6061 / 0.6647
+  Média da Complexidade Léxica (Original / Sintética): 0.3165 / 0.4543
+  Desvio Padrão da Complexidade Léxica (Original / Sintética): 0.0493 / 0.0234
+  Mediana da Complexidade Léxica (Original / Sintética): 0.3174 / 0.4505
+  Média da Subjetividade (Original / Sintética): 0.4563 / 0.4186
+  Desvio Padrão da Subjetividade (Original / Sintética): 0.0361 / 0.0433
+  Mediana da Subjetividade (Original / Sintética): 0.4597 / 0.4301
+
+Grupo 2 (15 pares)
+Par 1 - Nome do Arquivo: modernidade-um-prejuizo-a-saude_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6124 / Complexidade Léxica: 0.3445 / Subjetividade: 0.4147 (Neutralidade: 0.5853)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6352 / Complexidade Léxica: 0.4541 / Subjetividade: 0.4261 (Neutralidade: 0.5739)
+Par 2 - Nome do Arquivo: automedicacao-o-risco-a-saude-x-saude-precaria_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.7268 / Complexidade Léxica: 0.3814 / Subjetividade: 0.3792 (Neutralidade: 0.6208)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6769 / Complexidade Léxica: 0.4646 / Subjetividade: 0.3698 (Neutralidade: 0.6302)
+Par 3 - Nome do Arquivo: obesidade-infantil-quem-deve-combate-la_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6920 / Complexidade Léxica: 0.3249 / Subjetividade: 0.3320 (Neutralidade: 0.6680)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6215 / Complexidade Léxica: 0.4629 / Subjetividade: 0.3701 (Neutralidade: 0.6299)
+Par 4 - Nome do Arquivo: automedicacao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6720 / Complexidade Léxica: 0.2688 / Subjetividade: 0.3878 (Neutralidade: 0.6122)
+  Redação Sintética - Diversidade Lexical (TTR): 0.9048 / Complexidade Léxica: 0.4921 / Subjetividade: 0.4208 (Neutralidade: 0.5792)
+Par 5 - Nome do Arquivo: automedicacao-uma-pratica-tao-banal_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6415 / Complexidade Léxica: 0.3208 / Subjetividade: 0.4321 (Neutralidade: 0.5679)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6540 / Complexidade Léxica: 0.4540 / Subjetividade: 0.4249 (Neutralidade: 0.5751)
+Par 6 - Nome do Arquivo: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6872 / Complexidade Léxica: 0.3631 / Subjetividade: 0.4136 (Neutralidade: 0.5864)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6401 / Complexidade Léxica: 0.4698 / Subjetividade: 0.4255 (Neutralidade: 0.5745)
+Par 7 - Nome do Arquivo: o-poder-de-influencia-na-escolha-alimentar_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.4958 / Complexidade Léxica: 0.2773 / Subjetividade: 0.4262 (Neutralidade: 0.5738)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6359 / Complexidade Léxica: 0.4421 / Subjetividade: 0.4631 (Neutralidade: 0.5369)
+Par 8 - Nome do Arquivo: os-tenis-idealizados_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5769 / Complexidade Léxica: 0.3301 / Subjetividade: 0.4472 (Neutralidade: 0.5528)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6285 / Complexidade Léxica: 0.4427 / Subjetividade: 0.4613 (Neutralidade: 0.5387)
+Par 9 - Nome do Arquivo: automedicacao-solucao-mascarada_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5719 / Complexidade Léxica: 0.3039 / Subjetividade: 0.4327 (Neutralidade: 0.5673)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6384 / Complexidade Léxica: 0.4350 / Subjetividade: 0.3996 (Neutralidade: 0.6004)
+Par 10 - Nome do Arquivo: excesso-de-autoridade_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6103 / Complexidade Léxica: 0.3521 / Subjetividade: 0.5157
+  Redação Sintética - Diversidade Lexical (TTR): 0.6601 / Complexidade Léxica: 0.4494 / Subjetividade: 0.4454 (Neutralidade: 0.5546)
+Par 11 - Nome do Arquivo: o-problema-da-automedicacao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6631 / Complexidade Léxica: 0.2834 / Subjetividade: 0.3597 (Neutralidade: 0.6403)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6455 / Complexidade Léxica: 0.4474 / Subjetividade: 0.4047 (Neutralidade: 0.5953)
+Par 12 - Nome do Arquivo: policia-repressora-ou-pacificadora_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6667 / Complexidade Léxica: 0.3562 / Subjetividade: 0.4583 (Neutralidade: 0.5417)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6488 / Complexidade Léxica: 0.4911 / Subjetividade: 0.4112 (Neutralidade: 0.5888)
+Par 13 - Nome do Arquivo: automedicacao-amiga-ou-vila_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5573 / Complexidade Léxica: 0.2817 / Subjetividade: 0.4874 (Neutralidade: 0.5126)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6381 / Complexidade Léxica: 0.4370 / Subjetividade: 0.4396 (Neutralidade: 0.5604)
+Par 14 - Nome do Arquivo: todos-por-um_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5563 / Complexidade Léxica: 0.2993 / Subjetividade: 0.4129 (Neutralidade: 0.5871)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6281 / Complexidade Léxica: 0.4483 / Subjetividade: 0.3307 (Neutralidade: 0.6693)
+Par 15 - Nome do Arquivo: prevenir-e-conscientizar_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6447 / Complexidade Léxica: 0.3299 / Subjetividade: 0.4262 (Neutralidade: 0.5738)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6435 / Complexidade Léxica: 0.4318 / Subjetividade: 0.4151 (Neutralidade: 0.5849)
+
+Estatísticas do Grupo 2:
+  Média da Diversidade Lexical (Original / Sintética): 0.6250 / 0.6600
+  Desvio Padrão da Diversidade Lexical (Original / Sintética): 0.0612 / 0.0668
+  Mediana da Diversidade Lexical (Original / Sintética): 0.6415 / 0.6401
+  Média da Complexidade Léxica (Original / Sintética): 0.3212 / 0.4548
+  Desvio Padrão da Complexidade Léxica (Original / Sintética): 0.0334 / 0.0178
+  Mediana da Complexidade Léxica (Original / Sintética): 0.3249 / 0.4494
+  Média da Subjetividade (Original / Sintética): 0.4217 / 0.4139
+  Desvio Padrão da Subjetividade (Original / Sintética): 0.0451 / 0.0345
+  Mediana da Subjetividade (Original / Sintética): 0.4262 / 0.4208
+
+Grupo 3 (15 pares)
+Par 1 - Nome do Arquivo: fast-food-da-morte_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6538 / Complexidade Léxica: 0.3132 / Subjetividade: 0.4184 (Neutralidade: 0.5816)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6768 / Complexidade Léxica: 0.4724 / Subjetividade: 0.4286 (Neutralidade: 0.5714)
+Par 2 - Nome do Arquivo: a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6597 / Complexidade Léxica: 0.3194 / Subjetividade: 0.3298 (Neutralidade: 0.6702)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6268 / Complexidade Léxica: 0.4593 / Subjetividade: 0.4319 (Neutralidade: 0.5681)
+Par 3 - Nome do Arquivo: imediata_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.7055 / Complexidade Léxica: 0.2945 / Subjetividade: 0.3563 (Neutralidade: 0.6437)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6243 / Complexidade Léxica: 0.4550 / Subjetividade: 0.4456 (Neutralidade: 0.5544)
+Par 4 - Nome do Arquivo: automedicacao-uma-pratica-perigosa_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6456 / Complexidade Léxica: 0.3398 / Subjetividade: 0.4408 (Neutralidade: 0.5592)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6710 / Complexidade Léxica: 0.4621 / Subjetividade: 0.4152 (Neutralidade: 0.5848)
+Par 5 - Nome do Arquivo: os-riscos-da-automedicacao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6880 / Complexidade Léxica: 0.3609 / Subjetividade: 0.4157 (Neutralidade: 0.5843)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6458 / Complexidade Léxica: 0.4196 / Subjetividade: 0.4370 (Neutralidade: 0.5630)
+Par 6 - Nome do Arquivo: despreparacao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5922 / Complexidade Léxica: 0.3333 / Subjetividade: 0.4617 (Neutralidade: 0.5383)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6209 / Complexidade Léxica: 0.4514 / Subjetividade: 0.4690 (Neutralidade: 0.5310)
+Par 7 - Nome do Arquivo: sem-titulo-_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6927 / Complexidade Léxica: 0.3352 / Subjetividade: 0.4155 (Neutralidade: 0.5845)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6621 / Complexidade Léxica: 0.4241 / Subjetividade: 0.4495 (Neutralidade: 0.5505)
+Par 8 - Nome do Arquivo: a-inseguranca-publica_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6047 / Complexidade Léxica: 0.3162 / Subjetividade: 0.4712 (Neutralidade: 0.5288)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6639 / Complexidade Léxica: 0.4563 / Subjetividade: 0.4648 (Neutralidade: 0.5352)
+Par 9 - Nome do Arquivo: uma-conquista-moderna_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6504 / Complexidade Léxica: 0.3618 / Subjetividade: 0.4733 (Neutralidade: 0.5267)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6753 / Complexidade Léxica: 0.4123 / Subjetividade: 0.5345
+Par 10 - Nome do Arquivo: a-discriminacao-da-automedicacao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6327 / Complexidade Léxica: 0.3265 / Subjetividade: 0.5053
+  Redação Sintética - Diversidade Lexical (TTR): 0.7006 / Complexidade Léxica: 0.4259 / Subjetividade: 0.3926 (Neutralidade: 0.6074)
+Par 11 - Nome do Arquivo: alimentar_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6626 / Complexidade Léxica: 0.3086 / Subjetividade: 0.4000 (Neutralidade: 0.6000)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6283 / Complexidade Léxica: 0.4712 / Subjetividade: 0.4170 (Neutralidade: 0.5830)
+Par 12 - Nome do Arquivo: um-problema-evidente_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5976 / Complexidade Léxica: 0.3171 / Subjetividade: 0.6039
+  Redação Sintética - Diversidade Lexical (TTR): 0.6482 / Complexidade Léxica: 0.4709 / Subjetividade: 0.4342 (Neutralidade: 0.5658)
+Par 13 - Nome do Arquivo: o-futuro-de-seus-filhos_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5955 / Complexidade Léxica: 0.3301 / Subjetividade: 0.4799 (Neutralidade: 0.5201)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6174 / Complexidade Léxica: 0.4433 / Subjetividade: 0.4802 (Neutralidade: 0.5198)
+Par 14 - Nome do Arquivo: e-tempo-da-reeducacao-alimentar_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5781 / Complexidade Léxica: 0.2890 / Subjetividade: 0.4681 (Neutralidade: 0.5319)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6706 / Complexidade Léxica: 0.4169 / Subjetividade: 0.4449 (Neutralidade: 0.5551)
+Par 15 - Nome do Arquivo: nao-existem-culpados_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5681 / Complexidade Léxica: 0.2749 / Subjetividade: 0.4447 (Neutralidade: 0.5553)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6444 / Complexidade Léxica: 0.4822 / Subjetividade: 0.4615 (Neutralidade: 0.5385)
+
+Estatísticas do Grupo 3:
+  Média da Diversidade Lexical (Original / Sintética): 0.6351 / 0.6518
+  Desvio Padrão da Diversidade Lexical (Original / Sintética): 0.0421 / 0.0241
+  Mediana da Diversidade Lexical (Original / Sintética): 0.6456 / 0.6482
+  Média da Complexidade Léxica (Original / Sintética): 0.3214 / 0.4482
+  Desvio Padrão da Complexidade Léxica (Original / Sintética): 0.0234 / 0.0222
+  Mediana da Complexidade Léxica (Original / Sintética): 0.3194 / 0.4550
+  Média da Subjetividade (Original / Sintética): 0.4456 / 0.4471
+  Desvio Padrão da Subjetividade (Original / Sintética): 0.0622 / 0.0321
+  Mediana da Subjetividade (Original / Sintética): 0.4447 / 0.4449
+
+Grupo 4 (10 pares)
+Par 1 - Nome do Arquivo: ja_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6076 / Complexidade Léxica: 0.3634 / Subjetividade: 0.3840 (Neutralidade: 0.6160)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6303 / Complexidade Léxica: 0.4566 / Subjetividade: 0.4435 (Neutralidade: 0.5565)
+Par 2 - Nome do Arquivo: o-costume-brasileiro_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6687 / Complexidade Léxica: 0.2761 / Subjetividade: 0.3891 (Neutralidade: 0.6109)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6599 / Complexidade Léxica: 0.4509 / Subjetividade: 0.4349 (Neutralidade: 0.5651)
+Par 3 - Nome do Arquivo: auto-medicacao-automedicacao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6824 / Complexidade Léxica: 0.3353 / Subjetividade: 0.3383 (Neutralidade: 0.6617)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6698 / Complexidade Léxica: 0.4465 / Subjetividade: 0.3938 (Neutralidade: 0.6062)
+Par 4 - Nome do Arquivo: a-democracia-mascarada-por-interesses_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5831 / Complexidade Léxica: 0.3324 / Subjetividade: 0.4866 (Neutralidade: 0.5134)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6241 / Complexidade Léxica: 0.4627 / Subjetividade: 0.4230 (Neutralidade: 0.5770)
+Par 5 - Nome do Arquivo: automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5875 / Complexidade Léxica: 0.2805 / Subjetividade: 0.4383 (Neutralidade: 0.5617)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6734 / Complexidade Léxica: 0.4141 / Subjetividade: 0.3993 (Neutralidade: 0.6007)
+Par 6 - Nome do Arquivo: os-sintomas-de-um-grande-problema_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.5957 / Complexidade Léxica: 0.3404 / Subjetividade: 0.4280 (Neutralidade: 0.5720)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6435 / Complexidade Léxica: 0.4262 / Subjetividade: 0.4049 (Neutralidade: 0.5951)
+Par 7 - Nome do Arquivo: escolha-alimentar-uma-responsabilidade-geral_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6151 / Complexidade Léxica: 0.3333 / Subjetividade: 0.4411 (Neutralidade: 0.5589)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6737 / Complexidade Léxica: 0.4491 / Subjetividade: 0.4340 (Neutralidade: 0.5660)
+Par 8 - Nome do Arquivo: nos-quarteis-lhes-ensinam-matar-sem-razao_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6233 / Complexidade Léxica: 0.3279 / Subjetividade: 0.4249 (Neutralidade: 0.5751)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6285 / Complexidade Léxica: 0.4497 / Subjetividade: 0.4365 (Neutralidade: 0.5635)
+Par 9 - Nome do Arquivo: alimentacao-tem-limite_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6126 / Complexidade Léxica: 0.3243 / Subjetividade: 0.4395 (Neutralidade: 0.5605)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6842 / Complexidade Léxica: 0.4768 / Subjetividade: 0.3824 (Neutralidade: 0.6176)
+Par 10 - Nome do Arquivo: treinamento-para-a-paz_gerado.json
+  Redação Original  - Diversidade Lexical (TTR): 0.6311 / Complexidade Léxica: 0.2933 / Subjetividade: 0.4363 (Neutralidade: 0.5637)
+  Redação Sintética - Diversidade Lexical (TTR): 0.6244 / Complexidade Léxica: 0.4437 / Subjetividade: 0.4089 (Neutralidade: 0.5911)
+
+Estatísticas do Grupo 4:
+  Média da Diversidade Lexical (Original / Sintética): 0.6207 / 0.6512
+  Desvio Padrão da Diversidade Lexical (Original / Sintética): 0.0310 / 0.0223
+  Mediana da Diversidade Lexical (Original / Sintética): 0.6139 / 0.6517
+  Média da Complexidade Léxica (Original / Sintética): 0.3207 / 0.4476
+  Desvio Padrão da Complexidade Léxica (Original / Sintética): 0.0267 / 0.0166
+  Mediana da Complexidade Léxica (Original / Sintética): 0.3302 / 0.4494
+  Média da Subjetividade (Original / Sintética): 0.4206 / 0.4161
+  Desvio Padrão da Subjetividade (Original / Sintética): 0.0386 / 0.0200
+  Mediana da Subjetividade (Original / Sintética): 0.4322 / 0.4160
+
+================================================================================
+Estatísticas Globais (Todas as Redações Analisadas - Flash Lite)
+================================================================================
+Média da Diversidade Lexical Total (Original / Sintética): 0.6228 / 0.6642
+Desvio Padrão da Diversidade Lexical Total (Original / Sintética): 0.0478 / 0.0547
+Mediana da Diversidade Lexical Total (Original / Sintética): 0.6212 / 0.6458
+Média da Complexidade Léxica Total (Original / Sintética): 0.3199 / 0.4516
+Desvio Padrão da Complexidade Léxica Total (Original / Sintética): 0.0353 / 0.0208
+Mediana da Complexidade Léxica Total (Original / Sintética): 0.3249 / 0.4505
+Média da Subjetividade Total (Original / Sintética): 0.4375 / 0.4246
+Desvio Padrão da Subjetividade Total (Original / Sintética): 0.0497 / 0.0372
+Mediana da Subjetividade Total (Original / Sintética): 0.4363 / 0.4286

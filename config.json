@@ -20,6 +20,9 @@
     "eval_gemini_flash - in": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash",
     "eval_gemini_flash - out": "dataset/TopicAlignment/Strategy2/results/gemini_flash_evaluations",
 
+    "eval_gemini_flash-lite - in": "dataset/TopicAlignment/Strategy2/synthetic_essays/gemini_flash_lite",
+    "eval_gemini_flash-lite - out": "dataset/TopicAlignment/Strategy2/results/gemini_flash_lite_evaluations",
+
     "inspect_dataset - in": "dataset/TopicAlignment/json_dataset/QwenOneshot",
     "inspect_dataset - out": "dataset/TopicAlignment/json_dataset/dataset_inspection/QwenOneshot.txt",
     "inspect_dataset - total files": 285,

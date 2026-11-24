@@ -6,6 +6,7 @@ import time
 import json
 import sys
 import subprocess
+from pathlib import Path
 
 def verificar_e_instalar_dependencias():
     """Verifica se matplotlib e seaborn estão instalados; se não, instala automaticamente."""
@@ -38,13 +39,18 @@ from transformers import pipeline
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Semente
-random.seed(42)
+# Carrega json de configuração e define caminhos de arquivos
+BASE_DIR = Path(__file__).resolve().parents[3]
+ARQUIVO_CONFIG = BASE_DIR / "config.json"
+with ARQUIVO_CONFIG.open("r", encoding="utf-8") as arq:
+    CONFIG = json.load(arq)
 
-# --- Caminhos Ajustados para a pasta Flash Lite ---
-ARQUIVO_TXT_PROGRESSO = "progresso_subjetividade_flash_lite.txt"
-ARQUIVO_RELATORIO_FINAL = "relatorio_final_flash_lite.txt"
-CAMINHO_PASTA = r"C:\Users\joaqu\OneDrive\Desktop\IC\dataset_sintetico_flash_lite"
+OUTPUT_DIR = (BASE_DIR / CONFIG["eval_gemini_flash-lite - out"]).resolve()
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+ARQUIVO_TXT_PROGRESSO = os.path.join(OUTPUT_DIR, "progresso_subjetividade.txt")
+ARQUIVO_RELATORIO_FINAL = os.path.join(OUTPUT_DIR, "relatorio_final.txt")
+CAMINHO_PASTA = (BASE_DIR / CONFIG["eval_gemini_flash-lite - in"]).resolve()
 
 # Inicialização do pipeline de classificação de estilo
 analisador_subjetividade = pipeline(
@@ -177,7 +183,7 @@ def gerar_boxplots_comparativos(ttr_orig, ttr_sint, comp_orig, comp_sint, sub_or
     
     plt.tight_layout()
     
-    nome_grafico = os.path.join(CAMINHO_PASTA, "boxplot_comparativo_flash_lite.png")
+    nome_grafico = os.path.join(OUTPUT_DIR, "boxplot_comparativo_flash_lite.png")
     plt.savefig(nome_grafico, dpi=300)
     print(f"[Gráficos] Gráfico Boxplot salvo com sucesso em: {nome_grafico}")
     
